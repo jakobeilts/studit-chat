@@ -1,0 +1,30 @@
+https://wiki.student.uni-goettingen.de/support/wlan/eduroam_linux
+support:wlan:eduroam_linux [Support studIT - IT-Service für Studierende] zum Inhalt springen Support studIT - IT-Service für Studierende Benutzer-Werkzeuge Anmelden Webseiten-Werkzeuge Suche Werkzeuge Zeige Quelltext Ältere Versionen PDF exportieren ODT exportieren Links hierher Letzte Änderungen Medien-Manager Übersicht Anmelden > Letzte Änderungen Medien-Manager Übersicht Seitenleiste ecampus support univz wiki blog datenschutz pflichtangaben_nach_dsgvo support:wlan:eduroam_linux Inhaltsverzeichnis eduroam unter Linux eduroam CAT Network-Manager Gnome Networkmanager KNetworkManager netcfg wpa_supplicant eduroam unter Linux Die GWDG hat das Radius Zertifikat geändert, unsere Anleitung muss aktualisiert werden. Bitte in der Zwischenzeit diese Anleitung benutzen: https://docs.gwdg.de/doku.php?id=de:services:network_services:eduroam:linux_ubuntu_14.04 Bei der Einrichtung der Verbindung bitte beachten: Der „Benutzername“ ist eure studentische Email-Adresse ! Also bspw. test.test@stud.uni-goettingen.de Im Folgenden wird erklärt, wie Du Dein Linux Notebook  mit dem WPA2 verschlüsselten Netzwerk eduroam verbinden kannst. Die Konfiguration kann mit unterschiedlichen Tools vorgenommen werden. eduroam CAT Am schnellsten geht die Konfiguration über das eduroam CAT (Configuration Assistant Tool) welches hier heruntergeladen werden kann. Das Pythonscript muss über das Terminal ausgeführt werden. Hierzu das Terminal öffnen (STRG+ALT+T) und python3 DATEIPFAD also beispielsweise python3 Downloads/eduroam-linux-GWDG_Goettingen-University_of_Gottingen_and_GWDG.py eingeben. Anschließend die E-Mail Adresse und das Passwort eingeben. Sollte die Meldung „permission denied“ angezeigt werden nachdem man das Pythonscript ausführt, mal sudo python3 DATEIPFAD versuchen und im Anschluss das Passwort für das Benutzerkonto auf dem Endgerät eingeben. Basis Konfiguration Sicherheit: WPA2 Enterprise Legitimierung: Protected EAP (PEAP) Benutzername: vorname.nachname@stud.uni-goettingen.de CA-Zertifikat: T-Telesec Global Root Class 2 Innere Legitimierung: MSCHAPv2 Anonyme Identität: eduroam@gwdg.de Der Benutzername kann je nach Nutzergruppe abweichen. Er entspricht der E-Mail Adresse des Accounts. Network-Manager Der Network-Manager kann die Netzwerkverbindungen bei viele Linux Distributionen verwalten, darunter Ubuntu , Linux Mint , Fedora und openSUSE .
+Die Steuerung erfolgt dabei jeweils über angepasste Benutzeroberflächen. Gnome Networkmanager Zunächst muss das „ eduroam “ aus der Liste der verfügbaren WLAN-Netzwerke ausgewählt werden.
+Die Konfiguration erfolgt dann wie oben bzw. im Bild rechts. Das CA-Zertifikat „T-Telesec Global Root Class 2“ kann sich dabei je nach Distribution an verschiedenen Orten im Dateisystem befinden. Unter Ubuntu ist es beispielsweise unter /etc/ssl/certs/ zu finden.
+Alternativ kann es hier heruntergeladen und dann ausgewählt werden. Benutzername und Passwort müssen entsprechend eingetragen werden und mit einem Klick auf „Verbinden“ wird die Verbindung hergestellt. KNetworkManager Der KNetworkManager verwaltet die Netzwerk unter KDE . Die Einstellungen werden wie oben in der Basis Konfiguration beschrieben bzw wie im Bild rechts dargestellt vorgenommen. Das CA-Zertifikat „T-Telesec Global Root Class 2“ kann sich dabei je nach Distribution an verschiedenen Orten im Dateisystem befinden. Meist ist es bereits installiert und es genügt das Häkcken beim „Use Systems CA Certs“ zu setzen.
+Alternativ kann es hier heruntergeladen und dann ausgewählt werden. Mit einem Klick auf „Ok“ wird die Verbindung gespeichert und hergestellt.
+Eventuell fragt „KWallet“ wie mit den Passwörtern zu verfahren ist. netcfg Als Ausgangspunkt kann die die Beispiel Konfiguration „wireless-wpa-configsectio“ verwendet werden. Die Konfigurationsdatei muss in den meisten fällen nur im Abschnitt „CONFIGSECTION“ geändert werden, er sollte folgenden Werde beinhalten: CONNECTION='wireless'
+INTERFACE=wlan0
+SECURITY='wpa-configsection'
+IP='dhcp'
+CONFIGSECTION='
+    ssid="eduroam"
+    key_mgmt=WPA-EAP
+    ca_cert="/pfad/zum/t_telesec_global_root_class_2.crt"
+    anonymous_identity="eduroam@gwdg.de"
+    identity="vorname.nachname@stud.uni-goettingen.de"
+    password="passwort"
+    phase2="auth=MSCHAPV2"
+' Die Felder password und identity sowie der Pfad zum T-Telesec Global Root Class 2 in ca_cert müssen entsprechend angepasst werden. Die Verbindungsherstellung und die Konfiguration setzt root Rechte vorraus. Das Passwort wird dabei unverschlüsselt auf der Festplatte abgelegt! wpa_supplicant Die Konfiguration und Verbdindungsherstellung erfolgt mir root Rechten und üblicherweise in der Datei „/etc/wpa_supplicant.conf“,
+in welche ein neuer Block wie folgt eingefügt wird. Die Werte für password und identity sowie der Pfad zum Deutsche Telekom Root CA 2 in ca_cert müssen entsprechend geändert werden. network={
+    ssid="eduroam"
+    key_mgmt=WPA-EAP
+    ca_cert="/pfad/zum/deutsche-telekom-root-ca-2.pem"
+    identity="vorname.nachname6@stud.uni-goettingen.de"
+    password="passwort"
+    eap=TTLS
+    proto=WPA
+    anonymous_identity="eduroam@gwdg.de"
+    phase2="auth=MSCHAPV2"
+} Das Passwort wird dabei unverschlüsselt auf der Festplatte abgelegt! Durch den Aufruf mit wpa_supplicant -iwlan0 -Dwext -c/etc/wpa_supplicant.conf kann der Verbindungsaufbau gestartet werden. Dabei verbleibt wpa_supplicant im Vordergrund. Die IP-Adress Konfiguration muss separat vorgenommen werden, beispielsweise durch den Aufruf von dhcpd . WLAN wireless funknetz GWDG eduroam linux ubuntu support/wlan/eduroam_linux.txt · Zuletzt geändert: 08.01.2024 13:39 von strauss Seiten-Werkzeuge Zeige Quelltext Ältere Versionen Links hierher PDF exportieren ODT exportieren Nach oben de en
