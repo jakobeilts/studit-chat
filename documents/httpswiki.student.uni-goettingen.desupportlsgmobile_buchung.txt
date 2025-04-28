@@ -1,0 +1,67 @@
+https://wiki.student.uni-goettingen.de/support/lsg/mobile_buchung
+
+INHALTSVERZEICHNIS
+
+- Mobile LSG/SUB Raumreservierung
+- Info Tab
+- Reservieren TabNeue Reservierung erstellenGemeinsame Reservierung - Einladungen erstellenÄndern einer aktiven Reservierung (Verlängerung des Raums)
+- Neue Reservierung erstellen
+- Gemeinsame Reservierung - Einladungen erstellen
+- Ändern einer aktiven Reservierung (Verlängerung des Raums)
+
+
+MOBILE LSG/SUB RAUMRESERVIERUNG
+
+- Buchung über einen Floating Action Button (FAB)
+- Belegungsübersicht nur für den aktuell ausgewählten Tag
+- Auswahl des Zeitraums interaktiv über die Belegungsübersicht
+- Übersicht aller Reservierungen und Einladungen auf einem Screen
+
+
+INFO TAB
+
+
+Auf dem Info-Screen werden ein Erklärvideo zur Nutzung des LSG sowie allgemeine Infos und Kontaktdaten angezeigt.
+
+
+
+RESERVIEREN TAB
+
+
+Auf dem Reservieren-Screen werden alle bisherigen und zukünftigen Reservierungen dargestellt. Außerdem kann über diesen Tab eine neue Reservierung erstellt werden.
+
+
+
+NEUE RESERVIERUNG ERSTELLEN
+
+
+Eine neue Reservierung erstellen Sie in der mobilen Ansicht über den grünen Floating Action Button (FAB) am unteren rechten Rand des Screens.
+
+
+Nach Tippen auf den FAB entscheiden Sie sich für eine Raum- oder Schließfachreservierung. (Die Wahlmöglichkeit „Langzeitkabine reservieren“ erhalten nur Promovierende.)Nach dem Tippen auf „Raum reservieren“ öffnet sich folgender Screen:
+
+
+Sie können nun die gewünschte Auswahl von Gebäude, Raumkategorie, Ausstattung und Zeit treffen.
+
+
+Nachdem Sie ein Datum gewählt haben wird Ihnen der nächstmögliche buchbare Zeitraum vorgeschlagen. Den Zeitraum können Sie verändern. Vergangene Zeitslots werden grau dargestellt. Rot markierte Zeitslots sind (in der von ihnen gewählten Raumkategorie) bereits ausgebucht. Grüne Zeitslots sind buchbar. Tippen Sie zum Buchen der Zeitslots jeweils einmal auf einen Anfangsslot und einen Endslot. Die Felder färben sich dabei blau.Um diese Reservierung zu beenden und zu speichern tippen Sie oben rechts auf „SPEICHERN. In der Reservierungsübersicht kann die Reservierung noch bearbeitet oder storniert werden.
+
+
+
+GEMEINSAME RESERVIERUNG - EINLADUNGEN ERSTELLEN
+
+
+Bei Räumen für mehrere Personen können weitere Studierende zur Nutzung eingeladen werden. Tippen Sie dazu in Ihrer Reservierungsübersicht auf den reservierten Raum und anschließend auf „EINLADEN“. Tragen Sie unterhalb der interaktiven Zeitraumübersicht die studentische(n) E-Mailadresse(n) von Studierenden der Universität Göttingen ein (in der Form account@stud.uni-goettingen.de, andere E-Mailadressen sind nicht erlaubt). Sie können auch eine Nachricht („Stichwort“) an den Empfänger verfassen. Über den Schiebregler können Sie entscheiden, ob die Reservierungspunkte aufgeteilt werden sollen (Hinweise zum Punktesystem gibt es auf unseren Hilfeseiten)
+
+
+Beim Tippen auf die Reservierung sehen Sie den Status der Einladung (gelb: noch nicht angenommen, grün: angenommen, rot: abgelehnt) Sie können die Reservierung bearbeiten oder stornieren.
+
+
+Wenn Ihnen eine Einladung geschickt wurde, sehen Sie das in der Reservierungsübersicht. Sie können dann annehmen oder ablehnen.
+
+
+
+ÄNDERN EINER AKTIVEN RESERVIERUNG (VERLÄNGERUNG DES RAUMS)
+
+
+Unter „aktiver Reservierung“ verstehen wir hier einen zum aktuellen Zeitpunkt gebuchten Raum, für den bereits ein Schlüssel auf den Studienausweis geschrieben wurde. Die Nutzung läuft also bereits. Diese Buchung können Sie bearbeiten und - falls es weitere buchbare Zeitslots für diesen Raum gibt - eine Reservierung verlängern. Anschließend müssen Sie an einem Terminal den aktualisierten Schlüssel auf Ihren Studienausweis speichern.

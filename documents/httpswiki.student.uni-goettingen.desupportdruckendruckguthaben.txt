@@ -1,0 +1,95 @@
+https://wiki.student.uni-goettingen.de/support/drucken/druckguthaben
+
+INHALTSVERZEICHNIS
+
+- Druckguthaben aufladen und überprüfen
+- Druckguthaben aufladen
+- Druckguthaben checkenDruckguthaben an Kommilitonen übertragen
+- Druckguthaben an Kommilitonen übertragen
+
+
+DRUCKGUTHABEN AUFLADEN UND ÜBERPRÜFEN
+
+
+Du hast als Studierender die Möglichkeit, an mehreren Standorten der Universität von deinem Druckaccount aus zu drucken. Für die Liste der Standorte, sieheDrucker. Um drucken zu können, musst du allerdings Guthaben auf deinem Druckkonto haben.
+
+
+Auf folgender Website kannst du dein Druckguthaben abfragen:
+
+
+http://print.student.uni-goettingen.de/
+
+
+Wichtig: Bei Zugriffen außerhalb des Uninetzes wird ein Uni-VPNbenötigt.
+
+
+Für Informationen zu Freidruckguthaben aus Studienbeiträgen haben wir eineeigene Informationsseiteeingerichtet.
+
+
+Außerdem erscheint ein kleines Pop-Up Fenster auf deinem Bildschirm, sobald du dich an einem der studIT-PCs angemeldet hast. Hier wird dir dein Druckguthaben in Echtzeit angezeigt.
+
+
+
+DRUCKGUTHABEN AUFLADEN
+
+
+Um von deinem Druckkonto in der Universität drucken zu können, musst du zunächst vorher eine Druckquote einzahlen. Dies kannst du - ausschließlich mit dem Studienausweis, nie mit Bargeld -  an folgenden Standorten:
+
+
+1.) Zentralbibliothek und Bereichsbibliotheken der SUBDu kannst auch in den Bibliotheken (wo auch die meisten Drucker stehen) dein Druckguthaben aufladen lassen. Frag einfach beim jeweiligen Thekenpersonal nach, wo genau die Kassen stehen.
+
+- Zentralbibliothek
+- Historisches Gebäude
+- Bibliothek Forst
+- Bibliothek Kulturwissenschaften
+- Bibliothek Medizin
+- Bibliothek Physik
+- Bibliothek Waldweg
+- Bibliothek WiSo
+
+2.) Chipkartenstelle ZHGHier kannst du Montag bis Freitag von 10-15:30 Uhr Druckguthaben aufladen. Es ist nur eine bargeldlose Zahlung möglich.Wir bitten Euch um Verständnis, dass studIT-Berater kein Bargeld entgegennehmen. Das dient ausschließlich der Transparenz und der Sicherheit.Das Guthaben muss auf deinem Studienausweis sein, da wird von diesem das gewünschte Druckguthaben abbuchen.
+
+
+3.) WiSo-RechenzentrumStudierende der Wirtschaftswissenschaftlichen Fakultät können ihr Druckkonto außerdem im WiSo-Rechenzentrum aufladen. Dort kann montags bis donnerstags von 13:00 bis 15:30 Uhr mit der Chipkarte eingezahlt werden.
+
+
+4.) Juristische Fakultätin der Bibliothek für Zivilrecht (Juridicum)in der Bibliothek für Öffentliches Recht, Strafrecht und internat. Strafrecht (MZG/BT, 3. Etage)
+
+
+
+DRUCKGUTHABEN CHECKEN
+
+
+Falls du nicht im Uninetz bist, dann verbinde dich zunächst mit dem Uni-VPN.
+
+
+Du musst folgenden Link in deinem Browser öffnen:https://print.student.uni-goettingen.de:9192Dann meldest du dich in der Eingabemaske mit deinem studentischen Account an (in der Regel vorname.nachname) und gibst dein Passwort ein.
+
+
+Auf der sich nun öffnenden Website kannst du dein Druckguthaben einsehen, deine Aufträge verfolgen, deine Buchungen nachvollziehen und Druckguthaben an einen Kommilitonen weitergeben (nur selbst bezahltes, keins aus Studienbeiträgen!).
+
+
+In derÜbersichtsiehst du dein Guthaben aus eigenen Einzahlungen und aus Studienbeiträgen sowie dessen Verlauf.
+
+
+
+
+
+
+DRUCKGUTHABEN AN KOMMILITONEN ÜBERTRAGEN
+
+
+Unter dem MenüpunktÜbertragungkannst du selbst eingezahltes Guthaben an Kommilitonen übertragen. Dazu musst du nur den Betrag und den entsprechenden Accountnamen eintragen. So kannst du beispielsweise von dir nicht mehr benötigtes Guthaben übertragen und dir das Bargeld von einem Kommilitonen zurückgeben lassen. Druckguthaben kann auch auf SUB-Privatkonten übertragen werden.
+
+
+
+
+
+Unter dem PunktBuchungensiehst du, wann du wie viel Geld eingezahlt hast und wann Guthaben aus Studienbeiträgen überwiesen wurde.
+
+
+UnterNeueste Druckaufträgesiehst du deine zuletzt losgeschickten Druckaufträge.
+
+
+UnterSupportkommst du zum S.O.S. und einer Übersicht zum Thema Drucken.
+drucker drucken druckguthaben druck print druckkonto druckgeld geld guthaben

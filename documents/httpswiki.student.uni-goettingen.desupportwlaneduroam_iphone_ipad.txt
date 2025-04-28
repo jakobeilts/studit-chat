@@ -1,0 +1,112 @@
+https://wiki.student.uni-goettingen.de/support/wlan/eduroam_iphone_ipad
+
+INHALTSVERZEICHNIS
+
+- eduroam mit iPhone oder iPad (ab Version iOS 11 und iPadOS 11)eduroameduroam CATDas Profil löschenWeiterhin Probleme Eduroam zu verbinden?
+- eduroam
+- eduroam CAT
+- Das Profil löschen
+- Weiterhin Probleme Eduroam zu verbinden?
+
+
+
+
+
+EDUROAM MIT IPHONE ODER IPAD (AB VERSION IOS 11 UND IPADOS 11)
+
+
+Im Folgenden wird erklärt, wie Du Dein iPhone oder iPad mit dem WPA2 verschlüsselten Netzwerk eduroam verbinden kannst. Vorweg das Wichtigste:
+
+
+Bei der Einrichtung der Verbindung bitte beachten: Der„Benutzername“ist eurestudentische Email-Adresse! Also bspw. test.test@stud.uni-goettingen.de
+
+
+Seit kurzem werden ältere Sicherheitsprotokolle nicht mehr unterstützt. Um eine erfolgreiche Verbindung mit eduroam aufzubauen, wirdmindestensiOS Version 11 oder iPadOs Version 11 auf dem jeweiligen Geräte benötigt. Dafür unter Einstellungen–>Allgemein–>Software Update nach neuen Updates suchen.
+
+
+Bitte nutze Safari als Browser, um eine erfolgreiche Installation und Einrichtung zu gewährleistet.
+
+
+
+EDUROAM
+
+
+Du kannst dich mit deinem iPhone oder iPad in das WLAN der Universität Göttingen (eduroam) einwählen und so mit sehr hohen Datenraten surfen.
+
+
+Wir empfehlen die Nutzung des verschlüsselten Netzwerks eduroam. Das Gästenetz Guest on Campus ist unverschlüsselt. Ein weiterer Vorteil gegenüber GuestOnCampus ist, dass eduroam auch ananderen Hochschulstandortengesendet wird und ihr mit eurem Endgerät - einmal korrekt eingerichtet - sofort dort verbinden könnt.
+
+
+
+EDUROAM CAT
+
+
+Hinweis: Bitte benutzeSafarials Browser für die folgenden Schritte, damit eine erfolgreiche Einrichtung gewährleistet wird.
+
+
+1. Auf der Seitehttps://cat.eduroam.org/kannst du das Profil für eduroam herunterladen. Dazu suchst du „GWDG Goettingen“ für Mitarbeiter_innen oder „Universität Göttingen“ für Studierende und tippst darauf.
+
+
+
+
+
+2. Das Betriebssystem Apple iOS/ iPadOS wird automatisch erkannt, tippe auf den blauen Button „eduroam“.
+
+
+
+
+
+3. Schließe den Browser und öffne die „Einstellungen“. Unter dem Punkt „Allgemein“ ganz nach unten scrollen und unter „Profil“ („VPN und Geräteverwaltung“ auf neuerem iOS und iPadOS) das eduroam Konfigurationsprofil aus der Liste auswählen.
+
+
+4. Das Profil wird dir nun angezeigt. Klicke auf Installieren.
+
+
+
+
+
+5. Nun gibst du deinen Benutzernamen in der Form „account@stud.uni-goettingen.de“ ein…
+
+
+
+
+
+6. …und anschließend das Passwort.
+
+
+
+
+
+7. Das Profil ist nun installiert und dein Gerät verbindet sich nun automatisch mit eduroam, sobald du in Reichweite der Accesspoints bist.
+
+
+
+DAS PROFIL LÖSCHEN
+
+
+1. Um das Profil zu löschen navigiere zu Einstellungen - Allgemein - Profil („VPN und Geräteverwaltung“ auf neuerem iOS und iPadOS) und tippe auf das Profil.
+
+
+
+
+
+2. Das Profil wird dir angezeigt und du kannst auf „Profil löschen“/„Profil entfernen“ tippen.
+
+
+
+
+
+3. Nun die obige Anleitung zur Einrichtung wieder durchgehen.
+
+
+
+WEITERHIN PROBLEME EDUROAM ZU VERBINDEN?
+
+
+Seit Kurzem gibt es leider auch Probleme mit iOS Geräten:Nach der Verwendung des CAT-Tools für eduroam wird das Profil als aktualisiert angezeigt, jedoch wurde es nicht aktualisiert.Hierbei handelt es sich um einen Softwarefehler bei iOS/ iPadOS der aber wie folgt gelöst werden kann:Ihr müsst für die Einrichtung nicht im Uninetz sein, es funktioniert also auch von zu Hause aus.
+
+
+1. Achtung: Wenn eduroam vorher schon eingerichtet war, dann müssen diese Schritte zuerst gemacht werden:Geht auf Einstellungen→WLAN→Klickt auf das „i“ rechts neben eduroam → „Dieses Netzwerk ignorieren“.Unter Einstellungen→Allgemein→Profile („VPN und Geräteverwaltung“ auf neuerem iOS und iPadOS) müsst Ihr alle Profile entfernen, die mit „eduroam…“ benannt sind.2. Besucht über Safari die Websitehttps://cat.eduroam.org. Wenn sich keine Webseite nach paar Sekunden automatisch öffnet, einfachwlan.gwdg.deim Safari Webbrowser eingeben.3. Auf der Website drückt Ihr auf „Klicken Sie hier, um Ihr eduroam Installationsprogramm herunterzuladen“ (großer blauer Button).4. Wählt danach „Universität Göttingen“.5. Klickt auf „Apple iOS mobile devices“ (großer blauer Button).6. Dann wartet Ihr Kurz bis eine Meldung erscheint, die Ihr mit „Zulassen“ bestätigt.7. Das nächste Fenster bestätigt Ihr mit „OK“.8. Öffnet die Einstellungen: Klickt auf „Profil geladen“ und drückt immer auf „Installieren“ bzw. „Weiter“ bis ihr den Benutzernamen eingeben sollt. Dies ist eure studentische E-Mail-Adresse. Danach folgt euer Passwort.9. Klickt auf „Fertig“. Eduroam sollte nun wieder funktionieren.
+
+
+WLAN verbinden iphone apple ipod ipad app apps eduroam goemobile wireless funknetz

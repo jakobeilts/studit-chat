@@ -1,0 +1,63 @@
+https://wiki.student.uni-goettingen.de/support/wlan
+
+WLAN, NETZE UND VPN
+
+
+Alle wichtigen Informationen zum Zugang zum WLAN auf den folgenden Seiten:
+
+- eduroam auf Android
+- eduroam auf chromeOS
+- eduroam für HAWK-Studierende
+- eduroam mit iPhone oder iPad (ab Version iOS 11 und iPadOS 11)
+- eduroam unter Linux
+- eduroam unter macOS
+- eduroam unter Windows (ab Windows 10)
+- eduroam für Android-Geräte mit Version 8 oder höher
+- eduroam unter macOS (ab 10.13 High Sierra bis 12 Monterey)
+- eduroam unter macOS (ab 13 Ventura)
+- WLAN für SUB Privatpersonen
+- Verschlüsselung
+- VPN
+- VPN via eduVPN
+- Installation vom Zertifikaten unter Android
+
+Der Zugang zum eduroam-Netzwerk / Netzwerk „guest on campus“ funktioniert nur mit Betriebssystemen, die noch offizielle Hersteller-(Sicherheits)Updatesbekommen.
+
+
+Stand 26.07.2023:
+
+- Ab Android 11
+- Ab macOS 11 (Big Sur)
+- Windows 10 und Windows 11
+- iOS 12, 15, 16
+
+Für alle anderen Betriebssysteme können wir keinen Zugang garantieren. Wir empfehlen daher immer, das Betriebssystem des Gerätes möglichst aktuell zu halten.
+
+
+
+EDUROAM
+
+
+Du kannst dich mit deinem iPhone oder iPad in das WLAN der Universität Göttingen (eduroam) einwählen und so mit sehr hohen Datenraten surfen.
+
+
+Wir empfehlen die Nutzung des verschlüsselten Netzwerks eduroam. Das Gästenetz Guest on Campus ist unverschlüsselt. Ein weiterer Vorteil gegenüber GuestOnCampus ist, dass eduroam auch ananderen Hochschulstandortengesendet wird und ihr mit eurem Endgerät - einmal korrekt eingerichtet - sofort dort verbinden könnt.
+
+
+Die GWDG stellt für die Universität Göttingen, für die Max-Planck-Institute in und um Göttingen und zum Teil auch darüber hinaus sowie für weitere Göttinger Wissenschaftseinrichtungen Netzwerkinfrastrukturen und Netzwerkdienste zur Verfügung. Wir empfehlen für Studierende und Uniangehörige, das WLAN eduroam zu nutzen. Diese Wireless Networks bieten den mobilen Nutzerinnen und Nutzern an vielen Standorten Zugang zum Internet und kann u. a. auch für Tagungen und Lehrveranstaltungen genutzt werden.
+
+
+Alle eduroam Einrichtungsprofile für verschiedene Betriebssysteme können hier geladen werden:https://cat.eduroam.org/
+
+
+Bei der Einrichtung der Verbindung bitte beachten: Der„Benutzername“ist eurestudentische Email-Adresse! Also bspw. test.test@stud.uni-goettingen.de
+
+
+Für UDL Studierende:(auch eduroam)Als Benutzername muss die bekannte Nutzernummer in folgender Form angeben werden:
+s.2000XXXX@stud.uni-goettingen.deoders.2000XXXX@guest.uni-goettingen.de
+
+
+SUB-Accounts:Diese Accounts haben keinen Zukang zum eduroam-Netzwerk.
+
+
+Für Studierende der IIK:Studierende der IIK haben keinen „richtigen“ Uni-Account und keine studentische Emailadresse. Um „normal“ ins Uninetz kommen zu können müssen sie sich ein Gast-Konto bei der SUB besorgen und sich mit dem „GuestonCampus“ Netz verbinden.

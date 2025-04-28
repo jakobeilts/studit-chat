@@ -1,0 +1,13 @@
+https://wiki.student.uni-goettingen.de/support/account/multifaktor
+
+MULTIFAKTOR-AUTHENTIFIZIERUNG UND DEIN STUDIERENDENACCOUNT
+
+
+Um die Sicherheit des Studierendenaccounts zu erhöhen, kann und sollte man für die Authentifikation einen 2. Faktor neben dem persönlichen Passwort hinterlegen. Einige Dienste der GWDG (z.B. VPN) sind tatsächlich nur nutzbar, wenn bereits ein 2. Faktor für den Studierendenaccount hinterlegt wurde.
+Das Einrichten des 2. Faktors ist überhttps://id.academiccloud.de/securitymöglich. Es können Authenticator Apps wie eduMFA, Google Authenticor oder FreeOTP, oder aber auch Passkeys wie TouchID/FaceID (wenn das Gerät dies unterstützt) sowie Hardware Token wie z.B. Yubikeys verwendet werden.
+
+
+Die genaue Anleitung zum Einrichten eines oder besser mehrerer 2. Faktoren findest du hier:https://docs.gwdg.de/doku.php?id=de:services:general_services:customer_portal:security:two_factor_authentication#wie_richte_ich_einen_zusaetzlichen_faktor_ein
+
+
+Eine grobe Übersicht bietet diese Darstellung:

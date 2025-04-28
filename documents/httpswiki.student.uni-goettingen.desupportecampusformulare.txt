@@ -1,0 +1,57 @@
+https://wiki.student.uni-goettingen.de/support/ecampus/formulare
+
+ELEKTRONISCHE FORMULARE – ANLEITUNG FÜR STUDIERENDE
+
+- eFormular Anerkennung von Prüfungsleistungen
+- Erkrankung – Fristverlängerung Arbeit - Anleitung für Studierende -
+- Erkrankung – Rücktritt von Prüfungsleitung - Anleitung für Studierende -
+
+Du findest das Formularsystem in Deinem StudierendenportaleCampusunter dem Menüpunkt weitere Dienste → Formulare in der oberen Navigationsleiste oder in Deinemzuletzt verwendetetMenü.
+
+
+Damit Du schnell das richtige Formular findest, sind die Formulare in Ordnern organisiert. Ein Klick auf den Ordner / Ordnernamen führt zu einer Übersicht aller elektronischen Formulare, die in diesem Ordner enthalten sind. Ein Klick auf eines dieser Formulare öffnet das entsprechende Formular und Du kannst der Bearbeitung beginnen.→
+
+
+Formulare bestehen in der Regel aus einem vorausgefüllten Kopfbereich (meist Deine Stammdaten wie Name, Matrikelnummer usw.), Eingabeelementen, Infotexten, Aktionsbuttons und einem Unterschriftsbereich.
+
+
+Pflichtfelder / Optionalfelder:Pflichtfelder sind grau markiert. Das Abschicken oder Signieren eines Formulars ist nur dann möglich, wenn du alle Pflichtfelder ausgefüllt hast. Optionalfelder sind Felder, welche meist zur besseren Bearbeitung des Antrags oder für zusätzliche Angaben deinerseits dienen, allerdings nicht verpflichtend ausgefüllt werden müssen bzw. können.
+
+
+
+
+
+Textfelder:können frei mit Text ausgefüllt werden (Freitextfelder).
+
+
+Dropdown-Felder / LookUp-Felder:erlauben die Auswahl aus einer Menge bestimmter Angaben. Im Beispiel kannst Du aus einer Liste von Prüfungen auswählen, für die Du aktuell angemeldet bist. Wenn im Formular eine Auswahl mehrerer Elemente, z. B. mehrerer Prüfungen möglich ist, kannst Du auf der rechten Seite mit den ButtonsundAngaben  hinzufügen oder entfernen. Im Formular Anerkennung einer Erkrankung kannst Du so z. B. mehrere Prüfungen auswählen.
+
+
+
+
+
+Aktionsbuttonslösen eine bestimmte Aktion im Formular aus. Sie sind in der Regel selbsterklärend beschriftet und kommen beispielsweise dann zum Einsatz, wenn dem Formular Anhänge beigefügt werden müssen.
+
+
+
+
+
+Uploadserlauben es, dem elektronischen Formular eine oder mehrere Dateien beizufügen, z. B. Nachweise, Atteste oder Ähnliches. Im Upload-Bereich findest Du die Information, welche Dateitypen erlaubt sind, wie viele Dateien maximal hochgeladen werden dürfen und wie groß die Dateien jeweils sein dürfen. Der eigentliche Upload kann entweder in zwei Schritten erfolgen, in dem Du Dateien auswählen anklickst, die gewünschte Datei auswählst und diese Datei dann mit einem Klick auf Anhängen an das elektronische Formular anhängst. Alternativ kannst Du die Datei von Deinem Computer auch per Drag & Drop in den Bereich Dateien hier ablegen ziehen. Die Datei wird dann automatisch an das Formular angehängt. Mit einem Klick auf Schließen verlässt Du den Uploadbereich und gelangst zurück zum Formular.
+
+
+
+
+
+Einige Formulare müssen vor dem Abschicken mit einerElektronischen Signaturversehen werden. Nach dem Signieren können die relevanten Angaben im Formular nicht mehr geändert werden.
+
+
+
+
+
+Im letzten Schritt muss das Formular über einen Aktionsbutton abgeschickt werden. Wenn das Abschicken nicht möglich war, erhältst Du eine Fehlermeldung mit Informationen über den aufgetretenen Fehler, sodass Du Deine Angaben korrigieren kannst. Wenn das Abschicken erfolgreich war, wirst Du darüber ebenfalls informiert. Das Formular liegt dann zur weiteren Bearbeitung beim der zuständigen Sachbearbeiterin oder dem zuständigen Sachbearbeiter vor.
+
+
+
+
+
+Über den weiteren Fortgang Deines Antrages wirst Du in der Regel per E-Mail an Deine studentische E-Mail-Adresse informiert. Bitte überprüfe daher regelmäßig Deinen Posteingang, damit Du zeitnah reagieren kannst, wenn die zuständige Sachbearbeiterin oder der zuständige Sachbearbeiter Rückfragen zu Deinem Antrag hat.

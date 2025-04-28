@@ -1,0 +1,17 @@
+https://wiki.student.uni-goettingen.de/support/account/probleme_beim_einloggen
+
+PROBLEME BEIM EINLOGGEN
+
+
+Ein Problem, mit dem unsere BeraterInnen manchmal konfrontiert werden, ist, wenn sich Studierende nicht in ihren Account einloggen können. Entweder haben sie ihr Passwort vergessen oder irgend etwas anderes funktioniert nicht. Sollte das passieren, wende dich bitte an unsere Beratung in einem derstudIT-Standorte. In vielen Fällen setzen wir das Passwort oder das Nutzerprofil zurück und meist funktioniert dann wieder alles fehlerfrei. Das Neusetzen des Passworts geht nur nach vorheriger Identitätsprüfung mit deinem Ausweis! Diesen also bitte nicht vergessen.
+
+
+Achtung: Per Mail angefragte Zurücksetzungen dürfen wir nicht bearbeiten!
+
+
+
+BEKANNTE MÖGLICHE URSACHEN VON LOGINPROBLEMEN:
+
+- Das häufigste: du hast dich beim Passwort vertippt oder die Caps Lock Taste (Feststelltaste) ist aktiviert
+- es gab Probleme bei der Synchronisation des Passworts in alle Systeme. Dann müssen wir ggf. am Helpdesk ein neues Passwort für dich setzen.
+- es gibt Probleme mit deinem Homeverzeichnis (es ist voll, oder es ist fehlerhaft)

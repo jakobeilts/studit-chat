@@ -1,0 +1,107 @@
+https://wiki.student.uni-goettingen.de/support/scannen/a4_scanner
+
+INHALTSVERZEICHNIS
+
+- A4-Scanner (LRC SUB) Optibook1 Allgemeines zu dieser Anleitung2 Text als Bilddateien speichern3 Text als durchsuchbare PDF scannen und speichern3.1 Vorbereitung3.2 Starten der Software3.3 Scanner auswählen
+- 1 Allgemeines zu dieser Anleitung
+- 2 Text als Bilddateien speichern
+- 3 Text als durchsuchbare PDF scannen und speichern3.1 Vorbereitung3.2 Starten der Software3.3 Scanner auswählen
+- 3.1 Vorbereitung
+- 3.2 Starten der Software
+- 3.3 Scanner auswählen
+
+
+A4-SCANNER (LRC SUB) OPTIBOOK
+
+
+
+
+
+Diese Anleitung gibt Ihnen einen Überblick über die Möglichkeiten mit den Plustek Scannern Texte zu scannen und mit einem OCR-Programm zu erkennen, um es später gegebenenfalls als Word-Dokument oder als PDF abzuspeichern.
+
+
+
+1 ALLGEMEINES ZU DIESER ANLEITUNG
+
+
+Die hier beschriebenen Wege sind nicht die einzigen Möglichkeiten, Texte zu scannen. Die Rechner des LRC bieten eine Auswahl an Programmen mit deren Hilfe Sie Dokumente einscannen können, die an dieser Stelle nicht alle beschrieben werden können.
+
+
+
+2 TEXT ALS BILDDATEIEN SPEICHERN
+
+
+Sie können Ihre Texte als Bilddateien speichern. Ob dies sinnvoll ist, hängt stark davon ab, wie Sie das Dokument verwenden möchten. Im Allgemeinen eignet sich eine mit Texterkennung behandelte PDF-Datei (PDFs können Sie mit Hilfe des Programms Adobe Acrobat erstellen) in den meisten Fällen besser, da Sie wesentlich weniger Speicherplatz benötigt und den Vorteil bietet durchsuchbar zu sein (Sie können auch über den Umweg von Bilddateien eine durchsuchbare PDF erzeugen, wenn dies Ihr Ziel ist, sollten Sie wie folgt beschrieben den Text scannen und später die Bilddateien zusammenführen wie in der Anleitung „PDFs erstellen“ beschrieben). Die Speicherung des Textes als Bilddatei ist z.B. dann ein Weg, wenn Sie die Bilddateien später in ein spezielles Programm zur Texterkennung laden möchten, um das Dokument im Word-Format zu speichern, was für einige Anwendungen Vorteile bietet.
+
+
+Texte Scannen mit der scannereigenen Software
+
+- Der Scanner sollte vor dem Start der Software ausgeschaltet sein.
+- Öffnen Sie das Programm „Action Express“
+- In der Taskleiste sollte nun folgendes Symbol erscheinen:
+
+
+
+- Texte scannen über die Tasten am Gerät (Dieses Vorgehen führt zu einer Bilddatei pro eingescannte Seite).
+
+Dokument seitenweise als Bilddateien speicher
+
+- Schalten Sie den Scanner ein (er sollte vor dem Start der Software (Action Express) ausgeschaltet sein.)
+- Das Kreuz über dem Symbol in der Taskleiste sollte nun verschwunden sein.
+- Legen Sie Ihr Dokument auf den Scanner (es sollte an der rechten vorderen Ecke anliegen).
+- Drücken Sie die „Preview“ Taste an der Oberseite des Scanner
+
+In dem sich öffnenden Fenster können Sie nun alle notwendigen Vorbereitungen 
+treffen, um Ihr Dokument zu scannen.
+
+
+
+
+
+Drücken Sie, nachdem Sie alle Einstellungen vorgenommen haben, eine der 3 Scantasten auf der 
+Oberseite des Scanners. Sie müssen nicht alle Seiten mit der gleichen Taste scannen! Seiten die nur aus Text bestehen, scannen Sie am besten mit der schwarzen Taste. Wenn auf einer Seite schwarzweiß-Grafiken abgebildet sind, sollten Sie die graue Taste betätigen, um sicherzustellen, dass diese später in guter Qualität in Graustufe vorliegen. Wenn auf einer Seite farbige Abbildungen vorhanden sind, die auch farbig erhalten bleiben sollen drücken 
+Sie die blaue Taste, wenn die Farbe nicht benötigt wird drücken Sie auch hier die graue Taste.
+
+- Wiederholen Sie diesen Vorgang mit allen Seiten Ihres Dokuments.
+- Sie müssen mit dem Wenden des Dokuments nicht warten, bis der Scannerschlitten wieder in seine Ausgangsposition (nach rechts) zurückgekehrt ist, sondern können bereits dann das nächste Blatt auflegen bzw. umblättern, wenn der Schlitten beginnt wieder nach rechts zu fahren.
+- Nachdem Sie alle Seiten gescannt haben finden Sie sich als einzelne Dateien im entsprechenden Ordner.
+
+
+3 TEXT ALS DURCHSUCHBARE PDF SCANNEN UND SPEICHERN
+
+
+Wenn Sie Ihr Dokument direkt in Adobe Acrobat 8 Professional hinein scannen, 
+wird es als durchsuchbare PDF-Datei abgespeichert, die relativ wenig 
+Speicherplatz benötigt und aus der Sie z. B. Zitate herauskopieren können. 
+Dies ist ein empfehlenswerter Weg, wenn Sie ihr Dokument am PC bearbeiten 
+möchten, aber auch wenn Sie es als Email-Anhang verschicken oder später drucken 
+wollen.
+
+
+
+3.1 VORBEREITUNG
+
+- Legen Sie Ihr Dokument auf den Scanner (es sollte an der rechten vorderen Ecke der Glasplatte bündig anliegen).
+- Der Scanner muss vor Beginn des ersten Scannens ausgeschaltet sein!
+- Öffnen Sie nun (wie schon im letzten Kapitel beschrieben) das Programm „ActionExpress“
+- Schalten Sie erst jetzt den Scanner ein
+
+
+3.2 STARTEN DER SOFTWARE
+
+- Starten Sie das Programm Adobe Acrobat 8 Professional
+
+
+3.3 SCANNER AUSWÄHLEN
+
+
+
+
+- Wählen Sie im nun folgenden Fenster zunächst den Scanner aus, an dem Sie sitzen, in dem Fall heißt der Scanner WIA-OpticBook 360.
+- Wenn Sie den WIA-Treiber wählen, müssen Sie die weiteren Einstellungen in den nachfolgenden Fenstern vornehmen.
+- Klicken Sie auf die Schaltfläche „Scannen“.
+- Wählen Sie aus, dass Sie ein „Schwarzweißfoto oder Text“ scannen wollen oder ein Farb- oder Graustufenbild falls die Dokumente viele Bilder enthalten.
+- Klicken Sie anschließend auf die Schaltfläche „Qualität des gescannten Bildes verbessern.
+- 
+
+a4 scanner optibook adobe acrobat professional scannen software texterkennung pdf

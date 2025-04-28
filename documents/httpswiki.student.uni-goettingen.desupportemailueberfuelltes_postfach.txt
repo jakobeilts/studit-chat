@@ -1,0 +1,68 @@
+https://wiki.student.uni-goettingen.de/support/email/ueberfuelltes_postfach
+
+INHALTSVERZEICHNIS
+
+- Überfülltes PostfachUrsache
+- Ursache
+- Speicherplatz anzeigen lassen
+- E-Mails löschenE-Mails löschen mit Thunderbird
+- E-Mails löschen mit Thunderbird
+- E-Mails löschen mit Thunderbird
+
+
+ÜBERFÜLLTES POSTFACH
+
+
+
+URSACHE
+
+
+Wenn dein Postfach überfüllt ist, kann dies zwei Gründe haben:
+
+
+1)Du hast eine Weiterleitung eingerichtet und loggst dich nicht mehr im Postfach selbst ein. Die E-Mails werden aber nur weitergeleitet, jedoch im Postfach nicht automatisch gelöscht. Wenn du also viele oder besonders große E-Mails bekommst, ist dein Speicherplatz von 2GBirgendwann belegt.
+
+
+2)Du hast eine Weiterleitung eingerichtet (z.B. an ein Postfach bei web.de) und das Postfach, an das du die E-Mails weiterleitest, ist für kurze Zeit voll und akzeptiert daher keine neuen E-Mails. Dann entsteht leider eine Schleife zwischen den beiden Postfächern, die sich nun im Sekundentakt gegenseitig E-Mails schicken. Dann ist auch schnell das andere Postfach voll.
+
+
+Du siehst, dass Weiterleitungen der E-Mails für Probleme verantwortlich sein können. studIT unterstützt deshalb E-Mail Weiterleitungen nicht! Bitte benutze zum regelmäßigen Checken der studentischen E-MailOutlook Web AppodereCampus!
+
+
+
+SPEICHERPLATZ ANZEIGEN LASSEN
+
+
+Um zu sehen, wie voll Dein Postfach ist, kannst Du Dich aufhttps://email.gwdg.de(Benutzername ist ug-student\deinaccount) einloggen. Dort klickst Du dann oben rechts auf das Zahnrad und danach auf „Optionen“. Auf der nächsten Seite klickst Du dann auf „Allgemein“. Unter „Mein Konto“ kannst Du dann Deinen verwendeten Speicherplatz einsehen (siehe Bild).
+
+
+
+
+
+
+E-MAILS LÖSCHEN
+
+
+Bitte lösche zuerst die Weiterleitung inOutlook Web AppDazu musst du auf die Website gehen und dich einloggen. Dann siehst du oben Rechts „Optionen“. Darauf klicken und dann die Weiterleitung entfernen löschen. Die Änderungen speichern nicht vergessen.
+
+
+
+E-MAILS LÖSCHEN MIT THUNDERBIRD
+
+
+Jeder muss seine E-Mails selbst löschen. Ein Zugriff der studIT oder der GWDG ist nicht möglich.
+
+
+Am einfachsten ist das Löschen, wenn die E-Mails mitOutlookoderThunderbirdabgerufen werden. Wenn du dich an einem unserer öffentlichen Linux-PCs mit deinem Studierendenaccount anmeldest (z.B. in der 1. Etage des Blauen Turms oder im Erdgeschoss der SUB), ist Thunderbird sogar bereits vorkonfiguriert. Du musst das Programm nur starten, einen Moment warten bis alle E-Mails heruntergeladen sind und kannst diese dann löschen.
+
+
+Dazu die entsprechenden Mails markieren (meist mit Betreff „Mailer-Daemon“), dann mitShift+Entfdie Mails löschen, ohne sie vorher in den Papierkorb zu legen. Dann klickst du mit der rechten Maustaste auf Posteingang und wählst „komprimieren“. Fertig, das Problem sollte gelöst sein.
+
+
+Bitte schau auch in den Papierkorb deines Postfachs und lösche die E-Mails dort ggf. separat.
+
+
+Wenn du das Problem allein nicht lösen kannst, komm einfach zu einem unsererstudIT helpdesks. Wir helfen dir gerne weiter.
+
+
+postfach voll überfüllt mails mail löschen inbox thunderbird outlook apple mail

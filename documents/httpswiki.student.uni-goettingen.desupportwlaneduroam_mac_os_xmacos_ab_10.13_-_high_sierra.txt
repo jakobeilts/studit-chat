@@ -1,0 +1,81 @@
+https://wiki.student.uni-goettingen.de/support/wlan/eduroam_mac_os_x/macos_ab_10.13_-_high_sierra
+
+INHALTSVERZEICHNIS
+
+- eduroam unter macOS (ab 10.13 High Sierra bis 12 Monterey)Installation des eduroam Profils mit dem CA-ToolLöschen einer alten ProfildateiLöschen einer alten Konfiguration
+- Installation des eduroam Profils mit dem CA-ToolLöschen einer alten ProfildateiLöschen einer alten Konfiguration
+- Installation des eduroam Profils mit dem CA-Tool
+- Löschen einer alten Profildatei
+- Löschen einer alten Konfiguration
+
+
+
+
+
+EDUROAM UNTER MACOS (AB 10.13 HIGH SIERRA BIS 12 MONTEREY)
+
+
+Im Folgenden wird erklärt, wie Du deinen Mac mit dem WPA2 verschlüsselten Netzwerk eduroam verbinden kannst.
+
+
+Bei der Einrichtung der Verbindung bitte beachten: Der„Benutzername“ist eurestudentische Email-Adresse! Also bspw. test.test@stud.uni-goettingen.de
+
+
+
+INSTALLATION DES EDUROAM PROFILS MIT DEM CA-TOOL
+
+
+Diese Anleitung ist unter macOS 10.14.6 erstellt worden. Klickpfade und Menüs können in früheren macOS-Versionen abweichen.
+
+
+Ein vollständiges Profil für eduroam inklusive der benötigten Zertifikate kannauf der Eduroam Homepagegeladen werden. Führe die Datei nach dem Herunterladen mit einem Doppelklick aus. Um die eduroam Profildatei zu schreiben öffnen sich nun dieSystemeinstellungen. Die Installation muss mit einem Klick aufFortfahrenbestätigt werden.
+
+
+
+
+
+Anschließend werden die Logindaten des Accounts abgefragt. Als Benutzername bitte diestudentische E-Mail-Adresse(…@stud.uni-goettingen.de) und das zugehörige Passwort verwenden. Bei nicht-studentischen Accounts kannder Nutzernamenübersicht der GWDGdie Form des zu verwendenden Benutzernamens entnommen werden.
+
+
+
+
+
+Nach einem Klick aufInstallierenist die Konfiguration bereits abgeschlossen und das MacBook sollte sich automatisch mit dem nächsten Access Point verbinden.
+
+
+Falls sich das MacBook nicht automatisch verbindet, wechsle in dieNetzwerkeinstellungenund wähle bei WLAN das eduroam Netzwerk aus.
+
+
+
+
+
+Trage nun das Administratorkennwort ein und klicke aufImmer erlauben.
+
+
+
+LÖSCHEN EINER ALTEN PROFILDATEI
+
+
+Ist die eduroam-Verbindung zuvor auch über eine Profildatei des CA-Tools einer anderen Universität konfiguriert worden, sollte diese zuerst gelöscht werden. Hierzu die Systemeinstellungen entweder über das „Launchpad“ oder den Apfel in der Menüleiste aufrufen und „Profile“ auswählen. Sollte diese Einstellung fehlen muss die Konfiguration in denWLAN-Einstellungengelöscht werden.
+
+
+
+
+
+Anschließend auf „eduroam“ und unten auf das Minus klicken. Eine Löschung der unten beschriebenen Konfiguration in den WLAN-Einstellungen entfällt in diesem Fall.
+
+
+
+
+
+
+LÖSCHEN EINER ALTEN KONFIGURATION
+
+
+Ist bereits eine Konfiguration vorhanden, welche nicht über das CA-Tool konfiguriert wurde, sollte diese um Komplikationen bei der Konfiguration auszuschließen, zuerst gelöscht werden. Hierzu die Systemeinstellungen entweder über das „Launchpad“ oder den Apfel in der Menüleiste aufrufen und Netzwerk auswählen. Nun im untern Teil auf „Weitere Optionen…“ klicken.
+
+
+
+
+
+Anschließend „eduroam“ auswählen, auf das Minus sowie auf „Ok“ und „Anwenden“ klicken. Nun kann mit der Konfiguration begonnen werden.

@@ -1,0 +1,6 @@
+https://wiki.student.uni-goettingen.de/support/email/konto
+
+WICHTIGE DATEN FÜR DEIN E-MAIL KONTO
+
+
+E-Mail Adresse:account@stud.uni-goettingen.deBenutzername:ug-student\accountname (z.B. ug-student\m.musterfrau)Posteingangsserver:email.stud.uni-goettingen.de, Port: 993, SSL/TLS aktivierenSMTP (Postausgangs)-Server:email.stud.uni-goettingen.de oder email.gwdg.de, Port: 587 (Benutzer: ug-student\account), STARTSL aktivieren

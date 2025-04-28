@@ -1,0 +1,97 @@
+https://wiki.student.uni-goettingen.de/support/software/sas
+
+INHALTSVERZEICHNIS
+
+- SAS Installation
+- VorbereitungDVD Images im LRC Sub und LRC Med
+- DVD Images im LRC Sub und LRC Med
+- Installation
+
+
+SAS INSTALLATION
+
+
+Diese Anleitung dient dazu SAS auf dem eigenen Rechner zu installieren. Die entsprechende Lizenz ist auf ein Jahr begrenzt und muss dann durch eine neue Lizenz ersetzt werden. Schreib uns dazu eine Mail über dasKontaktformularmit Angaben zu deinem Betriebssystem.
+
+
+
+VORBEREITUNG
+
+
+
+DVD IMAGES IM LRC SUB UND LRC MED
+
+
+Die Installationsdateien und die Lizenzfiles werden von der GWDG bereitgestellt. Wir stellen die Installationsdateien für Windows auf USB Stick imLRC Subund imLRC Medbereit. Um die DVD Images zu kopieren, brauchst du etwa 20GBSpeicherplatz.
+
+
+Falls du die Installationsdateien für Linux benötigst oder du nicht nach Göttingen kommen kannst, kannst du unsper Mail kontaktieren. In diesem Fall brauchen wir Angaben zu deinem Betriebssystem.
+
+
+Auf den Seiten derGWDGfindest du weitere Hinweise zu SAS und zur Campuslizenz. Die Lizenz gilt für MS Windows (32 bit und 64 bit) und Linux (64 bit).
+
+
+
+INSTALLATION
+
+
+Diese Anleitung beschreibt die Installation ohne das Anlegen eines Software Depots.
+
+Die Anleitung der GWDG beschreibt, wie dasSoftware Depotangelegt werden kann und wie die eigentliche Installation dann weiter abläuft. Wenn du  eventuell einzelen Module nachinstallieren möchten, ist das Anlegen des Software Depots sinnvoll.
+
+
+Auf der ersten DVD die Datei Setup.exe starten
+
+
+Die Installationssprache auswählen
+
+
+„SAS Installieren“ wählen und auf „Weiter“ klicken
+
+
+Installationsverzeichnis auswählen und „Weiter“ klicken
+
+
+„SAS Foundation und zugehörige Software installieren“ wählen und „Weiter“ klicken
+
+
+Die Auswahl unter „Zu installierende Produkte“ „SAS Foundation und Software“ stehen lassen und „Weiter“ klicken
+
+
+In diesem Fenster die Auswahl auch stehen lassen und „Weiter“ klicken
+
+
+Hier auf durchsuchen klicken und den Pfad zu den entpackten SID Dateien wählen
+
+
+Hier das korrekte SID File auswählen.SAS93…Win_Wrkstn.txt = Windows 32 BitSAS93…Win_X64_Wrkstn = Windows 64 BitSAS93…LINUX_X86-64   = Linux 64 Bit
+
+
+Dann auf „Weiter klicken“
+
+
+Auf „Durchsuchen“ klicken
+
+
+Hier das korrekte SID File auswählen.JMP…Win_Wrkstn.txt = Windows 32 BitJMP…Win_X64_Wrkstn = Windows 64 BitJMP…LINUX_X86-64   = Linux 64 Bit
+
+
+Dannach auf „Weiter“ klicken
+
+
+Dann die zu installierenden Srachpakete auswählen und „Weiter“ klicken
+
+
+Das gewünschte Gebietsschema auswählen und „Weiter“ klicken
+
+
+Empfohlene Version von Java Runtime Environment verwenden auswählen und auf „Weiter“ klicken
+
+
+Dann startet eine Systemprüfung ob alle benötigten Daten und genug Plattenplatz vorhanden ist
+
+
+Nach erfolgreicher Prüfung aus „Weiter“ klicken
+
+
+Die Installation mit „Start“ beginnen

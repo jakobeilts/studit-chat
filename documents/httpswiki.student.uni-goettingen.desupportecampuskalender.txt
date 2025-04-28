@@ -1,0 +1,161 @@
+https://wiki.student.uni-goettingen.de/support/ecampus/kalender
+
+INHALTSVERZEICHNIS
+
+- Kalenderfunktion im eCampusWoher kommen die Termine?In Stud.IP Veranstaltungen eintragenIn Stud.IP gesperrte Veranstaltungen für den Kalender vormerkenPersönliche Termine erstellenPersönliche Termine löschenVeranstaltungen ausblenden / Gesperrte Termine vom Kalender entfernenTermindetails und Verlinkungen.Ansichten und EinstellungenKalender als ical exportieren/synchronisierenNeue URL erzeugenURL per Mail versendenReiner Export
+- Woher kommen die Termine?
+- In Stud.IP Veranstaltungen eintragen
+- In Stud.IP gesperrte Veranstaltungen für den Kalender vormerken
+- Persönliche Termine erstellen
+- Persönliche Termine löschen
+- Veranstaltungen ausblenden / Gesperrte Termine vom Kalender entfernen
+- Termindetails und Verlinkungen.
+- Ansichten und Einstellungen
+- Kalender als ical exportieren/synchronisierenNeue URL erzeugenURL per Mail versendenReiner Export
+- Neue URL erzeugen
+- URL per Mail versenden
+- Reiner Export
+
+
+KALENDERFUNKTION IM ECAMPUS
+
+
+Der eCampus Kalender gibt Ihnen einen Überblick über Ihre Veranstaltungen und Termine. Von jedem Veranstaltungstermin können Sie in die entsprechende Veranstaltung im Vorlesungsverzeichnis (UniVZ) und ins Stud.IP springen. Der Kalender kann über den Menüpunkt “Kalender“ in der Navigationsleiste des eCampus aufgerufen werden.
+
+
+
+WOHER KOMMEN DIE TERMINE?
+
+
+Im Kalender werden die Termine aller Veranstaltungen angezeigt, für die Sie sich in Stud.IP eingetragen haben, bzw. die Sie sich vorgemerkt haben. Außerdem können Sie in den Kalender Ihre persönlichen Termine eintragen.
+
+
+
+IN STUD.IP VERANSTALTUNGEN EINTRAGEN
+
+
+Wenn Sie sich in eine Stud.IP Veranstaltung eintragen möchten, dann folgen Sie bitte  den Hinweisen in der Stud.IP Hilfe:http://docs.studip.de/help/2.1/de/ugoe/Basis/VeranstaltungenAbonnierenundhttp://docs.studip.de/help/2.1/de/ugoe/Basis.FAQVaAnmeldung. Die Termine der Veranstaltungen, in die Sie sich eingetragen haben, werden anschließend im eCampus Kalender angezeigt.
+
+
+
+IN STUD.IP GESPERRTE VERANSTALTUNGEN FÜR DEN KALENDER VORMERKEN
+
+
+Wenn eine Veranstaltung in Stud.IP noch gesperrt ist, dann können Sie die Termine der Veranstaltung dennoch in Ihrem eCampus Kalender vormerken/anzeigen lassen. Warum Veranstaltungen Stud.IP gesperrt sein können, entnehmen Sie bitte diesen Hinweisen aus der Stud.IP Hilfe (http://docs.studip.de/help/2.1/de/ugoe/Basis.FAQVaAnmeldung). Zum Vormerken einer gesperrten  Veranstaltung klicken Sie einfach auf den Link [Nur im Stundenplan und im Kalender vormerken].
+
+
+
+
+
+
+PERSÖNLICHE TERMINE ERSTELLEN
+
+
+Zusätzlich zu den Terminen, die automatisch anhand Ihrer  Stud.IP  Veranstaltungen in den Kalender eingetragen werden, können Sie auch eigene Termine erstellen. Klicken Sie dazu entweder auf den Menüpunkt [Termin anlegen] oder auf das + Zeichen in einer Kalender Zelle.
+
+
+
+
+
+Daraufhin öffnet sich ein Dialog, in dem Sie die Details Ihres Termins angeben können. Sie können hier unter anderem  die Start- und Endezeit des Termins bestimmen, den Termin einer Kategorie zuordnen, einen Ort bestimmen und angeben, ob sich um einen Serientermin handelt. Nach dem Speichern wird der Termin im Kalender angezeigt. Die Farbe des Termins richtet sich dabei nach der ausgewählten Kategorie.
+
+
+
+
+
+
+
+
+Beachten Sie, dass alle Termine des eCampus Kalenders auch im Planer von Stud.IP angezeigt werden und umgekehrt.
+
+
+
+PERSÖNLICHE TERMINE LÖSCHEN
+
+
+Sie können persönliche Termine löschen, indem Sie den Termin im Kalender anklicken und im sich öffnenden Dialog den Button [löschen] klicken.
+
+
+
+
+
+
+VERANSTALTUNGEN AUSBLENDEN / GESPERRTE TERMINE VOM KALENDER ENTFERNEN
+
+
+Wenn Sie Veranstaltungen, in die Sie sich eingetragen haben und in denen Sie eingetragen bleiben wollen, nicht mehr auf Ihrem eCampus Kalender sehen möchten, dann entfernen Sie bitte unter [Veranstaltungstermine] den Haken der entsprechenden Veranstaltungen. Auf diese Weise können Sie auch die gesperrten Veranstaltungen, die Sie sich vorgemerkt haben, wieder von Ihrem Kalender entfernen. Beachten Sie, dass Sie das Semester wechseln müssen, wenn sie Veranstaltungen aus den Vorsemestern ausblenden möchten.
+
+
+
+
+
+
+TERMINDETAILS UND VERLINKUNGEN.
+
+
+Wenn Sie einen Termin im Kalender anklicken, wird Ihnen ein Fenster mit Details zum Termin angezeigt. In diesem Detailfenster sehen Sie grundlegende Information zum Termin(Zeiten, Beschreibungen, den Ort etc.) auf einen Blick und können außerdem über die Links [Zur Veranstaltung in Stud.IP] und [Zur Veranstaltung in UniVZ] die Veranstaltung im entsprechenden System direkt aufrufen.
+
+
+
+
+
+Ebenso können Sie auch über die entsprechenden Icons, ohne Aufruf des Detailfensters, zu der Veranstaltung in Stud.IP oder UniVZ gelangen.
+
+
+
+
+
+Bei persönlichen Terminen können im Detailfenster des Termins die Einstellungen verändert oder der Termin gelöscht werden.
+
+
+
+ANSICHTEN UND EINSTELLUNGEN
+
+
+Im Kalender  stehen Ihnen eine Tages-, Wochen-, Monats- und Jahresansicht zur Verfügung, wobei beim Aufruf des Kalenders immer die Wochenansicht der aktuellen Woche angezeigt wird. Sie können dieses und andere Einstellungen unter dem Menüpunkt [Einstellungen] ändern.
+
+
+
+
+
+Außerdem können Sie aus der aktuellen Ansicht direkt in eine bestimmte Woche (einen bestimmten Monat etc.) springen, indem Sie unterhalb des Kalenders in den Eingabefelder [Gehe zu] ein Datum eingeben und den Button [absenden] klicken.
+
+
+
+
+
+Beachten Sie, dass die Icons mit den Verlinkungen zur Veranstaltung in Stud.IP und UniVZ aus Platzgründen nur in der Tages- und Wochenansicht  angezeigt wird. In der Jahresansicht ist die Darstellung soweit vereinfacht, dass nur noch die Tage markiert werden, an denen Termine existieren. Um die Termine selbst zu sehen, wechseln Sie bitte in eine andere Ansicht.
+
+
+
+KALENDER ALS ICAL EXPORTIEREN/SYNCHRONISIEREN
+
+
+Wenn Sie eine Terminkalenderanwendung verwenden, in die Sie externe Kalender per icalURLeinbinden können (z.B. Outlook, Google Kalender) oder Ihre Veranstaltungstermine auch auf Ihrem Smartphone(z.B. Iphone) angezeigt bekommen möchten, dann können Sie die Export/Sync Funktion des eCampus Kalenders verwenden.
+
+
+
+
+
+Tragen Sie dazu dieURL(A), die auf dem Export/Sync Dialog angegeben ist, als externen Kalender in Ihr Terminkalenderprogramm oder Ihr Smartphone ein.(Entnehmen Sie bei Bedarf die genauen Anweisungen zum Einbinden eines externen Kalenders dem Handbuch Ihres Programms oder Smartphones)Veränderungen an den Terminen des eCampus Kalenders können Sie aus einem externen Programm jedoch nicht vornehmen, es ist lediglich ein lesender Zugriff auf Ihre Termine.
+
+
+
+NEUE URL ERZEUGEN
+
+
+Bei derURL(A)handelt es sich um eine zufallsgenerierte Adresse, über die ein Zugriff auf sämtliche Termine möglich ist.  Sollte Sie dieseURLeinmal ändern wollen, dann können Sie den Link [Neue Adresse generieren](B)verwenden. So wird eine neue, zufälligeURLfür den externen Zugriff auf den Kalender erstellt und die Alte ungültig. Beachten Sie bitte, dass Sie in allen Programmen, in denen Sie die alteURLbereits verwenden, nun die neueURLeintragen müssen, damit die Termine weiterhin angezeigt werden. Das Neugenerieren derURLkann sinnvoll sein, wenn Ihre KalenderURLversehentlich in die Hände unbefugter Personen geraten ist (z.B. durch Verlust des Smartphones).
+
+
+
+URL PER MAIL VERSENDEN
+
+
+Um die Eingabe derURLauf kleinen Smartphone Tastaturen komfortabler zu gestalten, bietet der eCampus Kalender die Möglichkeit dieURLan eine Mailadresse zu verschicken(C). Sie können die E-Mail dann mit Ihrem Smartphone abrufen, dieURLkopieren und an der entsprechenden Stelle einfügen, ohne die kryptischen Zeichen abtippen zu müssen.
+
+
+
+REINER EXPORT
+
+
+Bei den zuvor beschriebenen Verfahren wird eine Verknüpfung Ihres externen Programms oder Smartphones mit dem eCampus Kalender hergestellt. Was bedeutet, dass alle Terminänderungen automatisch über eine Internetverbindung an das externe Programm weitergegeben werden. Sollten Sie dies nicht wünschen, können Sie die Termine auch als *.ics  Datei exportieren und verwenden. Klicken Sie dazu einfach im Browser mit der rechten Maustaste auf dieURL(A)und wählen Sie [Ziel speichern unter…], um eine *.ics Datei auf Ihrer Festplatte abzulegen.
