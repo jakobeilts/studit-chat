@@ -61,7 +61,8 @@ if prompt:
     Beantworte Fragen möglichst in der Sprache der Anfrage (Deutsch oder Englisch).
     Formuliere deine Antworten klar, freundlich und präzise. Fasse dich kurz, es sei denn, die Frage verlangt nach mehr Details.
     
-    Hier sind die verfügbaren Informationen:
+    Die folgenden Informationen verwendest du um die Fragen zu beantworten. Diese Informationen werden dir nicht direkt vom Nutzer zu Verfügung gestellt. Verwende also nicht Sätze wie "Auf Grundlage der bereitgestellten Informationen". 
+    Es soll sich anfühlen, als wären diese Informationen dein natürliches Wissen.
     
     {context}
     
@@ -70,9 +71,8 @@ if prompt:
     Frage: {prompt}
     """
 
-    with st.spinner("denkt nach..."):
-        # Generate response
-        response = llm(system_prompt)
+    # Generate response
+    response = llm(system_prompt)
 
     # Append sources if available
     source_text = "\n\n🔗 **Source(s):**\n" + "\n".join(sources) if sources else ""
@@ -89,4 +89,3 @@ if prompt:
 
     # Store response in session state
     st.session_state.messages.append({"role": "assistant", "content": final_response})
-    st.chat_message("assistant").markdown(final_response)
