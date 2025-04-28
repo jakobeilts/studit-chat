@@ -1,0 +1,63 @@
+https://wiki.student.uni-goettingen.de/support/drucken/gwdg_account
+
+INHALTSVERZEICHNIS
+
+- GWDG Accounts: So drucken MitarbeiterDrucker hinzufügenDruckernamenLRC SUBLRC MedLRC KWZBB WiSoBB PhysikGeographie (Medienraum 1.OG)
+- Drucker hinzufügen
+- DruckernamenLRC SUBLRC MedLRC KWZBB WiSoBB PhysikGeographie (Medienraum 1.OG)
+- LRC SUB
+- LRC Med
+- LRC KWZ
+- BB WiSo
+- BB Physik
+- Geographie (Medienraum 1.OG)
+
+
+GWDG ACCOUNTS: SO DRUCKEN MITARBEITER
+
+
+Nutzer eines GWDG Accounts drucken anders als Studierende im Direktdruckverfahren, d.h. sie schicken die Aufträge direkt an einen Drucker, ohne dass die Aufträge mit einer Karte freigegeben werden müssen. Die Aufträge werden durch ein Trennblatt separiert. Follow Me Printing ist für Mitarbeiter zur Zeit nicht verfügbar.
+
+
+
+DRUCKER HINZUFÜGEN
+
+
+Vorgehensweise: Am Rechner mit GWDG\account anmelden. Dann über die Tastenkombination Windows+R folgendes eingeben: „\\gwdg-print3.gwdg.de“Es öffnet sich ein Fenster mit diversen Druckerwarteschlangen. Alle Warteschlangen, die mit b anfangen, gehören zu Druckern im LRC SUB. Z.B. bmlp4s für einseitig A4 schwarzweiss. bclp4 wäre für einseitig A4 farbig. Wenn man dann Aufträge da hin schickt, kommen sie auf einem gekennzeichneten Gerät heraus (mit weißem Deckblatt).
+
+
+
+DRUCKERNAMEN
+
+
+Es ist notwendig, dass Sie die entsprechenden Warteschlangennamen kennen, um auch auf den richtigen Drucker zu drucken. Bitte beachten Sie: Nach der Druckausgabe liegen die Aufträge offen an den Standorten. Es kann nicht kontrolliert werden, wer die Aufträge sieht (Datenschutz!) oder sogar (aus Versehen) mitnimmt. Bitte drucken Sie nur das Notwendige aus.
+
+
+Hier eine Übersicht über die Standorte:
+
+
+
+LRC SUB
+
+
+
+LRC MED
+
+
+
+LRC KWZ
+
+
+
+BB WISO
+
+
+
+BB PHYSIK
+
+
+
+GEOGRAPHIE (MEDIENRAUM 1.OG)
+
+
+gwdg account mitarbeiter drucker drucken name druckerwarteschlangen lrc

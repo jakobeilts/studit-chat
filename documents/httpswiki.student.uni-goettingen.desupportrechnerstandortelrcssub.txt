@@ -1,0 +1,98 @@
+https://wiki.student.uni-goettingen.de/support/rechnerstandorte/lrcs/sub
+
+INHALTSVERZEICHNIS
+
+- LRC SUB
+- FAQWer kann das LRC SUB nutzen?Wie kann ich mich an den Rechnern anmelden?Wo bekomme ich Hilfe?Wie kann ich drucken?Verfügbare SoftwareStandortspezifische Software
+- Wer kann das LRC SUB nutzen?Wie kann ich mich an den Rechnern anmelden?Wo bekomme ich Hilfe?Wie kann ich drucken?Verfügbare SoftwareStandortspezifische Software
+- Wer kann das LRC SUB nutzen?
+- Wie kann ich mich an den Rechnern anmelden?
+- Wo bekomme ich Hilfe?
+- Wie kann ich drucken?
+- Verfügbare Software
+- Standortspezifische Software
+
+
+LRC SUB
+
+
+Das Learning Resources Center (LRC) in der SUB Zentralbibliothek ist ein Raum mit PC-Arbeitsplätzen und ergänzender Technik, damit Du Medien und Dokumente recherchieren, bearbeiten und ausgeben kannst. Dafür stehen zur Verfügung:
+
+- Über 50 moderne Windows Workstations
+- Hochgeschwindigkeits-Internetzugang
+- Zugriff auf den GUK-Onlinekatalog und die Datenbankangebote der SUB
+- umfangreicheSoftwarepakete
+- studIT-Helpdesk mit täglich mind. sechs Stunden Beratung, am Wochenende drei Stunden
+- A3 und A4-Flachbettscanner
+- Arbeitsplätze für Video- und Grafikbearbeitung
+- eine Druckstraße mit fünf Hochleistungsdruckern (Farbe/SW) zum Drucken in A4/A3
+- ein Posterplotter für A0-Großformatdruck
+- Hebelscheren
+
+
+FAQ
+
+
+Hier ein paar häufig gestellte Fragen:
+
+
+
+WER KANN DAS LRC SUB NUTZEN?
+
+
+Die computerbasierten Arbeitsplätze des LRC stehen allen Studierenden,
+Dozierenden, Wissenschaftlerinnen und Wissenschaftlern, weiteren Mitarbeitergruppen
+der Universität Göttingen und einiger angeschlossener Einrichtungen
+sowie Privatnutzern und Gästen der SUB offen (für SUB Gäste ist ein SUB Gastaccount notwendig). Die Nutzung des
+LRC SUB (außer Drucken) ist natürlich kostenlos. Bitte beachten Sie dieBenutzungsordnungdes LRC!
+
+
+
+WIE KANN ICH MICH AN DEN RECHNERN ANMELDEN?
+
+
+Zur Benutzung benötigen Sie einenAccount. Studierende der Georg-August
+Universität bekommen diesen zusammen mit demStudienausweisbei der
+Immatrikulation. Inhaber eines GWDG-Accounts können sich ebenfalls an
+den Rechnern anmelden. Privatnutzer der SUB können sich mit ihremKopier-& Druckkontoanmelden (Domäne UG-Student). Mit allen diesen Accounts kann man auch dasWLAN
+(GoeMobile/eduroam)in der SUB nutzen.
+
+
+
+WO BEKOMME ICH HILFE?
+
+
+studIT ist der IT-Dienstleister für Studierende der Universität
+Göttingen. DieBeratung von studITist am
+Beratungstresen täglich mindestens sechs Stunden für Sie da. DasSOS (studIT Online Support)bietet Hilfestellung im Internet.
+
+
+
+WIE KANN ICH DRUCKEN?
+
+
+Im LRC SUB wird auch über dieFollow-Me Warteschlangengedruckt. Weitere Informationen zur Bedienung der Geräte gibt eshier im Wiki. Sobald sich Studierende an den
+Rechnern anmelden, sehen sie ihr aktuellesDruckguthabenauf dem Bildschirm.
+Dieses Druckguthaben kann am studITHelpdesk im ZHGmit Zahlung
+perStudierendenausweisaufgeladen werden. Druckguthaben der GWDG-Accounts
+werden über die Institute abgerechnet.
+
+
+
+VERFÜGBARE SOFTWARE
+
+
+Die Rechner des LRC SUB sind Windows-PCs. Es ist folgendeStandardsoftwareinstalliert.
+
+
+
+STANDORTSPEZIFISCHE SOFTWARE
+
+- Auf einigen PCs (siehe Standortplan) ist eine professionelle (lizenzpflichtige) Software für Grafik- und Videobearbeitung installiert.
+- SPSS (nur auf den Rechnern B01 und B02)
+- Jaws (Blindenarbeitsplatz C05/C06)
+
+
+
+
+"lrc sub" lrc sub

@@ -1,0 +1,30 @@
+https://wiki.student.uni-goettingen.de/support/email/webmail
+
+WEBMAIL - ZUGRIFF AUF DEINE MAILS VON ÜBERALL
+
+
+
+ZUGANG ZU DEINER STUDENTISCHEN E-MAIL
+
+
+Deine E-Mail kannst du überall und jederzeit übereCampuschecken. Sollte das eCampus-Portal einmal ausfallen (Wartungsarbeiten oder technische Störungen) gibt es alternativ noch die Möglichkeit, direkt über Outlook Web Access auf deine Mails zuzugreifen.
+
+
+1. Browser öffnen2. Zu folgenderURLbrowsen:http://email.stud.uni-goettingen.de
+
+
+
+
+
+3. Eingabe der Nutzerkennung:
+
+- ug-student\accountname (z.B. ug-student\m.musterfrau)
+- Passwort
+
+4. Emails im Webmailer bearbeiten
+
+
+
+
+
+mail mails adresse webmail studentische account webmailer mailer exchange server

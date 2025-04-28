@@ -1,0 +1,117 @@
+https://wiki.student.uni-goettingen.de/support/account/passwort
+
+INHALTSVERZEICHNIS
+
+- Dein Passwort
+- Aktuelle Passwortrichtlinie für das studentische Passwort
+- Ein gutes Passwort
+- Passwort Leak
+
+
+DEIN PASSWORT
+
+
+Sobald du immatrikuliert bist, hast du das Recht auf einen studIT Account. Das erste Passwort bekommst du bei der Ausgabe deines Accounts in derChipkartenstelle, zusammen mit deinem Studienausweis. Oder du hast es bereits vorher im Abholportal unterhttps://ecampus.uni-goettingen.de/accountinitial gesetzt.
+
+
+Falls das Passwort mit der Chipkarte kam: Das erhaltene Initialpasswort solltest du zeitnah unterecampus.uni-goettingen.de/accountändern und ein persönliches Passwort wählen. Hinweise für gute Passwörter gibt es unten auf dieser Seite.
+
+
+Bei der Benutzung von Umlauten (ä,ö,ü) sind uns gehäuft Probleme bei der Nutzung von eduroam aufgefallen. Der Radius-Authentifizierungsserver scheint Umlaute nicht immer zu akzeptieren. Bitte vermeidet also Umlaute in den Passwörtern! Verwende außerdem auf keinen Fall Teile deines (Account-)Namens im Passwort!
+
+
+Das Passwort kannst du jederzeit unterhttps://ecampus.uni-goettingen.de/accountändern. Dort mit deinem Account einloggen und „Passwort ändern“ anwählen.
+
+
+Falls du dein Passwort mal vergessen hast oder dein Login nicht funktioniert, komm einfach an einen unsererBeratungsstandorte, wir helfen dir gern!Wenn du nicht zu uns kommen kannst, aber ein neues Passwort brauchst, wende dich bitte an die Infoline Studium unter 0551 39 113 oderinfoline-studium@uni-goettingen.deBitte beachte dabei die Öffnungszeiten: Mo-Do von 9 bis 16 Uhr und Fr von 9 bis 13 Uhr
+
+
+Wir werden dich niemals mit einem Link auffordern, dein Passwort zu ändern. Wir verschicken auch keine Passwörter per Mail oder Post. Für ein Zurücksetzen des Passworts muss man persönlich zu unserem Helpdesk kommen oder sich bei der Infoline melden.
+
+
+
+AKTUELLE PASSWORTRICHTLINIE FÜR DAS STUDENTISCHE PASSWORT
+
+
+Beim Setzen eines Passwortes sind folgende Passwortrichtlinien zu beachten:
+
+- Mindestens 10 Zeichen (Buchstaben groß, klein, Zahlen)
+- Maximal 20 Zeichen
+- Mindestens ein Sonderzeichen
+- Nur erlaubte Zeichen (a-Z 0-9 !?@(){}\/=~$#*-+.,_)
+- Passwort enthält keine Teile des Benutzernamens
+
+
+EIN GUTES PASSWORT
+
+
+Quelle:https://www.luis.uni-hannover.de/pw_used.html
+
+- schöpft die volle Möglichkeit von mind. 10 Zeichen aus
+- enthält mindestens zwei Buchstaben unter Verwendung von Groß- als auch Kleinbuchstaben
+- enthält mindestens zwei Ziffern oder Sonderzeichen, diese stehen nach Möglichkeit nicht nur am Anfang und/oder Ende
+- kann man sich leicht merken
+- kann man schnell eintippen (das Passwort ist durch Über-die-Schulter-schauen nicht leicht erkennbar)
+- enthält keine (erkennbare) Systematik, d.h. erscheint wie eine zufällig erzeugte Zeichenfolge
+- ist kein Wort einer bekannten Sprache
+- ist nur dem Inhaber der Kennung bekannt
+- wird in angemessenen Abständen geändert. Was angemessen bedeutet, richtet sich nach den Sicherheitsanforderungen. Für eine normale Benutzerkennung reicht eine Änderung ca. alle sechs Monate.
+
+Allgemein: für verschiedene Kennungen sollte man verschiedene Passwörter wählen.
+
+
+Im Anschluss stellen wir Ihnen einige Verfahren zur Erzeugung von sicheren Passwörtern vor, die den oben genannten Anforderungen genügen und trotzdem leicht zu merken sind:
+
+
+Grundsatz: Nicht das Passwort wird gemerkt, sondern die Methode, mit der es gebildet wird!
+Akronym-Methode
+
+
+Man bildet einen Satz und verwendet als Passwort die Anfangs- oder auch Endbuchstaben der einzelnen Wörter, zusätzlich fügt man noch mindestens zwei Ziffern oder Sonderzeichen ein.
+
+
+Beispiele:
+
+
+Es kann auch eine Zeile aus einem Gedicht, einem Lied oder ein (jedoch bitte nicht allzu gebräuchlicher) Spruch gewählt und darauf die Akronym-Methode angewendet werden. Sicherheitshalber sollte man immer noch Sonderzeichen oder Variationen einstreuen.
+Methode Doppelwort
+
+
+Suchen Sie sich zwei Wörter (Autoren, Schauspieler, Hobbys, …) aus, die geschickt gekürzt, verschachtelt und zusätzlich mit Sonderzeichen versehen werden.
+
+
+Beispiel:
+
+
+Collage-Methode
+
+
+Man wählt ein Wort aus einer natürlichen Sprache und übersetzt dieses Wort in eine, besser noch in zwei andere Sprachen. Anschließend entnimmt man diesen Wörtern zwei oder drei Buchstaben (Wortanfang, Wortmitte, Wortende) und verbindet sie mit Ziffern oder Sonderzeichen. Zur weiteren Erhöhung der Sicherheit kann man noch gleichzeitig Groß- und Kleinbuchstaben verwenden.
+
+
+Beispiel:
+
+
+Besitzen Sie mehrere Kennungen und sind dadurch gezwungen, sich viele verschiedene Passwörter zu merken, empfiehlt es sich, systematisch Passwort-Familien zu erzeugen. Sie bilden nach den oben erläuterten Methoden ein 6-7 Zeichen langes Passwort. Dieses kann dann durch 1-2 Zeichen ergänzt werden, die Ihnen die Unterscheidung der verschiedenen Kennungen ermöglichen (Rechnernamen oder Zweck der geschützten Anwendung).
+Umstritten: Die Methode Zufall
+
+
+Wenn Sie acht Zeichen per Zufall oder zumindest sehr willkürlich auswählen, dann erhalten Sie ein in der Sicherheit nicht mehr zu überbietendes Passwort. Vermeintlich. Denn angesichts der Tatsache, dass solche Passwörter sowohl beim Auswendiglernen als auch bei der Blindeingabe oftmals große Schwierigkeiten bereiten, sind sie nur scheinbar sicher. Muss man in Anwesenheit anderer Personen ein Passwort eingeben und ist dann auf das „Adler-Such-System“ bei der Eingabe angewiesen, erleichtert dieses den Anwesenden das unauffällige Mitlesen der eingegebenen Zeichenfolge. Oder - worst case - man kann sich das supersichere Passwort gar nicht merken und notiert es sich irgendwo.
+
+
+Ein Tipp, für den Fall, dass Sie dieser Methode den Vorzug geben: Nur durch häufige Benutzung lassen sich komplizierte Passwörter zuverlässig merken. Sie sollten sich nach einer Passwortänderung ruhig ein halbes Dutzend mal einloggen und es später mindestens wöchentlich tun, um das Passwort zuverlässig im Gedächtnis zu behalten.
+Allgemeiner Hinweis
+
+
+Diese Bildungsregeln sollen Ihnen nur als Anregung dienen. Es ist sehr erwünscht, dass sich jeder Benutzer Gedanken über einen eigenen Algorithmus macht oder die Vorschläge zumindest abwandelt. Dadurch wird verhindert, dass neue Generationen von Knack-Programmen, die auch auf diese schon häufig empfohlenen Bildungsregeln eingehen, erfolgreich sind. Insbesondere verwenden Sie nicht die Passwörter, die in diesem Beitrag als Beispiele aufgeführt wurden.
+account passwort vergessen passwörter sb funktion password login
+
+
+
+PASSWORT LEAK
+
+
+Immer wieder werden Passwörter aus anderen Systemen gestohlen und veröffentlicht. Man spricht hier von sog. Leaks. Es gibt Einrichtungen, bei denen man überprüfen kann, ob die eigene E-Mail-Adresse gestohlen wurde und wo das der Fall war. Das Hasso-Plattner-Institut der Universität Potsdam betreibt eine solche Datenbank. Dort gibt man seine E-Mail-Adresse an und erhält eine Antwort, ob der Account irgendwo auftaucht.
+
+
+https://sec.hpi.de/ilc/search?lang=de

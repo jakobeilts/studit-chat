@@ -1,0 +1,35 @@
+https://wiki.student.uni-goettingen.de/support/drucken/probleme_beim_drucken
+
+INHALTSVERZEICHNIS
+
+- Probleme beim DruckenDruckauftrag abgeschickt, aber der Drucker druckt nichtProbleme im WiSo-CIP-Pool
+- Druckauftrag abgeschickt, aber der Drucker druckt nicht
+- Probleme im WiSo-CIP-Pool
+
+
+PROBLEME BEIM DRUCKEN
+
+
+
+DRUCKAUFTRAG ABGESCHICKT, ABER DER DRUCKER DRUCKT NICHT
+
+- Als erstes solltest du prüfen, ob du denrichtigen Druckerangewählt hast. Bitte drucke standardmäßig auf die Follow-Me (-Farbe)-Warteschlange. Sollte im Druckmenü des Programms (Word oder Adobe Acrobat) kein Drucker erscheinen, wende dich bitte an unseren Support. Der Account muss dann erst mit den Netzwerkdruckernverbunden werden.
+- Achte auf Fehlermeldungen des Drucksystems. Wenn ein Auftrag nicht gedruckt werden kann, erscheint eine Meldung, die über die Ursache Auskunft gibt (z.B. ungenügendes Guthaben oder falsches Papierformat).
+- Check DeinDruckguthaben: Nur mit Geld auf dem Druckguthaben kannst du Aufträge am Follow-Me Gerät ausgeben. Wenn nichts abgebucht wurde, dann war der Druckauftrag nicht erfolgreich bzw. wurde verweigert.
+- Bei weiter bestehenden Problemen, wende dich an die Mitarbeiter am jeweiligen Standort (LRC, CIP-Pool,…) oder schreib eine Mail aninfo@studit.uni-goettingen.de.
+- Druckkonten haben nur Studierende der Uni Göttingen sowie Nutzer mit SUB-Accounts („Druck-und Kopierkonto“) und externen Accounts (s.1000xxxx).
+- Wenn an einem Follow-Me Gerät ein Auftrag nicht herauskommt, liegt das häufig schlicht daran, dass die Papiermagazine oder Toner leer sind. Bitte wende dich an die Aufsicht, die dann Papier/Toner nachlegt.
+- In seltenen Fällen kommt es beim Follow-Me-Druck zu folgendem Problem: Der Druckauftrag wird mittels Studienausweis freigeben, der Kopierer empfängt darauf hin die Daten (zu erkennen an der blinkenden „Daten“-LED. Danach passiert nichts mehr - die LED blinkt weiter, es werden aber keine Seiten gedruckt. Wenn dieses Phänomen auftritt und der Kopierer nicht innerhalb von zwei Minuten mit dem Drucken beginnt, muss der Kopierer einmal aus- und wieder eingeschaltet werden (mechanischer Schalter an der vorderen oder linken Seite des Gerätes). Danach wird das Dokument ausgegeben.
+
+
+PROBLEME IM WISO-CIP-POOL
+
+
+Du bist für ein Fach der Wirtschafts- oder Sozialwissenschaftlichen Fakultät immatrikuliert, aber kannst dich im WiSo-CIP-Pool nicht einloggen und deshalb auch nicht drucken?
+
+
+Das Problem kann sein, dass du für den CIP-Pool keine Berechtigung hast, wenn du SoWi oder WiWiim Nebenfachstudierst.
+
+
+Frage bitte bei den Beratungskollegen im CiP Pool nach, wie du eine Berechtigung erhalten kannst.
+  drucken drucker problem defekt funktioniert nicht printer

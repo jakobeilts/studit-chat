@@ -1,0 +1,36 @@
+https://wiki.student.uni-goettingen.de/support/drucken/drucken_ios
+
+DRUCKEN UNTER IOS - IPHONE UND IPAD
+
+
+Wegen eines Umzugs der Druckserver kann es zu Problemen kommen. Bitte lösche die „Drucken“ und Mobility Print-Profile in den Systemeinstellungen und entferne die Papercut-App. Führe die Installation dann erneut wie unten beschrieben durch.
+
+
+Mit einem iPhone oder iPad kannst du nativ auf die Follow-Me fähigen Kopierer drucken. So musst du vorgehen:
+
+
+Dein Gerät muss im Uninetz sein, d.h. imeduroamoderper VPN verbunden.
+
+
+Klicke auf diesen Link:http://print.student.uni-goettingen.de:9191/ios/installund installiere die Papercut-„App“. (Nach dem Download unter Systemeinstellungen→Allgemein–>Profile das Profil installieren). Anschließend solltest du folgendes App Icon sehen:
+
+
+Öffne die App und trage deinen Accountnamen und Passwort ein, speichere die Daten.
+
+
+Klicke dann auf diesen Linkund installiere das Profil, das die freigegebenen Drucker anlegt.:http://print-win.student.uni-goettingen.de:9163/client-setup/ios.html
+
+
+Danach sollte das unter Profile so aussehen:
+
+
+Öffne nun das zu druckende Dokument (z.B. PDF) und sende den Druckauftrag mit den entsprechenden Einstellungen ab.
+
+
+Gib deine Accountdaten für den entsprechenden Drucker dann nochmals ein. (Das muss man nur beim ersten Mal machen!)
+
+
+Nach Absenden des Druckauftrags muss dieser in der Papercut App noch freigegeben werden (Also die Kosten bestätigen), sonst landet er nicht in der Follow-Me Warteschlange.Die Freigabe wird dann bestätigt.
+
+
+Im Anschluss dann den Auftrag an einem beliebigen Endgerät freigeben.

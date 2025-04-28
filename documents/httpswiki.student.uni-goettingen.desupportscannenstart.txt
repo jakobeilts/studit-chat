@@ -1,0 +1,28 @@
+https://wiki.student.uni-goettingen.de/support/scannen/start
+
+SCANNEN
+
+
+Scannen kannst du auf 3 verschiedene Arten:
+
+- anMultifunktionsdruckern mit Scan-to-USB und Scan-to-Mail Funktion
+- an bestimmtenRechnern in den LRCs
+- an denBuchscannern (Auflichtscanner) in den Bereichsbibliotheken der SUB
+
+Nach demEinloggenan einem Rechner mit angeschlossenem Scanner kann man entweder direkt über das Programm Adobe Acrobat Professional aus Scans PDF Dokumente erstellen (Menüpunkt „Erstellen“→ Aus Scan), oder man benutzt das installierte Scan-Programm, in welchem man differenziertere Einstellungen machen kann.
+
+
+Hier findest du Anleitungen, wie du die Scanner benutzen kannst. Falls du Hilfe benötigst, frag einfach unsere Beratung in den LRCs.
+
+- a3_scanner
+- a4_scanner
+- a4_scanner_kwz
+- buchscanner
+- diascanner
+
+
+...
+
+- start
+
+scan scanner scanning dia dias diascanner

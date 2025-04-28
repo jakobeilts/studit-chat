@@ -1,0 +1,35 @@
+https://wiki.student.uni-goettingen.de/support/rechnerstandorte/notebooksfuerblinde
+
+INHALTSVERZEICHNIS
+
+- Leih-Notebooks für sehbeeinträchtigte StudierendeVorlesesoftware JAWSSpracherkennungssoftware Dragon Home 15.0
+- Vorlesesoftware JAWS
+- Spracherkennungssoftware Dragon Home 15.0
+
+
+LEIH-NOTEBOOKS FÜR SEHBEEINTRÄCHTIGTE STUDIERENDE
+
+
+Dieser Service steht nur Personen mit einer Sehbeeinträchtigung zu.
+
+
+Für Studierende besteht die Möglichkeit, ein Notebook von uns zu entleihen, um die Prüfungen barrierefrei durchführen zu können. Wir haben zwei Notebooks zur Verfügung. Auf diesen ist Windows, das Microsoft Office Paket (Word, Excel, Powerpoint) sowie Libre Office installiert.
+
+
+
+VORLESESOFTWARE JAWS
+
+
+Beide Notebooks sind auch jeweils mit einer USB-Braille-Zeile ausgestattet. Eigene Braille-Zeilen können natürlich auch genutzt werden, sofern diese per USB und Plug-n-Play funktionieren. 
+Die Software JAWS ermöglicht das Vorlesenlassen von Bildschirminformationen für blinde Studierende in verschiedenen Geschwindigkeiten (bitte eigene Kopfhörer benutzen).
+
+
+
+SPRACHERKENNUNGSSOFTWARE DRAGON HOME 15.0
+
+
+Auf einem der Notebooks ist die Spracherkennungssoftware Dragon Home 15.0 installiert. Mit dieser können Texte diktiert und automatisch transkribiert werden. 
+Die Netzwerkkarten der Notebooks wurde deaktiviert, um der Prüfungssituation Rechnung zu tragen. Nach Rücksprache mit den Dozenten/Prüfern kann diese aber natürlich auch wieder aktiviert werden, um Internetzugang über eduroam zu ermöglichen.
+
+
+Um eines der Notebooks für eine Prüfung zu entleihen, wenden Sie sich bitte per Mail an campussupport@uni-goettingen.de Wir besprechen dann die Leihmodalitäten.

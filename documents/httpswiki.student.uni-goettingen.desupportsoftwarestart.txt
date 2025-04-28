@@ -1,0 +1,255 @@
+https://wiki.student.uni-goettingen.de/support/software/start
+
+INHALTSVERZEICHNIS
+
+- Software für StudierendeSonderkonditionen Software für Studierende
+- Sonderkonditionen Software für Studierende
+- Campuslizenz Citavi und Citavi Web
+- Campuslizenz Microsoft Office 365 Education
+- Cloudspeicher mit Studierendenaccount
+- Apple on Campus
+- Atlas.ti
+- Microsoft-Produkte: MSDN Academic Alliance /Dreamspark
+- PV Wave
+- Campuslizenz STATISTICASTATISTICA-Lizenz-Server
+- STATISTICA-Lizenz-Server
+- SAS Statistik
+- SPSS Statistik
+- Campuslizenz MindManager
+- AMBOSS, via medici, Meditricks
+- juris, beck-online, beck-eLibrary - Zugänge für Juristen
+- Smartboard Software
+
+
+SOFTWARE FÜR STUDIERENDE
+
+
+
+SONDERKONDITIONEN SOFTWARE FÜR STUDIERENDE
+
+
+Die folgenden Links verweisen auf unterschiedliche Angebote von Herstellern von Hard- und Software und auf das Software-Portal Niedersachsen für Forschung und Lehre. Ein Blick lohnt immer…
+
+
+https://gwdg.asknet.de/cgi-bin/home/ml=DE
+
+
+
+CAMPUSLIZENZ CITAVI UND CITAVI WEB
+
+
+Citavi Desktop ist ein Literaturverwaltungsprogramm für Microsoft Windows. In der laufenden Lizenzperiode steht Angehörigen der Universität Göttingen auch Citavi Web zur Verfügung. Damit ist das Literaturverwaltungsprogramm unabhängig vom Betriebssystem nutzbar und auch für alle interessant, die mit MacOS oder Linux arbeiten. Studierende und Angehörige der Universität Göttingen können Citavi kostenfrei nutzen. Alle Infos zu Citavi bietet die SUB auf dieser Website gesammelt an:https://www.sub.uni-goettingen.de/lernen-lehren/wissenschaftlich-arbeiten-tools-und-techniken/literatur-verwalten/citavi/
+
+
+
+CAMPUSLIZENZ MICROSOFT OFFICE 365 EDUCATION
+
+
+An der Georg-August-Universität Göttingen liegt ein Campusvertrag über Microsoft-Produkte vor. Studierende können Microsoft 365 mit Office im Rahmen des Campus Agreements über das Kundenportal der GWDG beziehen:
+
+- Anmeldung mit stud. Email-Adresse am Kundenportal der GWDG:www.gwdg.de
+- In der Kontoverwaltung (Mein Konto) unter Externe Dienste auf Bearbeiten klicken
+- Microsoft 365 / Office aktivieren klicken
+- Datenschutzrechtliche Informationen + Nutzungsbestimmungen lesen und dem angezeigten Dialog bei Einverständnis zustimmen
+- Nach max. 30 Minuten erhalten Sie eine Bestätigungs-E-Mail mit Zahlungsinformationen, sobald die Freischaltung erfolgt ist.
+
+Sie haben dann 21 Tage Zeit, die Gebühr zu überweisen.
+
+
+Die Nutzung ist sowohl lokal (lokale Installation der Software) als auch in der Microsoft Cloud möglich. Nach Beendigung des Studiums darf die Lizenz nicht mehr genutzt werden. Die Software ist sowohl für Windows als auch für macOS X nur als Download verfügbar. Physische Datenträger gibt es nicht. Die Lizenzaktivierung erfolgt durch Ihre studentische E-Mail-Adresse und das Ihnen bekannte Passwort, das Sie beispielsweise auch für die Anmeldung am eCampus verwenden.
+
+
+Genauere Hinweise findet man auf den Seiten der GWDG:https://docs.gwdg.de/doku.php?id=de:services:email_collaboration:office365#download_aktivierungDer Support für Office 365 ist unter folgender Mail-Adresse direkt zu erreichen:o365-support@gwdg.de
+
+
+OneNote:Zur Übernahme von Notizbüchern aus OneDrive:https://pad.gwdg.de/s/duqEM7Kf7#
+
+
+Mobile AppsEinige Apps, welche den aktuellen Sicherheitsstandards nicht entsprechen, sind von Serverrichtlinien der GWDG gesperrt. So wird auch die mobile Android und iOS Email-App Microsoft Outlook gesperrt. Der Zugriff der mobilen Geräte auf den Exchange Server über ActiveSync mittels solcher Apps ist dann nicht gestattet. In solchem Fall erhaltet ihr eine Fehlermeldung, z.B. Ihr Telefon kann aufgrund einer Zugriffsrichtlinie, die auf dem Server definiert ist, nicht über Exchange ActiveSync mit dem Server synchronisiert werden.
+
+
+
+CLOUDSPEICHER MIT STUDIERENDENACCOUNT
+
+
+Die GWDG bietet auch für Studierende 50 Gigabyte kostenlosen Cloudspeicher via owncloud.gwdg.de an. Die Anmeldung überhttps://owncloud.gwdg.deerfolgt einfach mit derstud. Mailadresseund dem dazugehörigen Passwort. Es können Clients für Mac und Windows heruntergeladen werden.Vorteil: 50GBCloudspeicher kostenlos und die Daten liegen nicht in Übersee, sondern sicher auf den Servern des Rechenzentrums der Uni Göttingen. Eine Einschränkung: Auf den studIT Desktops kann nur der Webclient verwendet werden, da ein voller Owncloud-OrdnerProbleme mit den Roaming Profiles verursachen würde (überfüllteHomeverzeichnisse). Zur Zeit ist das (noch) nicht möglich. Das liegt daran, dass die GWDG Cloud für Studierende 50 GByte umfasst, das studentische Homeverzeichnis aber nur 10GB. Es könnte also der Fall eintreten, dass Daten im Cloudspeicher das Homeverzeichnis dichtmachen und dann wäre der Login am Rechner nicht mehr möglich. Wir arbeiten mit der GWDG an einer Lösung.
+
+
+
+APPLE ON CAMPUS
+
+
+Apple on Campus über die GWDG wurde eingestellt. Apple bietet aber spezielle Bildungspreise für Privatbeschaffungen an. Beim Einkauf im Apple Edu Store gibt es Bildungsrabatte auf ausgewählte Apple-Produkte.
+
+
+Der Zugriff auf den Apple Store Bildung ist über die Apple-Website, telefonisch unter 0800 2000 136 oder in einem Apple Store vor Ort möglich.
+
+
+
+ATLAS.TI
+
+
+ATLAS.ti ist ein Computerprogramm, das hauptsächlich, aber nicht ausschließlich in der qualitativen Forschung oder qualitativen Datenanalyse verwendet wird. 
+Die Software ist auf allen studIT Rechnern installiert und kann von maximal 5 registrierten Usern gleichzeitig genutzt werden. So geht man vor:
+
+- Mit einem Browser folgenden Link aufrufen:https://my.atlasti.com/licenses/redeem/activate/I-A44-285-F72-AB4
+- Ein Konto anlegen (registrieren) unter der eigenen studentischen Email Adresse.
+- Software auf einem studIT Rechner starten
+- Mit der registrierten Email Adresse anmelden
+
+Der Zweck von ATLAS.ti ist es, Forschern dabei zu helfen, komplexe Phänomene aufzudecken und systematisch zu analysieren, die in unstrukturierten Daten (Text, Multimedia, Geodaten) verborgen sind. Das Programm bietet Tools, mit denen der Benutzer Ergebnisse in Primärdatenmaterial lokalisieren, codieren und kommentieren, ihre Bedeutung abwägen und bewerten sowie die häufig komplexen Beziehungen zwischen ihnen visualisieren kann.[2]
+
+
+ATLAS.ti wird von Forschern und Praktikern in einer Vielzahl von Bereichen verwendet, darunter Anthropologie, Kunst, Architektur, Kommunikation, Kriminologie, Wirtschaftswissenschaften, Erziehungswissenschaften, Ingenieurwissenschaften, ethnologische Studien, Managementstudien, Marktforschung, Qualitätsmanagement, Psychologie, Soziologie und Sozialarbeit.
+
+
+ATLAS.ti konsolidiert große Dokumentmengen und verfolgt alle Notizen, Anmerkungen, Codes und Memos in allen Bereichen, die eine genaue Untersuchung und Analyse des Primärmaterials erfordern, das aus Text-, Bild-, Audio-, Video- und Geodaten besteht.
+
+
+Darüber hinaus bietet es Analyse- und Visualisierungstools, mit denen neue interpretative Ansichten zum Material eröffnet werden können.
+
+
+Zur Unterstützung von Mehrbenutzerprojekten mit mehreren Methoden über Raum und Zeit (Längsschnittstudien) steht der Export von Projektdaten mithilfe von XML zur Verfügung. Mit XML kann der proprietäre Charakter der meisten Softwaresysteme gemindert werden. Dies ist in der Tat eine zwingende Voraussetzung in wissenschaftlichen Umgebungen.
+
+
+
+MICROSOFT-PRODUKTE: MSDN ACADEMIC ALLIANCE /DREAMSPARK
+
+
+Studierende derWirtschaftswissenschaftenhaben unter bestimmten Voraussetzungen im Rahmen der Microsoft Azure Dev Tools for Teaching die
+Möglichkeit, Produkte von Microsoft (u.a. Betriebssysteme) kostenlos zu beziehen.
+
+
+
+PV WAVE
+
+
+Für alle Angehörigen der Universität Göttingen sowie die Max-Planck-Institute für Dynamik und Selbstorganisation und Sonnensystemforschung steht unterhttp://www.gwdg.de/index.php?id=827ab sofort im Rahmen der Campuslizenz kostenlos die neue Version 9.5 von PV-WAVE zum Download bereit.
+
+
+WICHTIG: Auch die Lizenzdatei für die neue Lizenzperiode kann unter der angebenen Adresse heruntergeladen werden!
+
+
+
+CAMPUSLIZENZ STATISTICA
+
+
+Für alle Mitarbeiterinnen und Mitarbeiter sowie für die Studierenden der Georg-August-Universität Göttingen besteht ihm Rahmen einer von einigen Instituten und der GWDG gemeinsam finanzierten Campuslizenz die Möglichkeit, das Software-Paket STATISTICA der Firma StatSoft für dienstliche oder bei Studierenden für persönliche Aufgaben kostenfrei zu nutzen.
+
+
+Download der Software und Bestellung der LizenzschlüsselDie Software selber kann hier downgeloadet werden.Dies ist jedoch nur mit Rechnern möglich, deren IP-Adresse aus dem Bereich 134.76.*.* stammt!
+
+
+Für die Verlängerung der Lizenz ist ein Feature Code, für die Neuinstallation der Software sind mehrere Lizenzschlüssel erforderlich, nämlich CD-Key, Installationscode und Seriennummer, die übersupport@gwdg.deangefordert werden können. Bitte gebt im Betreff der E-Mail „STATISTICA-Lizenzen“ an. Die Lizenzschlüssel werden danach per E-Mail zugeschickt.
+
+
+Bei der Installation muss noch eine E-Mail-Adresse angegeben werden, die auf uni-goettingen.de oder gwdg.de enden muss! Die Berechtigung zur Installation wird über eine offene Internet-Verbindung von der Firma StatSoft überprüft. Wenn eine E-Mail-Adresse anderer Art angegeben wird, wird die Installation abgebrochen!
+
+
+
+STATISTICA-LIZENZ-SERVER
+
+
+Seit Januar 2014 steht ein von der GWDG gepflegter zentraler Lizenz-Server für die gleichzeitige Nutzung von maximal 255 STATISTICA-Lizenzen zur Verfügung. Er ist unter dem Namenlic-statistica.gwdg.deund der IP-Adresse134.76.10.109erreichbar.
+
+
+Um den Lizenzserver nutzen zu können, muss STATISTICA über diesen Serverneu installiertwerden. Dazu ist eine Netzlaufwerkverbindung zulic-statistica.gwdg.de\statistica 12erforderlich. 
+Der Zugriff darauf ist nur dann möglich, wenn sich dein PC im Universiätsnetz befindet oder eine Verbindung per VPN hergestellt wird.
+
+
+Hilfe zur Einrichtung desVPN-Clientund eine Anleitung zumVerbinden mit einem Netzlaufwerksind hier hinterlegt. In das Feld „Ordner“ muss „lic-statistica.gwdg.de\statistica 12“ eingetragen werden. 
+Bei der Anmeldung muss dem Benutzernamen die Domäne vorangestellt werden: „ug-student\vorname.nachname“.
+
+
+In diesem Netzlaufwerk findest du den Ordner „Workstation Installer 32“.
+In dem Ordner ist eine Datei mit dem Namen „setup.exe“ zu finden, die zum Installieren des Programms ausgeführt werden muss. Wenn die Installation abgeschlossen ist, kann STATISTICA sofort benutzt werden.
+
+
+
+SAS STATISTIK
+
+
+SAS für statistische Datenanalysen ist ein umfassendes Lösungspaket: von ein- und mehrdimensionalen deskriptiven Methoden über verschiedene Test- und Schätzverfahren bis hin zu multivariaten Methoden wie Varianzanalyse, Faktorenanalyse, Clusteranalyse, Diskriminanzanalyse und Hauptkomponentenanalyse. Für Studierende der Medizin gibt es dafür eine Campuslizenz. Eine Anleitung, wie SAS installiert werden kannfindest du hier.
+
+
+
+SPSS STATISTIK
+
+
+SPSS kann leider nicht kostenlos über eine Campuslizenz bezogen werden, allerdings gibt es ein Angebot von Studyhouse über ein SPSS Student Pack:https://www.studyhouse.de/cgi-bin/product/spss-statistics-base-studypack-ibm-spss4student-statistik-linux-P10012713
+
+
+DasWirtschafts- und Sozialwissenschaftliche Rechenzentrumstellt SPSS für Studierende der Wirtschafts- und Sozialwissenschaftlichen Fakultät über einen Terminalserver zur Verfügung. Die Anleitung zur Nutzung findet sichhier.DasGeorg-Elias-Müller-Institut für Psychologiehat einen SPSS-Terminalserver für Studierende der Psychologie. Auf den Seiten der des Instituts für Psychologie ist neben derAnleitung für Windowsauch dieNutzung des Terminalservers unter Mac OSbeschrieben.
+
+
+
+CAMPUSLIZENZ MINDMANAGER
+
+
+Seit dem 01.06.2008 nimmt die Georg-August-Universität Göttingen am Mietmodell für staatliche Universitäten und Hochschulen der Firma Mindjet GmbH teil. Damit steht die beliebte Mindmapping-Software MindManager allen Instituten, Mitarbeiterinnen und Mitarbeitern sowie allen Studierenden zur Verfügung.
+
+
+Die Software MindManager kann sowohl für Windows als auch für Apple MacOS in den Sprachen Deutsch, Englisch und Französisch von der folgenden Download-Seite zunächst als Testversion heruntergeladen werden:
+
+
+http://www.mindjet.com/de/mindmanager/
+
+
+Wenn die Software über die freie Testphase hinaus genutzt werden soll, wird ein Freischaltschlüssel benötigt.
+
+
+Studierende müssen ihre Freischaltschlüssel unter dem folgendenURLanfordern:http://www.schulnachweis.de/schueler-studenten
+
+
+Die einmalige Bereitsstellungsgebühr durch schulnachweis.de beträgt 4,99 Euro. Zum bezahlen wird ein PayPal Konto benötigt.
+
+
+Aktuelles Angebot (Stand 15.05.2017):Zurzeit kann man die aktuelle Mindjet Version im Bundle mit Avira Antivirus Pro zum Bereitstellungspreis von 9,98 Euro beziehen.
+
+
+
+AMBOSS, VIA MEDICI, MEDITRICKS
+
+
+Studierende der Medizin haben die Möglichkeit, die Lernplattformen AMBOSS, via medici und Meditricks zu nutzen. Genauere Informationen zu AMBOSS sind auf den Seiten der Universitätsmedizin zu finden:Amboss. AMBOSS sowie die anderen Anbieter stellen auf der jeweiligen Homepage Informationen zur Aktivierung der Campuslizenz bereit. Die Erstaktivierung erfolgt entweder aus eduroam heraus oder von Zuhause aus per VPN. Hilfestellung bei der Einrichtung desVPN Clientfindest du in unserem Wiki.
+
+
+
+JURIS, BECK-ONLINE, BECK-ELIBRARY - ZUGÄNGE FÜR JURISTEN
+
+
+Studierende der Juristischen Fakultät haben Zugang zu einigen Online Datenbanken. Auf diesen können die Studierenden Lehrbücher, Urteile, Aufsätze und weiteres über die Lizenz der Universität Göttingen nutzen.Alle Zugriffe funktionieren nur über das Universitätsnetz, Eduroam auf dem Campus oder per eduVPN!
+
+
+Zugang zuJuris(Hier dann „juris“ suchen und dann auf „Zur Datenbank“ klicken.
+
+
+Zugang zubeck-online(Hier muss sich noch individuell registriert werden, sonst einfach zur Startseite navigieren.)
+
+
+Zugang zurbeck-eLibrary(Hier auf „Login“, dann „Login über Shibboleth“ auswählen, als Institution die „Universität Göttingen“ auswählen und dann mit der normalen Studentischen Anmeldung anmelden (E-Campus Passwort und Email).
+
+
+Weitere Recherchekataloge für Juristen
+
+
+
+SMARTBOARD SOFTWARE
+
+
+Interaktives Lehren und Lernen - Arbeiten mit SMART-Boards:
+
+
+Im Wintersemester 2010 hat die Universität Göttingen ein Programm zur Erneuerung der Präsentationtechnik in den Hörsälen gestartet. In diesem Rahmen wurden bereits alle Hörsäle des Zentralen Hörsaalgebäudes und zusätzliche Seminarräume am Zentral- und Nordcampus mit interaktiven Displays mit Stiftsteuerung ausgerüstet. Diese interaktiven Displays und Boards der Firma SMART Technologies machen es für die Göttinger Lehrenden möglich, die Vorlesungen und Seminare abwechslungsreicher zu gestalten. Die Boards unterstützen sowohl Annotationen in PowerPoint als auch den Einsatz der sogenannten Notebook-Software zur Gestaltung der Präsenztermine.
+
+
+Diese Lizenz ist für alle Göttinger Lehrenden und Studierenden zugänglich, die die Produkte von SMART Technologies im Lehr- und Studienalltag verwenden.
+
+
+Einweisungen in die Einsatzmöglichkeiten in der Lehre gibt der E-learning-Service in kleinen Gruppen nach Absprache
+
+
+Weitere Infos und Downloadlinks unter:http://www.uni-goettingen.de/de/368313.html
+
+
+software programme citavi microsoft office windows studierende studenten office microsoft sonderpreis preis sonderkonditionen rabatt virus antivirus mind manager Remotedesktop Remote

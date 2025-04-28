@@ -1,0 +1,19 @@
+https://wiki.student.uni-goettingen.de/support/drucken/drucken_vom_usb_stick
+
+DRUCKEN VOM USB STICK
+
+
+Achtung: Wir empfehlen diese Nutzung der Kopierer auf diese ArtNICHT! Es werden zum einen nurFAT32formatierte USB Sticks akzeptiert, außerdem ist die Nutzung weniger intuitiv als das Drucken vom eigenen Endgerät aus. Darüber hinaus sind weniger Möglichkeiten der Kostenkontrolle möglich, da dieses Verfahren vom Gerät wie Kopieren behandelt wird (es gibt keine Vorab-Kostenbestätigung). Druckoptionen wiemehrere Seiten auf ein Blattgibt es auch nicht. Bitte schaut euch die Anleitungen zum Drucken vom eigenen Endgerät aus an (PC, Mac, Linux, iOS, E-Mail-to-Print, Web-Print) und benutzt lieber diese Optionen.
+
+
+
+SO GEHT MAN VOR:
+
+- Zuerst wie gewohnt am Gerät mittels Studienausweis anmelden
+- Tippe auf „Gerätefunktionen nutzen“
+- Bestätige die Accountinformationen auf dem Gerät (Kontostand)
+- Stecke JETZT denFAT32-formatiertenUSB Stick in den USB Port des Kopierers
+- Wähle nun die Option „Aus externem Speicher drucken“
+- im Dateibrowser das entsprechende Dokument (vorzugsweise PDF) auswählen
+- Druckoptionen festlegen (Farbe/sw, Duplex etc.)
+- Druck bestätigen über Startknopf

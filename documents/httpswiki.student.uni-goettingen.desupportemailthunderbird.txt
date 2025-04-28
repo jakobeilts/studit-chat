@@ -1,0 +1,27 @@
+https://wiki.student.uni-goettingen.de/support/email/thunderbird
+
+MOZILLA THUNDERBIRD ALS MAILCLIENT NUTZEN
+
+
+So richtest DuMozilla Thunderbirdals Mail-Client ein:
+E-Mails, die du auf dem Webserverhttp://email.stud.uni-goettingen.deabrufst, können mit einem Mail-Programm abgerufen und verwaltet werden. Diese Anleitung widmet sich dem Programm Thunderbird vom Mozilla. Die Software ist kostenlos und frei (open source) und beispielsweise auf den Linux-Terminals von studIT installiert (Standort z.B. SUB Erdgeschoss).
+In folgendem Video kannst du die Einrichtung von Mozilla Thunderbird sehen. Das Video zeigt das Einrichten, wenn Du das Programm frisch installiert und noch niemals geöffnet hast. Du kannst deine Email-Konten-Einstellungen auch jederzeit unter Extras>Konto-Einstellungen bearbeiten, neu anlegen oder löschen.
+
+
+
+ALLE WICHTIGEN DATEN ZUM STUDENTISCHEN MAIL-ACCOUNT:
+
+
+E-Mail Adresse:account@stud.uni-goettingen.deBenutzername:ug-student\accountname (z.B. ug-student\m.musterfrau)Posteingangsserver:email.stud.uni-goettingen.de, SSL aktivieren! Port: 993SMTP (Postausgangs)-Server:email.stud.uni-goettingen.de, Port: 587, Benutzer: ug-student\accountname (z.B. ug-student\m.musterfrau) STARTTLS aktivieren!
+
+
+Authentifizierung jeweils „Passwort, normal“
+
+
+Beim Einrichten eines neuen Kontos sollten die richtigen Serverdaten automatisch eingestellt werden (siehe Video)
+
+
+thunderbird_2015.mp4
+
+
+mail thunderbird einrichten mozilla client mailprogramm

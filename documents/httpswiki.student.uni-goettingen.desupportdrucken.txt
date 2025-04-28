@@ -1,0 +1,45 @@
+https://wiki.student.uni-goettingen.de/support/drucken
+
+DRUCKEN
+
+
+
+
+
+Achtung: Seit dem 07.02.2025 sind unserer Druckserver migriert. User vom Mobility Print (also Drucken auf einem eigenen Endgerät) müssen das Drucken neu einrichten, wenn sie schonmal vor dem 07.02.2025 vom eigenen Endgerät gedruckt hatten! Bitte einfach alle Drucker entfernen, Profile löschen (iOS), App löschen (Android) und den Papercut Client neu installieren. Einfach die entsprechende Anleitung nochmal neu befolgen.
+
+
+Dein Account bietet Dir die Möglichkeit, an verschiedene Standorten an der Uni oder sogar vom eigenen Rechner kostengünstig zu drucken. Wir empfehlen dasFollow-Me Printing!Druckguthabenkannst du jederzeit mit Hilfe deinerChipkartean denKassen oder Selbstbedienungskassen der Servicethekenin denBibliotheken der SUBaufladen.
+
+
+In diesem Abschnitt findest du alle Informationen rund ums Drucken mit deinemStudierenden-Account.
+
+
+Nutzer mit einem GWDG-Account (Mitarbeiter-Account) informieren sichbitte auf diesen Seiten zum Drucken.
+
+
+Zu beachten: Verschlüsselte Dateien/ Dateien mit Passwortschutz (PDF und co.) zuerst vom Passwortschutz befreien oder ohne Verschlüsselung neu speichern/ duplizieren.
+Nur dann ist das absenden eines Druckauftrags erfolgreich.
+
+- Drucken unter Android
+- Drucken per Email - Email to Print
+- Drucken unter iOS - iPhone und iPad
+- Drucken vom eigenen Linux PC (Ubuntu)
+- Drucken vom eigenen Mac (macOS)
+- Drucken vom USB Stick
+- Drucken vom eigenen PC (Windows)
+- Standortübersicht von Druckern/Kopierern
+- Drucker verbinden (in den LRCs bzw. im GÖNET)
+- Druckguthaben aufladen und überprüfen
+- Preise für Drucken und Kopieren
+- Follow-Me-Printing
+- Freidruckguthaben aus Fakultätsmitteln
+- GWDG Accounts: So drucken Mitarbeiter
+- Multifunktionsgeräte für Drucken, Kopieren, Scannen nutzen
+- Posterdruck - Hinweise
+- Probleme beim Drucken
+- Rückerstattung von Druckguthaben für Exmatrikulierte
+- Rückerstattung Fehldrucke
+- Scannen
+
+Feedback

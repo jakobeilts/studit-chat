@@ -1,0 +1,81 @@
+https://wiki.student.uni-goettingen.de/support/rechnerstandorte/standorte/kwz
+
+INHALTSVERZEICHNIS
+
+- KWZ (ehemals LRC KWZ)
+- FAQWer kann die PC im KWZ nutzen?Wie kann ich mich an den Rechnern anmelden?Wie kann ich drucken?Verfügbare Software
+- Wer kann die PC im KWZ nutzen?Wie kann ich mich an den Rechnern anmelden?Wie kann ich drucken?Verfügbare Software
+- Wer kann die PC im KWZ nutzen?
+- Wie kann ich mich an den Rechnern anmelden?
+- Wie kann ich drucken?
+- Verfügbare Software
+
+
+KWZ (EHEMALS LRC KWZ)
+
+
+Im EG der Bereichsbibliothek Kulturwissenschaften (BBK) im Kulturwissenschaftlichen Zentrum (KWZ) befindet sich ein Raum mit PC-Arbeitsplätzen und ergänzender Technik, damit Du Medien und Dokumente recherchieren, bearbeiten und ausgeben kannst. Dafür stehen zur Verfügung:
+
+- 24 moderne All-in-One PCs
+- Hochgeschwindigkeits-Internetzugang
+- Zugriff auf den GUK-Onlinekatalog und die Datenbankangebote der SUB
+- umfangreiche Softwarepakete (u.a. Microsoft Office, Adobe Creative Cloud an gekennzeichneten PCs)
+
+
+
+- ein A4-Flachbettscanner
+- vier Video- und Grafikbearbeitungsplätze (UG-UYST-1131, 1132, 1143 und 1144)
+- A3/A4-Drucker (Follow Me)
+- Kopierer
+- Notebookarbeitsplätze
+
+
+FAQ
+
+
+Hier ein paar häufig gestellte Fragen:
+
+
+
+WER KANN DIE PC IM KWZ NUTZEN?
+
+
+Die computerbasierten Arbeitsplätze stehen allen Studierenden,
+Dozierenden, Wissenschaftlerinnen und Wissenschaftlern, weiteren Mitarbeitergruppen
+der Universität Göttingen und einiger angeschlossener Einrichtungen
+sowie Privatnutzern und Gästen der SUB offen. Die Nutzung des (außer Drucken) ist kostenlos. Bitte beachten Sie dieBenutzungsordnung!
+
+
+
+WIE KANN ICH MICH AN DEN RECHNERN ANMELDEN?
+
+
+Zur Benutzung benötigen Sie einenAccount. Studierende der Georg-August Universität bekommen diesen zusammen mit demStudienausweisbei der Immatrikulation. Inhaber eines GWDG-Accounts können sich ebenfalls an den Rechnern anmelden. Privatnutzer der SUB können sich mit ihremKopier-& Druckkontoanmelden (Domäne UG-Student). Mit all diesen Accounts kann man auch dasWLAN (GoeMobile/eduroam)im KWZ nutzen.
+
+
+
+WIE KANN ICH DRUCKEN?
+
+
+DieDruckerdes LRC sind automatisch mit denRechnern verbunden. Sie
+müssen nur die entsprechendeDruckwarteschlangeauswählen (Follow-Me oder Follow-Me Farbe für Studierende. GWDG-Account-Nutzer lesen bitteHIERnach.) Sobald sich Studierende an den Rechnern anmelden, sehen sie ihr aktuellesDruckguthabenauf dem Bildschirm.
+Dieses Druckguthaben kann am studITHelpdesk im ZHGoder auch an der Theke der Bereichsbibliothek Kulturwissenschaften im Erdgeschoss mit Zahlung perStudierendenausweisaufgeladen werden. Druckguthaben der GWDG-Accounts werden über die Institute abgerechnet.
+
+
+
+VERFÜGBARE SOFTWARE
+
+
+Die studIT-PC im KWZ sind Windows-PCs. Auf allen Rechnern ist standardmäßigMicrosoft Officeinstalliert.
+
+- Liste derStandardsoftware von studIT.
+
+Weitere Programme (nicht auf allen Rechnern):
+
+- Adobe Creative Cloud, enthält u.a. Premiere, Photoshop, InDesign, Illustrator (bei Arbeitsplätzen mit Scanner)
+- Scan Software (ScanWizard)
+
+
+
+
+"kulturwissenschaftliches zentrum" "bereichsbibliothek kulturwissenschaften" bbk

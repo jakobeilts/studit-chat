@@ -1,0 +1,61 @@
+https://wiki.student.uni-goettingen.de/support/wlan/eduroam_chromeos
+
+EDUROAM AUF CHROMEOS
+
+
+
+
+
+Bei der Einrichtung der Verbindung bitte beachten: Der„Benutzername“ist eurestudentische Email-Adresse! Also bspw. test.test@stud.uni-goettingen.de
+
+
+Im folgenden wird erklärt, wie du dich bei der Nutzung von ChromeOS mit eduroam verbinden kannst.
+
+
+Zum Anmelden werden deineStudentische E-Mail-Adresse(vorname.nachname@stud.uni-goettingen.de bzw. v.nachname@stud.uni-goettingen.de) und dein Passwort benötigt.
+
+
+Für den Fall, dassUser von anderen Universitäteneduroam nutzen wollen, müssen diese ihren Account, z.B. mit @uni-kassel.de, @uni-hannover.de, @leuphana.de, @uni-freiburg.de, @uni-regensburg.de, @abdn.ac.uk usw. eingeben.
+
+
+
+EINRICHTUNG MIT DER APP EDUROAM CAT DER GÉANT ASSOCIATION
+
+
+Um die App und das Profil für die Einrichtung herunterladen zu können, ist der Zugang zum Internet Voraussetzung. Dazu kannst du entweder deine mobile Datenverbindung (ggf. als Hotspot) oder das unverschlüsselte WLAN „GuestOnCampus“ benutzen.
+
+
+1. Öffne im Chrome-Browser die Seitehttps://cat.eduroam.org. Tippe auf den ButtonKlicken Sie hier, um Ihr eduroam® Installationsprogramm herunterzuladen.
+
+
+2. Es folgt eine Liste von Institutionen, die einen eduroam-Zugang anbieten. Wähle hierUniversität Göttingen. Solltest du den Eintrag der Uni nicht sehen, gib im SuchfeldGoettingenein.
+
+
+3. Als Benutzergruppe wählst du dieUniversität Göttingenaus.
+
+
+4. Deine ChromeOS-Version wird automatisch erkannt. Tippe auf den entsprechenden Eduroam Button, um den Download der Profildatei zu starten.
+
+
+Tippe anschließend aufWeiter.
+
+
+5. Nachdem die Datei heruntergeladen wurde, gibst du in dieURL-Leiste Folgendes ein:
+
+
+6. UnterONC-Datei importierengehst du aufDatei auswählenund suchst die oben heruntergeladene Profildatei.
+
+
+7. Wähle die heruntergeladene Datei aus. In diesem Falleduroam-chromeos-Universitat_Gottingen-Universitat_Gottingen.onc. Es wird keine Bestätigung geben, dass der Upload erfolgreich war. Dies ist aber richtig so.
+
+
+8. Gehe dann auf die WLAN-Einstellung des Chromebooks.
+
+
+8. Wähleeduroamals Netzwerk zum Verbinden aus.
+
+
+9. Gib deine studentische E-Mail-Adresse (siehe Hinweiskasten oben) in das FeldIdentitätein und das Passwort in dasPasswort-Feld.
+
+
+10. Wenn du alles richtig angegeben hast, solltest du nun mit eduroam verbunden sein.
