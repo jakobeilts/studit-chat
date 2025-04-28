@@ -1,9 +1,0 @@
-https://wiki.student.uni-goettingen.de/support/ecampus/lageplan
-
-LAGEPLAN DER UNIVERSITÄT IM ECAMPUS
-
-
-Im eCampus ist ein interaktiver Lageplan der Universität Göttingen verlinkt. Neben der Raumsuche sind auch verschiedene Darstellungsoptionen (z.B. Barrierefreiheit, Infrastruktur, ÖPNV) möglich. Im Video werden die Funktionialitäten erklärt. Eine ausführliche Anleitung gibt es unterhttp://www.uni-goettingen.de/de/502341.html
-
-
-lageplan_anleitung.mp4

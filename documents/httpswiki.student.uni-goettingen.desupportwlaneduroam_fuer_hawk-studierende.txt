@@ -1,6 +1,0 @@
-https://wiki.student.uni-goettingen.de/support/wlan/eduroam_fuer_hawk-studierende
-
-EDUROAM FÜR HAWK-STUDIERENDE
-
-
-Zum Einrichten des eduroams folgt bitte der Anleitung aus dem Wiki der HAWK:https://wiki.hawk.de/display/HO/WLAN+eduroam
