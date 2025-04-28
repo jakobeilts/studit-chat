@@ -1,13 +1,18 @@
 import os
 import streamlit as st
 from langchain_community.vectorstores import FAISS
-from langchain_community.embeddings import OpenAIEmbeddings
 from langchain.schema import Document
+from custom_embeddings import AcademicCloudEmbeddings
 
-openai_api_key = st.secrets["OPENAI_API_KEY"]
-
-# Function to load all .txt files and extract URL metadata
 def load_and_embed_documents():
+    # Path to save/load the FAISS index
+    persist_path = "vectorstore_index"
+
+    if os.path.exists(persist_path):
+        # If already exists, load from disk
+        vectorstore = FAISS.load_local(persist_path, AcademicCloudEmbeddings(api_key=st.secrets["GWDG_API_KEY"]), allow_dangerous_deserialization=True)
+        return vectorstore
+
     documents = []
 
     for filename in os.listdir("documents"):
@@ -18,16 +23,20 @@ def load_and_embed_documents():
                 lines = f.readlines()
 
                 if len(lines) < 2:
-                    continue  # Skip files without content
+                    continue
 
-                url = lines[0].strip()  # Extract first line as URL
-                content = "".join(lines[1:]).strip()  # Remaining content
+                url = lines[0].strip()
+                content = "".join(lines[1:]).strip()
 
-                # Create a LangChain Document with metadata
                 documents.append(Document(page_content=content, metadata={"source": filename, "url": url}))
 
-    # Generate embeddings
-    embeddings = OpenAIEmbeddings(api_key=openai_api_key, model="text-embedding-3-small")
+    # Use AcademicCloud embeddings
+    embeddings = AcademicCloudEmbeddings(api_key=st.secrets["GWDG_API_KEY"])
+
+    # Create FAISS vectorstore
     vectorstore = FAISS.from_documents(documents, embeddings)
+
+    # Save to disk
+    vectorstore.save_local(persist_path)
 
     return vectorstore

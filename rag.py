@@ -1,6 +1,8 @@
 from langchain_openai import ChatOpenAI
 import streamlit as st
 from load_and_embed_html import load_and_embed_documents
+import time
+
 
 # Load OpenAI API Key
 #os.environ["OPENAI_API_KEY"] = st.secrets['OPENAI_API_KEY']
@@ -52,21 +54,38 @@ if prompt:
 
     # Define system prompt
     system_prompt = f"""
-    You are a helpful AI assistant. You have access to the following document excerpts:
-
+    Du bist ein hilfreicher KI-Assistent für Studierende und Mitarbeitende an der Georg-August-Universität Göttingen.
+    Deine Aufgabe ist es, Fragen zu Universitätsdiensten basierend auf den bereitgestellten Dokumentenauszügen zu beantworten.
+    Wenn eine Information nicht in den Auszügen enthalten ist, sage ehrlich, dass du dazu keine verlässliche Antwort geben kannst.
+    
+    Beantworte Fragen möglichst in der Sprache der Anfrage (Deutsch oder Englisch).
+    Formuliere deine Antworten klar, freundlich und präzise. Fasse dich kurz, es sei denn, die Frage verlangt nach mehr Details.
+    
+    Hier sind die verfügbaren Informationen:
+    
     {context}
-
-    Based on this information, answer the user's question.
-
-    User's question: {prompt}
+    
+    Nutze nur diese Informationen zur Beantwortung der folgenden Frage:
+    
+    Frage: {prompt}
     """
 
-    # Generate response
-    response = llm(system_prompt)
+    with st.spinner("denkt nach..."):
+        # Generate response
+        response = llm(system_prompt)
 
     # Append sources if available
     source_text = "\n\n🔗 **Source(s):**\n" + "\n".join(sources) if sources else ""
     final_response = response.content + source_text
+
+    assistant_message = st.chat_message("assistant")
+    placeholder = assistant_message.empty()
+    typed_text = ""
+
+    for char in final_response:
+        typed_text += char
+        placeholder.markdown(typed_text)
+        time.sleep(0.003)  # Typing speed
 
     # Store response in session state
     st.session_state.messages.append({"role": "assistant", "content": final_response})
