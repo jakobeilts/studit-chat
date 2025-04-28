@@ -2,7 +2,7 @@ from langchain_openai import ChatOpenAI
 import streamlit as st
 from load_and_embed_html import load_and_embed_documents
 import time
-
+from langchain_core.messages import SystemMessage
 
 # Load OpenAI API Key
 #os.environ["OPENAI_API_KEY"] = st.secrets['OPENAI_API_KEY']
@@ -72,7 +72,7 @@ if prompt:
     """
 
     # Generate response
-    response = llm(system_prompt)
+    response = llm([SystemMessage(content=system_prompt)])
 
     # Append sources if available
     source_text = "\n\n🔗 **Source(s):**\n" + "\n".join(sources) if sources else ""
