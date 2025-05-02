@@ -4,9 +4,6 @@ from load_and_embed_html import load_and_embed_documents
 import time
 from langchain_core.messages import SystemMessage
 
-# Load OpenAI API Key
-#os.environ["OPENAI_API_KEY"] = st.secrets['OPENAI_API_KEY']
-
 gwdg_api_key = st.secrets["GWDG_API_KEY"]
 base_url = st.secrets["BASE_URL"]
 model = "meta-llama-3.1-8b-instruct"
