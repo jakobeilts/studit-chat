@@ -21,7 +21,7 @@ def load_and_embed_documents():
 
     if os.path.exists(persist_path):
         # If already exists, load from disk
-        vectorstore = FAISS.load_local(persist_path, AcademicCloudEmbeddings(api_key=st.secrets["GWDG_API_KEY"]), allow_dangerous_deserialization=True)
+        vectorstore = FAISS.load_local(persist_path, embeddings, allow_dangerous_deserialization=True)
         return vectorstore
 
     documents = []
