@@ -2,9 +2,20 @@ import os
 import streamlit as st
 from langchain_community.vectorstores import FAISS
 from langchain.schema import Document
+from langchain_openai import OpenAIEmbeddings
 from custom_embeddings import AcademicCloudEmbeddings
 
+gwdg_api_key = st.secrets["GWDG_API_KEY"]
+base_url = st.secrets["BASE_URL"]
+model = "e5-mistral-7b-instruct"
+
 def load_and_embed_documents():
+    embeddings = OpenAIEmbeddings(
+        model=model,
+        base_url=base_url,
+        api_key=gwdg_api_key
+    )
+
     # Path to save/load the FAISS index
     persist_path = "vectorstore_index"
 
