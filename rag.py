@@ -60,13 +60,19 @@ if prompt:
     
     Die folgenden Informationen verwendest du um die Fragen zu beantworten. Diese Informationen werden dir nicht direkt vom Nutzer zu Verfügung gestellt. Verwende also nicht Sätze wie "Auf Grundlage der bereitgestellten Informationen". 
     Es soll sich anfühlen, als wären diese Informationen dein natürliches Wissen.
-    
+    ANFANG KONTEXT:
     {context}
-    
+    ENDE KONTEXT
+    Außerdem bekommst du zur weiteren Einschätzung des Gesprächsinhalts im folgenden den bisherigen Gesprächsverlauf. Falls dieser nicht leer ist verwende ihn um den Kontext besser einzuschätzen:
+    ANFANG BISHERIGER GESPRÄCHSVERLAUF:
+    {st.session_state.messages}
+    ENDE BISHERIGER GESPRÄCHSVERLAUF
     Nutze nur diese Informationen zur Beantwortung der folgenden Frage:
     
     Frage: {prompt}
     """
+
+    print(system_prompt)
 
     # Generate response
     response = llm([SystemMessage(content=system_prompt)])

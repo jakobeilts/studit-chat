@@ -23,9 +23,9 @@ def load_and_embed_documents():
 
     documents = []
 
-    for filename in os.listdir("documents"):
+    for filename in os.listdir("seiten_export"):
         if filename.endswith(".txt"):
-            file_path = os.path.join("documents", filename)
+            file_path = os.path.join("seiten_export", filename)
 
             with open(file_path, "r", encoding="utf-8") as f:
                 lines = f.readlines()
