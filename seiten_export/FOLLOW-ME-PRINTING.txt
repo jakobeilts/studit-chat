@@ -1,0 +1,106 @@
+https://wiki.student.uni-goettingen.de/support/drucken/follow-me
+
+
+FOLLOW-ME-PRINTING
+
+Beim Drucken im Follow-Me Verfahren passiert nach dem Abschicken des Auftrags so lange nichts, bis der Auftrag mit dem Studienausweis an einemMultifunktionsgerät (https://wiki.student.uni-goettingen.de/support/drucken/multifunktionsgerate)freigeben wird.
+
+DAS VERFAHREN
+
+Beim Follow-Me-Verfahren wird der Auftrag nicht sofort an einen Drucker weitergegeben. Stattdessen wird das Dokument in eine „virtuelle Warteschlange“ gedruckt und dort so lange zwischengespeichert, bis es an einem beliebigen hierfür ausgestatteten Gerät freigegeben wird. Der tatsächliche Drucker wird also erst in dem Moment bestimmt, in dem der Auftrag auch wirklich ausgegeben wird und nicht schon im Druckdialog des Anwendungsprogramms. Auch die Kosten werden erst vom Druckkonto abgezogen, wenn der Auftrag am Drucker freigegeben wird.
+
+GUTHABEN ZUM DRUCKEN UND KOPIEREN
+
+Mit Deinem Studienausweis kannst du in den Mensen und Caferterien des Studentenwerks bargeldlos bezahlen. Um diese Funktion nutzen zu können, musst Du Deinen Ausweis vorher an einem der Aufwerter aufladen. Wo diese Aufwerter stehen und wie das Verfahren genau funktioniert, erklären die Internetseiten des Studentenwerks (http://studentenwerk-goettingen.de/studienausweis.html) .
+
+Diese „Geldbörse“ ist nicht gleichzeitig auch das Druckkonto. Bevor Du Drucken (und auch Kopieren) kannst, muss von dieser elektronischen Geldbörse Geld auf Dein Druck- und Kopierkonto umgebucht werden. An den Druckern wird die Karte ausschließlich zur Authentifikation genutzt.
+
+Wo du dein Guthaben aufladen kannst und wie du deinen Guthabenstand überprüfen kannst, erfährst du auf der Seite Druckguthaben aufladen und überprüfen (https://wiki.student.uni-goettingen.de/support/drucken/druckguthaben)
+
+STANDORTE VERFÜGBARER DRUCKER
+
+Eine Übersicht der Standorte findest du hier: Übersicht (https://wiki.student.uni-goettingen.de/support/drucken/drucker)
+
+EINRICHTEN DER FOLLOW-ME-WARTESCHLANGE
+
+An den studIT Windows Rechnern sind die Follow-Me Druckerqueues schon vorkonfiguriert. Du musst sie nur noch entsprechend auswählen.
+
+Auf deinem privaten Rechner oder auch Tablet oder Handy kannst du die Follow-Me Queue auch installieren. Die Anleitungen findest du hier: support:drucken: (https://wiki.student.uni-goettingen.de/support/drucken)
+
+Hinweis zum Follow-Me-Druck in Farbe Aufträge, die in die Warteschlange „Follow-Me“ gedruckt werden, werden immer in Schwarzweiß gedruckt. Für Farbjobs muss „Follow-Me-Farbe“ ausgewählt werden. Farbseiten werden entsprechend berechnet, SW-Seiten in den Dokumenten werden zum SW-Preis berechnet.
+
+ABSENDEN VON AUFTRÄGEN
+
+An den studIT Windows Rechnern sind die Follow-Me Drucker schon vorkonfiguriert. Du musst den passenden Drucker nur noch über den Druckdialog der jeweiligen Anwendung auswählen. Aus der Dropdown-Liste wählst Du zwischen den Warteschlangen \\print-win\Follow-Me , Follow-Me-Farbe oder aber Follow-Me-A3 aus. Sollte einmal ein Drucker in der Liste fehlen, kannst Du nach dieser Anleitung vorgehen, um den gewünschten Drucker hinzuzufügen (https://wiki.student.uni-goettingen.de/support/drucken/drucker_verbinden) .
+
+Du kannst hier noch diverse Einstellungen festlegen, wie zum Beispiel mehrere Seiten auf ein Blatt.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/drucken/follow_me_drucker_auswahl.png?id=support%3Adrucken%3Afollow-me)
+
+Angezeigt werden Dir der Name des Dokuments, der ausgewählte Drucker bzw. die Druckerwartschlange, die Zahl der Seiten mit dem Zusatz Schwarz-Weiß bzw. Farbe und die Kosten. Erst mit Klick auf Button „Drucken“ schickst Du den Auftrag an die Warteschlange.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/drucken/follow_me_papercut_druck_bestaetigen.png?id=support%3Adrucken%3Afollow-me)
+
+3. Bestätigungs Pop-Up abwarten
+
+Wurde Dein Dokument erfolgreich in die Wartschlange übertragen, siehst Du nun ein kleines Pop-Up mit dem dem Hinweis, dass Dein Druckauftrag nun mit dem Studienausweis freigegeben werden kann.
+
+Konnte Dein Dokument nicht korrekt verarbeitet werden, meldet Dir das Pop-Up einen Fehler. In diesem Fall solltest Du Deinen Druckauftrag kontrollieren, insbesondere das Format des Dokuments. Anschließend kannst Du ihn erneut drucken.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/drucken/follow_me_papercut_druck_bestaetigen_popup.png?id=support%3Adrucken%3Afollow-me)
+
+4. An einem Multifunktionsgerät freigeben
+
+Befindet sich Dein Auftrag in der Follow-Me-Warteschlange, kann er innerhalb von 72 Stunden an einem Multifunktionsgeräte freigegeben werden. Nach Ablauf dieser Zeit wird er gelöscht - in diesem Fall entstehen keine Kosten.
+
+Wie die Freigabe genau funktioniert und welche Funktionen die Multifunktionsgeräte außerdem bieten, ist in der Anleitung für die Multifunktionsgeräte (https://wiki.student.uni-goettingen.de/support/drucken/multifunktionsgerate) ausführlich erklärt. Derart ausgestattete Geräte erkennst Du an den seitlich angebrachten Lesegeräten. Wo auf dem Campus Geräte stehen, kannst Du in der Standortübersicht (https://wiki.student.uni-goettingen.de/support/drucken/drucker) nachsehen.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/drucken/20131031_140221.jpg?id=support%3Adrucken%3Afollow-me)
+
+DETAILLIERTE EINSTELLUNGEN FÜR DEN DRUCKAUFTRAG: DUPLEX UND A3
+
+DUPLEX-DRUCK BEIM FOLLOW-ME DRUCKEN
+
+Beim Follow-Me (SW) Drucken ist das doppelseitige („Duplex“) Drucken als Standard eingestellt. Um auf Single Sided umzustellen, muss im Druckdialog nach Auswählen der Follow-Me Warteschlange auf den Button „Eigenschaften“ geklickt werden. Dort findest Du die Option „2-seitig“ und kannst auswählen, ob über die lange oder die kurze Kante gedreht oder Duplex ausgeschaltet werden soll.
+
+Um ein im Adobe Reader oder Adobe Acrobat geöffnetes PDF-Dokument zu drucken, wählst du zuerst den gewünschten Drucker und klickst anschließend auf „Eigenschaften“.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/drucken/follow_me_duplex.png?id=support%3Adrucken%3Afollow-me)
+
+In Microsoft Word klickst Du auf „Drucken“ und nach der Auswahl des Druckers auf „Druckereigenschaften“.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/drucken/follow_me_duplex_word.png?id=support%3Adrucken%3Afollow-me)
+
+A3-DRUCK AUF FOLLOW-ME GERÄTEN
+
+An einigen Geräten ist auch die Ausgabe von Drucken im A3 Format möglich. Um in A3 zu drucken, musst du deine Aufträge in die entsprechende Warteschlange abschicken. Sie heisst Follow-Me-A3 . Falls diese Queue am Rechner, an dem du arbeitest, noch nicht verbunden sein, kannst du dies gemäß dieser Anleitung nachholen (https://wiki.student.uni-goettingen.de/support/drucken/drucker_verbinden) . Beim Abschicken von Dokumenten solltest du darauf achten, dass die Dateien auch in A3 angelegt sind. Im Zweifel werden die Dateien automatisch skaliert, wenn du im Druckdialog „Größe anpassen“ auswählst.
+
+Die Follow-Me-A3 Queue ist standardmäßig als Farbqueue angelegt. Wenn das Dokument allerings nur schwarz enthält und der Drucker das erkennt, wird auch nur SW abgerechnet. Wenn du ein Farbdokument in SW ausgeben willst, musst du in den Erweiterten Einstellungen des Druckdialogs von Farbe auf Graustufen umschalten.
+
+Wenn du eine PDF Datei im Adobe Acrobat oder Adobe Reader geöffnet hast, wählst Du die Warteschlange „Follow-Me-A3“ und klickst anschließend auf „Eigenschaften“. In dem sich öffnenden Fenster kannst du zwischen Schwarzweiß und Farbe wählen.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/drucken/follow_me_a3_farbe.png?id=support%3Adrucken%3Afollow-me)
+
+Möchtest du eine Word Dokument drucken und die Einstellung wählen, wählst du die Warteschlange „Follow-Me-A3“ und klickst auf „Druckereigenschaften“. In dem sich öffnenden Fenster kannst du zwischen Schwarzweiß und Farbe wählen.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/drucken/follow_me_a3_farbe_word.png?id=support%3Adrucken%3Afollow-me)
+
+An folgenden Geräten kannst Du Deinen Auftrag im DIN A3 Format freigeben: Achtung! Dein Druckauftag an die A3 Wartschlange wird nur an Geräten angezeigt, die den Auftrag auch ausgeben können, sprich: A3 Papier geladen haben. An anderern Geräten siehst Du den wartenden Auftrag nicht in der Übersicht, wenn Du Dich mit deinem Studienausweis am Drucker anmeldest! An diesen Geräten kannst Du Deinen Auftrag freigeben:
+
+- LRC SUB: Gerät ganz links neben dem Schrank
+- SUB EG (Alte Lehrbuchsammlung): das rechte der beiden Geräte
+- BB WiSo: linkes Gerät im EG
+- LRC Med: Drucker ganz rechts
+- LRC KWZ: linkes der zwei Geräte im LRC im EG
+
+VERWALTEN VON AUFTRÄGEN IN DER FOLLOW-ME-WARTESCHLANGE
+
+Wartende Aufträge können eingesehen und verwaltet werden. Hierzu ist eine Anmeldung auf den Nutzerseiten des Drucksystems notwendig. Der PC, von dem aus du die Seite aufrufst, muss mit dem Uninetz verbunden sein.
+
+http://print.student.uni-goettingen.de/ (http://print.student.uni-goettingen.de/)
+
+(https://wiki.student.uni-goettingen.de/_detail/support/drucken/screen.png?id=support%3Adrucken%3Afollow-me)
+
+Unter dem Menüpunkt „Aufträge zur Freigabe“ werden alle Aufträge aufgelistet, die auf Freigabe warten. Über die Aktion „abbrechen“ hinter jedem Eintrag können einzelne, über den Button „Alle abbrechen“ alle Aufträge gelöscht werden.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/drucken/followme2.png?id=support%3Adrucken%3Afollow-me)

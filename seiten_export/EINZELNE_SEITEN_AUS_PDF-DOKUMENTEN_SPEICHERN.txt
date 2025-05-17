@@ -1,0 +1,23 @@
+https://wiki.student.uni-goettingen.de/support/tutorials/pdf
+
+
+EINZELNE SEITEN AUS PDF-DOKUMENTEN SPEICHERN
+
+Um eine oder mehrere Einzelseiten aus einer PDF-Datei zu speichern, gibt es verschiedenste Möglichkeiten. Unter Windows 10, das wir auf den meisten studIT-PCs installiert haben, gibt es eine einfache Vorgehensweise. Zunächst öffnest du das PDF-Dokument, aus dem du die Seite entnehmen möchtest und navigierst in den Druckerdialog (über Datei → Drucken oder die Tastenkombination Strg + P). Als Drucker wählst du dort Microsoft Print to PDF aus.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/tutorials/pdfsplit1.png?id=support%3Atutorials%3Apdf)
+
+Unter Zu druckende Seiten wählst du nun die Seiten bzw. die Seite aus, die du in einer einzelnen Datei speichern möchtest.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/tutorials/pdfsplit2.png?id=support%3Atutorials%3Apdf)
+
+Nun einfach unten rechts auf Drucken klicken. Es öffnet sich ein Fenster, in welchem du den Speicherort und Namen für die Datei auswählen kannst.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/tutorials/pdfsplit3.png?id=support%3Atutorials%3Apdf)
+
+Mit einem Klick auf Speichern wird die Datei dann wie gewünscht abgelegt.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/tutorials/pdfsplit4.png?id=support%3Atutorials%3Apdf)
+
+erstellt von: fritzsche
+erstellt am: 24.09.2018 18:05

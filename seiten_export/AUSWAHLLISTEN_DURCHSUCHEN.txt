@@ -1,0 +1,15 @@
+https://wiki.student.uni-goettingen.de/univz/allgemeines/auswahllisten_durchsuchen
+
+
+AUSWAHLLISTEN DURCHSUCHEN
+
+Auswahllisten (Dropdown-Felder) können immer durch Blättern über die Laufleisten am Rand durchsucht werden. Bei langen Listen kann es aber lange dauern, bis man auf diese Weise den gewünschten Begriff erreicht hat. Für diesen Fall gibt es folgende Vereinfachung:
+
+- Sie klicken in die Auswahlliste, so dass sich diese öffnet.
+- Sie geben den ersten oder mehrere Anfangsbuchstaben des gesuchten Begriffes ein. Auf diese Weise wird in der Auswahlliste auf den entsprechenden Begriff gesprungen.Groß- bzw. Kleinschreibung spielt dabei keine Rolle.
+
+Sollten Sie mehrere Anfangsbuchstaben eingeben wollen z.B. „Sel“, um schnell zu dem Namen „Sellner“ zu gelangen, beachten Sie bitte Folgendes:
+
+- Wenn Sie die Buchstabenfolge zu langsam aufeinanderfolgend eingeben, versteht UniVZ Ihre Eingabe so:Suche den ersten Begriff, der mit S beginntSuche den ersten Begriff, der mit E beginntSuche den ersten Begriff, der mit L beginnt
+
+Schließlich stehen Sie auf dem ersten Namen, der mit L beginnt. Nach kurzer Zeit des Ausprobierens werden Sie das richtige Gefühl für das passende Eingabetempo gefunden haben.

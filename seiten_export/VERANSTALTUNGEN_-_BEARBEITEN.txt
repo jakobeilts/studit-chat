@@ -1,0 +1,25 @@
+https://wiki.student.uni-goettingen.de/univz/veranstaltungen/bearbeiten
+Beschreibung der Bearbeitung von Veranstaltungen in UniVZ, einschließlich der Registereinteilung und der Bedeutung von Pflichtfeldern und Sprachflaggen.
+UniVZ_Bearbeiten
+VERANSTALTUNGEN - BEARBEITEN
+
+Die Ausgangssituation ist folgende:
+
+Durch das Anlegen einer Veranstaltung oder das Suchen nach einer Veranstaltung sind Sie direkt in die Bearbeitungsmaske einer Veranstaltung gelangt. Die Maske enthält eine Reihe Registern. Je nach dem, über welchen Weg Sie in die Bearbeitung der Veranstaltung gekommen sind, stehen Sie in der Regel im Register „ Veranstaltung “ oder im Register „ Termine und Räume “.
+
+Sie können durch einfaches Klicken zwischen den Registern wechseln.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/veranstaltungen/univz_veranstaltungen_bearbeiten0.jpg?id=univz%3Averanstaltungen%3Abearbeiten)
+
+Sie sollten aber darauf achten, dass Sie vor jedem Registerwechsel eventuell veränderte Daten mit einem Klick auf den Button „ Speichern “ sichern.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/veranstaltungen/univz_veranstaltungen_bearbeiten1.jpg?id=univz%3Averanstaltungen%3Abearbeiten)
+
+Die Anzahl der Register zur Bearbeitung einer Veranstaltung ist groß und passt bei normal großen Monitoren nicht auf eine Bildschirmbreite. Daher sind die Register auf drei Seiten verteilt. Die einzelnen Registerseiten erreichen Sie per Klick auf die von Ihnen gewünschte Ziffer.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/veranstaltungen/univz_veranstaltungen_bearbeiten2.jpg?id=univz%3Averanstaltungen%3Abearbeiten)
+
+Allgemeine Hinweise für die Bearbeitung:
+
+- Pflichtfelder für die Eingabe erkennen Sie an einem * neben der Bezeichnung.
+- Eine Flagge neben der Bezeichnung zeigt an, dass für dieses Feld englischsprachige Eingaben möglich wären. Vor der Eingabe einer englischsprachigen Bezeichnung müssen Sie über das Flaggensymbol UniVZ auf diese Sprache umschalten.

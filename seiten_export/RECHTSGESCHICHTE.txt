@@ -1,0 +1,12 @@
+https://wiki.student.uni-goettingen.de/support/rechnerstandorte/standorte/rechtsgeschichte
+
+
+RECHTSGESCHICHTE
+
+Anzahl studIT-PCs: 2
+Softwareangebot: Software auf studIT-Rechnern (https://wiki.student.uni-goettingen.de/support/rechnerstandorte/software)
+Straße: Weender Landstraße 2
+Raum: 0.110
+Link zum Lageplan: (https://www.geodata.uni-goettingen.de/lageplan/?ident=6216_1_1.OG_1.110)
+Besonderheiten: Ein PC vor Ort mit anonymer Anmeldung (Linux)
+Fehler melden: Kontakt zu studIT (https://wiki.student.uni-goettingen.de/support/studit_support/kontakt)

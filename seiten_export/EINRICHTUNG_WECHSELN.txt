@@ -1,0 +1,19 @@
+https://wiki.student.uni-goettingen.de/univz/allgemeines/einrichtung_wechseln
+
+EINRICHTUNG WECHSELN
+
+Als UniVZ-Bearbeiter können Sie die Bearbeitungsrechte für mehrere Einrichtungen erhalten haben. Nach erfolgreicher UniVZ-Anmeldung können Sie in der Info-Leiste sehen, welcher Einrichtung Sie aktuell zugeordnet sind. Sie können nur Daten (Veranstaltungen, Personen, etc.) der dort angezeigten Einrichtung bearbeiten!
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/allgemeines/univz_allgemeines_0.jpg?id=univz%3Aallgemeines%3Aeinrichtung_wechseln)
+
+Damit Sie die Daten einer anderen Einrichtung, für die Sie entsprechende Rechte erhalten haben, bearbeiten können, gehen Sie folgendermaßen vor:
+
+- Sie klicken in der Info-Leiste auf den aktuellen Einrichtungsnamen und erhalten die Liste Ihrer Einrichtungen.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/allgemeines/univz_allgemeines_1.jpg?id=univz%3Aallgemeines%3Aeinrichtung_wechseln)
+
+- Jetzt klicken Sie die von Ihnen gewünschte Einrichtung an, die dann in der Info-Leiste angezeigt wird.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/allgemeines/univz_allgemeines_2.jpg?id=univz%3Aallgemeines%3Aeinrichtung_wechseln)
+
+Sie können jetzt Daten der neuen Einrichtung bearbeiten.

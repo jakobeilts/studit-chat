@@ -1,0 +1,11 @@
+https://wiki.student.uni-goettingen.de/support/rechnerstandorte/standorte/bb_wiso
+
+
+RECHNERSTANDORT BB WISO
+
+Anzahl studIT-PCs: >20
+Softwareangebot: Software auf studIT-Rechnern (https://wiki.student.uni-goettingen.de/support/rechnerstandorte/software)
+Straße: Platz der Göttinger Sieben 3
+Raum: 0.209
+Link zum Lageplan: (http://lageplan.uni-goettingen.de/?ident=5256_2_EG_0.209)
+Fehler melden: Kontakt zu studIT (https://wiki.student.uni-goettingen.de/support/studit_support/kontakt)

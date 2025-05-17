@@ -1,0 +1,35 @@
+https://wiki.student.uni-goettingen.de/support/wlan/eduroam_mac_os_x
+
+(https://wiki.student.uni-goettingen.de/_detail/support/wlan/eduroam_logo_trans_04.gif?id=support%3Awlan%3Aeduroam_mac_os_x)
+
+EDUROAM UNTER MACOS
+
+Im Folgenden wird erklärt, wie Du Dein MacBook mit dem WPA2 verschlüsselten Netzwerk eduroam verbinden kannst.
+
+ALLGEMEINE INFORMATIONEN
+
+Eduroam ist ein weltweiter Internet-Zugangsdienst für Bildungs- und Forschungseinrichtungen und deren Mitarbeiter und Studenten. Über eduroam kann an vielen Einrichtungen weltweit (http://www.eduroam.org/index.php?p=where) eine Internetverbindung mit dem Göttinger Universitätsaccount hergestellt werden. Auf der anderen Seite können sich auch die Mitglieder anderer teilnehmender Einrichtungen mit dem in Göttingen ausgestrahleten eduroam verbinden.
+
+Bei der Einrichtung der Verbindung bitte beachten: Der „Benutzername“ ist eure studentische Email-Adresse ! Also bspw. test.test@stud.uni-goettingen.de
+
+MACOS 12 (MONTEREY): MINDESTVORRAUSSETZUNG FÜR EDUROAM
+
+Seit kurzem werden ältere Sicherheitsprotokolle nicht mehr unterstütz. Um eine erfolgreiche Verbindung mit eduroam aufzubauen, wirdmindestensmacOS Version 12 (Monterey) benötigt
+
+Eine Anleitung zum einrichten unter Monterey findet sich hier: Eduroam auf MacOS ab 10.13 High Sierra (https://wiki.student.uni-goettingen.de/support/wlan/eduroam_mac_os_x/macos_ab_10.13_-_high_sierra) .
+
+MACOS 13 (VENTURA): DARSTELLUNGSABWEICHUNG DER SYSTEMSTEUERUNG ZU ÄLTEREN MACOS BETRIEBSSYSTEMEN
+
+Solltest du macOS 13 (Ventura) auf deinem Rechner installiert haben, so weicht die grafische Darstellung ab, im Vergleich zu vorherigen macOS Versionen.
+
+Eine Anleitung zur Einrichtung unter Ventura findet sich hier: Eduroam auf Mac ab MacOS 13 (Ventura) (https://wiki.student.uni-goettingen.de/support/wlan/eduroam_mac_os_x/macos_ab_13_-_ventura) .
+
+INSTALLATION DES EDUROAM PROFILS MIT DEM GUESTONCAMPUS NETZ
+
+Falls eine Netzwerkverbindung zum runterladen des CA-Tool benötigt wird, kann das GuestOnCampus Netz and der Universität genutzt werden.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/wlan/ssidapple.png?id=support%3Awlan%3Aeduroam_mac_os_x) (https://wiki.student.uni-goettingen.de/_detail/support/wlan/ssid_apple_sonoma.png?id=support%3Awlan%3Aeduroam_mac_os_x)
+
+Nach dem Verbinden mit dem WLAN „GuestOnCampus“ öffnet sich eine Anmeldeseite (falls das nicht automatisch passiert, öffnen Sie Ihren Internetbrowser und geben die Adresse wlan.gwdg.de in die Adresszeile Ihres Browsers ein). Dort tragen Sie als Zugangskennung Ihre studentische E-Mail-Adresse (…@stud.uni-goettingen.de) und das dazugehörige Passwort (ecampus-Passwort) ein. Klicken Sie auf „Accept Policy & Login“. Wenn Ihre Zugangsdaten richtig eingegeben wurden, sollten Sie anschließend mit dem Internet verbunden sein. Achtung: Das Gäste-WLAN ist nicht verschlüsselt.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/wlan/anmeldungguest.png?id=support%3Awlan%3Aeduroam_mac_os_x) (https://wiki.student.uni-goettingen.de/_detail/support/wlan/anmeldung_guest_sonoma.png?id=support%3Awlan%3Aeduroam_mac_os_x)

@@ -1,0 +1,23 @@
+https://wiki.student.uni-goettingen.de/support/email/start
+Übersicht über die studentische E-Mail-Adresse der Universität Göttingen, einschließlich Zugriff, Funktionen und wichtigen Informationen.
+Studentische_E-Mail
+DEINE E-MAIL
+
+(https://wiki.student.uni-goettingen.de/support/email/start)
+
+Zu deinem Account an der Universität Göttingen gehört ein persönliches E-Mail Postfach. Die E-Mail-Adresse funktioniert sofort, nachdem Du deinen Account (https://wiki.student.uni-goettingen.de/support/account/start) zusammen mit dem Studienausweis (https://wiki.student.uni-goettingen.de/support/ausweis) bekommen hast. Du musst nichts freischalten oder aktivieren. Du hast auf dieser Seite (https://email.stud.uni-goettingen.de) (ug-student\Benutzername) oder auf eCampus (http://ecampus.uni-goettingen.de/) Zugriff auf dieses Konto. Die studentische E-Mail-Adresse lautet im Regelfall vorname.nachname@stud.uni-goettingen.de . Du solltest deine studentischen E-Mail-Account regelmäßig checken, da viele studienrelevante Infos an diese Adresse gesendet werden. Alle Informationen zur studentischen E-Mail findest du auf folgenden Seiten:
+
+- Android Mail (https://wiki.student.uni-goettingen.de/support/email/android_mail)
+- Apple Mail (https://wiki.student.uni-goettingen.de/support/email/apple_mail)
+- Studentische E-Mail-Adresse (https://wiki.student.uni-goettingen.de/support/email/email-adresse)
+- iPhone und iPad (https://wiki.student.uni-goettingen.de/support/email/iphone_ipad_mailpostfach)
+- KMail (https://wiki.student.uni-goettingen.de/support/email/kmail)
+- Wichtige Daten für dein E-Mail Konto (https://wiki.student.uni-goettingen.de/support/email/konto)
+- Microsoft Outlook (https://wiki.student.uni-goettingen.de/support/email/outlook)
+- Nutzungsbedingungen der studentischen E-Mail-Adresse (https://wiki.student.uni-goettingen.de/support/email/studentische_email_nutzungsbedingungen)
+- Mozilla Thunderbird als Mailclient nutzen (https://wiki.student.uni-goettingen.de/support/email/thunderbird)
+- Überfülltes Postfach (https://wiki.student.uni-goettingen.de/support/email/ueberfuelltes_postfach)
+- Webmail - Zugriff auf deine Mails von überall (https://wiki.student.uni-goettingen.de/support/email/webmail)
+- E-Mail Weiterleitungen (https://wiki.student.uni-goettingen.de/support/email/weiterleitung)
+
+(https://wiki.student.uni-goettingen.de/support/feedback/start) Feedback

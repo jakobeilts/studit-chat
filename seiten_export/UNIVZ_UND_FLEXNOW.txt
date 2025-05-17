@@ -1,0 +1,20 @@
+https://wiki.student.uni-goettingen.de/univz/zusammenspiel_mit_anderen_systemen/univz_und_flexnow
+
+UNIVZ UND FLEXNOW
+
+Zwischen UniVZ und FlexNow werden in beiden Richtungen Daten übertragen:
+
+1) Module und Teilmodule werden in FlexNow (ModulVZ) erfasst (siehe auch: http://www.uni-goettingen.de/de/67343.html (http://www.uni-goettingen.de/de/67343.html) ) und nach UniVZ übernommen.
+
+Die Übernahme der Moduldaten erfolgt manuell und wird in unregelmäßigen Abständen von der FlexNow-Betreuung ausgeführt.
+
+2) Prüfungstermine und Prüfende werden in UniVZ erfasst, Prüfungstermine und Module bzw. Teilmodule werden in UniVZ verknüpft. Die Prüfungstermine werden dann nach FlexNow übernommen.
+
+Welche Probleme können auftreten?
+
+- Modul in UniVZ nicht auffindbar?In diesem Fall sollten Sie bei der FlexNow-Betreuung nachfragen, wann dieses Modul nach UniVZ übertragen wird.
+- Probleme mit der Übernahme von Prüfungsterminen nach FlexNow?siehe auch:http://univz.uni-goettingen.de/qisserver/pub/helpdoc/Anleitung_Pruefungstermine_melden.pdf (http://univz.uni-goettingen.de/qisserver/pub/helpdoc/Anleitung_Pruefungstermine_melden.pdf)Bitte bei der FlexNow-Betreuung nachfragen.
+
+Eine Übersicht der FlexNow Funktionen finden Sie auch hier: FlexNow-Pruefungstermine (http://univz.uni-goettingen.de/FlexNow-Pruefungstermine.pdf)
+
+Weitere Informationen über die Prüfungsordnungen und Modulkatalog finden Sie hier: Studienfächer von A-Z (http://www.uni-goettingen.de/de/studienfaecher-von-a-bis-z/3811.html)

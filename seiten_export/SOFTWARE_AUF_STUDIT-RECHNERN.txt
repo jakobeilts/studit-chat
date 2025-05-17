@@ -1,0 +1,56 @@
+https://wiki.student.uni-goettingen.de/support/rechnerstandorte/software
+Übersicht über die auf studIT-Rechnern installierte Software an verschiedenen Standorten der Universität Göttingen.
+studIT Software
+SOFTWARE AUF STUDIT-RECHNERN
+
+Wir bieten Euch auf mehr als 600 PCs an diversen Standorten (https://wiki.student.uni-goettingen.de/support/rechnerstandorte/standorte) folgende Software auf Windows 10 Clients:
+
+STANDARDSOFTWARE AN ALLEN STANDORTEN:
+
+- Windows 10
+- Webbrowser (Firefox, Edge)
+
+- Acrobat Reader
+- Libre Office
+- Microsoft Office
+- MiKTEX
+- PDF XChange Pro
+- Thunderbird
+- 7Zip
+
+- Citavi
+- Zotero
+
+- Audacity
+- Blender
+- CorelDRAW
+- Corel PHOTO-PAINT
+- Corel Video
+- Gimp
+- Inkscape
+- Irfan View
+- Lecturnity Player
+- VLC Player
+
+- R Studio (Statistik)
+- Statistica
+- Statistical Analysis System (SAS)
+
+- EXMARaLDA
+
+- FileZilla
+- ImgBurn
+- MindJet MindManager
+- Putty
+- WinSCP
+- X-Win
+
+SONDERSOFTWARE AN STUDIT STANDORTEN
+
+Informationen zu Sondersoftware (https://wiki.student.uni-goettingen.de/support/rechnerstandorte/sondersoftware) .
+
+ZUSÄTZLICHE SOFTWARE IM LSG
+
+Es sind Räume mit den Rechnerkonfigurationen Layout-PC (Adobe Creative Suite), Statistik-Arbeitsplatz (SPSS Netzwerklizenz, d.h. max. 50 gleichzeitige User) und Videoschnittplätze (Adobe Premiere) vorhanden. Überdies gibt es Räume mit interaktiven Whiteboards oder großen Bildschirmen für Gruppenarbeiten. An den Notebookarbeitsplätzen kann man sein selbst mitgebrachtes Notebook an einen Monitor mit Tastatur und Maus anschließen.
+
+"studIT Software" Software auf studIT-Rechnern

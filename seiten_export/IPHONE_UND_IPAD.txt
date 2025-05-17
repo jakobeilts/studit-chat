@@ -1,0 +1,98 @@
+https://wiki.student.uni-goettingen.de/support/email/iphone_ipad_mailpostfach
+Anleitung zur Einrichtung von Uni-Mailkonten auf iOS-Geräten.
+Mail_Einrichtung_iOS
+IPHONE UND IPAD
+
+MAIL-EINRICHTUNG IOS 14
+
+Um deinen studentischen Mailaccount als Exchange-Konto auf iOS-Geräten einzurichten, gehe wie folgt vor:
+
+- Einstellungen
+- Mail
+- Accounts
+- Account hinzufügen
+- Microsoft Exchange
+
+- E-Mail: Deine studentische Mailadresse in der Form accountname@stud.uni-goettingen.de (z.B. m.musterfrau@stud.uni-goettingen.de)
+- Beschreibung: Eine beliebige Beschreibung
+
+- Manuell einrichten
+
+- Passwort: Das Passwort deines studentischen Accounts
+- Weiter
+
+- Server: email.gwdg.de
+- Domain: ug-student
+- Benutzername: accountname (z.B. m.musterfrau)
+- Weiter
+
+- Sichern
+
+MAIL-EINRICHTUNG IOS 12
+
+Um deinen studentischen Mailaccount als Exchange-Konto auf iOS-Geräten einzurichten, gehe wie folgt vor:
+
+- Einstellungen
+- Passwörter & Accounts
+- Account hinzufügen
+- Exchange
+
+- E-Mail: Deine studentische Mailadresse in der Form accountname@stud.uni-goettingen.de (z.B. m.musterfrau@stud.uni-goettingen.de)
+- Beschreibung: Eine beliebige Beschreibung
+
+- Anmelden
+
+- Passwort: Das Passwort deines studentischen Accounts
+- Weiter
+
+- Server: email.gwdg.de
+- Domain: ug-student
+- Benutzername: accountname (z.B. m.musterfrau)
+- Weiter
+
+- Sichern
+
+Die Mail-Einrichtung auf deinem iOS-Gerät ist nun abgeschlossen. Drückst du nun den Home Button und wählst Mail, werden alle auf dem Gerät eingerichteten Mailaccounts angezeigt. Tippst du auf das neu eingerichete Postfach, wird dir der Posteingang angezeigt.
+
+Synchronisationszeitraum ändern:
+
+- Einstellungen
+- Passwörter & Accounts
+- Uni Exchange-Konto
+- Mail synchronisieren
+- Zeitraum auswählen
+
+MAIL-EINRICHTUNG AUF ÄLTEREN IOS-VERSIONEN:
+
+Um deinen studentischen Mailaccount auf dem iPhone oder iPad als IMAP Konto einzurichten tippe im Startmenü auf Einstellungen , scrolle nach unten zum Eintrag Mail, Kontakte, Kalender und tippe dann auf Account hinzufügen… .
+
+Aus der Liste wähle Weitere . Nun kannst du die grundlegenden Informationen deines Uni-Mailaccounts eintragen:
+
+- Name: Dein Vorname und Nachname
+- Adresse: Deine studentische Mailadresse in der Form accountname@stud.uni-goettingen.de (z.B. m.musterfrau@stud.uni-goettingen.de)
+- Kennwort: Das Passwort deines studentischen Accounts
+- Beschreibung: Eine beliebige Beschreibung
+
+Tippe anschließend auf Sichern .
+
+Unter dem Reiter IMAP setze folgende Einstellungen:
+
+- Hostname: email.gwdg.de
+- Benutzername: ug-student\accountname (z.B. ug-student\m.musterfrau)
+- Kennwort: Das Passwort des studentischen Accounts
+
+- Hostname: email.gwdg.de
+- Benutzername: ug-student\accountname (z.B. ug-student\m.musterfrau)
+- Kennwort: Das Passwort des studentischen Accounts
+
+Die gesetzten Einstellungen werden überprüft und lassen sich anschließend weiterbearbeiten.
+
+Tippe auf den neu eingerichteten Account und wähle Erweitert
+
+Unter dem Punkt Einstellungen für eintreffende Mails aktiviere SSL indem du den Schalter nach rechts schiebst. Als Server-Port trage 993 ein. Tippe dann auf Account oben links um ins vorherige Menü zurückzukehren.
+
+Unter dem Punkt Server für ausgehende Mails wähle den Eintrag SMTP und tippe in der folgenden Auswahl auf email.gwdg.de
+
+Auch hier aktivierst du SSL indem du den Schalter nach rechts schiebst. Als Server Port trägst du 587 ein. Tippe nun oben rechts auf Fertig um die Einstellungen zu speichern.
+
+Drückst du nun den Home Button und wählst Mail , werden alle auf dem Gerät eingerichteten Mailaccounts angezeigt. Tippst du auf das neu eingerichete Postfach, wird dir der Posteingang angezeigt.

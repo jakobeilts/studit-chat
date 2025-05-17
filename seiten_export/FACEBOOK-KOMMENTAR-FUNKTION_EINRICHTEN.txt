@@ -1,0 +1,14 @@
+https://wiki.student.uni-goettingen.de/support/blogs/10_facebook_kommentar_funktion
+
+
+FACEBOOK-KOMMENTAR-FUNKTION EINRICHTEN
+
+Zunächst muss das Plugin „Facebook Comments“ aktiviert werden. (https://wiki.student.uni-goettingen.de/_detail/support/blogs/plugin_aktivieren.png?id=support%3Ablogs%3A10_facebook_kommentar_funktion)
+
+https://developers.facebook.com/apps (https://developers.facebook.com/apps) aufrufen und auf Button „Neue App erstellen“ klicken (https://wiki.student.uni-goettingen.de/_detail/support/blogs/neue_fbanwendungs_erstellen.png?id=support%3Ablogs%3A10_facebook_kommentar_funktion)
+
+Eine App-Bezeichnung wie z. B. „Blog“ in das Feld „Anwendungsname“ schreiben und auf „Weiter“ klicken. (https://wiki.student.uni-goettingen.de/_detail/support/blogs/app_bezeichnung.png?id=support%3Ablogs%3A10_facebook_kommentar_funktion)
+
+App ID notieren und auf „Änderungen speichern“ klicken (https://wiki.student.uni-goettingen.de/_detail/support/blogs/appid_notieren.png?id=support%3Ablogs%3A10_facebook_kommentar_funktion)
+
+Auf der Verwaltungsoberfläche des Blogs auf Menü „Facebook Comments“ klicken und die notierte App ID eintragen und auf den Button „Änderungen übernehmen“ klicken. (https://wiki.student.uni-goettingen.de/_detail/support/blogs/appid_eintragen.png?id=support%3Ablogs%3A10_facebook_kommentar_funktion)

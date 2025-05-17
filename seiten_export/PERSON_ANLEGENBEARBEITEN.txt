@@ -1,0 +1,14 @@
+https://wiki.student.uni-goettingen.de/univz/personen/bearbeiten/person
+
+
+PERSON ANLEGEN/BEARBEITEN
+
+Die mit * gekennzeichnet Felder sind Pflichtfelder.
+
+- Aktiv: Person ist in UniVZ sichtbar und kann einer Veranstaltung zugeordnet werden.
+- Inaktiv: Person ist in UniVZ nicht sichtbar und kann nicht einer Veranstaltung zugeordnet
+
+- Status Intern: ???
+- Status Extern: ???
+- Status Ohne Angabe ???
+- Namensbestandteile: ???

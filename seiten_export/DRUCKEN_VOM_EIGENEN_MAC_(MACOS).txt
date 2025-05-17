@@ -1,0 +1,69 @@
+https://wiki.student.uni-goettingen.de/support/drucken/drucken_macos
+
+DRUCKEN VOM EIGENEN MAC (MACOS)
+
+Wegen eines Umzugs der Druckserver kann es zu Problemen kommen. Bitte deinstalliert den PaperCut Client und entfernt alle FollowMe-Drucker. Führt die Installation dann erneut durch.
+
+Im folgenden wird gezeigt, wie macOS-Geräte konfiguriert werden müssen, um nativ das Follow-Me-Drucksystem der Universität Göttingen nutzen zu können.
+
+Der Druckserver ist nur im Uninetz ( eduroam (https://wiki.student.uni-goettingen.de/support/wlan/eduroam_mac_os_x) oder VPN (https://wiki.student.uni-goettingen.de/support/wlan/vpn_eduvpn) nutzen!) erreichbar.
+
+Um zu drucken, muss man sich im Uninetz befinden ( eduroam (https://wiki.student.uni-goettingen.de/support/wlan/eduroam_mac_os_x) oder VPN-Verbindung (https://wiki.student.uni-goettingen.de/support/wlan/vpn_eduvpn) !). Außerdem muss der Papercut Client laufen . Entweder über –>Programme starten oder über die Systemeinstellungen in den Autostart setzen, damit er bei jedem Booten startet. Der Client kann nur über die Anwendung „Aktivitätsmonitor“ beendet werden (Prozess beenden).
+
+Wenn du nun das erste Mal ein Dokument drucken willst, wirst du nach Account und Passwort gefragt. Trage bitte deinen Account in der Form ug-student\account und dein Passwort ein. Sichere die Daten im Schlüsselbund (Häkchen setzen). Dort können sie bei Bedarf auch geändert/entfernt werden.
+
+1) EINRICHTUNG MIT PAPERCUT MOBILITY PRINT
+
+Bitte verbinde deinen Mac mit dem Uni-Netz „eduroam“ (siehe oben).
+
+Zunächst muss der PaperCut Client (https://owncloud.gwdg.de/index.php/s/NwEBb5qmeCt0Zz3) (https://wiki.student.uni-goettingen.de/_detail/support/papercut_logo.jpg?id=support%3Adrucken%3Adrucken_macos) (zur Bestätigung der Kosten) auf dem Mac installiert werden. Falls nach dem Download noch nicht automatisch geschehen, entpacke die .zip-Datei. Wenn die „client-local-install“ Anwendung im Ordner nicht funktioniert, schiebe einfach die PCClient.app über den Finder in die Programme (per drag an drop in das Fenster ziehen).
+
+(https://wiki.student.uni-goettingen.de/_detail/support/drucken/mac_pcclient_erstes_mal_offnen.png?id=support%3Adrucken%3Adrucken_macos) (https://wiki.student.uni-goettingen.de/_detail/support/drucken/mac_terminal_execute_rechte.png?id=support%3Adrucken%3Adrucken_macos)
+
+Sollte beim Öffnen die Fehlermeldung „Das Programm „PCClient“ kann nicht geöffnet werden.“ kommen, öffne bitte die Terminal-Anwendung über den Finder (in „Dienstprogramme“), gib folgendes ein: chmod +x /Applications/PCClient.app/Contents/MacOS/* und bestätige mit Enter. Wenn du die Anwendung dann das erste Mal öffnest, musst du vermutlich in der Systemeinstellungen unter „Sicherheit“ das Starten freigeben, da sie nicht aus dem App-Store kommt (siehe nächsten Eintrag).
+
+(https://wiki.student.uni-goettingen.de/_detail/support/drucken/mac_pcclient_zweites_mal_offnen.png?id=support%3Adrucken%3Adrucken_macos) (https://wiki.student.uni-goettingen.de/lib/exe/fetch.php?tok=6aa0be&media=https%3A%2F%2Fwiki.student.uni-goettingen.de%2F_media%2Fsupport%2Fdrucken%2Fmac_systemeinstellungen_sicherheit_und_datenschutz.png) (https://wiki.student.uni-goettingen.de/lib/exe/fetch.php?tok=cb598a&media=https%3A%2F%2Fwiki.student.uni-goettingen.de%2F_media%2Fsupport%2Fdrucken%2Fmac_sicherheit_und_datenschutz.png)
+
+Sollte beim Öffnen die Fehlermeldung „PCClient kann nicht geöffnet werden, da der Entwickler nicht verifiziert werden kann.“ kommen, öffne bitte den Eintrag Sicherheit & Datenschutz unter den Systemeinstellungen . Dort sollte im unteren Bereich eine Meldung zum „PCClient“ geben. Unter Dennoch öffnen erlaubst du, dass die PCClient Anwendung ausgeführt werden darf.
+
+Nach dem Starten von PCClient.app trage deinen Accountnamen sowie das Passwort ein und setze das Häkchen bei Identität merken . (https://wiki.student.uni-goettingen.de/_detail/support/drucken/pcclient.jpg?id=support%3Adrucken%3Adrucken_macos)
+
+2) FOLLOW-ME DRUCKER INSTALLIEREN
+
+Nun müssen die Drucker-Queues eingefügt werden. Dafür lädst du die Mobility Print (http://print-win.student.uni-goettingen.de:9163/client-setup/macos.html) (https://wiki.student.uni-goettingen.de/_detail/support/mobility_print.png?id=support%3Adrucken%3Adrucken_macos) Anwendung herunter und startest sie. Die freigegebenen Follow-Me Drucker werden installiert (SW, Farbe und A3).
+
+Nun öffne ein Dokument und klicke auf Drucken. Wähle die gewünschte Queue aus und stelle die Druckoptionen ein (bitte nur DIN A4 bzw A3 als Formate verwenden!). Nach dem Absenden wirst du aufgefordert, deine Accountdaten für diese Druckerqueue nochmals einzugeben.
+
+- An diesem Punkt wirst du aufgefordert, nochmal einen Benutzernamen und Passwort einzugeben.
+- Tu dies bitte in der Form:ug-student\accountname(bspw. ug-student\max.mustermann).
+- Den Haken bei „im Schlüsselbund sichern“ setzen, damit du dies nicht bei jedem Auftrag tun musst.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/drucken/fm_mac_06.png?id=support%3Adrucken%3Adrucken_macos)
+
+Dann sollte das Papercut Client Fenster aufpoppen, wo du die Kosten für den Auftrag bestätigen musst. Anschließend steht der Druckauftrag zur Freigabe an einem Endgerät bereit.
+
+FAQ
+
+ICH HABE MICH BEI DER PASSWORTEINGABE VERTIPPT. WAS KANN ICH TUN?
+
+Im Schlüsselbund (→Programme→Schlüsselbund bzw. Launchpad→Schlüsselbund) über die Suchfunktion den Eintrag „print-win.student.uni-goettingen.de“ suchen und löschen.
+
+ICH MÖCHTE IN FARBE DRUCKEN. IST DAS MÖGLICH?
+
+Ja, jedoch nicht über die Standard Follow-Me Warteschlange. Aufträge, die an diese geschickt werden, werden automatisch in Schwarz-Weiß ausgegeben. Aufträge, die in Farbe gedruckt werden sollen, müssen an die Follow-Me-Farbe Warteschlange geschickt werden.
+
+ICH MÖCHTE AUF A3 DRUCKEN. IST DAS MÖGLICH?
+
+Ja, jedoch nicht über die Standard Follow-Me Warteschlange. Aufträge, die auf A3 Papier gedruckt werden sollen, müssen an die Follow-Me-A3 Warteschlange geschickt werden.
+
+ICH MÖCHTE DEN PAPERCUT CLIENT BEENDEN. WIE VERFAHRE ICH?
+
+Der PaperCut Client lässt sich nur über die Mac-Anwendung „Aktivitätsanzeige“ beenden. Der zugehörige Prozess lautet User Client .
+
+ICH MÖCHTE MEHRERE SEITEN AUF EIN DIN A4-BLATT DRUCKEN. WIE VERFAHRE ICH?
+
+Im Druckmenü klickst du unten auf Details einblenden und wähle in der Dropdown-Liste Layout aus.
+
+ICH MÖCHTE EINSEITIG DRUCKEN. WIE VERFAHRE ICH?
+
+Die Follow-Me-Warteschlange ist standardmäßig auf Duplexdruck eingestellt. Du kannst den Haken bei den Druckoptionen einfach entfernen.

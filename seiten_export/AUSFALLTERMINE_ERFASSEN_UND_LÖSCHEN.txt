@@ -1,0 +1,84 @@
+https://wiki.student.uni-goettingen.de/univz/verfahren/ausfalltermine_erfassen
+
+
+AUSFALLTERMINE ERFASSEN UND LÖSCHEN
+
+Veranstaltungsdaten stets möglichst aktuell zu halten, erhöht die Qualität der Information. Dies gilt auch für die Erfassung von Ausfallterminen. Diese Information wird an sehr unterschiedlichen Stellen genutzt:
+
+- Raumverwalter können den freiwerdenden Termin für andere Veranstaltungen nutzen.
+- UniVZ-Veranstaltungsdetails zeigen Ausfalltermine an.
+- UniVZ-Raumpläne, die an den Veranstaltungsräumen aushängen, berücksichtigen Ausfalltermine.
+- Stud.IP-Veranstaltungen übernehmen Terminänderungen aus UniVZ.siehe auch:UniVZ und Stud.IP (https://wiki.student.uni-goettingen.de/univz/zusammenspiel_mit_anderen_systemen/univz_und_stud.ip)
+- Der Veranstaltungsmonitor berücksichtigt Ausfalltermine.siehe auch:UniVZ und Veranstaltungsmonitor (https://wiki.student.uni-goettingen.de/univz/zusammenspiel_mit_anderen_systemen/univz_und_veranstaltungsmonitor)
+
+Es gibt mehrere Möglichkeiten, einen Ausfalltermin für eine Veranstaltung zu erfassen. Welcher Möglichkeit die günstigste ist, hängt davon ab, über welche Informationen Sie verfügen.
+
+AUSFALLTERMIN ÜBER VERANSTALTUNGSSUCHE
+
+Sie suchen die Veranstaltung, für die Sie einen Ausfalltermin erfassen wollen, und klicken in die Detailansicht der Veranstaltung: Siehe auch: Veranstaltungen - Suchen und Bearbeiten (https://wiki.student.uni-goettingen.de/univz/veranstaltungen/suchen)
+
+In der Detailansicht finden Sie zu jeder Termingruppe einen Button zum Eintragen von Ausfallterminen. In der Regel werden Ausfalltermine für Terminserien erfasst. Solange noch kein Ausfalltermin erfasst ist, bleibt die Spalte „fällt aus am“ leer.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/verfahren/univz_verfahren_ausfalltermine0.jpg?id=univz%3Averfahren%3Aausfalltermine_erfassen)
+
+Sie klicken jetzt auf den Button „Ausfalltermin eintragen“ und kommen so in die Erfassungsmaske für Ausfalltermine. Dort können Sie über die DropDown-Liste „Ausfalltermin“ alle Termine der Terminserien sichtbar machen und klicken auf den gewünschten Ausfalltermin.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/verfahren/univz_verfahren_ausfalltermine1.jpg?id=univz%3Averfahren%3Aausfalltermine_erfassen)
+
+Sie haben nun die Möglichkeit eine Bemerkung zu erfassen und klicken abschließen auf den Button „Speichern“ .
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/verfahren/univz_verfahren_ausfalltermine2.jpg?id=univz%3Averfahren%3Aausfalltermine_erfassen)
+
+Sie können nun weitere Ausfalltermine durch Klick auf den Button „Neu“ erfassen oder durch Klick auf den Button „Zurück“ wieder in die Detailansicht der Veranstaltung gelangen. In der Detailansicht sieht das dann so aus:
+
+Mit Eingabe einer Bemerkung (https://wiki.student.uni-goettingen.de/_detail/univz/verfahren/univz_verfahren_ausfalltermine3.jpg?id=univz%3Averfahren%3Aausfalltermine_erfassen)
+
+Ohne Eingabe einer Bemerkung (https://wiki.student.uni-goettingen.de/_detail/univz/verfahren/univz_verfahren_ausfalltermine4.jpg?id=univz%3Averfahren%3Aausfalltermine_erfassen)
+
+AUSFALLTERMIN ÜBER PERSONENSUCHE 1
+
+Sie suchen die Person, für die Sie einen Ausfalltermin in einer Veranstaltung erfassen wollen, und klicken in die Detailansicht der Person: Siehe auch: Link Personensuche fehlt noch
+
+In der Detailansicht klicken Sie unter dem Abschnitt „Veranstaltungen“ den Link „Veranstaltungsliste“ an.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/verfahren/univz_verfahren_ausfalltermine5.jpg?id=univz%3Averfahren%3Aausfalltermine_erfassen)
+
+Sie erhalten damit eine Liste aller Veranstaltungen der Person in der mittellangen Ansicht. Sie finden in dieser Ansicht wiederum zu jeder Terminserie den Button für die Erfassung von Ausfallterminen.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/verfahren/univz_verfahren_ausfalltermine6.jpg?id=univz%3Averfahren%3Aausfalltermine_erfassen)
+
+Sie suchen sich jetzt die gewünschte Veranstaltung aus, klicken dort auf den entsprechenden Button und kommen so in die Erfassungsmaske für Ausfalltermine. Dort geht es dann weiter wie oben beschrieben.
+
+AUSFALLTERMIN ÜBER PERSONENSUCHE 2
+
+Wie im vorigen Beispiel suchen Sie die Person, für die Sie einen Ausfalltermin in einer Veranstaltung erfassen wollen, und klicken in die Detailansicht der Person: Siehe auch: Link Personensuche
+
+In der Detailansicht finden Sie unter dem Abschnitt „Veranstaltungen“ die Liste der Veranstaltungen der Person.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/verfahren/univz_verfahren_ausfalltermine7.jpg?id=univz%3Averfahren%3Aausfalltermine_erfassen)
+
+Dort kommen Sie durch Klick in die Detailansicht der Veranstaltung und können dann einen Ausfalltermin, wie unter „Ausfalltermin über Veranstaltungssuche“ beschrieben, erfassen.
+
+AUSFALLTERMIN ÜBER RAUMPLAN
+
+Sie kennen den Raum der Veranstaltung, für die Sie einen Ausfalltermin erfassen wollen, suchen diesen Raum und klicken dann in dessen Raumplan: Siehe auch: Link Raumsuche, fehlt noch
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/verfahren/univz_verfahren_ausfalltermine8.jpg?id=univz%3Averfahren%3Aausfalltermine_erfassen)
+
+Im Raumplan finden Sie die gewünschte Veranstaltung. Durch Klick auf den Button „Ausfalltermin eintragen“ kommen Sie wieder in die Erfassungsmaske für Ausfalltermine. Dort geht es dann weiter wie unter „Ausfalltermin über Veranstaltungssuche“ beschrieben.
+
+AUSFALLTERMIN ÜBER TERMINBEARBEITUNG
+
+Diese Möglichkeit, Ausfalltermine zu erfassen, ist nur dann interessant, wenn man bereits in der Bearbeitung der betroffenen Veranstaltung ist.
+
+Sie gehen dazu auf das Register „Termine und Räume“ der Veranstaltung. Dort klicken Sie auf eines der beiden Dreieckssymbole, welche Sie links und rechts neben den Terminangaben finden, um zu den weiteren Terminoptionen zu kommen. (https://wiki.student.uni-goettingen.de/_detail/univz/verfahren/univz_verfahren_ausfalltermine9.jpg?id=univz%3Averfahren%3Aausfalltermine_erfassen)
+
+Dort klicken Sie dann auf das Register „Ausfalltermin“ und geben dort wie oben beschrieben die gewünschten Ausfalltermine ein.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/verfahren/univz_verfahren_ausfalltermine10.jpg?id=univz%3Averfahren%3Aausfalltermine_erfassen)
+
+AUSFALLTERMIN LÖSCHEN
+
+Sie können einen Ausfalltermin löschen, indem Sie eines der oben beschriebenen Verfahren nutzen, um in die Erfassungsmaske für Ausfalltermine zu kommen.
+
+Hier lesen Sie, wie Listeneinträge gelöscht werden können: Listeneintrage löschen (https://wiki.student.uni-goettingen.de/univz/allgemeines/listeneintrage_loschen)

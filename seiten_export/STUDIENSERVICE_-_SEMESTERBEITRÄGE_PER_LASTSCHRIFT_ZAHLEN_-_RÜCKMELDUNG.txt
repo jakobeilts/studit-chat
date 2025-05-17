@@ -1,0 +1,62 @@
+https://wiki.student.uni-goettingen.de/ecampus/stu_studienservice
+Beschreibung der Zahlung des Semesterbeitrags an der Universität Göttingen, einschließlich Anlegen eines Lastschriftmandats und Freigabe des Lastschriftauftrags, sowie der Rückmeldung für das nächste Semester.
+Semesterbeitrag_Göttingen
+STUDIENSERVICE - SEMESTERBEITRÄGE PER LASTSCHRIFT ZAHLEN - RÜCKMELDUNG
+
+Die Zahlung des Semesterbeitrages erfolgt in zwei Schritten. Hierzu müssen Sie zunächst ein Lastschriftmandat anlegen und im Anschluss den Lastschriftauftrag freigeben.
+
+Achtung: Bis zur Belastung Ihres Kontos können 7 bis 14 Tage nach Freigabe Ihrer SEPA-Lastschrift vergehen.
+
+1. SCHRITT - LASTSCHRIFTMANDAT ANLEGEN
+
+Im eCampus anmelden. Klicken Sie im Menü den Tab: Mein Studium → Studienservice .
+
+Anschließend klicken Sie auf den Reiter Zahlungen .
+
+Ihnen wird nun die offene Rechnung für das aktuelle Semester angezeigt. Zum Anlegen des Mandats klicken Sie auf die Aktion Lastschriftauftrag und Mandat erteilen (siehe Pfeil). (https://wiki.student.uni-goettingen.de/_detail/ecampus/bezahlen_lastschrift_mandat2.jpg?id=ecampus%3Astu_studienservice)
+
+Sie geben nun die gültige IBAN des zu verwendenden Kontos ein. Bei einer ausländischen Bankverbindung wird zusätzlich nach der BIC gefragt. Klicken Sie die Funktion Mehrfachmandat anlegen an.
+
+(https://wiki.student.uni-goettingen.de/_detail/ecampus/bezahlen_mandat_anlegen2.jpg?id=ecampus%3Astu_studienservice)
+
+Bitte beachten Sie, dass nach dem Bestätigen Ihrer Bankdaten eine Änderung (z. B. Zahlendreher, alte/falsche Bankverbindung usw.) durch Sie nicht mehr möglich ist. Bitte wenden Sie sich in solchen Fällen vertrauensvoll an die Infoline Studium unter infoline-studium@uni-goettingen.de
+
+Danach könn(t)en Sie ein Kontrollblatt über das erteilte Mandat für Ihre Unterlagen ausdrucken.
+
+Achtung: Zum Erfolgreichen Bezahlen fehlt noch die Freigabe für ein SEPA-Lastschriftauftrag. Der Vorgang Bezahlen ist noch nicht abgeschlossen .
+
+2. SCHRITT - LASTSCHRIFTAUFTRAG FREIGEBEN
+
+Zum Freigeben der Lastschrift klicken Sie auf die Aktion Lastschriftauftrag und Mandat erteilen (rechts) .\\ (https://wiki.student.uni-goettingen.de/_detail/ecampus/bezahlen_lastschrift_mandat2.jpg?id=ecampus%3Astu_studienservice)
+
+Markieren Sie nun die aktuelle Rechnung und Sie klicken auf das Feld Neuen Lastschriftauftrag für ausgewählte Rechnungen hinzufügen . (https://wiki.student.uni-goettingen.de/_detail/ecampus/bezahlen_rechnung_zusammenfuehren2.jpg?id=ecampus%3Astu_studienservice)
+
+Ihr zuvor angelegtes Mandat ist Ihrer offenen Rechnung zugeordnet. Klicken Sie auf Übernehmen . Zum Abschluss des Bezahlvorgangs werden Sie aufgefordert, die Vorankündigung zur Belastung Ihres Konto gelesen zu haben und diese zu bestätigen. Markieren Sie dazu die gekennzeichnete Checkbox und klicken Sie auf Bestätigen .
+
+(https://wiki.student.uni-goettingen.de/_detail/ecampus/bezahlen_vorankuendigung.jpg?id=ecampus%3Astu_studienservice)
+
+Mit diesem letzten Schritt haben Sie uns den Semesterbeitrag zur Abbuchung von Ihrem Konto freigeschalten. Bitte achten Sie darauf, dass zum geplanten Abbuchungszeitraum Ihr Konto ausreichend gedeckt ist.
+
+Der Bezahlvorgang ist jetzt abgeschlossen! Ihr derzeitiger Status ist nun auf gelb und die Lastschrift ist freigegeben. Bitte melden Sie sich jetzt zurück!
+
+RÜCKMELDUNG - STUDIERENDE
+
+Wenn Sie im nächsten Semester an der Universität weiterstudieren möchten, dann melden Sie sich unbedingt während des jeweiligen Rückmeldezeitraums zurück.
+
+Achtung: Eine fristgemäße Rückmeldung für das Folgesemester ist auch für den Fall notwendig, dass Sie im aktuellen Semester an Ihrer Abschlussarbeit arbeiten bzw. auf deren Korrektur warten.
+
+Erst nach erfolgter Rückmeldung haben Sie Zugriff auf die Bescheinigungen des neuen Semesters. Auch die Chipkarte mit Semesterticket kann erst jetzt validiert (verlängert) werden.
+
+Zum Zurückmelden klicken Sie auf die Aktion Rückmelden (siehe Pfeil). (https://wiki.student.uni-goettingen.de/_detail/ecampus/rueckmelden_auswahl.jpg?id=ecampus%3Astu_studienservice)
+
+Feld 1: Zeigt Ihnen Ihr aktuelles Semester an. Feld 2: Detaillierte Informationen über die Rechnung für das kommende Semester. Falls ein Lastschriftmandat vorhanden ist, können Sie sich zurückmelden. (https://wiki.student.uni-goettingen.de/_detail/ecampus/rueckmelden_kontrolluebersicht.jpg?id=ecampus%3Astu_studienservice)
+
+Klicken Sie auf jetzt rückmelden in das XXXXX-SZ (siehe Pfeil). (https://wiki.student.uni-goettingen.de/_detail/ecampus/rueckmelden_einleiten.jpg?id=ecampus%3Astu_studienservice)
+
+Sie können an dieser Stelle ggf. erneut kontrollieren, ob Sie sich für das kommende Semester zurückmelden. Die Kennziffer XXXX steht für das Jahr XXXX und dem jeweiligen Semestertyp Sommersemester (1) oder dem Wintersemester (2).
+
+Bestätigen Sie die Aktion mit einem Klick auf Ja . (https://wiki.student.uni-goettingen.de/_detail/ecampus/rueckmelden_bestaetigen.jpg?id=ecampus%3Astu_studienservice)
+
+Sie haben Sich nun erfolgreich für das kommende Semester zurückgemeldet.
+
+(https://wiki.student.uni-goettingen.de/_detail/ecampus/rueckmelden_erfolgreich.jpg?id=ecampus%3Astu_studienservice)

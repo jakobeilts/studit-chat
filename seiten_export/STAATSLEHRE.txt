@@ -1,0 +1,11 @@
+https://wiki.student.uni-goettingen.de/support/rechnerstandorte/standorte/staatslehre
+
+
+STAATSLEHRE
+
+Anzahl studIT-PCs: 1
+Softwareangebot: Software auf studIT-Rechnern (https://wiki.student.uni-goettingen.de/support/rechnerstandorte/software)
+Straße: Nikolausberger Weg 17
+Raum: 0.106
+Link zum Lageplan: (https://www.geodata.uni-goettingen.de/lageplan/?ident=5387_1_EG_0.106)
+Fehler melden: Kontakt zu studIT (https://wiki.student.uni-goettingen.de/support/studit_support/kontakt)

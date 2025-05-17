@@ -1,0 +1,11 @@
+https://wiki.student.uni-goettingen.de/support/rechnerstandorte/standorte/theologicum
+
+
+THEOLOGICUM
+
+Anzahl studIT-PCs: 6
+Softwareangebot: Software auf studIT-Rechnern (https://wiki.student.uni-goettingen.de/support/rechnerstandorte/software)
+Straße: Platz der Göttinger 7
+Raum: 1.108
+Link zum Lageplan: (https://lageplan.uni-goettingen.de/?ident=5276_1_1.OG_1.108)
+Fehler melden: Kontakt zu studIT (https://wiki.student.uni-goettingen.de/support/studit_support/kontakt)

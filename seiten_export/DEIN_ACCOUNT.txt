@@ -1,0 +1,28 @@
+https://wiki.student.uni-goettingen.de/support/account/start
+Der Artikel beschreibt den stud IT Account der Georg-August-Universität Göttingen und die damit verbundenen Rechte und Informationen für Studierende.
+Stud_IT_Account
+DEIN ACCOUNT
+
+Alle Studierenden der Georg-August-Universität Göttingen erhalten nach der Immatrikulation das Recht auf einen stud IT Account, mit welchem man sich bei unterschiedlichen Online-Diensten anmelden kann. Mit diesem Nutzernamen und Passwort kann man sich so an allen öffentlichen Rechnern sowie bei verschiedenen Online-Diensten (eCampus) anmelden. Alle Infos zu deinem Account findest du auf den folgenden Seiten. Bitte beachte, dass es eine Benutzerordnung (https://wiki.student.uni-goettingen.de/support/account/benutzerordnung) für den Account gibt!
+
+Infos für Erstis in unseren Ersti-Präsentationen: 2024_studit_erstinfos_studienanfanger.pdf (https://wiki.student.uni-goettingen.de/_media/2024_studit_erstinfos_studienanfanger.pdf) Information for first semester students: 2024_studit_erstinfos_studienanfanger.pdf (https://wiki.student.uni-goettingen.de/_media/2024_studit_erstinfos_studienanfanger.pdf)
+
+- Wer bekommt einen Account? (https://wiki.student.uni-goettingen.de/support/account/accountberechtigte)
+- Dein Account nach der Exmatrikulation (https://wiki.student.uni-goettingen.de/support/account/account_exmatrikulierte)
+- Accounts für Alumni (https://wiki.student.uni-goettingen.de/support/account/alumni)
+- Benutzungsordnungen für den Studentischen Internetzugang an der Georg-August-Universität Göttingen (https://wiki.student.uni-goettingen.de/support/account/benutzerordnung)
+- Cloudspeicher mit Studierendenaccount (https://wiki.student.uni-goettingen.de/support/account/cloudspeicher)
+- Dein Home-Verzeichnis (https://wiki.student.uni-goettingen.de/support/account/homeverzeichnis)
+- Multifaktor-Authentifizierung und dein Studierendenaccount (https://wiki.student.uni-goettingen.de/support/account/multifaktor)
+- Namensänderung (https://wiki.student.uni-goettingen.de/support/account/namensaenderung)
+- Verbinden des Homeverzeichnisses als Netzlaufwerk (https://wiki.student.uni-goettingen.de/support/account/netzlaufwerk)
+- Dein Passwort (https://wiki.student.uni-goettingen.de/support/account/passwort)
+- Probleme beim Einloggen (https://wiki.student.uni-goettingen.de/support/account/probleme_beim_einloggen)
+- Die Selbstbedienungs-Funktionen (https://wiki.student.uni-goettingen.de/support/account/sb_funktionen)
+- Stud.IP (https://wiki.student.uni-goettingen.de/support/account/studip)
+- Vorkursaccount- und Studierendenaccountzusammenlegungen (https://wiki.student.uni-goettingen.de/support/account/vorkurs)
+- Kopieren/Sichern von Daten im Homeverzeichnis mit WinSCP (https://wiki.student.uni-goettingen.de/support/account/winscp)
+
+...
+
+- Zugang zu deinem Account (https://wiki.student.uni-goettingen.de/support/account/zugang)

@@ -1,0 +1,71 @@
+https://wiki.student.uni-goettingen.de/support/drucken/posterdruck
+
+
+POSTERDRUCK - HINWEISE
+
+Im LRC SUB, in der Bereichsbibliothek Physik und im LRC Med (UMG) gibt es die Möglichkeit, A0-Poster für studienrelevante oder wissenschaftliche Zwecke zu drucken. Ein Druck auf A0 kostet für Studierende 14€. Da man diese 14€ natürlich ungern für einen fehlerhaften Druck verschwenden möchte, gibt es im Folgenden ein paar Hinweise, wie man korrekt Posterdokumente erstellt, einrichtet und ausdruckt. Grundsätzlich gilt: Falls ihr Fragen habt oder unsicher seid, fragt unser Team von der Beratung bevor ihr etwas auf dem Posterdrucker druckt. Es wäre sonst schade um die 14€, denn bei Nutzerfehlern beim Drucken können wir keine Rückerstattung übernehmen!
+
+WELCHER DRUCKER IST DER RICHTIGE?
+
+(https://wiki.student.uni-goettingen.de/_detail/support/drucken/hp_t1700ps.jpg?id=support%3Adrucken%3Aposterdruck) Die Druckerwarteschlange des Posterdruckers hat den Namen bcipls79 (LRC SUB) bzw. pcipls (BB Physik) und mcipls (LRC Med). Sollte der Drucker im Druckdialogfenster eines Programmes (siehe Abbildungen weiter unten) nicht erscheinen, frag bitte die Beratung. Der Drucker muss dann noch verbunden werden. Für Nutzer, die sicher im Umgang mit den Rechnern sind wenn keine Beratungszeit ist, gibt es hier auch eine Anleitung dafür. (https://wiki.student.uni-goettingen.de/support/drucken/drucker_verbinden)
+
+Für Studierende: Win + R → \\print-win.student.uni-goettingen.de → entsprechenden Drucker auswählen ( bcipls79 für LRC SUB)
+
+Für GWDG-Accounts: Win + R → \\gwdg-print3.gwdg.de → entsprechenden Drucker auswählen ( bcipls für LRC SUB)
+
+PREISE:
+
+A2 einseitig | Farbe | 6,99
+A1 einseitig | Farbe | 9,90
+A0 Posterdruck | Farbe | 14,00
+
+Hier ist außerdem eine Anleitung der GWDG für Mac Geräte. (https://docs.gwdg.de/doku.php?id=de:services:it_consulting:apple_consulting_center:mac_printing:printing_samba)
+
+WELCHES FORMAT IST RICHTIG FÜR DEN POSTERDRUCKER?
+
+Das Standardformat für den Posterdrucker ist A0 (841 mm x 1189 mm). Der Drucker kann allerdings nicht randlos drucken! D.h. auch wenn das Dokument in A0 angelegt ist, wird es nicht auf die volle Papierfläche gedruckt. Es bietet sich an, Dokumente immer mit der Option „In Seite einpassen zu drucken (siehe Abbildung). Wenn Poster mit vielen Weißflächen gedruckt werden sollen empfiehlt es sich, im Druckdialog einzustellen, dass eine Randlinie um das Dokument gezogen wird oder Schnittmarken mitgedruckt werden. Das erleichtert das Zuschneiden des Posters, was auch im LRC SUB erledigt werden kann. Es darf maximal eine A0 Seite pro Dokument gedruckt werden! Alle weiteren Seiten in einem Dokument werden vom Drucker ignoriert.
+
+KANN ICH AUCH ANDERE FORMATE DRUCKEN?
+
+Das Papier kommt von einer Papierrolle. Man kann also grundsätzlich kein eigenes Papier in anderen Formaten einlegen. Es besteht die Möglichkeit, zwei Seiten auf ein A0-Dokument zu drucken. Dann erhält man zwei A1 Poster. Bei 4 Seiten auf einem Blatt wären das dann 4 A2 Plakate usw. Eine Übersicht über die DIN-Formate gibt es im Internet (http://www.din-formate.de/reihe-a-din-groessen-mm-pixel-dpi.html) .
+
+WELCHE DRUCKAUFLÖSUNG SOLLTE ICH EINSTELLEN?
+
+Idealerweise solltest du mit 600dpi drucken.
+
+WAS MUSS ICH IM DRUCKDIALOG EINSTELLEN?
+
+1. Drucker\\print-win\bcipls79(LRC SUB) oder\\print-win\pcipls(Physik) oder\\print-win\mcipls79(LRC MED) anwählen (je nach Standort)
+2. Seitenanpassung:Anpassenwählen(https://wiki.student.uni-goettingen.de/_detail/support/drucken/posterdruck_1.png?id=support%3Adrucken%3Aposterdruck)
+3. AufEigenschaftenund dannErweitertklicken
+4. Einstellungen wie im Screenshot kontrollieren (PapiergrößeA0bzw90x127cm,600dpiAuflösung)(https://wiki.student.uni-goettingen.de/_detail/support/drucken/posterdruck_2.png?id=support%3Adrucken%3Aposterdruck)
+
+MIT WELCHEM PROGRAMM ERSTELLE ICH AM BESTEN EIN POSTER? WORAUF MUSS ICH ACHTEN?
+
+Wir empfehlen grundsätzlich die Benutzung eines professionellen Layoutprogrammes (aka DTP-Programme). Solche Programme sind zum Beispiel:
+
+- Adobe InDesign (http://de.wikipedia.org/wiki/Adobe_InDesign)(Teil der Adobe Creative Suite. Auf studIT-PCs findest du teils kompatible Corel-Produkte)
+- QuarkXPress (http://de.wikipedia.org/wiki/Quarkxpress)
+- Scribus (http://de.wikipedia.org/wiki/Scribus)(Open Source Software)
+- Microsoft Publisher (http://de.wikipedia.org/wiki/Microsoft_Publisher)
+- es gibt noch eine Vielzahl anderer Programme, die zum Teil kostenlos sind. Googlen nach DTP Software oder Layout-Software hilft.
+
+Wir raten davon ab, Poster in Microsoft Word, Powerpoint oder Open Office zu erstellen. Die Möglichkeiten der Typographie (http://de.wikipedia.org/wiki/Typografie) -, Layout- und Bildbearbeitung sind hier eingeschränkt und es lassen sich bei weitem nicht so gute Ergebnisse erzielen wie bei den oben genannten Programmen. Sollten sie es dennoch vorhaben, empfehlen wir ihnen vor Bearbeitung eines Posters, diesen Link (https://support.microsoft.com/de-de/office/%C3%A4ndern-der-gr%C3%B6%C3%9Fe-von-folien-040a811c-be43-40b9-8d04-0de5ed79987e) zu öffnen und die Foliengröße entsprechend der gewünschten Maße ihres Posters anzupassen. Bitte bedenken sie auch hier, dass maximal A0 gedruckt werden kann.
+
+Poster können theoretisch auch mit Adobe Illustrator (http://de.wikipedia.org/wiki/Adobe_Illustrator) erstellt werden. Eigentlich ein Programm zur Erstellung von Vektorgrafiken (http://de.wikipedia.org/wiki/Vektorgrafik) , kann es aber auch Text und Rastergrafiken (http://de.wikipedia.org/wiki/Rastergrafik) einbinden und das Ganze druckfertig ausgeben. Adobe Photoshop (http://de.wikipedia.org/wiki/Photoshop) ist zur Bearbeitung von Rastergrafiken (http://de.wikipedia.org/wiki/Rastergrafik) gedacht (im Allgemeinen: digitale Fotos). Allerdings: Ein Photoshop-Dokument in der Größe A0 ist wenig speichereffizient (auch Text und Vektorgrafiken werden bei der Ausgabe gerastert) und somit werden die Dateien riesig, der Rechner könnte bei der Bearbeitung abstürzen, und wenn er es doch schafft, dauert es lange beim Ausdruck.
+
+DOKUMENT EINRICHTEN
+
+WICHTIG: Dokumente sollten in der zum Erstellen benutzen Software grundsätzlich bereits im Endformat (A0) angelegt werden, nicht kleiner! Häufig fragen die Programme schon beim Erstellen eines neuen Dokuments nach den Layoutmaßen. Über Seite oder Layout einrichten kann man häufig noch im Nachhinein die Dokumentmaße verändern.
+
+Ein häufiger Fehler bei der Benutzung von Word oder Powerpoint zur Postergestaltung ist, dass Dokumente in A4 oder Bildschirmformat angelegt werden. Später, beim (automatischen) Hochziehen der Dokumentgröße bei der Ausgabe auf A0 im Druckdialog, leidet die Qualität beim Ausdruck oder es kommt zu Komplikationen bei der Anordnung von Texten und Bildern, weil eventuell ein 4:3 Bildschirmformat erstellt wurde, das nun auf ein reguläres A0 Hoch- oder Querformat gequetscht werden muss. Alternativ kann es auch passieren, dass die Inhalte des Posters so verkleinert werden, dass große weiße Ränder auf dem Papier entstehen.
+
+Nur das PDF-Format (http://de.wikipedia.org/wiki/Pdf) zeigt letztlich genau das auf dem Bildschirm an, was auch beim Drucker herauskommt. So werden zum Beispiel Schriften eingebettet (http://www.tipps-archiv.de/schriften-in-pdf-einbette.html) und das Layout hat die finale Form für das gewünschte Druckformat. Konsequenz: Egal, in welchem Programm ein Posterlayout bearbeitet wird: Als letzter Arbeitsschritt sollte das Dokument als PDF ( am besten in der Voreinstellung PDF X-3 (http://de.wikipedia.org/wiki/PDF/X) ) exportiert werden. Erst dieses PDF sollte nach der letzten Kontrolle durch den Nutzer im Acrobat Professional oder Acrobat Reader (zum Beispiel Kontrolle der Abmessungen über die Tastenkombination CTRL+D oder auch ein Preflight (http://help.adobe.com/de_DE/Acrobat/8.0/Professional/help.html?content=WS58a04a822e3e50102bd615109794195ff-7b82.html) ) dann an den Posterdrucker geschickt werden. Hilfe bei der Benutzung des Acrobat bekommt ihr von unserer Beratung.
+
+HINWEISE ZU GRAFIKEN IN POSTER-LAYOUTS
+
+Beim Erstellen von Postern mit Grafiken muss dir der Unterschied zwischen Raster- (http://de.wikipedia.org/wiki/Rastergrafik) und Vektorgrafiken (http://de.wikipedia.org/wiki/Vektorgrafik) klar sein: Vektorgrafiken: auf mathematischen Vektoren basierende Formen oder Zeichnungen, zum Beispiel eine Linie oder ein Kreis. Vektorgrafiken bestehen aus vielen Linien und Kreisen, so genannten Pfaden. Sie können beliebig skaliert werden, ohne dass die Qualität der Darstellung leidet. So hat eine 1cm große Vektorgrafik, wenn man sie automatisch an ein A0-Plakat anpassen lässt, immer die gleiche Darstellungsqualität und ist nicht etwa pixelig oder verwaschen. Auch Text ist in der Regel basierend auf Vektoren und kann skaliert werden, ohne dass die Qualität der Ausgabe leidet. Dateiformate für Vektorgrafiken sind z.B. .ai (Illustrator) .eps (encapsulated postscript). Hinweis: Durch das Exportieren eines Fotos in das .eps Format wird aus dem Foto nicht plötzlich eine Vektorgrafik!!! Rastergrafiken : Im Allgemeinen sind das Fotos oder Scans. Rastergrafiken (z.B. Dateiformate wie .jpg, .png, .gif .tiff) können nicht ohne weiteres endlos verlustfrei skaliert (=vergrößert) werden.
+
+Beispiel: du hast auf einer Website ein Foto gefunden, dass du auf dein Poster bringen willst. Das Bild ist ein JPG mit einer Breite von 500 Pixeln bei einer Auflösung von 72 dpi (Das kann man über die Eigenschaften mit Rechtsklick auf die Datei herausbekommen). Der Drucker druckt allerdings in 300 dpi. Außerdem willst du das schöne Bild richtig groß haben, über die ganze Breite des A0 Formates. Beim Ausdruck wunderst du dich aber, warum das Bild so schlecht aussieht. Am Bildschirm war alles in Ordnung. Erklärung: Die geringe Auflösung (72 Pixel pro inch) und eine Breite von 500 Pixeln heißt, dass die eigentliche Größe des Bildes 500pixel/72pixel pro inch = 176,4 mm, also 17,6 cm ist. Das Bild wurde aber durch dich im Layoutprogramm viel breiter gezogen. A0 ist etwa 85 cm breit! Die Druckqualität litt dann noch einmal, weil mit 300dpi gedruckt wurde. Die fehlenden Pixel von 72 dpi des Bildes auf 300 dpi des Druckers wurde durch Bildrauschen gefüllt, wodurch das Aussehen des Druckergebnisses erheblich leidet. Bei einer Vektorgrafik wäre das Vergrößern unproblematisch gewesen.
+
+Zusammengefasst: Bei Dokumenten, die großformatig gedruckt werden sollen, musst du bei den verwendeten Rastergrafiken auf angemessene Auflösung (300dpi) und Größe achten. Es empfiehlt sich, bei der Gestaltung von Druckerzeugnissen auf entsprechenden Websites im Internet Informationen einzuholen (z.B. www.mediengestalter.info (http://www.mediengestalter.info) ) oder einen Kurs bei studIT zu belegen

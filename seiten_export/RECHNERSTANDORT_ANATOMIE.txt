@@ -1,0 +1,11 @@
+https://wiki.student.uni-goettingen.de/support/rechnerstandorte/standorte/anatomie
+
+
+RECHNERSTANDORT ANATOMIE
+
+Anzahl studIT-PCs: 1
+Softwareangebot: Software auf studIT-Rechnern (https://wiki.student.uni-goettingen.de/support/rechnerstandorte/software)
+Straße: Kreuzbergring 36
+Raum: 0.126
+Link zum Lageplan: (http://lageplan.uni-goettingen.de/?ident=4385_1_EG_0.126)
+Fehler melden: Kontakt zu studIT (https://wiki.student.uni-goettingen.de/support/studit_support/kontakt)

@@ -1,0 +1,54 @@
+https://wiki.student.uni-goettingen.de/univz/allgemeines/mehrzeilige_textfelder_bearbeiten
+In der UniVZ-Plattform können mehrzeilige Textfelder für die Eingabe umfangreicher Textinformationen verwendet werden. Es werden Schritte zur Texteingabe und zum Einfügen von Links erläutert.
+Mehrzeilige_Textfelder
+MEHRZEILIGE TEXTFELDER BEARBEITEN
+
+UniVZ bietet für die Eingabe umfangreicher Textinformation mehrzeilige Textfelder an.
+
+TEXT ERFASSEN
+
+Sie haben verschiedene Möglichkeiten, diese Textfelder zu füllen:
+
+1. Sie klicken in das Feld und geben den Text ein.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/allgemeines/univz_allgemeines_mehrzeilige_textfelder0.jpg?id=univz%3Aallgemeines%3Amehrzeilige_textfelder_bearbeiten)
+
+2. Sie haben den Text bereits an anderer Stelle vorliegen und wollen ihn über die Zwischenablage einfügen.
+
+Unsere Empfehlung für diesen Fall ist, dass Sie hierzu immer das Symbol für das Einfügen von Texten aus Microsoft Word verwenden:
+
+- Sie haben den Text in der Zwischenablage und klicken auf das Symbol.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/allgemeines/univz_allgemeines_mehrzeilige_textfelder1.jpg?id=univz%3Aallgemeines%3Amehrzeilige_textfelder_bearbeiten)
+
+- Sie erhalten das Einfügefenster für Wordtexte und fügen dort über Strg-V oder die rechte Maustaste den Text ein. Abschließend klicken Sie den Button „Einfügen“ an.Jetzt ist Ihr Text eingefügt.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/allgemeines/univz_allgemeines_mehrzeilige_textfelder2.jpg?id=univz%3Aallgemeines%3Amehrzeilige_textfelder_bearbeiten)
+
+- Abschließend nicht vergessen, den Text zu speichern!
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/allgemeines/univz_allgemeines_mehrzeilige_textfelder3.jpg?id=univz%3Aallgemeines%3Amehrzeilige_textfelder_bearbeiten)
+
+HYPERLINK EINFÜGEN
+
+Gelegentlich kann es sinnvoll sein, einen Link im Text anzubieten.
+
+- Sie schreiben und markieren einen Text, unter dem der Link angezeigt werden soll.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/allgemeines/univz_allgemeines_mehrzeilige_textfelder4.jpg?id=univz%3Aallgemeines%3Amehrzeilige_textfelder_bearbeiten)
+
+- Sie klicken auf das Symbol zum Einfügen eines Links. Es scheint ein Fenster, in dem Sie zumindest folgendes ausfüllen sollten:AdresseHier kommt die Link-Adresse rein. Sie können Sie auch aus der Zwischenablage einfügen.FensterHier bestimmen Sie, ob ein neues Fenster bei Klick auf den Link geöffnet wird oder nicht. Unsere Empfehlung ist es, ein neues Fenster öffnen zu lassen.
+- Sie klicken dann auf den Button „Einfügen“.
+- Abschließend nicht vergessen, den Text zu speichern!
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/allgemeines/univz_allgemeines_mehrzeilige_textfelder5.jpg?id=univz%3Aallgemeines%3Amehrzeilige_textfelder_bearbeiten)
+
+Jetzt ist der Link in den Text eingefügt. Sie können den Link nicht aus dem Textfenster heraus ausprobieren.
+
+- Dazu klicken Sie in die Detailansicht der Veranstaltung.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/allgemeines/univz_allgemeines_mehrzeilige_textfelder6.jpg?id=univz%3Aallgemeines%3Amehrzeilige_textfelder_bearbeiten)
+
+- Sie finden dort den Link und testen ihn.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/allgemeines/univz_allgemeines_mehrzeilige_textfelder7.jpg?id=univz%3Aallgemeines%3Amehrzeilige_textfelder_bearbeiten)

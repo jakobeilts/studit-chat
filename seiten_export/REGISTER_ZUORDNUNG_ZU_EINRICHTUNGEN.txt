@@ -1,0 +1,47 @@
+https://wiki.student.uni-goettingen.de/univz/veranstaltungen/bearbeiten/zuordnung_zu_einrichtungen
+
+
+REGISTER ZUORDNUNG ZU EINRICHTUNGEN
+
+Jede Veranstaltung ist mindestens einer Einrichtung der Universität zugeordnet. Über diese Zuordnung wird festgelegt, dass UniVZ-Bearbeiter, die ebenfalls der entsprechenden Einrichtung zugeordnet sind, die Veranstaltung bearbeiten dürfen.
+
+ZUORDNUNG GENAU EINER EINRICHTUNG (NORMALFALL)
+
+In der Regel ist die Einrichtung, der Sie angehören, bereits markiert. Sie müssen hier nichts weiter tun. Sind Sie mehreren Einrichtungen zugordnet und wollen eine neue Veranstaltung anlegen, dann achten Sie bitte darauf, vorher die gewünschte Einrichtung ausgewählt zu haben: Siehe: Einrichtung wechseln (https://wiki.student.uni-goettingen.de/univz/allgemeines/einrichtung_wechseln)
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/veranstaltungen/bearbeiten/univz_veranstaltungen_bearbeiten15.jpg?id=univz%3Averanstaltungen%3Abearbeiten%3Azuordnung_zu_einrichtungen)
+
+Sie können Ihre Einrichtung auch nicht entfernen. In dem Fall erhalten Sie eine Fehlermeldung und klicken auf den Button „OK“.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/veranstaltungen/bearbeiten/univz_veranstaltungen_bearbeiten16.jpg?id=univz%3Averanstaltungen%3Abearbeiten%3Azuordnung_zu_einrichtungen)
+
+ZUORDNUNG MEHRERER EINRICHTUNGEN
+
+Es gibt Veranstaltungen, die mehreren Einrichtungen zugeordnet sind, damit UniVZ-Bearbeiter aus verschiedenen Einrichtungen die Veranstaltungen verändern können. Eine solche mehrfache Zuordnung kann von den Fachbereichsadministratoren Ihrer Fakultät oder von UniVZ-Bearbeitern, die selbst Rechte für mehrere Einrichtungen haben, erstellt worden sein.
+
+- Sie gehören zur Einrichtung „Marketing und Innovationsmanagement“ aus dem „Department für Betriebswirtschaftlehre (BWL)“.
+- Da die Veranstaltung Ihrer Einrichtung zugeordnet ist, können Sie die Veranstaltung bearbeiten.
+- Ein anderer UniVZ-Bearbeiter hat die Veranstaltung zwei weiteren Einrichtungen zugeordnet. Also können auch UniVZ-Bearbeiter dieser Einrichtungen die Veranstaltungsdaten verändern.
+- Sie selbst können an den Rechten der anderen Einrichtungen nichts verändern („Häkchen“ sind ausgegraut).
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/veranstaltungen/bearbeiten/univz_veranstaltungen_bearbeiten17.jpg?id=univz%3Averanstaltungen%3Abearbeiten%3Azuordnung_zu_einrichtungen)
+
+STUD.IP-ZUSAMMENHANG
+
+Sobald eine Veranstaltung mehreren Einrichtungen zugeordnet ist, muss eine der Einrichtungen als „Veranstalter“ gekennzeichnet werden. Im Stud.IP wird die Veranstaltung der so gekennzeichneten Einrichtung zugeordnet, Mehrfachzuordnungen sind in Stud.IP momentan nicht möglich. Diese Kennzeichnung kann von jedem UniVZ-Bearbeiter aus einer der genannten Einrichtungen vorgenommen werden.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/veranstaltungen/bearbeiten/univz_veranstaltungen_bearbeiten19.jpg?id=univz%3Averanstaltungen%3Abearbeiten%3Azuordnung_zu_einrichtungen)
+
+Am Beispiel können sie folgendes erkennen:
+
+- Die Einrichtung „Handelsbetriebslehre“ ist als Veranstalter gekennzeichnet. Unter dieser Einrichtung wird die Veranstaltung in Stud.IP eingeordnet und zu finden sein.
+- Es spielt keine Rolle, ob die weiteren Einrichtungen als „Mitveranstalter“ (wie „Marketing, insbesondere Konsumentenforschung“) oder gar nicht gekennzeichnet werden (wie „Marketing und Innovationsmanagement“).
+
+EIGENE EINRICHTUNG GELÖSCHT
+
+Sollten Sie versehentlich das Häkchen Ihrer Einrichtung gelöscht und so gespeichert haben, gehen Ihre Bearbeitungsrechte verloren. Sie können die Veranstaltungsdaten nicht mehr verändern.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/veranstaltungen/bearbeiten/univz_veranstaltungen_bearbeiten18.jpg?id=univz%3Averanstaltungen%3Abearbeiten%3Azuordnung_zu_einrichtungen)
+
+- Sie kontaktieren den Fachbereichsadministrator Ihrer Fakultät und bitten ihn, die Zuordnung Ihrer Einrichtung wiederherzustellen.
+- Sie schicken ein E-Mail an campussupport@zvw.uni-goettingen.de mit der Bitte um Wiederherstellung der Zuordnung, die die folgenden Informationen enthält:VeranstaltungsnummerVeranstaltungssemesterName der Einrichtung, die zugeordnet werden soll

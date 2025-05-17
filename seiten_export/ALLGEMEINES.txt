@@ -1,0 +1,20 @@
+https://wiki.student.uni-goettingen.de/support/exa/studierende/allgemeines
+
+
+ALLGEMEINES
+
+Navigation: Burger-Menü → Organisation → Hochschulstruktur anzeigen
+
+- Die Georg-August-Universität Göttingen aufklappen, um ihre Unterelemente zu sehen.
+- Die einzelnen Einheiten weiter aufklappen, um bis zur entsprechenden Person und ihrer Funktion zu gelangen.
+
+Vorlesungsverzeichnis anzeigen:
+
+Navigation: Burger-Menü → Studienangebot → Vorlesungsverzeichnis anzeigen
+
+- Im Vorlesungsverzeichnis wird das aktuelle Semester angezeigt. Bei Bedarf kann das Semester gewechselt werden
+- Sobald eine Einrichtung aufgeklappt wird, erscheint i.d.R. ein oranger Anhänger. Dieser repräsentiert den entsprechenden Studiengang und das Modulverzeichnis.
+- Bei weiterem aufklappen, erscheint ein grünes Puzzleteil. Dieses repräsentiert ein Modul.
+- Dem Modul sind einzelne Elemente untergeordnet. Dazu gehören Modulprüfungen und Veranstaltungsgruppen.
+- Die Veranstaltungsgrupen (mehrere Bücher) werden z.B. durch Vorlesung (VL) oder Seminare (Sem) dargestellt (einzelne Bücher). Darunter befinden sich die ausgeplanten Veranstaltungen.
+- Die Modulprüfungen (Abzeichen) enthalten die Prüfungselemente.

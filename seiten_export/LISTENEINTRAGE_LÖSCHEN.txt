@@ -1,0 +1,24 @@
+https://wiki.student.uni-goettingen.de/univz/allgemeines/listeneintrage_loschen
+In UniVZ können Sie Einträge in listenartigen Eingaben wie Termine, Räume oder Modulzuordnungen wieder löschen, indem Sie sie markieren und auf den Button „Löschen“ klicken.
+UniVZ_Löschen
+LISTENEINTRAGE LÖSCHEN
+
+Viele Eingaben in UniVZ erfolgen listenartig, z.B.:
+
+- Termine und Räume
+- Modulzuordnungen
+- Lehrpersonen
+- Links
+- …
+
+So können Sie einen oder mehrere Einträge in einer solchen Liste wieder löschen:
+
+- Sie markieren die zu löschen Einträge, indem Sie das links neben jedem Eintrag stehende Kontrollkästchen anklicken.
+- Danach klicken Sie auf den Button„Löschen“
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/allgemeines/univz_veranstaltungen_bearbeiten10.jpg?id=univz%3Aallgemeines%3Alisteneintrage_loschen)
+
+- Danach werden die zum Löschen ausgewählten Einträge durch ein x-Symbol markiert und der Button„Endgültig Löschen“angeboten. Diese Sicherheitsabfrage verhindert das versehentliche Löschen wichtiger Einträge.
+- Zum endgültigen Löschen klicken Sie jetzt auf den Button„Endgültig Löschen“oder Sie brechen den Vorgang ab, indem Sie auf den Button„Abbruch“klicken oder einfach normal weiterarbeiten.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/allgemeines/univz_veranstaltungen_bearbeiten11.jpg?id=univz%3Aallgemeines%3Alisteneintrage_loschen)

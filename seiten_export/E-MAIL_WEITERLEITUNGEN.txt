@@ -1,0 +1,12 @@
+https://wiki.student.uni-goettingen.de/support/email/weiterleitung
+Microsoft Outlook Web App unterstützt keine echten E-Mail-Weiterleitungen, um die Mailbox nicht zu überfüllen.
+E-Mail-Weiterleitungen
+E-MAIL WEITERLEITUNGEN
+
+Häufig werden wir angefragt, ob und wie E-Mail-Weiterleitungen von der studentischen Mailadresse auf eine private Mailadresse möglich seien. Da Microsoft Outlook Web App (http://email.stud.uni-goettingen.de) , das für die studentischen Postfächer der Uni Göttingen zum Einsatz kommt, keine echten Weiterleitungen unterstützt, supporten wir auch keine Weiterleitungen. Das Problem ist, dass bei Weiterleitungen IMMER eine Kopie der Mail im Posteingang oder Papierkorb des studentischen Postfachs verbleibt und die Mailbox sich so nach und nach anfüllt, bis das Postfach (2 GB ) voll ist. Dies passiert häufig unbemerkt vom Nutzer. Erst wenn er/sie schließlich keine Mails mehr an die private Adresse bekommt, wird das Problem erkannt. Dann kann es allerdings - beispielsweise im Fall von Mahnungen der SUB - schnell teuer werden oder auch ärgerlich, wenn Mails von Dozenten etc. nicht empfangen werden.
+
+Unser Hinweis an dieser Stelle: Checkt eure Mails regelmäßig im eCampus (https://ecampus.uni-goettingen.de) oder richtet euch einen E-mail Client wie Thunderbird (https://wiki.student.uni-goettingen.de/support/email/thunderbird) , Outlook (https://wiki.student.uni-goettingen.de/support/email/outlook) , Apple Mail (https://wiki.student.uni-goettingen.de/support/email/apple_mail) oder Windows Live Mail ein. Outlook Web App unterstützt das IMAP Protokoll, sodass die Mails auf dem Mailserver erhalten bleiben und ihr auch außerhalb eures privaten Rechners immer alle Mails zur Verfügung habt.
+
+StudIT übernimmt keine Verantwortung für entstandene Unannehmlichkeiten aufgrund eingerichteter Weiterleitungen!
+
+weiterleitung weiterleiten postfach voll überfüllt mails mail löschen inbox thunderbird outlook apple mail

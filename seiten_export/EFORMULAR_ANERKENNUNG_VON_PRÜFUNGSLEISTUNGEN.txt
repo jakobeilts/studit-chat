@@ -1,0 +1,183 @@
+https://wiki.student.uni-goettingen.de/support/ecampus/formulare/anerkennung
+Elektronisches Formular für die Anerkennung von Prüfungsleistungen an der Universität Göttingen.
+Anerkennung_Pruefungsleistungen
+EFORMULAR ANERKENNUNG VON PRÜFUNGSLEISTUNGEN
+
+Mit dem elektronischen Formular Anerkennung von Prüfungsleistungen, kannst Du bei deiner zuständigen Fakultät beantragen, bereits erbrachte Leistungen für Deinen aktuellen Studiengang anrechnen zu lassen.
+
+ALLGEMEINE NUTZUNG
+
+Grau hinterlegte Felder stellen sogenannte Pflichtfelder dar. D.h. diese müssen ausgefüllt sein, um das Formular zu signieren und abzusenden.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/ecampus/formulare/anerk1.png?id=support%3Aecampus%3Aformulare%3Aanerkennung)
+
+Hast Du bereits einen Antrag gestellt, der nicht älter als 4 Wochen ist, werden die Daten und Dokumente für den neuen Antrag übernommen.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/ecampus/formulare/anerk2.png?id=support%3Aecampus%3Aformulare%3Aanerkennung)
+
+SCHRITT 1: ANGABE DATEN DER HERKUNFTSLEISTUNG
+
+1. Im ersten Schritt wählst Du die Art deiner erbrachten Leistung(en) aus. Dabei kann es sich um extern erbrachte (an einer in- oder ausländischen Hochschule) oder um interne erbrachte (an der Universität Göttingen) Leistungen handeln.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/ecampus/formulare/anerk3.png?id=support%3Aecampus%3Aformulare%3Aanerkennung)
+
+Abhängig von der Art der ausgewählten Leistung, öffnen sich nun unterschiedliche Eingabebereiche.
+
+EXTERNE LEISTUNG AN EINER INLÄNDISCHEN HOCHSCHULE
+
+2. Wenn Deine Leistung von einer externen Hochschule innerhalb Deutschlands stammt, kannst Du die entsprechende Hochschule aus einer Liste auswählen (Klick auf das Lupen-Symbol rechts).
+
+(https://wiki.student.uni-goettingen.de/_detail/support/ecampus/formulare/anerk4.png?id=support%3Aecampus%3Aformulare%3Aanerkennung)
+
+3. Du hast nun die Möglichkeit nach der Hochschule zu suchen. Dies kannst Du über einen Suchbegriff, der die Ortschaft oder den Namen der Hochschule enthält. Dafür gibst Du den Suchbegriff in das rotmarkierte Feld ein und klicken anschließend auf Suchen. Falls Du die Hochschule nicht finden konntest, gehe zu Schritt 4.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/ecampus/formulare/anerk5.png?id=support%3Aecampus%3Aformulare%3Aanerkennung)
+
+4. Wenn die Hochschule, an der Du die Leistungen erbracht hast, nicht in der Liste aus Schritt 3 gefunden hast, wähle bitte Andere Hochschule. Danach hast Du die Möglichkeit Land, Stand, Name der Hochschule, Art der Hochschule und die Internetadresse der Hochschule angeben. Diese eingetragenen Daten werden vom Team des Prüfungsverwaltungssystems (FlexNow-Team) im Anschluss in die Datenbank eingepflegt, so dass diese Hochschule zukünftig in der Liste aus Schritt 3 enthalten ist.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/ecampus/formulare/anerk6.png?id=support%3Aecampus%3Aformulare%3Aanerkennung)
+
+Hinweis: Leistungsvorlagen sind auswählbar, wenn an der ausgewählten Hochschule mit der gleichen Fächerkombination bereits erbrachte Leistungen anerkannt wurden.
+
+5. Du hast die Möglichkeit Deinen Antrag über die Leistungsvorlagen auszufüllen indem Du eine vorhandene Leistungsvorlage im Drop Down Menü auswählst. Dadurch werden einige Felder im Bereich der erbrachten Leistung und im Bereich, auf welches Du die erbrachte Leistung anerkennen möchtest, vorausgefüllt. Sollten diese vorausgefüllten Felder inhaltlich für Dich nicht passen, so wähle bitte Keine der aufgeführten Leistungen und fülle die weiteren Felder im Formular selbständig aus.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/ecampus/formulare/anerk7.png?id=support%3Aecampus%3Aformulare%3Aanerkennung)
+
+Beispiel vorausgefüllte Felder durch Leistungsvorlage
+
+(https://wiki.student.uni-goettingen.de/_detail/support/ecampus/formulare/anerk8.png?id=support%3Aecampus%3Aformulare%3Aanerkennung)
+
+(https://wiki.student.uni-goettingen.de/_detail/support/ecampus/formulare/anerk9.png?id=support%3Aecampus%3Aformulare%3Aanerkennung)
+
+7. Damit Deine Fakultät die Anerkennung problemlos prüfen kann ist es notwendig, dass Du Deinem Antrag entsprechende Nachweise beifügst. Bitte berücksichtige dabei die Hinweise, welche Dokumente verpflichtend sind, von dir also hochgeladen werden müssen. Anschließend kannst Du noch Bemerkungen zu dieser Leistung angeben.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/ecampus/formulare/anerk91.png?id=support%3Aecampus%3Aformulare%3Aanerkennung)
+
+8. Wenn Du mehrere erbrachte Leistungen anrechnen lassen möchtest, klickst Du einfach auf den Button Ich möchte weitere erbrachte Leistungen auf das gleiche Modul anerkennen . Modulbeschreibung und Leistungsnachweis(e) sind dann nicht mehr verpflichtend, wenn diese Informationen in den Nachweisen der ersten Leistung schon enthalten sind. Achte bitte darauf, dass Deine Nachweise alle erbrachten Leistungen abdecken!
+
+(https://wiki.student.uni-goettingen.de/_detail/support/ecampus/formulare/anerk92.png?id=support%3Aecampus%3Aformulare%3Aanerkennung)
+
+Weitere Informationen zu der Erfassung von mehreren erbrachten Leistungen bekommst Du im Kapitel Mehrere Leistungen in einem Antrag bearbeiten.
+
+EXTERNE LEISTUNG AN EINER AUSLÄNDISCHEN HOCHSCHULE
+
+2. Wenn Deine Leistung von einer ausländischen Hochschule stammt, kannst Du die entsprechende Hochschule aus einer Liste auswählen (Klick auf das Lupen-Symbol rechts).
+
+(https://wiki.student.uni-goettingen.de/_detail/support/ecampus/formulare/anerk93.png?id=support%3Aecampus%3Aformulare%3Aanerkennung)
+
+3. Du hast nun die Möglichkeit nach der Hochschule zu suchen. Dies kannst Du über einen Suchbegriff, der die Ortschaft oder den Namen der Hochschule enthält. Dafür gibst Du den Suchbegriff in das rotmarkierte Feld ein und klicken anschließend auf Suchen . Falls Du die Hochschule nicht finden konntest, gehe zu Schritt 4.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/ecampus/formulare/anerk94.png?id=support%3Aecampus%3Aformulare%3Aanerkennung)
+
+4. Wenn die Hochschule, an der Du die Leistungen erbracht hast, nicht in der Liste aus Schritt 3 gefunden hast, wähle bitte Andere Hochschule. Danach hast Du die Möglichkeit Land, Stand, Name der Hochschule, Art der Hochschule und die Internetadresse der Hochschule angeben. Diese eingetragenen Daten werden vom Team des Prüfungsverwaltungssystems (FlexNow-Team) im Anschluss in die Datenbank eingepflegt, so dass diese Hochschule zukünftig in der Liste aus Schritt 3 enthalten ist.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/ecampus/formulare/anerk95.png?id=support%3Aecampus%3Aformulare%3Aanerkennung)
+
+Vorhandene Leistungsvorlage auswählen Hinweis: Leistungsvorlagen sind auswählbar, wenn an der ausgewählten Hochschule mit der gleichen Fächerkombination bereits erbrachte Leistungen anerkannt wurden.
+
+5. Du hast die Möglichkeit Deinen Antrag über die Leistungsvorlagen auszufüllen indem Du eine vorhandene Leistungsvorlage im Drop Down Menü auswählst. Dadurch werden einige Felder im Bereich der erbrachten Leistung und im Bereich, auf welches Du die erbrachte Leistung anerkennen möchtest, vorausgefüllt. Sollten diese vorausgefüllten Felder inhaltlich für Dich nicht passen, so wähle bitte Keine der aufgeführten Leistungen und fülle die weiteren Felder im Formular selbständig aus.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/ecampus/formulare/anerk96.png?id=support%3Aecampus%3Aformulare%3Aanerkennung)
+
+Beispiel vorausgefüllte Felder durch Leistungsvorlage
+
+(https://wiki.student.uni-goettingen.de/_detail/support/ecampus/formulare/anerk97.png?id=support%3Aecampus%3Aformulare%3Aanerkennung)
+
+Daten zum Aufenthalt 6. Deine Fakultät benötigt weitere Informationen zu Deinem Aufenthalt. Dazu gehört der Zeitraum deines Auslandsaufenthaltes an. Die Fragen zur Art des Aufenthalts und zur Art der Finanzierung stellen wir, weil wir diese Informationen für die amtliche Hochschulstatistik erfassen müssen. Diese Daten können bereits enthalten sein, falls Dein Auslandsaufenthalt bereits im Prüfungsverwaltungssystem FlexNow erfasste wurde.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/ecampus/formulare/anerk98.png?id=support%3Aecampus%3Aformulare%3Aanerkennung)
+
+7. Neben der Angabe der Hochschule und den Daten zum Aufenthalt, benötigt Deine Fakultät noch weitere Informationen zur erbrachten Leistung, wie den Namen des Moduls, die erreichten ECTS-Credits usw.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/ecampus/formulare/anerk99.png?id=support%3Aecampus%3Aformulare%3Aanerkennung)
+
+Benotung der Gastuniversität 8. Um Deine Prüfungsleistung anrechnen zu können, benötigen wir Daten zu deiner erreichten Note, zur bestmöglichen Note und zur schlechtesten Note, mit welcher man an der externen Hochschule noch besteht. Handelte es sich um eine Prüfung die unbenotet war, klicke auf die Checkbox Unbenotet .
+
+(https://wiki.student.uni-goettingen.de/_detail/support/ecampus/formulare/anerk991.png?id=support%3Aecampus%3Aformulare%3Aanerkennung)
+
+9. Damit Deine Fakultät die Anerkennung problemlos prüfen kann ist es notwendig, dass Du Deinem Antrag entsprechende Nachweise beifügst. Bitte berücksichtige dabei die Hinweise, welche Dokumente verpflichtend sind, von dir also hochgeladen werden müssen. Anschließend kannst Du noch Bemerkungen zu dieser Leistung angeben.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/ecampus/formulare/anerk992.png?id=support%3Aecampus%3Aformulare%3Aanerkennung)
+
+10. Wenn Du mehrere erbrachte Leistungen anrechnen lassen möchtest klickst Du einfach auf den Button Ich möchte weitere erbrachte Leistungen auf das gleiche Modul anerkennen . Modulbeschreibung und Leistungsnachweis(e) sind dann nicht mehr verpflichtend, wenn diese Information in den Nachweisen der ersten Leistung schon enthalten sind. Achte bitte darauf, dass Deine Nachweise alle erbrachten Leistungen abdecken!
+
+(https://wiki.student.uni-goettingen.de/_detail/support/ecampus/formulare/anerk993.png?id=support%3Aecampus%3Aformulare%3Aanerkennung)
+
+Weitere Informationen zu der Erfassung von mehreren Leistungen bekommst Du im Kapitel Mehrere Leistungen in einem Antrag bearbeiten.
+
+INTERNE LEISTUNG AN DER GEORG-AUGUST-UNIVERSITÄT GÖTTINGEN
+
+2. Handelt es sich um eine interne Leistung, benötigen wir Angaben zu Deinem aktuellen Studienfach , Studienabschnitt und dem belegten Modul . Findest Du das Modul in der Liste Modulauswahl nicht, gehe bitte zu Schritt 3.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/ecampus/formulare/anerk994.png?id=support%3Aecampus%3Aformulare%3Aanerkennung)
+
+3. Falls Du Dein Modul nicht in der Modulauswahl gefunden hast, wähle die Checkbox Modul nicht in Modulauswahl enthalten . Nun musst Du die Modulnummer (falls vorhanden), den Modulnamen bzw. die Bezeichnung der Leistung, die Credits und die Note angeben.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/ecampus/formulare/anerk995.png?id=support%3Aecampus%3Aformulare%3Aanerkennung)
+
+4. Damit Deine Fakultät die Anerkennung problemlos prüfen kann ist es notwendig, dass Du Deinem Antrag entsprechende Nachweise beifügst. Bitte berücksichtige dabei die Hinweise, welche Dokumente verpflichtend sind, von dir also hochgeladen werden müssen.
+
+Fall 1: Dein Modul war in Modulauswahl enthalten
+
+(https://wiki.student.uni-goettingen.de/_detail/support/ecampus/formulare/anerk996.png?id=support%3Aecampus%3Aformulare%3Aanerkennung)
+
+Fall 2: Dein Modul war nicht in Modulauswahl enthalten
+
+(https://wiki.student.uni-goettingen.de/_detail/support/ecampus/formulare/anerk997.png?id=support%3Aecampus%3Aformulare%3Aanerkennung)
+
+5. Anschließend kannst Du noch Bemerkungen zu dieser Leistung angeben.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/ecampus/formulare/anerk998.png?id=support%3Aecampus%3Aformulare%3Aanerkennung)
+
+6. Wenn Du mehrere erbrachte Leistungen anrechnen lassen möchtest, klickst Du einfach auf den Button Ich möchte weitere erbrachte Leistungen auf das gleiche Modul anerkennen . Modulbeschreibung und Leistungsnachweis(e) sind dann nicht mehr verpflichtend, wenn diese Information in den Nachweisen der ersten Leistung schon enthalten sind. Achte bitte darauf, dass Deine Nachweise alle erbrachten Leistungen abdecken!
+
+(https://wiki.student.uni-goettingen.de/_detail/support/ecampus/formulare/anerk999.png?id=support%3Aecampus%3Aformulare%3Aanerkennung)
+
+Weitere Informationen zu der Erfassung von mehreren Leistungen bekommst Du im Kapitel Mehrere Leistungen in einem Antrag bearbeiten.
+
+SCHRITT 2: ANGABE DATEN DER ZIELLEISTUNG
+
+Im zweiten Schritt kannst Du nun die Leistung(en) erfassen, auf welche die erbrachte(n) Leistung(en) anerkannt werden sollen (Antrag auf Anerkennung als).
+
+1. Hier hast Du wieder die Möglichkeit, eines deiner Studienfächer , einen Studienabschnitt und ein konkretes Modul zu wählen. Wenn Du unsicher bist, zu welchem konkreten Modul Deine erbrachte Leistung passen könnte, kannst Du alternativ den Haken unbekannt, wofür anerkennbar / Anerkennung ohne Äquivalenz anklicken. Studienabschnitt und Modulauswahl sind dann keine Pflichtfelder mehr. Du erleichterst die weitere Bearbeitung aber sehr, wenn Du Deinen Anerkennungswunsch so konkret wie möglich formulierst und möglichst den Studienabschnitt angibst. Hast Du die Felder ausgefüllt, kannst Du anschließend das Feld Teilmodulauswähl ausfüllen.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/ecampus/formulare/anerk9991.png?id=support%3Aecampus%3Aformulare%3Aanerkennung)
+
+2. Hier kannst Du mit einem Klick auf das Plus-Symbol beliebig viele weitere Leistungen angeben. Bitte beachte, dass dies nur möglich ist, wenn Du nicht mehrere erbrachte Leistungen angegeben hast. Sollte dies der Fall sein, so ist das Plus-Symbol nicht mehr verfügbar und Du musst Du einen weiteren Antrag stellen.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/ecampus/formulare/anerk9992.png?id=support%3Aecampus%3Aformulare%3Aanerkennung)
+
+Weitere Informationen zu der Erfassung von mehreren Leistungen bekommst Du im Kapitel Mehrere Leistungen in einem Antrag bearbeiten.
+
+3. Hier hast Du die Möglichkeit allgemeine Bemerkungen oder Hinweise für den/die Sachbearbeiter/in, hinzuzufügen.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/ecampus/formulare/anerk9993.png?id=support%3Aecampus%3Aformulare%3Aanerkennung)
+
+SCHRITT 3: SIGNIEREN UND ABSENDEN
+
+Am Ende Deines Antrags stehen nun nur noch die elektronische Signatur und das Absenden. Das Formular und Deine Nachweise werden damit automatisch an den richtigen Ansprechpartner in der jeweiligen Fakultät weitergeleitet. Du erhältst außerdem eine Bestätigungsmail.
+
+4. Der Antrag wird durch den Button auf der rechten Seite des Eingabefeldes signiert. Solltest Du Pflichtfelder vergessen haben auszufüllen oder Pflichtdokumente nicht hochgeladen haben, so erhältst Du eine Fehlermeldung und kannst dies nachholen.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/ecampus/formulare/anerk9994.png?id=support%3Aecampus%3Aformulare%3Aanerkennung)
+
+Solltest Du alle Pflichtfelder gefüllt haben, erscheint nach dem Signieren des Formulars eine Meldung, die Dich an das Absenden des Formulars erinnert.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/ecampus/formulare/anerk9995.png?id=support%3Aecampus%3Aformulare%3Aanerkennung)
+
+Falls Du nach der Signierung noch etwas ändern möchtest, musst Du zunächst die Signierung entfernen.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/ecampus/formulare/anerk9996.png?id=support%3Aecampus%3Aformulare%3Aanerkennung)
+
+MEHRERE LEISTUNGEN IN EINEM ANTRAG BEARBEITEN
+
+Falls Du mehrere erbrachte Leistungen anerkennen möchtest oder aber auf mehrere Module eine Anerkennung erfolgen soll, kann dies über einen Antrag erfolgen. Dies ist jedoch nur dann möglich, wenn entweder mehrere erbrachte Prüfungsleistungen auf ein Modul anerkannt werden sollen (Abbildung 1) oder eine erbrachte Prüfungsleistung auf mehrere Module anerkannt werden sollen (Abbildung 2). Ist dies nicht der Fall, muss eine weitere Antragstellung erfolgen.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/ecampus/formulare/anerk9997.png?id=support%3Aecampus%3Aformulare%3Aanerkennung)
+
+(https://wiki.student.uni-goettingen.de/_detail/support/ecampus/formulare/anerk9998.png?id=support%3Aecampus%3Aformulare%3Aanerkennung)
+
+Der Grund für diese vorgegebene Restriktion ist die Komplexität, welche entsteht, wenn Du mehrere Prüfungsleistungen auf mehrere Module anrechnen lassen möchtest. D.h. sobald Du mehrere erbrachte Prüfungsleistungen einträgst, kannst Du im Bereich Antrag auf Anerkennung als nur ein Modul eintragen. Im umgekehrten Fall bedeutet dies, sofern Du nur eine erbrachte Prüfungsleistung eingetragen hast, kannst Du im Bereich Antrag auf Anerkennung als mehrere Module eintragen.
+
+erstellt von: fritzsche
+erstellt am: 24.08.2018 15:14
