@@ -1,49 +1,64 @@
-import os
-import streamlit as st
+import os, streamlit as st
+from langchain_core.documents import Document
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import FAISS
-from langchain.schema import Document
-from langchain_openai import OpenAIEmbeddings
+from langchain.storage import InMemoryStore
 from custom_embeddings import AcademicCloudEmbeddings
 
-gwdg_api_key = st.secrets["GWDG_API_KEY"]
-base_url = st.secrets["BASE_URL"]
-model = "e5-mistral-7b-instruct"
+# --------------------------------------------------
+CHUNK_SIZE, CHUNK_OVERLAP = 800, 100
+splitter = RecursiveCharacterTextSplitter(
+    chunk_size=CHUNK_SIZE,
+    chunk_overlap=CHUNK_OVERLAP,
+    separators=["\n\n", "\n", " ", ""],
+)
+PERSIST_PATH = "vectorstore_index"
+
 
 def load_and_embed_documents():
-    # Use AcademicCloud embeddings
-    embeddings = AcademicCloudEmbeddings(api_key=st.secrets["GWDG_API_KEY"])
+    embedder = AcademicCloudEmbeddings(api_key=st.secrets["GWDG_API_KEY"])
 
-    # Path to save/load the FAISS index
-    persist_path = "vectorstore_index"
+    # ---------- 1) Index existiert schon ----------
+    if os.path.exists(os.path.join(PERSIST_PATH, "index.faiss")):
+        vs = FAISS.load_local(
+            PERSIST_PATH, embeddings=embedder, allow_dangerous_deserialization=True
+        )
+        parent_store = _build_parent_store_from_txts()
+        return vs, parent_store
 
-    if os.path.exists(persist_path):
-        # If already exists, load from disk
-        vectorstore = FAISS.load_local(persist_path, embeddings, allow_dangerous_deserialization=True)
-        return vectorstore
+    # ---------- 2) Index neu erstellen ------------
+    parent_store = InMemoryStore()
+    child_chunks, parent_docs = [], []
 
-    documents = []
+    for fn in os.listdir("seiten_export"):
+        if not fn.endswith(".txt"):
+            continue
+        url, *rest = open(os.path.join("seiten_export", fn), encoding="utf-8").readlines()
+        full_text = "".join(rest).strip()
+        meta = {"source": fn, "url": url.strip()}
 
-    for filename in os.listdir("seiten_export"):
-        if filename.endswith(".txt"):
-            file_path = os.path.join("seiten_export", filename)
+        parent_doc = Document(page_content=full_text, metadata=meta)
+        parent_docs.append(parent_doc)
 
-            with open(file_path, "r", encoding="utf-8") as f:
-                lines = f.readlines()
+        # kleine Chunks -> Vektor­index
+        child_chunks.extend(splitter.create_documents([full_text], metadatas=[meta]))
 
-                if len(lines) < 2:
-                    continue
+    # Parent-Docs ins Store schreiben  (key = Dateiname)
+    parent_store.mset([(d.metadata["source"], d) for d in parent_docs])
 
-                url = lines[0].strip()
-                content = "".join(lines[1:]).strip()
-
-                documents.append(Document(page_content=content, metadata={"source": filename, "url": url}))
+    vs = FAISS.from_documents(child_chunks, embedder)
+    vs.save_local(PERSIST_PATH)
+    return vs, parent_store
 
 
-
-    # Create FAISS vectorstore
-    vectorstore = FAISS.from_documents(documents, embeddings)
-
-    # Save to disk
-    vectorstore.save_local(persist_path)
-
-    return vectorstore
+# --------------------------------------------------
+def _build_parent_store_from_txts():
+    """Wird aufgerufen, wenn der Vektor­index schon existiert."""
+    store = InMemoryStore()
+    for fn in os.listdir("seiten_export"):
+        if not fn.endswith(".txt"):
+            continue
+        url, *rest = open(os.path.join("seiten_export", fn), encoding="utf-8").readlines()
+        full_text = "".join(rest).strip()
+        store.mset([(fn, Document(full_text, metadata={"source": fn, "url": url.strip()}))])
+    return store

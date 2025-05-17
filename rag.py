@@ -1,101 +1,88 @@
+import time, streamlit as st
 from langchain_openai import ChatOpenAI
-import streamlit as st
-from load_and_embed_html import load_and_embed_documents
-import time
 from langchain_core.messages import SystemMessage
+from langchain.retrievers import ParentDocumentRetriever
 
-gwdg_api_key = st.secrets["GWDG_API_KEY"]
-base_url = st.secrets["BASE_URL"]
-model = "meta-llama-3.1-8b-instruct"
+from load_and_embed_html import load_and_embed_documents, splitter   # splitter reuse
 
-# Initialize model
+# ----------------- Grund­daten --------------------
 llm = ChatOpenAI(
-    model=model,
+    model="meta-llama-3.1-8b-instruct",
     temperature=0,
-    base_url=base_url,
-    api_key=gwdg_api_key
+    base_url=st.secrets["BASE_URL"],
+    api_key=st.secrets["GWDG_API_KEY"],
 )
 
-# Load vectorstore only once
+# -------------- Ressourcen einmal laden ----------
 if "vectorstore" not in st.session_state:
-    st.session_state.vectorstore = load_and_embed_documents()
+    vs, parent_store = load_and_embed_documents()
+    st.session_state.vectorstore = vs
+    st.session_state.parent_store = parent_store
 
-# Streamlit UI
+if "parent_retriever" not in st.session_state:
+    st.session_state.parent_retriever = ParentDocumentRetriever(
+        vectorstore=st.session_state.vectorstore,
+        docstore=st.session_state.parent_store,   # <-- jetzt vorhanden!
+        child_splitter=splitter,                 # Pflicht-Arg.
+        id_key="source",
+        child_to_parent_key="source",
+    )
+
+# ----------------- Streamlit-UI -------------------
 st.title("StudIT RAG Chat")
-
 prompt = st.chat_input("Frag mich etwas...")
 
-# Create session state for chat history
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
-# Display chat history
-for message in st.session_state.messages:
-    st.chat_message(message["role"]).markdown(message["content"])
+for m in st.session_state.messages:
+    st.chat_message(m["role"]).markdown(m["content"])
 
+# ============  Auf neue User-Eingabe =============
 if prompt:
     st.chat_message("user").markdown(prompt)
     st.session_state.messages.append({"role": "user", "content": prompt})
 
-    # Retrieve relevant documents
-    retriever = st.session_state.vectorstore.as_retriever()
-    docs = retriever.get_relevant_documents(prompt)
+    # 1) Parent-Retrieval  (k Dateien)
+    docs = st.session_state.parent_retriever.invoke(
+        prompt, search_kwargs={"k": 3}
+    )
 
-    # Extract document content and URLs
-    context = "\n".join([
-        f"({doc.metadata['source']}, {doc.metadata['url']}): {doc.page_content}"
-        for doc in docs
-    ])
+    MAX_CHARS = 4_000
+    context_parts, sources = [], set()
+    for d in docs:
+        snippet = d.page_content[:MAX_CHARS] + ("…" if len(d.page_content) > MAX_CHARS else "")
+        context_parts.append(f"({d.metadata['source']}, {d.metadata['url']}):\n{snippet}")
+        sources.add(d.metadata["url"])
 
-    sources = list(set(doc.metadata["url"] for doc in docs if "url" in doc.metadata))
+    context = "\n\n".join(context_parts)
 
-    # Define system prompt
     system_prompt = f"""
     Du bist ein hilfreicher KI-Assistent für Studierende und Mitarbeitende an der Georg-August-Universität Göttingen.
-    Deine Aufgabe ist es, Fragen zu Universitätsdiensten basierend auf den bereitgestellten Dokumentenauszügen zu beantworten.
-    Wenn eine Information nicht in den Auszügen enthalten ist, sage ehrlich, dass du dazu keine verlässliche Antwort geben kannst.
-    
-    Beantworte Fragen möglichst in der Sprache der Anfrage (Deutsch oder Englisch).
-    Formuliere deine Antworten klar, freundlich und präzise. Fasse dich kurz, es sei denn, die Frage verlangt nach mehr Details.
-    
-    Die folgenden Informationen verwendest du um die Fragen zu beantworten. Diese Informationen werden dir nicht direkt vom Nutzer zu Verfügung gestellt. Verwende also nicht Sätze wie "Auf Grundlage der bereitgestellten Informationen". 
-    Es soll sich anfühlen, als wären diese Informationen dein natürliches Wissen.
-    ANFANG KONTEXT:
+    Antworten **ausschließlich** anhand des folgenden Kontexts.
+    ANFANG KONTEXT
     {context}
     ENDE KONTEXT
-    Außerdem bekommst du zur weiteren Einschätzung des Gesprächsinhalts im folgenden den bisherigen Gesprächsverlauf. Falls dieser nicht leer ist verwende ihn um den Kontext besser einzuschätzen:
-    ANFANG BISHERIGER GESPRÄCHSVERLAUF:
+    
+    ANFANG BISHERIGER VERLAUF
     {st.session_state.messages}
-    ENDE BISHERIGER GESPRÄCHSVERLAUF
-    Nutze nur diese Informationen zur Beantwortung der folgenden Frage:
+    ENDE BISHERIGER VERLAUF
     
     Frage: {prompt}
-    """
+    """.strip()
 
-    print(system_prompt)
+    # 2) Antwort erzeugen
+    resp = llm([SystemMessage(content=system_prompt)])
+    answer = resp.content + (
+        "\n\n🔗 **Source(s):**\n" + "\n".join(sorted(sources)) if sources else ""
+    )
 
-    # Generate response
-    response = llm([SystemMessage(content=system_prompt)])
+    # 3) Tippen simulieren
+    placeholder = st.chat_message("assistant").empty()
+    buf = ""
+    for ch in answer:
+        buf += ch
+        placeholder.markdown(buf)
+        time.sleep(0.003)
 
-    # Append sources if available
-    source_text = "\n\n🔗 **Source(s):**\n" + "\n".join(sources) if sources else ""
-    final_response = response.content + source_text
-
-    assistant_message = st.chat_message("assistant")
-    placeholder = assistant_message.empty()
-    typed_text = ""
-
-    for char in final_response:
-        typed_text += char
-        placeholder.markdown(typed_text)
-        time.sleep(0.003)  # Typing speed
-
-    # Store response in session state
-    st.session_state.messages.append({"role": "assistant", "content": final_response})
-
-    print("Nachrichten:")
-    print(st.session_state.messages)
-    print("USED CONTEXT:")
-    print(context)
-    print("System Message:")
-    print(system_prompt)
+    st.session_state.messages.append({"role": "assistant", "content": answer})
