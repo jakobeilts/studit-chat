@@ -86,3 +86,10 @@ if prompt:
 
     # Store response in session state
     st.session_state.messages.append({"role": "assistant", "content": final_response})
+
+    print("Nachrichten:")
+    print(st.session_state.messages)
+    print("USED CONTEXT:")
+    print(context)
+    print("System Message:")
+    print(system_prompt)
