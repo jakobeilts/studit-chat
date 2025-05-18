@@ -1,0 +1,12 @@
+https://wiki.student.uni-goettingen.de/univz/zusammenspiel_mit_anderen_systemen/univz_und_veranstaltungsmonitor
+Der Veranstaltungsmonitor der Universität Göttingen ist eine IT-Anwendung zur Anzeige von Veranstaltungsterminen auf HD-Monitoren in Gebäuden wie dem ZHG und dem Blauen Turm. Er zeigt nur Termine der jeweiligen Gebäude an und wird aktuell an zwei Standorten eingesetzt. Interessierte können den Monitor online einsehen und bei Bedarf die IT-Abteilung kontaktieren, um den Veranstaltungsmonitor für weitere Gebäude zu nutzen.
+UNIVZ UND VERANSTALTUNGSMONITOR
+
+Der Veranstaltungsmonitor ist eine Anwendung der Abteilung IT, die zur Anzeige von Veranstaltungsterminen auf großflächigen Monitoren (HD) entwickelt wurde. Der Veranstaltungsmonitor kann für jedes Gebäude eingesetzt werden und zeigt nur Termine der Veranstaltungen an, die in dem gewünschten Gebäude stattfinden. Momentan wird der Veranstaltungsmonitor für das ZHG und den „Blauen Turm“ eingesetzt. Dort befinden sich aktuell zwei Monitore:
+
+- Zwischen Café Campus und Chipkartenstelle
+- Pförtner „Blauer Turm“
+
+Sie können sich den dort verwendetet Veranstaltungsmonitor unter folgendem Link anschauen: http://univz.uni-goettingen.de/veranstaltungsmonitor/public/ (http://univz.uni-goettingen.de/veranstaltungsmonitor/public/)
+
+Falls Sie den Veranstaltungsmonitor für ein anderes Gebäude einsetzen wollen, melden Sie in der Abteilung IT, Team 4.

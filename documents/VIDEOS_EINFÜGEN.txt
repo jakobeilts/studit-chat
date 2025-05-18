@@ -1,0 +1,7 @@
+https://wiki.student.uni-goettingen.de/support/blogs/09_videos_einfuegen
+Der Artikel erklärt, wie YouTube-Videos einfach in Wiki-Seiten und Artikel der Universität Göttingen eingebunden werden können, indem der Video-Link per Copy/Paste an die gewünschte Stelle eingefügt wird. Dies erleichtert die Integration von Videoinhalten in die Online-Dokumentation und unterstützt die Nutzung multimedialer Inhalte im Wiki-System.
+VIDEOS EINFÜGEN
+
+YouTube-Videos können einfach in Seiten und Artikel eingebunden werden, indem der Video-Link per copy/paste an die jeweilige Stelle eingefügt wird.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/blogs/advanced_youtube.jpg?id=support%3Ablogs%3A09_videos_einfuegen)

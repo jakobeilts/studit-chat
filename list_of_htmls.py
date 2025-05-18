@@ -1,4 +1,4 @@
-allurls = ["https://wiki.student.uni-goettingen.de/support/rechnerstandorte/standorte","https://wiki.student.uni-goettingen.de/datenschutz","https://wiki.student.uni-goettingen.de/support/wlan/eduroam_android/eduroam_android_8_und_hoeher"]
+test = ["https://wiki.student.uni-goettingen.de/support/rechnerstandorte/standorte","https://wiki.student.uni-goettingen.de/datenschutz","https://wiki.student.uni-goettingen.de/support/wlan/eduroam_android/eduroam_android_8_und_hoeher"]
 
 urls = [
     "https://wiki.student.uni-goettingen.de/start",

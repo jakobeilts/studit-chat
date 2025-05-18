@@ -1,0 +1,29 @@
+https://wiki.student.uni-goettingen.de/support/email/kmail
+
+KMAIL
+
+ÜBERSICHT
+
+POSTEINGANGSSERVER
+
+Server: email.stud.uni-goettingen.de oder email.gwdg.de Verschlüsselung: SSL/TLS Port: 993 Benutzer: ug-student\accountname (z.B. ug-student\m.musterfrau)
+
+POSTAUSGANGSSERVER
+
+Server: email.stud.uni-goettingen.de oder email.gwdg.de Verschlüsselung: STARTTLS Port: 587 Benutzer: ug-student\accountname (z.B. ug-student\m.musterfrau) Authentifizierung benötigt
+
+ANLEITUNG
+
+Um mit KMail die Studentische Email abzuholen muss man folgende Einstellungen machen:
+
+Das Konto muss als Sonstiger IMAP-Server angelegt werden. In dem folgenden Fenster die entsprechenden Logininformationen eingeben. (daran denken vor den Benutzernamen noch ug-student\ zu setzen) (https://wiki.student.uni-goettingen.de/_detail/support/email/kmail_konto_erstellen.png?id=support%3Aemail%3Akmail)
+
+Danach muss der Eingangs- und Ausgangsserver noch in den Kontoeinstellungen von KMail angepasst werden. (https://wiki.student.uni-goettingen.de/_detail/support/email/kmail_konto_settings_imap1-1.png?id=support%3Aemail%3Akmail)
+
+In den Erweiterten Einstellungen muss der Port und die Verschlüsselung angepasst werden wie auf dem Bild zu sehen: (https://wiki.student.uni-goettingen.de/_detail/support/email/kmail_konto_settings_imap2.png?id=support%3Aemail%3Akmail)
+
+Danach muss der Postausgangsserver (SMTP) angepasst werden. Hierzu in den Kontoeinstellungen auf das „sending“-Tab wechseln und den Server für das Konto bearbeiten: (https://wiki.student.uni-goettingen.de/_detail/support/email/kmail_smtp_setting_aendern.png?id=support%3Aemail%3Akmail)
+
+In General-Tab muss die Serverauthentifizierung aktiviert sein: (https://wiki.student.uni-goettingen.de/_detail/support/email/kmail_smtp_setting_aendern2.png?id=support%3Aemail%3Akmail)
+
+Im Advanced-Tab müssen folgende Einstellungen vorgenommen werden: (https://wiki.student.uni-goettingen.de/_detail/support/email/kmail_smtp_setting_aendern3.png?id=support%3Aemail%3Akmail)

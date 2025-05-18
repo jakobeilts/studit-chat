@@ -1,0 +1,9 @@
+https://wiki.student.uni-goettingen.de/support/exa/studierende/nuetzliches
+Die Seite beschreibt eine umgekehrte Baumstruktur, die zeigt, in welchen Modulen die Veranstaltung 450828 eingebracht werden kann, speziell in die Module SK.ASp.231 und B.ASp.201. Diese Struktur dient als nützliches Hilfsmittel für Studierende der Universität Göttingen, um die Zuordnung von Veranstaltungen zu Modulen zu visualisieren.
+NÜTZLICHES
+
+Aufklappbarer Baum, der zeigt in welchen Bereichen die Veranstaltung eingebracht werden kann:
+
+Die umgekehrte Baumstruktur zeigt, dass die Veranstaltung 450828 in die Module SK.ASp.231 und B.ASp.201 eingebracht werden kann:
+
+(https://wiki.student.uni-goettingen.de/_detail/support/exa/studierende/nuetzliches/struktur.jpg?id=support%3Aexa%3Astudierende%3Anuetzliches)

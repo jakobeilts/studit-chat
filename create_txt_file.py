@@ -68,7 +68,7 @@ def clean_inline_tags(tag):
 
 
 # Ausgabe-Verzeichnis
-os.makedirs("seiten_export", exist_ok=True)
+os.makedirs("documents", exist_ok=True)
 
 # Jede URL verarbeiten
 for url in urls:
@@ -126,6 +126,20 @@ for url in urls:
             elif elem.name == "pre":
                 output_lines.extend(["```", elem.get_text(separator="\n", strip=True), "```", ""])
 
+        # -- Zusätzliche Funktionalität: Mehrfach-Zeilenumbrüche reduzieren --
+        cleaned_output_lines = []
+        prev_blank = False
+        for line in output_lines:
+            if not line.strip():
+                if prev_blank:
+                    # Skip zusätzliche leere Zeilen
+                    continue
+                prev_blank = True
+                cleaned_output_lines.append("")
+            else:
+                prev_blank = False
+                cleaned_output_lines.append(line)
+        output_lines = cleaned_output_lines
 
         # -- Dateiname aus dritter Zeile gewinnen --
         if len(output_lines) < 3 or not output_lines[2].strip():
@@ -135,9 +149,9 @@ for url in urls:
             title_for_name = output_lines[2].strip()
 
         # Unerlaubte Zeichen entfernen & Leerstellen zu _
-        safe_name = "".join(c for c in title_for_name if c not in r'\/:*?"<>|').strip()
+        safe_name = "".join(c for c in title_for_name if c not in r'\\/:*?"<>|').strip()
         safe_name = "_".join(filter(None, safe_name.split()))
-        filepath = os.path.join("seiten_export", f"{safe_name}.txt")
+        filepath = os.path.join("documents", f"{safe_name}.txt")
 
         # -- Schreiben --
         with open(filepath, "w", encoding="utf-8") as f:
@@ -147,9 +161,3 @@ for url in urls:
 
     except Exception as e:
         print(f"Fehler bei {url}: {e}")
-
-
-# 2. Annotate what we just wrote
-annotate_txts("seiten_export")
-
-

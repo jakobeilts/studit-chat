@@ -1,0 +1,42 @@
+https://wiki.student.uni-goettingen.de/support/drucken/drucken_email
+
+DRUCKEN PER EMAIL - EMAIL TO PRINT
+
+Email to Print kannst du mit einem PC, Tablet oder Smartphone nutzen. Die grundlegende Voraussetzung ist, dass ein Webbrowser auf deinem Gerät installiert ist. Ein eingerichteter Mailclient (https://wiki.student.uni-goettingen.de/support/email/start) macht die Nutzung einfacher und bequemer. Die Installation von Druckertreibern oder Client-Software wie beim Drucken vom eigenen PC unter Windows (https://wiki.student.uni-goettingen.de/support/drucken/drucken_windows) ist nicht notwendig.
+
+Dein Dokument muss im PDF-Format vorliegen. Im Moment ist nur eine einzige Wartschlange eingerichtet: Dokumente werden im DIN A4 Format, schwarz-weiß und beidseitig bedruckt ausgegeben.
+
+Aus Sicherheitsgründen ist eine Verbindung zum Uninetz Voraussetzung, um Email to Print nutzen zu können. Auf dem Campus kannst du dich mit dem WLAN Netzwerk eduroam (https://wiki.student.uni-goettingen.de/support/wlan) verbinden. Willst du Aufträge von zuhause abschicken, musst du den VPN-Client aktivieren (https://wiki.student.uni-goettingen.de/support/wlan/vpn) , um eine IP-Adresse aus dem Uninetz zu bekommen.
+
+KURZANLEITUNG
+
+1. Du verfasst eine Email vom Deinemstudentischen Mailaccountan die Adressefollowme@uni-goettingen.deund hängst eine PDF-Datei an.
+2. Du öffnest die Bestätigungsmail in Deinem Posteingang und klickst auf den Link in dieser Mail. Dieser Link ist 24 Stunden gültig und für diesen Schritt musst Du mit dem Uninetz verbunden sein.
+3. Dein Browser öffnet sich und Du bestätigst den Auftrag.
+4. Innerhalb von 72 Stunden kannst Du den Auftrag an einem Multifunktionsgerät freigeben.
+
+SCHRITT-FÜR-SCHRITT-ANLEITUNG
+
+Je nach Gerät, Betriebssystem und Mailclient / Mail-App weichen Details etwas ab - prinzipiell sind die einzelnen Schritte aber identisch.
+
+Diese Anleitung erklärt die Nutzung von Email to Print unter Android 9, der studentische Mailaccount wurde auf dem Gerät eingerichtet (https://wiki.student.uni-goettingen.de/support/email/android_mail) .
+
+1. Erstelle von deinem studentischen E-Mail-Account eine neue E-Mail an followme@uni-goettingen.de und hänge Deinen Druckauftrag als PDF-Datei an diese Mail. Du kannst auch mehrere PDF-Dokumente an deine Mail anhängen.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/drucken/followme-email-01.jpg?id=support%3Adrucken%3Adrucken_email)
+
+2. Nach kurzer Zeit erhältst Du eine Mail mit einem Bestätigungslink. Klicke auf den Link und Dein Browser öffnet sich. Für diesen Schritt musst Du mit dem Uninetz verbunden sein.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/drucken/followme-email-02.jpg?id=support%3Adrucken%3Adrucken_email)
+
+3. Nun bestätigst du den Auftrag mit Drucken …
+
+(https://wiki.student.uni-goettingen.de/_detail/support/drucken/followme-email-03.jpg?id=support%3Adrucken%3Adrucken_email)
+
+4. …und bekommst einen Hinweis, dass das Dokument nun zur Verarbeitung bereitsteht.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/drucken/followme-email-04.jpg?id=support%3Adrucken%3Adrucken_email)
+
+5. Zum Abschluss wird dir eine Übersicht der wartenden Aufträge angezeigt. Sollte dein Guthaben nicht ausreichen, um den Auftrag auszugeben, kannst du es vorher aufladen lassen. Wo genau, erfährst du hier (https://wiki.student.uni-goettingen.de/support/drucken/druckguthaben) . Eine Übersicht der Standorte der Follow-Me Drucker findest du hier (https://wiki.student.uni-goettingen.de/support/drucken/drucker) .
+
+(https://wiki.student.uni-goettingen.de/_detail/support/drucken/followme-email-05.jpg?id=support%3Adrucken%3Adrucken_email)

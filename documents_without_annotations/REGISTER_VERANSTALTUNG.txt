@@ -1,0 +1,17 @@
+https://wiki.student.uni-goettingen.de/univz/veranstaltungen/bearbeiten/veranstaltung
+
+REGISTER VERANSTALTUNG
+
+In diesem Register bearbeiten Sie die Grunddaten einer Veranstaltung, die Sie bei der Anlage einer neuen Veranstaltung als erstes erfassen.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/veranstaltungen/univz_veranstaltungen_bearbeiten3.jpg?id=univz%3Averanstaltungen%3Abearbeiten%3Averanstaltung)
+
+- SemesterKann nicht bearbeitet werden. Wird bei der Neuanlage dadurch bestimmt, in welchem Bearbeitungssemester Sie stehen: siehe auch bearbeitungssemester umstellen
+- NummerDie Nummer wird nach Anlegen der Veranstaltung automatisch durch UniVZ erzeugt.
+- AktivAktiv:Standardwert. Die Veranstaltung wird im Vorlesungsverzeichnis angezeigt.Inaktiv:Die Veranstaltung wird nicht im Vorlesungsverzeichnis angezeigt.Beim Umschalten von Aktiv zu Inaktiv werden eventuell zugeordnete zentral verwaltete Räume gelöscht.
+- Teilnehmer:Die Teilnehmerzahl wird standardmäßig bei der Suche nach freien Räumen ausgewertet.
+- Veranstaltungs-ImportImport zulassen:Standardwert: Die Veranstaltung kann von anderen UniVZ-Bearbeitern an weiteren Stellen im Vorlesungsverzeichnis eingehängt werden. Andere UniVZ-Bearbeiter erhalten dadurch keinerlei Rechte auf diese Veranstaltung.Import sperren:Sie möchten nicht, dass diese Veranstaltung in anderen Bereichen des Vorlesungsverzeichnisses eingehängt werden kann.
+- TurnusBei der Anlage eines neuen Semesters können Veranstaltungen aus den Vorsemestern automatisch übernommen werden. Ausgangssemester für eine Übernahme ist immer das Semester, für das diese Veranstaltung erfasst wurde (siehe Feld „Semester“). An diese Stelle bestimmen Sie, mit welchem Rhythmus die Übernahme geschehen soll.Keine Übernahme:Standardwert: Die Veranstaltung kann nicht in folgende Semester übernommen werden.Jedes Semester:Die Veranstaltung wird in jedes Folgesemester übernommen, also z.B.:von SoSe 2011 nach WiSe 2011/12 nach SoSe 2012, usw.Jedes 2. Semester:Die Veranstaltung wird vom Sommersemester zum folgenden Sommersemester bzw. vom Wintersemester zum folgenden Wintersemester übernommen.Weitere Optionen analog
+- Veröffentlichen in Stud.IP (Siehe auch:Zusammenspiel mit anderen Systemen (https://wiki.student.uni-goettingen.de/univz/zusammenspiel_mit_anderen_systemen))Ja:Die Veranstaltungsdaten werden täglich an Stud.IP (E-Learning-System) übergeben und stehen dort zur Verfügung.Nicht für Stud.IP:Die Daten werden nicht nach Stud.IP übertragen.Unsichtbar in Stud.IP:Die Veranstaltung ist in Stud.IP vorhanden, aber noch nicht sichtbar. Der Dozent kann die Veranstaltung in Stud.IP dann dauerhaft freigeben.Wichtig:Wenn die Veranstaltungsdaten einmal nach Stud.IP übertragen wurden, indem eine der OptionenJabzw.Unsichtbar in Stud.IPgewählt wurde, kann dies durch Umschalten auf die OptionNicht für Stud.IPnicht rückgängig gemacht werden.
+
+- Aus Studienbeiträgen unterstütztNein:Standardwert: In der Anzeige der Veranstaltungsdaten im Vorlesungszeichen wird kein Studienbeitragslogo eingeblendet.Ja:In der Anzeige der Veranstaltungsdaten im Vorlesungszeichen wird das Studienbeitragslogo eingeblendet.

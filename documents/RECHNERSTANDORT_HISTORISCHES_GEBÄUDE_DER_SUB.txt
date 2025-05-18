@@ -1,0 +1,10 @@
+https://wiki.student.uni-goettingen.de/support/rechnerstandorte/standorte/hg
+Der Rechnerstandort Historisches Gebäude der SUB an der Universität Göttingen bietet 6 studIT-PCs mit spezifischer Software. Er befindet sich in Papendiek 14, Raum 1.201. Weitere Informationen zum Softwareangebot und Lageplan sind online verfügbar. Bei Problemen kann der studIT-Support kontaktiert werden.
+RECHNERSTANDORT: HISTORISCHES GEBÄUDE DER SUB
+
+Anzahl studIT-PCs: 6
+Softwareangebot: Software auf studIT-Rechnern (https://wiki.student.uni-goettingen.de/support/rechnerstandorte/software)
+Straße: Papendiek 14
+Raum: 1.201
+Link zum Lageplan: (http://lageplan.uni-goettingen.de/?ident=7209_2_1.OG_1.201)
+Fehler melden: Kontakt zu studIT (https://wiki.student.uni-goettingen.de/support/studit_support/kontakt)

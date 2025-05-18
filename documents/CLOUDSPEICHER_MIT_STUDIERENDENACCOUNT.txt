@@ -1,0 +1,37 @@
+https://wiki.student.uni-goettingen.de/support/account/cloudspeicher
+Der Artikel beschreibt den kostenlosen Cloudspeicher-Service via ownCloud für Studierende der Universität Göttingen, bereitgestellt in Kooperation mit der GWDG. Studierende erhalten 50 GB Speicherplatz, der weltweit zugänglich ist und lokal in Göttingen gespeichert wird. Die Anmeldung erfolgt mit der studentischen E-Mail-Adresse. Es wird die Einrichtung des ownCloud-Desktopclients auf macOS, Linux und Windows erklärt, inklusive Installation, Login und Synchronisation. Einschränkungen bei der Nutzung auf studIT-Desktops werden ebenfalls erwähnt.
+CLOUDSPEICHER MIT STUDIERENDENACCOUNT
+
+In Kooperation mit der GWDG (dem Rechenzentrum der Universität) bieten wir euch - zusätzlich zu eurem Homeverzeichnis für die Nutzung direkt am Rechner - kostenlosen Cloudspeicher via ownCloud an. Die Anmeldung über https://owncloud.gwdg.de (https://owncloud.gwdg.de) erfolgt einfach mit der stud. Mailadresse (https://wiki.student.uni-goettingen.de/support/email/start) und dem dazugehörigen Passwort. Neben der Webanwendung können Clients für Linux, Mac und Windows heruntergeladen werden. Vorteil: 50 GB Cloudspeicher kostenlos, weltweit erreichbar und die Daten werden in Göttingen gespeichert.
+
+Eine Einschränkung: Auf den studIT Desktops kann nur der Webclient verwendet werden, da eine volle owncloud Probleme mit Speicher am Rechner verursachen würde (überfüllte Homeverzeichnisse (https://wiki.student.uni-goettingen.de/support/account/homeverzeichnis) ).
+
+EINRICHTUNG DES DESKTOPCLIENTS
+
+Die Installation des owncloudclients wird im folgenden beispielhaft auf macOS 10.14.6 - Mojave beschrieben. Sie verhält sich nahezu analog auf Linux- und Windows-Plattformen.
+
+I. VORBEREITUNG
+
+Vor der Installation des Desktopclients sollte der entsprechende Account durch Login auf der GWDG-ownCloud-Seite (https://owncloud.gwdg.de/) initialisiert werden. Dazu mit der stud. Mailadresse (https://wiki.student.uni-goettingen.de/support/email/start) und dem dazugehörigen Passwort anmelden. Anschließend den Client auf der unteren Hälfte der ownCloud-Homepage (https://owncloud.com/download/) herunterladen und installieren.
+
+II. EINRICHTUNG
+
+Nach der Installation die Anwendung aus dem Launchpad starten und bei der Serveradresse https://owncloud.gwdg.de (https://owncloud.gwdg.de) eintragen und auf weiter klicken.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/account/owncloud_mac_1.png?id=support%3Aaccount%3Acloudspeicher)
+
+Im sich öffnenden Browserfenster die studentische E-Mail-Adresse und das Passwort eintragen und auf Anmelden klicken.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/account/owncloud_mac_2.png?id=support%3Aaccount%3Acloudspeicher)
+
+Nun durch einen Klick auf Authorize die Verbindung zwischen ownCloud-Service und -client herstellen.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/account/owncloud_mac_3.png?id=support%3Aaccount%3Acloudspeicher)
+
+Abschließend kann noch eingestellt werden, was synchronisiert und wo es gespeichert werden soll.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/account/owncloud_mac_4.png?id=support%3Aaccount%3Acloudspeicher)
+
+Bei den Standardeinstellungen findet sich in der Favoritenliste des Finders nun ein ownCloud Ordner.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/account/owncloud_mac_5.png?id=support%3Aaccount%3Acloudspeicher)

@@ -1,0 +1,7 @@
+https://wiki.student.uni-goettingen.de/support/blogs/04_widgets
+
+WIDGETS
+
+Widgets bilden eine Schnittstelle zwischen Plugins und Themes. Widgets ermöglichen das Gestalten der Sidebar via “drag and drop” aus dem Administrationsbereich, ein Eingriff in Themedateien wird dadurch überflüssig.
+
+>:support:blogs:widgets.mp4 760,427

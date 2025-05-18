@@ -1,0 +1,39 @@
+https://wiki.student.uni-goettingen.de/support/drucken/drucker_verbinden
+
+DRUCKER VERBINDEN (IN DEN LRCS BZW. IM GÖNET)
+
+(https://wiki.student.uni-goettingen.de/_detail/support/drucken/drucker.jpg?id=support%3Adrucken%3Adrucker_verbinden) Es kann vorkommen, dass z.B. die Follow-Me Druckerqueues noch nicht mit dem Account von Studierenden verbunden sind. Die Drucker tauchen also in der Liste der verfügbaren Drucker nicht auf, wenn Studierende ein Dokument ausgeben möchten. Mit folgender Anleitung können die Queues (auch zum Beispiel der Posterdrucker im LRC SUB oder der Physik) neu verbunden werden.
+
+LÖSUNG
+
+1. Windowstaste + R drücken oder im Windows-Startmenü in das Feld „Programme/Dateien durchsuchen“ folgendes eingeben: \\print-win.student.uni-goettingen.de .
+
+(https://wiki.student.uni-goettingen.de/_detail/support/drucken/drucken_drucker_hinzufuegen_001.png?id=support%3Adrucken%3Adrucker_verbinden)
+
+2. Dort finden sich unter anderem die drei Follow-Me Drucker (Follow-Me, Follow-Me-A3 und Follow-Me-Farbe) und den Posterdrucker im LRC SUB ( bcipls79 ). Zum Hinzufügen entweder Doppelklick auf die entsprechenden Drucker oder Rechtsklick und „Verbinden“ auswählen.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/drucken/drucken_drucker_hinzufuegen_002.png?id=support%3Adrucken%3Adrucker_verbinden)
+
+3. Sobald man nun den Druckdialog neu öffnet, sind die Drucker da.
+
+ALTERNATIVE LÖSUNG
+
+Sollte der oben aufgeführte Weg nicht funktionieren, gibt es auch einen längeren Weg:
+
+1. Im Windows-Startmenü den Punkt „Geräte und Drucker“ aufrufen.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/drucken/drucker_hinzufuegen_1.png?id=support%3Adrucken%3Adrucker_verbinden)
+
+2. Dort auf „Drucker hinzufügen“ klicken und im sich öffnenden Dialogfenster „Einen Netzwerk-, Drahtlos- oder Bluetoothdrucker hinzufügen“ auswählen.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/drucken/drucker_hinzufuegen_2.png?id=support%3Adrucken%3Adrucker_verbinden)
+
+3. Dann auf „Der gesuchte Drucker ist nicht aufgeführt.“
+
+(https://wiki.student.uni-goettingen.de/_detail/support/drucken/drucker_hinzufuegen_3.png?id=support%3Adrucken%3Adrucker_verbinden)
+
+4. Im nächsten Fenster \\print-win\Follow-Me (bzw. mit den entsprechenden Endungen -Farbe und -A3 ) eingeben und zwei Mal auf „Weiter“, dann auf „Fertig stellen“ drücken.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/drucken/drucker_hinzufuegen_5.png?id=support%3Adrucken%3Adrucker_verbinden)
+
+5. Wenn man nun den Druckdialog neu öffnet, sind die Drucker da.

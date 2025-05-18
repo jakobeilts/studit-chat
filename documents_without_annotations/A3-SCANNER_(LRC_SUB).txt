@@ -1,0 +1,55 @@
+https://wiki.student.uni-goettingen.de/support/scannen/a3_scanner
+
+A3-SCANNER (LRC SUB)
+
+In dieser Anleitung wird gezeigt, wie sie mit den DIN A3 Scannern Dokumente einscannen und als Bilder abspeichern können.
+
+EINSCHALTEN DER DIN A3 SCANNER
+
+(https://wiki.student.uni-goettingen.de/_detail/support/scannen/a3scanner.jpg?id=support%3Ascannen%3Aa3_scanner) Wenn das Gerät eingeschaltet ist, leuchten die entsprechenden Lampen am Gerät Grün. Achtung! Das Gerät sollte schon, bevor sie sich am Rechner anmelden, eingeschaltet sein (nötig nur beim GT12000 in der ersten Reihe)!
+
+SCANNEN VON DOKUMENTEN
+
+Am Anfang sollte man das Dokument in den Scanner legen. Dazu öffnet man die obere Klappe vom Scanner und legt das Dokument an der Markierung an. Zum Scannen von Dokumenten (bzw. Bilder, Poster etc.) empfiehlt es sich die Originalsoftware von Epson zu verwenden, um die Dokumente später als Bilder abspeichern und dann weiter bearbeiten zu können (z.B. als PDF zusammenführen, etc.). Selbstverständlich lässt sich der Scanner auch über andere Programme ansprechen.
+
+EIN-UND AUSSCHALTER
+
+(https://wiki.student.uni-goettingen.de/_detail/support/scannen/din_a3_scanner_img_3.jpg?id=support%3Ascannen%3Aa3_scanner)
+
+Die Originalsoftware heißt EPSON Scan und ist über Start→Programme→EPSON Scan erreichbar (https://wiki.student.uni-goettingen.de/_detail/support/scannen/din_a3_scanner_img_5.jpg?id=support%3Ascannen%3Aa3_scanner)
+
+Nach dem Aufruf des Programms erscheint nach einer kurzen Ladephase folgendes Fenster: (https://wiki.student.uni-goettingen.de/_detail/support/scannen/din_a3_scanner_img_6.jpg?id=support%3Ascannen%3Aa3_scanner)
+
+Erscheint anstatt dem Fenster eine Fehlermeldung, so war der Scanner vor der Anmeldung nicht eingeschaltet und der Rechner muss neu gestartet werden.
+
+Nachdem das Fenster erschienen ist, klickt man auf Vorschau. Dadurch wird in einem Schnell-Scan-Verfahren das Dokument eingescannt und eine Vorschau erstellt.
+
+Nachdem diese Vorschau erstellt ist, kann man im ersten Fenster Einstellungen zum Scannen treffen bezüglich: Bildtyp (ob Farbe, Schwarzweiß oder Graustufe), Auflösung (je höher die Auflösung, desto größer die Datei) und Bildkorrekturen (Helligkeit, Kontrast, Text optimieren, falls man nur Text scannt, etc).
+
+(https://wiki.student.uni-goettingen.de/_detail/support/scannen/din_a3_scanner_img_7.jpg?id=support%3Ascannen%3Aa3_scanner) Im Vorschaufenster wird das Dokument abgebildet, so wie es nach dem Scannen aussehen würde. Einstellungen (Kontrast, Helligkeit, Farbe, SW etc.) im ersten Fenster werden in der Vorschau direkt angezeigt. Im Vorschaufenster kann nun ein Scanrahmen mit der Maus gelegt werden, um den Bereich, der am Ende eingescannt werden soll.
+
+Nachdem alle Einstellungen getroffen sind, klickt man auf Scannen und startet damit den Scanvorgang. Daraufhin kommt ein Fenster, wo Einstellungen zum Speichern des gescannten Dokumentes getroffen werden können.
+
+BILDFORMATE
+
+- Das meistverwendete Format
+- Gute unkomprimierte Qualität
+- Aber: Große Dateien
+
+- Das standardmäßige Dateiformat für Grafiken für Windows-Anwendungen
+- Unterstützt schwarzweiße, Graustufen-, 4-Bit-, 8-Bit-, 24-Bit- oder 32-Bit-Farben
+- Nicht gut zum Komprimieren von 24-Bit-Farbbildern
+
+- Ein World-Wide-Web-Standard
+- Ein Standardformat für mit Digitalkameras aufgenommene Bilder
+- Verliert während der Dateikompimierung an Qualität
+
+- Systemunabhängiges Dokument (portable document format)
+
+SPEICHERN DER GESCANNTEN DATEIEN
+
+(https://wiki.student.uni-goettingen.de/_detail/support/scannen/din_a3_scanner_img_9.jpg?id=support%3Ascannen%3Aa3_scanner) Im Speicher-Fenster kann oben der Ort zum Abspeichern der Dokumente eingestellt werden. Da sollte man einen Ort wählen, den man auf jedenfall wiederfindet. Am Besten ist es auf Benutzerdefiniert zu gehen und auf dem Desktop zu speichern oder unter Durchsuchen einen anderen Ort zu finden.
+
+Als nächstes kann man den Dateinamen (Präfix) einstellen, bei mehreren Scanaufträgen werden die Dateinamen fortlaufend nummeriert. Der nächste Abschnitt bezieht sich auf den Dateitypen, da gibt es zur Auswahl: JPEG, BMP, TIFF oder PDF (siehe oben). Bei Optionen kann man für die jeweiligen Dateitypen Parameter wie die Qualität einstellen.
+
+scannen a3 lrc sub jpeg bmp tiff pdf epson scan

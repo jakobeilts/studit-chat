@@ -1,0 +1,13 @@
+https://wiki.student.uni-goettingen.de/univz/allgemeines/auswahllisten_nach_eingabe_erneut_durchsuchen
+
+AUSWAHLLISTEN NACH EINGABE ERNEUT DURCHSUCHEN
+
+Wenn Sie in einer Auswahlliste einen Wert angeklickt und gespeichert haben, können Sie die Auswahlliste nicht erneut durch einfaches Anklicken nutzen. Damit die Auswahlliste erneut erscheint, gehen Sie folgendermaßen vor:
+
+- Sie klicken irgendwo in das Eingabefeld und geben ein ? (Fragezeichen) ein.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/allgemeines/univz_veranstaltungen_bearbeiten8.jpg?id=univz%3Aallgemeines%3Aauswahllisten_nach_eingabe_erneut_durchsuchen)
+
+- Dann drücken Sie die Eingabetaste (Return), wodurch das Feld wieder zur Auswahlliste wird, die Sie wie gewohnt durchsuchen können.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/allgemeines/univz_veranstaltungen_bearbeiten9.jpg?id=univz%3Aallgemeines%3Aauswahllisten_nach_eingabe_erneut_durchsuchen)

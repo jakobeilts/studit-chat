@@ -1,0 +1,11 @@
+https://wiki.student.uni-goettingen.de/support/rechnerstandorte/standorte/rechtsgeschichte
+Der Standort Rechtsgeschichte an der Universität Göttingen bietet 2 studIT-PCs mit spezieller Software, darunter ein PC mit anonymer Linux-Anmeldung. Er befindet sich in der Weender Landstraße 2, Raum 0.110. Ein Lageplan ist online verfügbar, und bei technischen Problemen kann der studIT-Support kontaktiert werden.
+RECHTSGESCHICHTE
+
+Anzahl studIT-PCs: 2
+Softwareangebot: Software auf studIT-Rechnern (https://wiki.student.uni-goettingen.de/support/rechnerstandorte/software)
+Straße: Weender Landstraße 2
+Raum: 0.110
+Link zum Lageplan: (https://www.geodata.uni-goettingen.de/lageplan/?ident=6216_1_1.OG_1.110)
+Besonderheiten: Ein PC vor Ort mit anonymer Anmeldung (Linux)
+Fehler melden: Kontakt zu studIT (https://wiki.student.uni-goettingen.de/support/studit_support/kontakt)

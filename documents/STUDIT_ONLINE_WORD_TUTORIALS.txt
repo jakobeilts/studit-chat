@@ -1,0 +1,27 @@
+https://wiki.student.uni-goettingen.de/support/tutorials/word
+Die Word Tutorials der Universität Göttingen bieten Video-Screencasts mit Audio zur Nutzung von Word im studentischen Alltag, inklusive Shortcuts, Formatvorlagen, automatisierten Inhalts- und Abbildungsverzeichnissen sowie Kopfzeilen mit Überschriften und Seitenzahlen. Die Tutorials wurden im Rahmen des Medienkompetenzzertifikats von der Zentralen Einrichtung für Sprachen und Schlüsselkompetenzen erstellt und sind speziell für studIT Windows Rechner konzipiert.
+STUDIT ONLINE WORD TUTORIALS
+
+Hier gibt es Video Tutorials für Word, die du im studentischen Alltag auch an studIT Windows Rechnern nutzen kannst.
+
+Falls es in einem Video mal zu schnell gehen sollte, einfach die Leertaste für pause/play verwenden.
+
+Die meisten Videos sind mit Audio im Intro unterlegt! Wenn du dich in einem LRC oder Computer-Pool befindest, bring dir bitte Kophörer mit oder stelle die Lautstärke aus, damit du deine Kommilitonen nicht störst.
+
+Die Screencasts (http://de.wikipedia.org/wiki/Screencast) sind im Rahmen des Medienkompetenzzertifikats (http://www.zess.uni-goettingen.de/contao/Zertifikat_Medienkompetenz.html) an der Zentralen Einrichtung für Sprachen und Schlüsselkompetenzen Zentrale für Schlüsselkompetenzen (http://www.zess.uni-goettingen.de/contao/startseite.html) von David Burger erstellt worden.
+
+SHORTCUTS/TASTENKOMBINATIONEN BENUTZEN
+
+:support:tutorials:shortcuts.mp4 760,427
+
+DIE VERWENDUNG VON FORMATVORLAGEN
+
+DAS NUMMERIERTE, AUTOMATISIERTE UND DYNAMISCHE INHALTSVERZEICHNIS
+
+ABBILDUNGSVERZEICHNIS ERSTELLEN
+
+:support:tutorials:abbildungsverzeichnis.mp4 760,427
+
+ÜBERSCHRIFTEN UND SEITENZAHLEN IN DER KOPFZEILE
+
+:support:tutorials:medkomp_kopfzeile_ueberschirft_finalc_40_neu.mp4 760,427

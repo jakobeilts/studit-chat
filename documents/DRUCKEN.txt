@@ -1,0 +1,38 @@
+https://wiki.student.uni-goettingen.de/support/drucken
+Die Wiki-Seite der Universität Göttingen bietet umfassende Informationen zum Drucken für Studierende und Mitarbeiter mit GWDG-Account. Themen sind Druckserver-Migration, Follow-Me Printing, Druckguthaben-Aufladung, Druckerstandorte, Druckanleitungen für verschiedene Betriebssysteme (Windows, macOS, Linux, iOS, Android), Multifunktionsgeräte, Posterdruck, Problemlösungen, Rückerstattungen und Scannen. Wichtige Hinweise betreffen verschlüsselte Dateien und die Neuinstallation des Papercut Clients nach Serverumstellung.
+DRUCKEN
+
+(https://wiki.student.uni-goettingen.de/support/drucken)
+
+Achtung: Seit dem 07.02.2025 sind unserer Druckserver migriert. User vom Mobility Print (also Drucken auf einem eigenen Endgerät) müssen das Drucken neu einrichten, wenn sie schonmal vor dem 07.02.2025 vom eigenen Endgerät gedruckt hatten! Bitte einfach alle Drucker entfernen, Profile löschen (iOS), App löschen (Android) und den Papercut Client neu installieren. Einfach die entsprechende Anleitung nochmal neu befolgen.
+
+Dein Account bietet Dir die Möglichkeit, an verschiedene Standorten an der Uni oder sogar vom eigenen Rechner kostengünstig zu drucken. Wir empfehlen das Follow-Me Printing (https://wiki.student.uni-goettingen.de/support/drucken/follow-me) ! Druckguthaben (https://wiki.student.uni-goettingen.de/support/drucken/druckguthaben) kannst du jederzeit mit Hilfe deiner Chipkarte (https://wiki.student.uni-goettingen.de/support/ausweis/chipkarte) an den Kassen oder Selbstbedienungskassen der Servicetheken (https://www.sub.uni-goettingen.de/kopieren-digitalisieren/self-service/#c6082) in den Bibliotheken der SUB (https://www.sub.uni-goettingen.de/standorte-raumangebote/standorte-mit-oeffnungszeiten/#c4231) aufladen.
+
+In diesem Abschnitt findest du alle Informationen rund ums Drucken mit deinem Studierenden-Account (https://wiki.student.uni-goettingen.de/support/account/start) .
+
+Nutzer mit einem GWDG-Account (Mitarbeiter-Account) informieren sich bitte auf diesen Seiten zum Drucken (https://wiki.student.uni-goettingen.de/support/drucken/gwdg_account) .
+
+Zu beachten: Verschlüsselte Dateien/ Dateien mit Passwortschutz (PDF und co.) zuerst vom Passwortschutz befreien oder ohne Verschlüsselung neu speichern/ duplizieren. Nur dann ist das absenden eines Druckauftrags erfolgreich.
+
+- Drucken unter Android (https://wiki.student.uni-goettingen.de/support/drucken/drucken_android)
+- Drucken per Email - Email to Print (https://wiki.student.uni-goettingen.de/support/drucken/drucken_email)
+- Drucken unter iOS - iPhone und iPad (https://wiki.student.uni-goettingen.de/support/drucken/drucken_ios)
+- Drucken vom eigenen Linux PC (Ubuntu) (https://wiki.student.uni-goettingen.de/support/drucken/drucken_linux)
+- Drucken vom eigenen Mac (macOS) (https://wiki.student.uni-goettingen.de/support/drucken/drucken_macos)
+- Drucken vom USB Stick (https://wiki.student.uni-goettingen.de/support/drucken/drucken_vom_usb_stick)
+- Drucken vom eigenen PC (Windows) (https://wiki.student.uni-goettingen.de/support/drucken/drucken_windows)
+- Standortübersicht von Druckern/Kopierern (https://wiki.student.uni-goettingen.de/support/drucken/drucker)
+- Drucker verbinden (in den LRCs bzw. im GÖNET) (https://wiki.student.uni-goettingen.de/support/drucken/drucker_verbinden)
+- Druckguthaben aufladen und überprüfen (https://wiki.student.uni-goettingen.de/support/drucken/druckguthaben)
+- Preise für Drucken und Kopieren (https://wiki.student.uni-goettingen.de/support/drucken/druckpreise)
+- Follow-Me-Printing (https://wiki.student.uni-goettingen.de/support/drucken/follow-me)
+- Freidruckguthaben aus Fakultätsmitteln (https://wiki.student.uni-goettingen.de/support/drucken/freidruckguthaben)
+- GWDG Accounts: So drucken Mitarbeiter (https://wiki.student.uni-goettingen.de/support/drucken/gwdg_account)
+- Multifunktionsgeräte für Drucken, Kopieren, Scannen nutzen (https://wiki.student.uni-goettingen.de/support/drucken/multifunktionsgerate)
+- Posterdruck - Hinweise (https://wiki.student.uni-goettingen.de/support/drucken/posterdruck)
+- Probleme beim Drucken (https://wiki.student.uni-goettingen.de/support/drucken/probleme_beim_drucken)
+- Rückerstattung von Druckguthaben für Exmatrikulierte (https://wiki.student.uni-goettingen.de/support/drucken/rueckerstattung_exmatrikulierte)
+- Rückerstattung Fehldrucke (https://wiki.student.uni-goettingen.de/support/drucken/rueckerstattung_fehldrucke)
+- Scannen (https://wiki.student.uni-goettingen.de/support/drucken/scannen)
+
+(https://wiki.student.uni-goettingen.de/support/feedback/start) Feedback

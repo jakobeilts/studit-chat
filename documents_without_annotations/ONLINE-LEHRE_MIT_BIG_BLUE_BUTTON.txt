@@ -1,0 +1,27 @@
+https://wiki.student.uni-goettingen.de/support/software/bigbluebutton
+
+ONLINE-LEHRE MIT BIG BLUE BUTTON
+
+Big Blue Button ist ein Videoconferencing-Tool auf Open-Source-Basis, das neben herkömmlichen Videokonferenz-Funktionalitäten wie Screensharing und Chat auch für E-Learning-Szenarien geeignet ist. Das Tool basiert auf HTML5, läuft im Browser und benötigt keine Software-Installation.
+
+BigBlueButton bietet folgende, über reines Videoconferencing hinausgehende Features:
+
+- Upload und Zeigen von Präsentationen
+- Annotationsfunktion für Präsentationen (auch durch mehrere Nutzer*innen)
+- Downloadfunktion der Präsentationen für Teilnehmer*innen
+- Einrichtung sog. „Break-Out-Räume“ für Gruppenarbeiten
+- Notizfunktion
+- Durchführung von Umfragen
+- Recording-Möglichkeiten der Konferenz
+
+Eine ausführliche FAQ finden Sie auf den Seiten der GWDG: E-Learning Tools (https://docs.gwdg.de/doku.php?id=de:services:mobile_working:elearning_tools:start) Außerdem hat das E-Learning Team der Universität ausführliche Infos hier bereitgestellt: https://www.uni-goettingen.de/de/informationen+zu+bigbluebutton/624455.html (https://www.uni-goettingen.de/de/informationen+zu+bigbluebutton/624455.html) und hier: https://www.uni-goettingen.de/de/virtuelles+lernen/624565.html (https://www.uni-goettingen.de/de/virtuelles+lernen/624565.html)
+
+bbb-tutorial-studierende_1-0-1080p.mp4 (https://wiki.student.uni-goettingen.de/_media/support/software/bbb-tutorial-studierende_1-0-1080p.mp4?cache=)
+
+bbb-tutorial-studierende_interaktive-elemente_1-0-1080p.mp4 (https://wiki.student.uni-goettingen.de/_media/support/software/bbb-tutorial-studierende_interaktive-elemente_1-0-1080p.mp4?cache=)
+
+VERHALTENSREGELN
+
+- Stellen Sie nach Betreten des Raumes Ihr Mikrofon ab. Nur bei eigenen Beiträgen schalten Sie es ein. Das reduziert Störgeräusche in der Sitzung. Tastenkürzel: Alt+Shift+M
+- Schalten Sie die Kamera nur nach Bedarf ein. Gerade bei großen Gruppen sind viele Livebilder ein Problem für die Endgeräte.
+- Es gelten die üblichen gesellschaftlichen Höflichkeitsregeln. Die Kommunikation sollte konstruktiv, wertschätzend und respektvoll sein. Dazu gehört auch ein angemessenes (Alltags-)Erscheinungsbild. Schlafanzüge und Unterhemden gehören nicht dazu.

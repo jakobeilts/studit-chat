@@ -1,0 +1,21 @@
+https://wiki.student.uni-goettingen.de/ecampus/stu_studienservice_telefon
+
+TELEFONNUMMERN IN SB-FUNKTIONEN HINTERLEGEN
+
+Es kann hier eine oder mehrere Telefonnummern hinterlegt werden. Dies ist wichtig für die Kontaktaufnahme der Universität, für Präsenzprüfungen in der aktuellen Situation der Corona-Pandemie (Kontaktnachverfolgung) sowie zukünftig für eine Passwortzurücksetzung per mobile-TAN.
+
+Die Anleitung ist hier als kurzes Video (sorry für die schlechte Tonqualität, das ging ad hoc nicht besser, wird geändert) und eine Schritt für Schritt Anleitung mit Screenshots hinterlegt.
+
+telefon.mp4 (https://wiki.student.uni-goettingen.de/_media/ecampus/telefon.mp4?cache=)
+
+Zunächst normal im eCampus einloggen, dann auf „Weitere Dienste“ –> SB-Funktionen „ klicken. (https://wiki.student.uni-goettingen.de/_detail/ecampus/kontaktdaten.jpg?id=ecampus%3Astu_studienservice_telefon)
+
+Dann den Reiter „Kontaktdaten“ klicken.
+
+Prüfungsrelevante Kontaktdaten müssen im Feld Studium - Korrespondenz hinterlegt sein.
+
+Klicken Sie im Feld Studium - Korrespondenz den Stift und bearbeiten Sie hier die Adressen und Telefonnummern. (https://wiki.student.uni-goettingen.de/_detail/ecampus/kontaktdaten_stud_korresponden.jpg?id=ecampus%3Astu_studienservice_telefon)
+
+Wichtig: Nur die mit einem Häkchen markierte Telefonnummer wird in Subsysteme, wie zum Beispiel FlexNow synchronisiert (Prüfungen).
+
+(https://wiki.student.uni-goettingen.de/_detail/ecampus/kontaktdaten_anderung_telefon.jpg?id=ecampus%3Astu_studienservice_telefon)

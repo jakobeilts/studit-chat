@@ -1,0 +1,65 @@
+https://wiki.student.uni-goettingen.de/support/drucken/drucken_linux
+Die Anleitung beschreibt das Drucken vom eigenen Linux-PC (Ubuntu) an der Universität Göttingen über das Follow-Me-Drucksystem. Voraussetzungen sind die Verbindung zum Uninetz via eduroam oder VPN, die Installation des PaperCut Clients sowie die Einrichtung der Netzwerkdrucker via Samba. Es werden detaillierte Schritte zur Installation, Konfiguration und Nutzung der Druckerwarteschlange gegeben, inklusive der Nutzung von Druckguthaben und der Freigabe an Multifunktionsgeräten auf dem Campus.
+DRUCKEN VOM EIGENEN LINUX PC (UBUNTU)
+
+Wegen eines Umzugs der Druckserver kann es zu Problemen kommen. Bitte deinstalliert den PaperCut Client und entfernt alle FollowMe-Drucker. Führt die Installation dann erneut durch.
+
+I. GRUNDLAGEN
+
+Der studentische Account bietet die Möglichkeit, von PCs an verschiedenen Standorten auf dem Campus Druckaufträge abzusenden und an Multifunktionsgeräten ausgeben zu lassen. Auch das Absenden eines Druckauftrags vom eigenen Windows PC, Mac oder Linux PC und auch vom Tablet oder Smartphone ist möglich. Druckguthaben (https://wiki.student.uni-goettingen.de/support/drucken/druckguthaben) kannst Du mit Deinem Ausweis in den Bibliotheken der SUB (https://www.sub.uni-goettingen.de/standorte-raumangebote/standorte-mit-oeffnungszeiten/#c4231) aufladen.
+
+Voraussetzung für das Drucken vom eigenen Gerät ist grundsätzlich die Verbindung zum Uninetz : Auf dem Campus über das WLAN eduroam oder GuestOnCampus , an anderen Standorten (zum Beispiel zu Hause) über VPN . Um Aufträge von einem privaten Gerät an die Follow-Me Druckerwarteschlange zu senden, hast Du verschiedene Möglichkeiten:
+
+1. Drucker unter Ubuntu hinzufügen: Du verbindest dich mit demVPN (https://wiki.student.uni-goettingen.de/support/wlan/vpn), installierst den PaperCut Client auf Deinem Ubuntu PC und fügst die Follow-Me Drucker hinzu. So kannst Du über den Druckdialog eines beliebigen Programms Aufträge an die Follow-Me Wartschlange senden. Diese Anleitung erklärt, wie die Einrichtung funktioniert und wie Aufträge abgeschickt werden können.
+2. E-Mail To Print (https://wiki.student.uni-goettingen.de/support/drucken/drucken_email): Du schickst eine E-Mail aus Deinem studentischen E-Mail-Postfach mit einem PDF Dokument im Anhang an die Adresse followme@uni-goettingen.de und bestätigst anschließend den Auftrag.
+
+Anschließend kann der Auftrag an einem Multifunktionsgerät freigegeben werden. Wie die Freigabe eines Druckauftrags genau funktioniert und welche Funktionen die Multifunktionsgeräte außerdem bieten, ist in der Anleitung für die Multifunktionsgeräte ausführlich erklärt. Derart ausgestattete Geräte erkennst Du an den Displays mit der Papercut-Anwendung. Wo auf dem Campus Geräte stehen, kannst Du in der Standortübersicht (https://wiki.student.uni-goettingen.de/support/drucken/drucker) nachsehen.
+
+II. FOLLOW-ME EINRICHTUNG UNTER UBUNTU
+
+Um den Follow-Me Drucker auf dem eigenen Ubuntu PC wie einen „normalen“ Drucker ansprechen zu können, kannst Du die Follow-Me Druckwarteschlange als Netzwerkdrucker einrichten. Anschließend kannst Du aus dem Druckdialog eines Programms auf Deinem PC den Follow-Me Drucker auswählen und hast so auch die Möglichkeit, Dein Dokument zum Beispiel doppelseitig (Duplex) oder mit der Einstellung zwei Seiten auf ein Blatt auszugeben.
+
+Voraussetzung ist eine Verbindung zum Uninetz, auf dem Campus über das WLAN Netzwerk eduroam, von anderen Standorten über VPN.
+
+Bei Fragen und Problem mit der Einrichtung und Nutzung hilft unsere Beratung gerne weiter. Unsere Standorte und Öffungszeiten findest duhier (https://wiki.student.uni-goettingen.de/support/studit_support/kontakt)
+
+VORRAUSSETZUNGEN
+
+Damit der Papercut-Client auf deinem Computer funktioniert, wird Java benötigt. Des Weiteren benötigst du für das Drucken cups und ghostscript und für das Kopieren des Papercut-Clients müssen die cifs-utils installiert sein. Du alle benötigten Pakete durch Eingabe des Befehls sudo apt install -y cups ghostscript cifs-utils default-jre smbclient im Terminal installieren.
+
+DRUCKER ZU UBUNTU HINZUFÜGEN
+
+1. Unter Einstellungen > Geräte > Drucker > Zusätzliche Druckereinstellungen… > Hinzufügen > Netzwerkdrucker > Windows-Drucker via SAMBA kannst du den Drucker hinzufügen, dazu musst Du folgende Daten eintragen:
+
+1. print-win.student.uni-goettingen.de/Follow-Me(bzw./Follow-Me-Farbefür Farbdrucke und/Follow-Me-A3für Drucke in A3)
+2. Das Passwort, welches Du für die Uni-Systeme, z.B. auch den eCampus nutzt
+3. ug-student\dein.benutzername(bitte fürdein.benutzernameden Nutzernamen eintragen, welchen Du auch an den Uni-Systemen nutzt)
+
+(https://wiki.student.uni-goettingen.de/_detail/playground/follow_me_linux/01_druckereinstellungen.png?id=support%3Adrucken%3Adrucken_linux) (https://wiki.student.uni-goettingen.de/_detail/playground/follow_me_linux/02_netzwerkdrucker.png?id=support%3Adrucken%3Adrucken_linux)
+
+2. Anschließend öffnet sich ein Fenster zur Treiberauswahl. Hier lässt Du Drucker aus Datenbank auswählen ausgewählt, wählst Generic aus und klickst auf Vorwärts . Im folgenden Fenster wählst Du nun links PostScript und anschließend rechts Generic PostScript Printer Foomatic/Postscript aus. Danach kommst Du in die Druckerbeschreibung, wo Du den Drucker nach deinen Wünschen benennen kannst. (https://wiki.student.uni-goettingen.de/_detail/playground/follow_me_linux/03_treiber_generic.png?id=support%3Adrucken%3Adrucken_linux) (https://wiki.student.uni-goettingen.de/_detail/playground/follow_me_linux/04_treiber_generic_postscript.png?id=support%3Adrucken%3Adrucken_linux) (https://wiki.student.uni-goettingen.de/_detail/playground/follow_me_linux/05_druckerdetails.png?id=support%3Adrucken%3Adrucken_linux)
+
+INSTALLATION DES PAPERCUT CLIENTS
+
+1. Um den PaperCut Client unter Ubuntu zu installieren muss dieser von einem Netzwerk-Share auf die Festplatte kopiert werden. Das geht am einfachsten indem du im Dateibrowser auf Andere Orte klickst und unter Mit Server verbinden die Adresse smb://print.student.uni-goettingen.de/pcclient einträgst. (https://wiki.student.uni-goettingen.de/_detail/playground/follow_me_linux/06_smb_server.png?id=support%3Adrucken%3Adrucken_linux)
+
+2. Anschließend öffnet sich ein Fenster in dem du nach Login-Daten gefragt wirst. Dort trägst Du folgendes ein:
+
+1. deinen Benutzernamen für die Uni-Systeme
+2. ug-student
+3. dein Passwort für die Uni-Systeme
+
+(https://wiki.student.uni-goettingen.de/_detail/playground/follow_me_linux/07_smb_anmeldedaten.png?id=support%3Adrucken%3Adrucken_linux)
+
+3. Nach der Authentifizierung kopierst du den Ordner linux auf deine Festplatte. In dieser Anleitung habe ich den Ordner nach /home/user/.local/ kopiert und in papercut umbenannt (https://wiki.student.uni-goettingen.de/_detail/playground/follow_me_linux/08_pcclient_local.png?id=support%3Adrucken%3Adrucken_linux)
+
+4. Um den PaperCut Client auch auszuführen, muss dieser ausführbar gemacht werden. Dazu klickst du per Rechtsklick auf die Datei pc-client-linux.sh , gehst auf Eigenschaften und wählst unter Zugriffsrechte den Punkt Datei als Programm ausführen an. Anschließend muss der PaperCut Client per Terminal gestartet werden. Dazu öffnest Du per Rechtsklick im papercut Ordner ein Terminal und gibst dort ./pc-client-linux.sh ein. Anschließend sollte sich PaperCut Client starten. (https://wiki.student.uni-goettingen.de/_detail/playground/follow_me_linux/09_pcclient_ausfuehrbar.png?id=support%3Adrucken%3Adrucken_linux) (https://wiki.student.uni-goettingen.de/_detail/playground/follow_me_linux/10_terminal_oeffnen.png?id=support%3Adrucken%3Adrucken_linux) (https://wiki.student.uni-goettingen.de/_detail/playground/follow_me_linux/11_pc_client_ausfuehren.png?id=support%3Adrucken%3Adrucken_linux)
+
+5. Abschließend musst Du dich noch im PaperCut Client einloggen. Dazu trägst Du folgende Daten ein:
+
+1. deinen Benutzernamen für die Uni-Systeme
+2. dein Passwort für die Uni-Systeme
+
+(https://wiki.student.uni-goettingen.de/_detail/playground/follow_me_linux/12_pc_client_anmeldung.png?id=support%3Adrucken%3Adrucken_linux)
+
+Jetzt sollte sich ein Fenster mit deinem aktuellen Druckguthaben öffnen, die Follow-Me Drucker in der Uni sind nun nutzbar.

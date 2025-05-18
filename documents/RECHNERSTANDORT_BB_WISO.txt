@@ -1,0 +1,10 @@
+https://wiki.student.uni-goettingen.de/support/rechnerstandorte/standorte/bb_wiso
+Der Rechnerstandort BB WISO an der Universität Göttingen bietet über 20 studIT-PCs mit vielfältiger Software. Er befindet sich im Raum 0.209, Platz der Göttinger Sieben 3. Ein Lageplan ist online verfügbar, und bei Problemen kann der studIT-Support kontaktiert werden. Der Standort ist Teil des universitären IT-Supports und dient Studierenden zur Nutzung von IT-Ressourcen und Softwareangeboten.
+RECHNERSTANDORT BB WISO
+
+Anzahl studIT-PCs: >20
+Softwareangebot: Software auf studIT-Rechnern (https://wiki.student.uni-goettingen.de/support/rechnerstandorte/software)
+Straße: Platz der Göttinger Sieben 3
+Raum: 0.209
+Link zum Lageplan: (http://lageplan.uni-goettingen.de/?ident=5256_2_EG_0.209)
+Fehler melden: Kontakt zu studIT (https://wiki.student.uni-goettingen.de/support/studit_support/kontakt)

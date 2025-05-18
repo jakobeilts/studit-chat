@@ -1,0 +1,17 @@
+https://wiki.student.uni-goettingen.de/support/account/account_exmatrikulierte
+
+DEIN ACCOUNT NACH DER EXMATRIKULATION
+
+Dein Account inkl. studentischer Mailadresse ist bis 13 Monate nach Exmatrikulation gültig. 14 Tage vor der Sperrung wird diese durch eine E-Mail ans stud. Postfach angekündigt. Eine Nutzung des Lern-und Studiengebäudes (LSG) sowie des Bibliothekskontos ist davon ausgenommen und nach Exmatrikulation NICHT mehr möglich!
+
+Wir bitten deshalb darum, eine Datensicherung aus dem studentischen Homeverzeichnis (https://wiki.student.uni-goettingen.de/support/account/winscp) und die Sicherung von Mails (https://wiki.student.uni-goettingen.de/support/email/thunderbird) bzw. Umstellung auf eine andere Mailadresse rechtzeitig vorzunehmen.
+
+Eine Weiterleitung von Mails an ein anderes Postfach ist nach der Accountlöschung nicht mehr möglich. Auch eine Reaktivierung des Accounts nach 13 Monaten ist ausgeschlossen.
+
+FUNKTIONEN
+
+während des Studiums: SB-Funktion (Bescheinigungen) | innerhalb von 13 Monaten ab Exmatrikulation: ja | nach 13 Monaten nach Exmatrikulation: ja | Spalte 4: nein
+während des Studiums: Stud.IP | innerhalb von 13 Monaten ab Exmatrikulation: ja | nach 13 Monaten nach Exmatrikulation: jein | Spalte 4: nein
+während des Studiums: E-Mails | innerhalb von 13 Monaten ab Exmatrikulation: ja | nach 13 Monaten nach Exmatrikulation: ja | Spalte 4: nein
+während des Studiums: LSG | innerhalb von 13 Monaten ab Exmatrikulation: ja | nach 13 Monaten nach Exmatrikulation: nein | Spalte 4: nein
+während des Studiums: Bibliothek | innerhalb von 13 Monaten ab Exmatrikulation: ja | nach 13 Monaten nach Exmatrikulation: nein | Spalte 4: nein

@@ -1,0 +1,31 @@
+https://wiki.student.uni-goettingen.de/ecampus/sb
+Der Artikel beschreibt die Selbstbedienung zur Erstellung, Bearbeitung und Anzeige von Stundenplänen an der Universität Göttingen. Studierende melden sich mit ihrem Account auf sb.uni-goettingen.de oder ecampus.uni-goettingen.de an, suchen Veranstaltungen im Vorlesungsverzeichnis, markieren Termine und speichern den Stundenplan. Zudem wird erklärt, wie der Stundenplan über das Menü „Meine Funktionen“ angezeigt und für verschiedene Zeiträume angepasst werden kann. Wichtige Begriffe sind Stundenplan, Vorlesungsverzeichnis, Studierendenaccount und Selbstbedienung.
+SELBSTBEDIENUNG
+
+STUNDENPLAN ERSTELLEN UND SPEICHERN
+
+Zuerst melden Sie sich mit Ihrem Studierendenaccount bei http://sb.uni-goettingen.de (http://sb.uni-goettingen.de) oder http://ecampus.uni-goettingen.de (http://ecampus.uni-goettingen.de) an und rufen das Vorlesungsverzeichnis auf.
+
+(http://wiki.student.uni-goettingen.de/_detail/ecampus/vorlesungsverzeichnis_2.jpg?id=ecampus:sb)
+
+Dort suchen Sie die gewünschte Veranstaltung oder durchsuchen den Veranstaltungsbaum.
+
+Haben Sie die gewünschte(n) Veranstaltung(en) gefunden, wählen Sie die Mittel- oder Langansicht des Suchergebnisses und markieren das Kontrollkästchen „vormerken“ für die gewünschten Termine.
+
+(http://wiki.student.uni-goettingen.de/_detail/ecampus/vorlesungsverzeichnis_5.jpg?id=ecampus:sb)
+
+Sobald Sie alle gewünschten Termine auf diese Weise markiert haben, klicken Sie auf den Button „markierte Termine vormerken“.
+
+(http://wiki.student.uni-goettingen.de/_detail/ecampus/vorlesungsverzeichnis_6.jpg?id=ecampus:sb)
+
+Daraufhin erscheint Ihr Stundenplan, den Sie nun kontrollieren und bearbeiten können. Klicken Sie abschließend auf den Button „Plan speichern“, um Ihren veränderten Stundenplan zu speichern.
+
+(http://wiki.student.uni-goettingen.de/_detail/ecampus/vorlesungsverzeichnis_7.jpg?id=ecampus:sb)
+
+STUNDENPLAN ANZEIGEN
+
+Zuerst melden Sie sich mit Ihrem Studierendenaccount bei http://sb.uni-goettingen.de (http://sb.uni-goettingen.de) oder http://ecampus.uni-goettingen.de (http://ecampus.uni-goettingen.de) an. Klicken Sie nun (unter SB/UniVZ) auf den Menüpunkt „Meine Funktionen“ und dort auf „Stundenplan“
+
+(http://wiki.student.uni-goettingen.de/_detail/ecampus/stundenplan_1.jpg?id=ecampus:sb)
+
+Beachten Sie, dass der Stundenplan für unterschiedliche Zeiträume angezeigt werden kann, indem Sie unter „Anzeigeoptionen“ die entsprechende Ansicht wählen und mit einem Klick auf den Button „anzeigen“ bestätigen.

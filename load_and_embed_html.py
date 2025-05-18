@@ -14,6 +14,7 @@ splitter = RecursiveCharacterTextSplitter(
     separators=["\n\n", "\n", " ", ""],
 )
 PERSIST_PATH = "vectorstore_index"
+DOCUMENT_PATH = "documents"
 
 
 def load_and_embed_documents():
@@ -28,7 +29,7 @@ def load_and_embed_documents():
         return vs, parent_store
 
     # ---------- 2) Index neu erstellen ------------
-    child_chunks, parent_docs = chunk_documents("seiten_export")
+    child_chunks, parent_docs = chunk_documents(DOCUMENT_PATH)
 
     # Parent-Docs ins Store schreiben  (key = Dateiname)
     parent_store = InMemoryStore()
@@ -43,10 +44,10 @@ def load_and_embed_documents():
 def _build_parent_store_from_txts():
     """Wird aufgerufen, wenn der Vektorindex schon existiert."""
     store = InMemoryStore()
-    for fn in os.listdir("seiten_export"):
+    for fn in os.listdir(DOCUMENT_PATH):
         if not fn.endswith(".txt"):
             continue
-        url, *rest = open(os.path.join("seiten_export", fn), encoding="utf-8").readlines()
+        url, *rest = open(os.path.join(DOCUMENT_PATH, fn), encoding="utf-8").readlines()
         full_text = "".join(rest).strip()
         store.mset([(fn, Document(full_text, metadata={"source": fn, "url": url.strip()}))])
     return store

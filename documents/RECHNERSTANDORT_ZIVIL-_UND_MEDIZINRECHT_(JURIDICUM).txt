@@ -1,0 +1,11 @@
+https://wiki.student.uni-goettingen.de/support/rechnerstandorte/standorte/zivil-_und_medizinrecht
+Der Rechnerstandort Zivil- und Medizinrecht (Juridicum) an der Universität Göttingen bietet 4 studIT-PCs mit spezieller Software. Er befindet sich im Raum 0.145, Pl. d. Göttinger Sieben 6. Ein PC verfügt über Gastzugang. Weitere Informationen und Fehlerberichte sind über studIT-Support erreichbar. Ein Lageplan ist online verfügbar.
+RECHNERSTANDORT ZIVIL- UND MEDIZINRECHT (JURIDICUM)
+
+Anzahl studIT-PCs: 4
+Softwareangebot: Software auf studIT-Rechnern (https://wiki.student.uni-goettingen.de/support/rechnerstandorte/software)
+Straße: Pl. d. Göttinger Sieben 6
+Raum: 0.145
+Link zum Lageplan: (http://lageplan.uni-goettingen.de/?ident=5360_1_EG_0.145)
+Besonderheiten: 1 PC mit Gastzugang
+Fehler melden: Kontakt zu studIT (https://wiki.student.uni-goettingen.de/support/studit_support/kontakt)

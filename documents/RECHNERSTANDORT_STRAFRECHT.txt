@@ -1,0 +1,10 @@
+https://wiki.student.uni-goettingen.de/support/rechnerstandorte/standorte/strafrecht
+Der Rechnerstandort Strafrecht an der Universität Göttingen bietet 2 studIT-PCs mit spezieller Software für Studierende. Er befindet sich im Gebäude Pl. d. Göttinger Sieben 5, Raum 4.111, erreichbar über den 3. Stock. Ein Lageplan ist online verfügbar. Für technische Probleme steht der studIT-Support zur Verfügung.
+RECHNERSTANDORT STRAFRECHT
+
+Anzahl studIT-PCs: 2
+Softwareangebot: Software auf studIT-Rechnern (https://wiki.student.uni-goettingen.de/support/rechnerstandorte/software)
+Straße: Pl. d. Göttinger Sieben 5
+Raum: 4.111 (Zugang über 3. Stock)
+Link zum Lageplan: (https://www.geodata.uni-goettingen.de/lageplan/?ident=5237_1_4.OG_4.111)
+Fehler melden: Kontakt zu studIT (https://wiki.student.uni-goettingen.de/support/studit_support/kontakt)

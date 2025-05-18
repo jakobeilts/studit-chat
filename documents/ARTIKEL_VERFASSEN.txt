@@ -1,0 +1,15 @@
+https://wiki.student.uni-goettingen.de/support/blogs/07_artikel_verfassen
+Der Artikel beschreibt Schritt für Schritt, wie man auf der Blog-Verwaltungsseite der Universität Göttingen einen neuen Artikel erstellt, inklusive Login, Eingabe von Titel und Text, Auswahl der Kategorien sowie dem Speichern als Entwurf oder der endgültigen Veröffentlichung durch Klick auf den Button „Veröffentlichen“.
+ARTIKEL VERFASSEN
+
+Login auf der Blog-Verwaltungsseite: http://blog.stud.uni-goettingen.de/deinblogname/wp-admin (http://blog.stud.uni-goettingen.de/deinblogname/wp-admin)
+
+Auf Menüpunkt „Artikel“ ⇒ „Erstellen“ klicken
+
+(https://wiki.student.uni-goettingen.de/_detail/support/blogs/artikel_verfassen.png?id=support%3Ablogs%3A07_artikel_verfassen)
+
+Nach Eingabe des Titels und des Textes kannst du die Kategorien auswählen, in denen der Artikel veröffentlicht werden soll:
+
+(https://wiki.student.uni-goettingen.de/_detail/support/blogs/artikel_verfassen2.png?id=support%3Ablogs%3A07_artikel_verfassen)
+
+Der Artikel wird erst veröffentlicht, wenn du auf den Button „Veröffentlichen“ klickst; beim Klick auf Speichern wird der Artikel als Entwurf gespeichert. Du hast dann die Möglichkeit ihn zu einem späteren Zeitpunkt zu veröffentlichen.

@@ -1,0 +1,17 @@
+https://wiki.student.uni-goettingen.de/support/blogs/01_registrierung
+
+REGISTRIERUNG
+
+Aufruf der Startseite: http://blog.stud.uni-goettingen.de (http://blog.stud.uni-goettingen.de)
+
+Registrierungsformular ausfüllen und auf den Button „Registrierung abschließen“ klicken.
+
+Dein Benutzerkonto ist nun erfolgreich erstellt! Um es vollständig nutzen zu können, musst Du es mit einem Klick auf den Link aktivieren, den wir dir zeitnah nach dem Absenden des Formulars zusenden.
+
+Nach der Aktivierung muss dein Blog von einem Berater freigeschaltet werden (in der Regel innerhalb weniger Stunden). Nach der Freischaltung ist es unter folgender Adresse zu finden: http://blog.stud.uni-goettingen.de/maxblog (http://blog.stud.uni-goettingen.de/maxblog)
+
+Die Verwaltungsoberfläche deines Blogs, über die du sämtliche Einstellungen vornehmen kannst, findest du unter folgendem Link:
+
+blog.stud.uni-goettingen.de/ deinblogname /wp-admin/ Dein Blog sieht Anfangs wie das vom studIT-Blog aus: http://blog.stud.uni-goettingen.de/studit/ (http://blog.stud.uni-goettingen.de/studit/)
+
+Auf den folgenden Seiten zeigen wir dir, wie du in wenigen Minuten dein Blog nach deinen Wünschen gestalten kannst.

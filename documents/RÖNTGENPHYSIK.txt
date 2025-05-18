@@ -1,0 +1,10 @@
+https://wiki.student.uni-goettingen.de/support/rechnerstandorte/standorte/rontgenphysik
+Der Artikel beschreibt den Rechnerstandort Röntgenphysik an der Universität Göttingen mit 7 studIT-PCs, dem Softwareangebot auf diesen Rechnern sowie der Adresse Friedrich-Hund-Platz 1, Raum F.00.105. Ein Lageplan und Kontaktinformationen zum studIT-Support sind ebenfalls enthalten.
+RÖNTGENPHYSIK
+
+Anzahl studIT-PCs: 7
+Softwareangebot: Software auf studIT-Rechnern (https://wiki.student.uni-goettingen.de/support/rechnerstandorte/software)
+Straße: Friedrich-Hund-Platz 1
+Raum: F.00.105
+Link zum Lageplan: (https://www.geodata.uni-goettingen.de/lageplan/?ident=1440_1_EG_F.00.105)
+Fehler melden: Kontakt zu studIT (https://wiki.student.uni-goettingen.de/support/studit_support/kontakt)

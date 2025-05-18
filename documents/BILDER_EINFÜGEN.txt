@@ -1,0 +1,46 @@
+https://wiki.student.uni-goettingen.de/support/blogs/08_bilder_einfuegen
+Der Artikel erklärt, wie man Bilder in Blogs und Seiten der Universität Göttingen einfügt. Er beschreibt den Login, das Hochladen von Bildern über das Symbol „Hochladen/Einfügen“ und die Nutzung der NextGEN Gallery zur Verwaltung von Galerien. Es werden Schritte zum Erstellen von Galerien, Hochladen von Bildern und Einfügen in Artikel erläutert, inklusive der Verwendung von Shortcodes wie [nggallery id=x] zur Anzeige aller Bilder einer Galerie.
+BILDER EINFÜGEN
+
+Bilder lassen sich sowohl für Seiten als auch für Artikel auf die gleiche Weise einfügen:
+
+Login auf der Blog-Verwaltungsseite: http://blog.stud.uni-goettingen.de/deinblogname/wp-admin (http://blog.stud.uni-goettingen.de/deinblogname/wp-admin)
+
+Auf Menüpunkt „Artikel“ ⇒ „Erstellen“ oder „Seiten“ ⇒ „Erstellen“ klicken.
+
+Auf das kleine Symbol neben „Hochladen/Einfügen“ klicken.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/blogs/bild_einfuegen_schritt3.png?id=support%3Ablogs%3A08_bilder_einfuegen)
+
+Es erscheint folgendes Popup-Fenster.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/blogs/bild_einfuegen_schritt4.png?id=support%3Ablogs%3A08_bilder_einfuegen)
+
+Du hast nun verschiedene Möglichkeiten des Uploads:
+
+- Datei auswählen und auf den Button „Hochladen“ klicken
+- Nach Angaben zum Bild (optional) auf den Button „In Artikel einfügen“ klicken
+
+(https://wiki.student.uni-goettingen.de/_detail/support/blogs/bild_einfuegen_schritt5a.png?id=support%3Ablogs%3A08_bilder_einfuegen)
+
+NextGEN Gallery in der Verwaltungsoberfläche ein eigenes Menü, über die die Verwaltung der Bilder erfolgt. Die Bilder müssen erst über dieses Menü hochgeladen werden, bevor sie eingefügt werden können.
+
+- Auf Menüpunkt „Galerie“ ⇒ „Galerie / Bilder hinzufügen“ klicken
+- Galerie erstellen: Bezeichnung eingeben, auf „Galerie hinzufügen“ klicken
+
+(https://wiki.student.uni-goettingen.de/_detail/support/blogs/bild_einfuegen_schritt5b.png?id=support%3Ablogs%3A08_bilder_einfuegen)
+
+- Dateien auswählen, auf „Bilder hochladen“ klicken
+
+(https://wiki.student.uni-goettingen.de/_detail/support/blogs/bild_einfuegen_schritt5b_2.png?id=support%3Ablogs%3A08_bilder_einfuegen)
+
+- Galerie auswählen, auf den Button „Wähle“ klicken: Es erscheinen alle Bilder der Galerie.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/blogs/bild_einfuegen_schritt5b_3.png?id=support%3Ablogs%3A08_bilder_einfuegen)
+
+- Beim gewünschten Bild auf „Zeige“ klicken
+- Nach Angaben zum Bild (optional) auf den Button „In Artikel einfügen“ klicken
+
+Falls du alle Bilder in deinen Artikel oder Seite einfügen möchtest, musst du folgenden Code in deinen Artikel oder deine Seite eingeben: [nggallery id=x]
+
+Die ID findest du im Menüpunkt „Galerie“ ⇒ „Galerie verwalten“

@@ -1,0 +1,31 @@
+https://wiki.student.uni-goettingen.de/support/email/android_mail
+
+ANDROID MAIL
+
+ÜBERSICHT
+
+POSTEINGANGSSERVER
+
+Benutzername : ug-student\accountname (z.B. ug-student\m.musterfrau) IMAP Server : email.gwdg.de oder email.stud.uni-goettingen.de Port : 993 Sicherheitstyp : SSL/TLS
+
+POSTAUSGANGSSERVER
+
+Benutzername : ug-student\accountname (z.B. ug-student\m.musterfrau) IMAP Server : email.gwdg.de oder email.stud.uni-goettingen.de Port : 587 Sicherheitstyp : STARTTLS Anmeldung erforderlich
+
+ANLEITUNG
+
+Ein neues Konto unter Einstellungen hinzufügen: (https://wiki.student.uni-goettingen.de/_detail/support/email/1_konto_hinzufuegen.png?id=support%3Aemail%3Aandroid_mail)
+
+Kontotyp E-Mail wählen: (https://wiki.student.uni-goettingen.de/_detail/support/email/2_typ_email.png?id=support%3Aemail%3Aandroid_mail)
+
+Die eigene eMailadresse und Passwort eingeben und Manuell einrichten klicken: (https://wiki.student.uni-goettingen.de/_detail/support/email/3_manuell_einrichten.png?id=support%3Aemail%3Aandroid_mail)
+
+Kontotyp IMAP auswählen: (https://wiki.student.uni-goettingen.de/_detail/support/email/4_mailkontotyp.png?id=support%3Aemail%3Aandroid_mail)
+
+Folgende IMAP Servereinstellungen verwenden: (Benutzernamen den eigenen eintragen mit ug-student\ davor) (https://wiki.student.uni-goettingen.de/_detail/support/email/5_imap_servereinstellungen.png?id=support%3Aemail%3Aandroid_mail)
+
+Folgende SMTP Servereinstellungen verwenden: (Benutzernamen den eigenen eintragen mit ug-student\ davor) ACHTUNG: Der Port muss auf 587 eingestellt werden, nicht wie im Bild 25. (https://wiki.student.uni-goettingen.de/_detail/support/email/6_smtp_servereinstellungen.png?id=support%3Aemail%3Aandroid_mail)
+
+Fertig. Unter der Appliste einfach dann das Emailprogramm auswählen und du kannst Emails über dein Studentisches Postfach versenden und empfangen.
+
+Leider funktioniert die studentische E-Mail-Adresse nicht mit der mobilen Outlook-App für Android.

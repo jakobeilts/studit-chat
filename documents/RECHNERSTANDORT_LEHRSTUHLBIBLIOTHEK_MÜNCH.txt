@@ -1,0 +1,10 @@
+https://wiki.student.uni-goettingen.de/support/rechnerstandorte/standorte/lehrstuhlbibliothek_muench
+Der Rechnerstandort Lehrstuhlbibliothek Münch an der Universität Göttingen bietet einen studIT-PC mit spezieller Software. Er befindet sich im Raum 1.174, Pl. d. Göttinger Sieben 6. Weitere Informationen und Softwareangebote sind über studIT-Rechner zugänglich. Ein Lageplan und Kontaktmöglichkeiten zum studIT-Support sind ebenfalls verfügbar.
+RECHNERSTANDORT LEHRSTUHLBIBLIOTHEK MÜNCH
+
+Anzahl studIT-PCs: 1
+Softwareangebot: Software auf studIT-Rechnern (https://wiki.student.uni-goettingen.de/support/rechnerstandorte/software)
+Straße: Pl. d. Göttinger Sieben 6
+Raum: 1.174
+Link zum Lageplan: (http://lageplan.uni-goettingen.de/?ident=5360_1_1.OG_1.174)
+Fehler melden: Kontakt zu studIT (https://wiki.student.uni-goettingen.de/support/studit_support/kontakt)

@@ -1,0 +1,5 @@
+https://wiki.student.uni-goettingen.de/support/wlan/eduroam_fuer_hawk-studierende
+Die Anleitung beschreibt die Einrichtung des WLAN-Netzwerks eduroam für Studierende der HAWK, basierend auf der offiziellen Wiki-Anleitung der Hochschule für angewandte Wissenschaft und Kunst (HAWK).
+EDUROAM FÜR HAWK-STUDIERENDE
+
+Zum Einrichten des eduroams folgt bitte der Anleitung aus dem Wiki der HAWK: https://wiki.hawk.de/display/HO/WLAN+eduroam (https://wiki.hawk.de/display/HO/WLAN+eduroam)

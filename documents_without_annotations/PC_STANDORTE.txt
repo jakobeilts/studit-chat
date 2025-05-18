@@ -1,0 +1,27 @@
+https://wiki.student.uni-goettingen.de/support/studit_support/pc_standorte
+
+PC STANDORTE
+
+Die StudIT-PCs sind fast ausschließlich mit Windows-Betriebssystemen ausgetattet. Zur Softwareausstattung (https://wiki.student.uni-goettingen.de/support/software/start) gehört unter anderem (Microsoft und Open-) Office, Grafikbearbeitungssoftware und der beliebte Internetbrowser Mozilla Firefox. Der Benutzer kann von jedem PC auf die gleichen Eigenen Dateien und Bookmarks zugreifen. Außerdem kann er sich ein Netzlaufwerk (https://wiki.student.uni-goettingen.de/support/account/homeverzeichnis) auf dem heimischen Rechner einrichten um auch von dort auf die Eigenen Dateien zugreifen zu können.
+
+In Verbindung mit Geld auf eurem Druckkonto (https://wiki.student.uni-goettingen.de/support/drucken/druckguthaben) können Dokumente gedruckt werden. An vielen Terminals können sowohl USB-Sticks als auch CDs oder DVDs eingelesen werden.
+
+BEI FEHLERN UND PROBLEMEN
+
+Für die Hardware der Rechner (Bildschirm, Tastatur, Maus, Beschädigung des Rechners etc.) ist grundsätzlich studIT zuständig. Bitte schreibe uns über unser Kontaktformular.
+
+Auf vielen studIT-PC befindet sich ein Service-Aufkleber. Mit den Infos darauf könnt Ihr uns erreichen - falls Ihr ein QR-Code fähiges Smartphone habt, sogar komfortabel über das Scannen des Codes. (https://wiki.student.uni-goettingen.de/_detail/support/rechnerstandorte/dummy_aufkleber.png?id=support%3Astudit_support%3Apc_standorte)
+
+Dasselbe gilt, sollten Studierenden Probleme bei der Benutzung der PCs haben, z.B.:
+
+```
+Probleme bei der Anmeldung von Studierenden (Login mit Studierenden-Account)
+  Druckprobleme
+  Probleme mit Anwendungen / Programmen auf dem Rechner
+```
+
+E-Mail: E-Mail-Kontaktformular (https://wiki.student.uni-goettingen.de/support/studit_support/kontakt) .
+
+STANDORTE
+
+Siehe aktuelle Standortliste (https://wiki.student.uni-goettingen.de/support/rechnerstandorte/start) .

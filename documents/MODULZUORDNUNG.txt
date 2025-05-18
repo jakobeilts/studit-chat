@@ -1,0 +1,38 @@
+https://wiki.student.uni-goettingen.de/univz/verfahren/modulzuordnung
+Die Modulzuordnung an der Universität Göttingen ermöglicht die Verknüpfung von Veranstaltungen mit Modulen, um Prüfungen korrekt in FlexNow zu übertragen. Standardmäßig erfolgt die Zuordnung einzeln über das Register „Modulzuordnung“. Für Mehrfachzuordnungen bietet das System eine Suchfunktion mit Kontrollkästchen zur Auswahl mehrerer Module. Suchergebnisse können markiert, alle ausgewählt oder erweitert angezeigt werden, um eine effiziente Verwaltung der Prüfungszuordnungen zu gewährleisten.
+MODULZUORDNUNG
+
+Die Zuordnung von Modulen ist die Voraussetzung dafür, dass Veranstaltungen Prüfungen zugeordnet werden, und damit die Prüfungstermine korrekt von UniVZ nach FlexNow übernommen werden können. Standardmäßig können einer Veranstaltung Module zugeordnet werden über das Register „Modulzuordnung“ in der Bearbeitung einer Veranstaltung. Hier finden Sie dazu die Erläuterung:
+
+- Modulzuordnung über Veranstaltungsbearbeitung (https://wiki.student.uni-goettingen.de/univz/veranstaltungen/bearbeiten/modulzuordnung)
+
+Im obigen Verfahren ist allerdings keine Mehrfachzuordnung möglich. Falls also mehrere Module zugeordnet werden müssen, ist jedes Modul einzeln auszuwählen und zuzuordnen. Das folgende Verfahren ermöglicht eine Mehrfachauswahl:
+
+- Zunächst suchen Sie die gewünschte Veranstaltung und gehen in die Detailansicht der Veranstaltung.
+- In der Funktionsleiste finden Sie den Button„Zuordnung von Prüfungen zur Veranstaltung“.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/verfahren/univz_verfahren_modulzuordnung0.jpg?id=univz%3Averfahren%3Amodulzuordnung)
+
+Sie klicken auf diesen Button und erhalten ein Eingabefeld zum Suchen von Modulen. In diesem Eingabefeld können Sie nun einen beliebigen Suchbegriff eingeben, z.B. B.Mat oder Latein . Groß- bzw. Kleinschreibung wird nicht berücksichtigt.
+
+Abschließend klicken Sie auf den Button „Suche starten“ .
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/verfahren/univz_verfahren_modulzuordnung1.jpg?id=univz%3Averfahren%3Amodulzuordnung)
+
+Danach erhalten Sie eine Ergebnisliste der (Teil-)Module, die Ihrem Suchbegriff entsprechen. Je genauer der Suchbegriff ist, desto kürzer ist die Ergebnisliste.
+
+Sie können nun alle Module markieren, die Sie zuordnen wollen, indem Sie die entsprechenden Kontrollkästchen auswählen.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/verfahren/univz_verfahren_modulzuordnung2.jpg?id=univz%3Averfahren%3Amodulzuordnung)
+
+Nun klicken Sie auf den Button „Zuordnung von Prüfungen zur Veranstaltung“ und bekommen die erfolgreiche Zuordnung auf der Ergebnisseite angezeigt.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/verfahren/univz_verfahren_modulzuordnung3.jpg?id=univz%3Averfahren%3Amodulzuordnung)
+
+Am unteren Ende des Suchergebnisliste haben Sie noch weitere Möglichkeiten:
+
+- Ist Ihr Suchergebnis klein genug, können Sie eventuell den Button„Alles Markieren“nutzen, um alle Module aus der Liste zuzuordnen.
+- Falls Ihr Suchergebnis sehr lang ist, haben Sie unter„Mehr Ergebnisse auf Seite:“die Möglichkeit, sich die weiteren Module anzeigen zu lassen.
+- Über den Button„Zurück (Veranstaltung)“kommen Sie wieder in die Detailansicht der Veranstaltung.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/verfahren/univz_verfahren_modulzuordnung4.jpg?id=univz%3Averfahren%3Amodulzuordnung)

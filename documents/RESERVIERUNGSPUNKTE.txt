@@ -1,0 +1,54 @@
+https://wiki.student.uni-goettingen.de/support/lsg/reservierungspunkte
+Das Reservierungspunktesystem der LSG und SUB Zentralbibliothek regelt die Nutzung von Räumen und Schließfächern. Punkte sammeln sich mit der Nutzung an und beeinflussen die Vorausreservierungsmöglichkeiten. Je größer und länger der Raum, desto mehr Punkte fallen an. Stornierungen erstatten Punkte anteilig, abhängig vom Zeitpunkt. Punkte verfallen nach 40 Tagen. Über eCampus können Nutzer ihre Punkte einsehen und teilen. Reservierungen sind bis zu 120 Tage im Voraus möglich, abhängig von der Punktzahl.
+RESERVIERUNGSPUNKTE
+
+Für die Nutzung der Räume und Schließfächer im LSG und der SUB Zentralbibliothek werden Reservierungspunkte vergeben. Sie werden nicht von einem Konto abgezogen sondern addieren sich bei Nutzung der Räume immer weiter auf. Bestimmte Punktanzahlen haben Konsequenzen was die Verfügbarkeit der Voraussreservierung betrifft.
+
+- Je größer ein Raum, desto mehr Punkte fallen dafür an.
+- Je länger ein Raum genutzt wird, desto mehr Punkte fallen dafür an.
+- Je weniger Reservierungspunkte bisher verbraucht wurden, desto weiter im Voraus kann man Räume reservieren. Bei vielen angesammelten Reservierungspunkten (d.h. häufiger Nutzung), kann man Räume nur kurzfristig reservieren.
+- Je später ein reservierter Raum wieder storniert wird, desto weniger Reservierungspunkte werden erstattet.
+- 40 Tage nach der Nutzung verfallen die Reservierungspunkte für eine bestimmte Nutzung wieder.
+
+Über das Reservierungssystem im eCampus siehst du jederzeit, wie viele Reservierungspunkte du bereits gesammelt hast und wie viele Punkte bei deiner aktuell eingestellten Reservierung angerechnet werden. Solltest du mit mehreren KommilitonInnen einen Raum teilen wollen, so könnt ihr euch auch die Reservierungspunkte dafür teilen!
+
+RESERVIERUNGSPUNKTE FÜR RAUMTYPEN
+
+Raumtyp | Reservierungspunkte pro Stunde
+Lernbox | 0,5
+1er-Arbeitsraum | 1
+2er-Arbeitsraum für mobilitätseingeschränkte Studierende | 1
+2er-Arbeitsraum | 1,5
+4er-Arbeitsraum | 2
+6er-Arbeitsraum | 3
+8er-Arbeitsraum | 4
+10er-Arbeitsraum | 5
+12er-Arbeitsraum | 6
+Großgruppenraum | 10
+
+SCHLIESSFACH
+
+Schließfach | 1 Reservierungspunkt pro Tag
+
+STORNIERUNGEN
+
+Bei Stornierung eines Raumes bzw. Schließfaches werden Reservierungspunkte gelöscht. Die Anzahl der gelöschten Punkte ist vom Zeitpunkt vor dem Reservierungstermin abhängig.
+
+Stornierungszeitpunkt | Löschung Reservierungspunkte zu…
+mehr als 168 Stunden (7 Tage) vor Reservierungstermin | 100 %
+168 Stunden bis 24 Stunden vor Reservierungstermin | 75 %
+weniger als 24 Stunden vor Reservierungstermin oder während des belegten Zeitraums | 50 %
+
+Wenn du dich schon vor dem Ende der reservierten Nutzungszeit aus deinem Raum abmeldest, werden dennoch anteilig (50%) die Punkte angerechnet!
+
+Reservierungen können verändert werden. Mindestens die ursprünglich angefallenen Reservierungspunkte bleiben dabei erhalten, z.B. wenn der bearbeitete Buchungszeitraum kürzer wird. Bei einer Erweiterung der Buchungszeit kommen entsprechend weitere Reservierungspunkte hinzu. Hinweis: Wenn sich bei der Änderung die Nutzungszeit deutlich verkürzt, kann es u.U. günstiger sein, die Buchung komplett zu stornieren und eine neue Reservierung zu erstellen.
+
+GRENZWERTE DER RESERVIERUNG
+
+Eine Reservierung von Räumen bzw. Schließfächern ist in einem Zeitraum von bis zu 120 Tagen im Voraus abhängig vom Stand des Reservierungspunktekontos möglich. Es gelten folgende Grenzwerte.
+
+Reservierungspunkte | Maximaler Reservierungszeitraum
+weniger als 100 | 120 Tage
+mehr als 100 | 7 Tage
+mehr als 200 | 2 Tage
+mehr als 400 | 0 Tage (nur aktueller Tag)

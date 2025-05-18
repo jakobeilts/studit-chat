@@ -1,0 +1,60 @@
+https://wiki.student.uni-goettingen.de/support/drucken/drucken_android
+
+DRUCKEN UNTER ANDROID
+
+Wegen eines Umzugs der Druckserver kann es zu Problemen kommen. Bitte deinstalliert die Mobility Print App sowie das icon zur Bestätigung des Druckauftrags. Führt die Installation dann erneut wie unten beschrieben durch.
+
+Mit einem Smartphone, Tablet und weiteren Geräten, welche Android als Betriebssystem nutzen, kannst du nativ Druckaufträge an unser Follow-Me-System senden.
+
+Dein Gerät muss (mindestens zum Absenden und Freigeben des Druckauftrages) im Uninetz sein, d.h. im eduroam (https://wiki.student.uni-goettingen.de/support/wlan/eduroam_android) oder per VPN verbunden (https://wiki.student.uni-goettingen.de/support/wlan/vpn_eduvpn) .
+
+1. VORBEREITUNGEN (EINMALIG)
+
+"MOBILITY PRINT"-APP INSTALLIEREN UND ÖFFNEN
+
+Lade und installiere die „Mobility Print“-App auf dein Android Gerät, diese wird benötigt um Druckaufträge an das Follow-me-System zu senden.
+
+Klicke auf diesen Link: http://print-win.student.uni-goettingen.de:9163/client-setup/known-host/android.html (http://print-win.student.uni-goettingen.de:9163/client-setup/known-host/android.html)
+
+(https://wiki.student.uni-goettingen.de/_detail/support/drucken/android_01.png?id=support%3Adrucken%3Adrucken_android) (https://wiki.student.uni-goettingen.de/_detail/support/drucken/android_02.png?id=support%3Adrucken%3Adrucken_android)
+
+DRUCKDIENSTE UND BENACHRICHTIGUNGEN AKTIVIEREN
+
+Über die beiden Schaltflächen in der App gelangst du in das jeweiligen Einstellungen von Android um dort die Druckdienste und Benachrichtigungen der App zu aktivieren, bzw. zu erlauben.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/drucken/android_03.png?id=support%3Adrucken%3Adrucken_android) (https://wiki.student.uni-goettingen.de/_detail/support/drucken/android_04.png?id=support%3Adrucken%3Adrucken_android) (https://wiki.student.uni-goettingen.de/_detail/support/drucken/android_05.png?id=support%3Adrucken%3Adrucken_android)
+
+(https://wiki.student.uni-goettingen.de/_detail/support/drucken/android_03a.png?id=support%3Adrucken%3Adrucken_android) (https://wiki.student.uni-goettingen.de/_detail/support/drucken/android_06.png?id=support%3Adrucken%3Adrucken_android)
+
+2. DRUCKAUFTRAG ABSENDEN
+
+Öffne das Dokument welches du drucken möchtest und öffne den Druckdialog der App mit der das Dokument geöffnet wurde. Anschließend wählst du den gewünschten Drucker aus und sendest den Druckauftrag ab.
+
+In unserem Beispiel wollen wir die Homepage auf der die „Mobility Print“-App verlinkt ist drucken. Dafür nutzen wir Chrome und finden den Druckdialog unter dem Menüpunkt „Teilen“.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/drucken/android_07.png?id=support%3Adrucken%3Adrucken_android) (https://wiki.student.uni-goettingen.de/_detail/support/drucken/android_08.png?id=support%3Adrucken%3Adrucken_android) (https://wiki.student.uni-goettingen.de/_detail/support/drucken/android_09.png?id=support%3Adrucken%3Adrucken_android) (https://wiki.student.uni-goettingen.de/_detail/support/drucken/android_10.png?id=support%3Adrucken%3Adrucken_android) (https://wiki.student.uni-goettingen.de/_detail/playground/android_11.png?id=support%3Adrucken%3Adrucken_android)
+
+3. AUTHENTIFIZIERUNG (EINMALIG)
+
+Um den ersten Druckauftrag abzusenden, musst du dich authentifizieren. Klicke dafür auf die Benachrichtigung und gib deinen studentischen Nutzernamen und dein aktuelles Passwort ein.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/drucken/android_12.png?id=support%3Adrucken%3Adrucken_android) (https://wiki.student.uni-goettingen.de/_detail/support/drucken/android_13.png?id=support%3Adrucken%3Adrucken_android)
+
+- Wenn der Haken unter „Anmeldung merken“ gesetzt wird, dann musst du diese Authentifizierung, bis du dein Passwort änderst, nicht erneut durchführen.
+
+4. DRUCKAUFTRAG IN DIE DIGITALE WARTESCHLANGE WEITERLEITEN
+
+Nun musst du die Homepage öffnen, auf der du deine Druckaufträge freigeben wirst (die Kosten bestätigst). Hier musst du dich erneut mit deinem studentischen Nutzernamen und deinem aktuellen Passwort anmelden, siehst danach die Details zum Druckauftrag (Name, digitale Warteschlange, Seitenzahl und vorraussichtlichen Kosten) und kannst diesen dann in die Warteschlage weiterleiten. Wenn kein Auftrag mit offener Kostenbestätigung vorliegt siehst du auf dieser Seite alle Druckjobs, die bereits für die Freigabe an einem Multifunktionsgerät bereit liegen.
+
+Klicke auf diesen Link: https://print.student.uni-goettingen.de:9192/client (https://print.student.uni-goettingen.de:9192/client)
+
+(https://wiki.student.uni-goettingen.de/_detail/support/drucken/android_14.png?id=support%3Adrucken%3Adrucken_android) (https://wiki.student.uni-goettingen.de/_detail/support/drucken/android_15.png?id=support%3Adrucken%3Adrucken_android) (https://wiki.student.uni-goettingen.de/_detail/support/drucken/android_16.png?id=support%3Adrucken%3Adrucken_android)
+
+- Wenn du bei der Anmeldung den Haken unter „Anmeldung merken“ setzt, musst du dich an dieser Stelle nicht erneut anmelden sondern kommst direkt zur Auftragsfreigabe.
+- Speichere ein Lesezeichen zu dieser Homepage auf deinem Startbildschirm, um diese mit einem Klick zu erreichen.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/drucken/android_18.png?id=support%3Adrucken%3Adrucken_android) (https://wiki.student.uni-goettingen.de/_detail/support/drucken/android_19.png?id=support%3Adrucken%3Adrucken_android)
+
+5. DRUCKEAUFTRÄGE AUSGEBEN LASSEN
+
+Nun kannst du an einem beliebigen Multifunktionsgerät auf dem Campus deine Aufträge freigeben und somit drucken lassen.

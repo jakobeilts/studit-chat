@@ -1,0 +1,7 @@
+https://wiki.student.uni-goettingen.de/univz/events
+
+EVENTS
+
+Mit dem Event erhält man die Möglichkeit eine Veranstaltung, Tagung, Sitzung, etc. zu erfassen, die nicht im Vorlesungsverzeichnis erscheinen soll. Events erscheinen auf Raumplänen, da für jeden Event Termine und Räume belegt werden können.
+
+Event suchen (https://wiki.student.uni-goettingen.de/univz/events/suchen) | Event anlegen (https://wiki.student.uni-goettingen.de/univz/events/anlegen) | Event bearbeiten (https://wiki.student.uni-goettingen.de/univz/events/bearbeiten)

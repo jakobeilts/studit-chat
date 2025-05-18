@@ -1,0 +1,7 @@
+https://wiki.student.uni-goettingen.de/univz/zusammenspiel_mit_anderen_systemen/univz_und_sap_hr
+Der Artikel beschreibt die Integration der Mitarbeiterdaten der Universität Göttingen zwischen SAP HR und UniVZ. Die Personalabteilung pflegt die Daten in SAP HR, von wo aus relevante Informationen in das UniVZ-System übernommen werden. Dies ermöglicht die Zuordnung von Personen zu Veranstaltungen und die Ergänzung weiterer Personendaten im UniVZ. Der Artikel erläutert den detaillierten Ablauf der Datenübernahme zwischen SAP HR und UniVZ.
+UNIVZ UND SAP HR
+
+Die Daten der Mitarbeiter der Universität Göttingen werden durch die Personalabteilung in SAP HR gepflegt. Personen aus SAP HR nebst einem Teil dieser Daten werden nach UniVZ übernommen, so dass die Person dort z.B. für die Zuordnung zu Veranstaltungen und zur Ergänzung weiterer Personendaten zur Verfügung steht.
+
+Die Übernahme der Daten aus SAP HR verläuft im Detail folgendermaßen:

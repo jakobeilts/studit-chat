@@ -1,0 +1,9 @@
+https://wiki.student.uni-goettingen.de/univz/zusammenspiel_mit_anderen_systemen/univz_und_conjectfm
+
+UNIVZ UND CONJECTFM
+
+Die Universität Göttingen betreibt ein umfangreiches CAFM-System (Computer Aided Facility Management) mit Namen conjectFM. Dort werden u.a. sämtliche Gebäude- und Raumdaten verwaltet.
+
+Ein Teil der Raum- und Gebäudedaten werden nach UniVZ übernommen, damit diese z.B. für die Lehrveranstaltungsplanung in UniVZ zur Verfügung stehen und dort nicht erneut erfasst werden müssen.
+
+Die Übernahme der Daten aus conjectFM verläuft im Detail folgendermaßen:

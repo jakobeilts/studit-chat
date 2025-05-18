@@ -1,0 +1,10 @@
+https://wiki.student.uni-goettingen.de/support/rechnerstandorte/standorte/lehrstuhlbibliothek_muench
+
+RECHNERSTANDORT LEHRSTUHLBIBLIOTHEK MÜNCH
+
+Anzahl studIT-PCs: 1
+Softwareangebot: Software auf studIT-Rechnern (https://wiki.student.uni-goettingen.de/support/rechnerstandorte/software)
+Straße: Pl. d. Göttinger Sieben 6
+Raum: 1.174
+Link zum Lageplan: (http://lageplan.uni-goettingen.de/?ident=5360_1_1.OG_1.174)
+Fehler melden: Kontakt zu studIT (https://wiki.student.uni-goettingen.de/support/studit_support/kontakt)

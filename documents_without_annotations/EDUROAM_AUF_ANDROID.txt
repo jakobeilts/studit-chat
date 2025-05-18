@@ -1,0 +1,21 @@
+https://wiki.student.uni-goettingen.de/support/wlan/eduroam_android
+
+EDUROAM AUF ANDROID
+
+(https://wiki.student.uni-goettingen.de/_detail/support/wlan/eduroam_logo_trans_04.gif?id=support%3Awlan%3Aeduroam_android)
+
+Im Folgenden findest du eine Anleitung, wie Du Dein Android Gerät mit dem WPA2 verschlüsselten Netzwerk eduroam verbinden kannst.
+
+Du kannst dich mit deinem Android-Gerät in das WLAN eduroam der Universität Göttingen einwählen und so mit sehr hohen Datenraten surfen.
+
+Das eduroam (education roaming) Netzwerk ermöglicht registrierten Nutzern, über dienstkonforme WLANs Zugang zum Wissenschaftsnetz zu erhalten, d. h. die Accounts ermöglichen die WLAN-Nutzung auch in anderen dem DFN angeschlossenen Forschungseinrichtungen. Vorteil ist hier, das WLAN ist verschlüsselt (WPA2) und es wird dafür keine zusätzliche Software benötigt.
+
+Bei einigen Geräten kommt es bei der Verwendung der App „ eduroamCat “ bei der Profilinstallation zu einem Fehler bezüglich des Sperrbildschirms. Auch wenn dieser eingerichtet ist und gewechselt wird o.ä., meckert die App manchmal. In solchen Fällen raten wir die App „ geteduroam “ auszuprobieren. Häufig tritt dieses Problem dort nicht auf und eduroam kann eingerichtet werden.
+
+Um die App und das Profil für die Einrichtung herunterladen zu können, ist der Zugang zum Internet Voraussetzung. Dazu kannst du entweder deine mobile Datenverbindung oder das unverschlüsselte WLAN „GuestOnCampus“ an der Universität benutzen. (An der UMG kann hierfür auch das unverschlüsselte WLAN „Patienten-Internet“ genutzt werden.)
+
+ANLEITUNGEN
+
+Folgende eduroam Installations- und Konfigurationsanleitungen stehen für alle gängingen Android Versionen zur Verfügung. Schau, welche Version sich auf deinem android-fähigem Gerät befindet.
+
+eduroam für Android-Geräte mit Version 8 oder höher: https://wiki.student.uni-goettingen.de/support/wlan/eduroam_android/eduroam_android_8_und_hoeher (https://wiki.student.uni-goettingen.de/support/wlan/eduroam_android/eduroam_android_8_und_hoeher)

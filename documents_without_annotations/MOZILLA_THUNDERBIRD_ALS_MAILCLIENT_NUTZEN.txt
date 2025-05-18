@@ -1,0 +1,53 @@
+https://wiki.student.uni-goettingen.de/support/email/thunderbird
+
+MOZILLA THUNDERBIRD ALS MAILCLIENT NUTZEN
+
+So richtest Du Mozilla Thunderbird (https://www.thunderbird.net/de/) als Mail-Client ein: E-Mails, die du auf dem Webserver http://email.stud.uni-goettingen.de (http://email.stud.uni-goettingen.de) abrufst, können mit einem Mail-Programm abgerufen und verwaltet werden. Diese Anleitung widmet sich dem Programm Thunderbird vom Mozilla. Die Software ist kostenlos und frei (open source), einfach in der Verwendung und beispielsweise auf den Linux-Terminals von studIT installiert (Standort z.B. SUB Erdgeschoss). In der folgenden Anleitung kannst du die Einrichtung von Mozilla Thunderbird(Version 128.8.0esr) sehen. Die Anleitung zeigt das Einrichten, wenn Du das Programm frisch installiert und noch niemals geöffnet hast, sowie weitergehende Einstellungs- und Einrichtungsmöglichkeiten.
+
+ERSTMALIGE EINRICHTUNG
+
+Wenn du Thunderbird das erste mal geöffnet hast, wird dich das Programm fragen, ob du einen neues Konto hinzufügen möchtest. Du drückst selbstverständlicherweise ja, da wir ja dein Studentisches E-Mail Postfach hinzufügen wollen. (Theoretisch kannst du auch noch weitere Postfächer wie dein privates GMX, Gmail, Web.de, I-Cloud, usw. Postfach hinzufügen und in Zukunft alle deine Emails in einem Programm verwalten. Weitere Infos unter „ Andere Accounts hinzufügen .
+
+Nun sollte sich dieses Fenster bzw. Tab öffnen: (https://wiki.student.uni-goettingen.de/_media/support/email/05_thunderbird_neu.png)
+
+Wir tragen jetzt hier zuerst bei Ihr vollständiger Name: deinen persönlichen Namen , also z.B.: Maxi Musterfrau ein (damit kann später die Email automatisch unterschrieben werden und dem Empfänger korrekt angezeigt werden).
+
+Danach tragen wir bei E-Mail Adresse : deine E-Mail Adresse die du hinzufügen möchtest, also z.B.: m.musterfrau@stud.uni-goettingen.de ein.
+
+Nun musst du bei Passwort : dein persönliches Passwort zu diesem E-Mail Account eingeben (bei studentischen E-Mail Accounts, ist das immer auch euer E-Campus Passwort).
+
+Das sollte jetzt so aussehen: (https://wiki.student.uni-goettingen.de/_media/support/email/04_thunderbird_neu.png)
+
+Jetzt müssen wir noch ein paar kleine Individuelle Einstellungen treffen. Dafür klicken wir jetzt einmal auf „Manuell einrichten“ .
+
+WICHTIG! Diese Einstellungen sind nur bei Studentischen Accounts wichtig und notwendig. Wenn ihr euer Gmail, GMX, usw. Postfach hinzufügt, bitte bei Andere Accounts hinzufügen weiterlesen.
+
+Nun sollte sich diese Fenster öffnen:
+
+(https://wiki.student.uni-goettingen.de/_media/support/email/01_thunderbird_neu.png)
+
+Wir nehmen uns zuerst dem Posteingangs-Server an. Dieser sorgt dafür, das bei euch alle Emails auch ankommen. Bitte wählt folgende Einstellungen aus:
+
+Protokoll: IMAP Hostname: email.stud.uni-goettingen.de Port: 993 Verbindungssicherheit: SSL/TLS Authentifizierungsmethode: Passwort, normal Benutzername: ug-student\BENUTZERNAME ←– Hier müsst ihr jetzt statt BENUTZERNAME euren Studentischen Namen eintragen. Wenn ihr den nicht wisst, könnt ihr den leicht an der E-Mail Adresse ablesen. Ich hab ihn euch im Beispiel fett,kursiv markiert: m.musterfrau @stud.uni-goettingen.de
+
+Jetzt noch schnell den Postausgangs-Server Hostname: email.stud.uni-goettingen.de Port: 587 Verbindungssicherheit: STARTTLS Authentifizierungsmethode: Passwort, normal Benutzername: ug-student\BENUTZERNAME ←– Hier müsst ihr jetzt statt BENUTZERNAME euren Studentischen Namen eintragen. Wenn ihr den nicht wisst, könnt ihr den leicht an der E-Mail Adresse ablesen. Ich hab ihn euch im Beispiel fett,kursiv markiert: m.musterfrau @stud.uni-goettingen.de
+
+Wenn ihr jetzt auf fertig drückt, solltet ihr euren E-Mail Account erfolgreich hinzugefügt haben. Sollte ihr dennoch Probleme haben, scheut euch nicht bei uns an unseren Beratungsstandorten vorbeizukommen.
+
+ALLE WICHTIGEN DATEN AUF EINEN BLICK:
+
+E-Mail Adresse: account@stud.uni-goettingen.de Passwort: Studentisches Passwort bzw. E-Campus Passwort
+
+Posteingangsserver: Protokoll: IMAP Hostname: email.stud.uni-goettingen.de Port: 993 Verbindungssicherheit: SSL/TLS Authentifizierungsmethode: Passwort, normal Benutzername: ug-student\BENUTZERNAME ←– Hier müsst ihr jetzt statt BENUTZERNAME euren Studentischen Namen eintragen.
+
+Postausgangs-Server Protokoll: SMTP Hostname: email.stud.uni-goettingen.de Port: 587 Verbindungssicherheit: STARTTLS Authentifizierungsmethode: Passwort, normal Benutzername: ug-student\BENUTZERNAME ←– Hier müsst ihr jetzt statt BENUTZERNAME euren Studentischen Namen eintragen. Wenn ihr den nicht wisst, könnt ihr den leicht an der E-Mail Adresse ablesen. Ich hab ihn euch im Beispiel fett,kursiv markiert: m.musterfrau @stud.uni-goettingen.de
+
+ANDERE ACCOUNTS HINZUFÜGEN:
+
+Grundsätzlich ist es nach der obrigen Anleitung genauso möglich auch andere Accounts hinzuzufügen, wie beispielsweise die von eurem Gmail, GMX, Icloud usw. Anbieterspezifische Einstellungen, die ich unter Manuell einrichten abgehandelt habe müssen ggf. ergoogelt werden. Dafür lohnt es sich an die Suchanfrage beispielsweise „IMAP Config“ oder „Mail server settings“ oder ähnliches anzuhängen. Hier exemplarischerweise die Konfiguration für Google Konten: LINK (https://support.google.com/mail/answer/78892?hl=de#zippy=%2Cthunderbird)
+
+VIDEO DER EINRICHTUNG (VERALTET):
+
+Beim Einrichten eines neuen Kontos sollten die richtigen Serverdaten automatisch eingestellt werden (siehe Video) thunderbird_2015.mp4 (https://wiki.student.uni-goettingen.de/_media/support/email/thunderbird_2015.mp4?cache=)
+
+mail thunderbird einrichten mozilla client mailprogramm

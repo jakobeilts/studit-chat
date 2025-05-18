@@ -1,0 +1,54 @@
+https://wiki.student.uni-goettingen.de/univz/events/bearbeiten
+Die Anleitung beschreibt die Bearbeitung von Events im UniVZ der Universität Göttingen. Nutzer können Eventstammdaten, Termine, Räume und zugeordnete Personen verwalten. Es gibt Funktionen zur Personensuche und -zuordnung sowie zur Eingabe interner Bemerkungen. Die Bearbeitungsmaske enthält mehrere Register und speichert Änderungen vor Registerwechsel. Suchfunktionen ermöglichen das Auffinden und Verwalten von Events und Personen innerhalb des Systems.
+EVENT BEARBEITEN
+
+Durch das Anlegen eines Events oder das Suchen nach einem Event können Sie direkt in die Bearbeitungsmaske eines Events gelangen. Die Maske enthält vier Register, zunächst stehen Sie im Register „Event“. Sie können durch einfaches Klicken zwischen den Registern wechseln, sollten aber darauf achten, dass Sie vor jedem Registerwechsel eventuell veränderte Daten mit einem Klick auf den Button „Speichern“ sichern.
+
+EVENTSTAMMDATEN
+
+Hier können Sie die beim Anlegen eines Events eingegebenen Grunddaten anpassen. (https://wiki.student.uni-goettingen.de/_detail/univz/events/univz_event_bearbeiten3.jpg?id=univz%3Aevents%3Abearbeiten)
+
+- Falls Sie den Event über eine Suche gefunden haben, können Sie mit dem Button „Auswahl  zurück zu Ihrer Suchliste.
+- Der Button „Neue Suche“ führt Sie zurück in die Suchmaske, um nach anderen Events zu suchen.
+
+TERMINE UND RÄUME
+
+Die Eingabe von Terminen und Räumen erfolgt genauso wie in der normalen Veranstaltungsbearbeitung (siehe Termine und Räume bearbeiten). In der Regel sollte es sich im Einzel- bzw. Blocktermine handeln, mit denen Sie die von Ihnen verwalteten Räume belegen können. (https://wiki.student.uni-goettingen.de/_detail/univz/events/univz_event_bearbeiten2.jpg?id=univz%3Aevents%3Abearbeiten)
+
+- Falls Sie den Event über eine Suche gefunden haben, können Sie mit dem Button „Auswahl  zurück zu Ihrer Suchliste.
+- Der Button „Neue Suche“ führt Sie zurück in die Suchmaske, um nach anderen Events zu suchen.
+
+ZUGEORDNETE PERSONEN
+
+Sie können einem Event eine oder mehrere Personen zuordnen, um dieses als weitere Information verfügbar zu machen. Es gibt verschiedene Möglichkeiten eine Person zuzuordnen.
+
+INTERNE PERSONEN SUCHEN & ZUORDNEN
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/events/univz_event_bearbeiten5.jpg?id=univz%3Aevents%3Abearbeiten)
+
+Um eine oder mehrere Personen der Universität Göttingen zuzuordnen, klicken Sie auf den markierten Button. So gelangen Sie zu der normalen Personensuchmaske, in der Sie die gewünschten Suchparameter eingeben: (https://wiki.student.uni-goettingen.de/_detail/univz/events/univz_event_bearbeiten6.jpg?id=univz%3Aevents%3Abearbeiten)
+
+Nach dem Klicken auf den Button „Suche starten“ erhalten Sie eine Personenliste als Ergebnis:
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/events/univz_event_bearbeiten7.jpg?id=univz%3Aevents%3Abearbeiten)
+
+Nehmen den Spaltenüberschriften (siehe z.B. Vorname) finden Symbole, mit den Sie das Suchergebnis auf- bzw. absteigend sortieren können. Sollte das Suchergebnis mehrere Seiten umfassen, können durch Klicken auf die passenden Seitenzahlen am unteren Ende durchsuchen.
+
+Die Personen, die Sie dem Event zuordnen wollen, müssen Sie in der Spalte „Bitte wählen“ markieren, indem Sie die entsprechenden Kontrollkästchen anhaken. Danach erfolgen die Zuordnung und der Rücksprung in zwei Schritten. Hier ein Beispiel:
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/events/univz_event_bearbeiten8.jpg?id=univz%3Aevents%3Abearbeiten)
+
+Sie haben zwei Personen markiert und klicken jetzt auf den Button „Personenzuordnung zum Event“. Daraufhin wird Ihnen der Erfolg der Zuordnung angezeigt:
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/events/univz_event_bearbeiten9.jpg?id=univz%3Aevents%3Abearbeiten)
+
+Sie könnten jetzt weitere Personen aus dem Suchergebnis zuordnen, die sich z.B. auf einer der hinteren Suchergebnisseiten befinden. Wenn Sie alle Zuordnungen erledigt haben, klicken Sie auf den Button „Zurück (Event bearbeiten). Sie kommen in die Eventbearbeitung zurück und sehen die zugeordneten Personen.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/events/univz_event_bearbeiten10.jpg?id=univz%3Aevents%3Abearbeiten)
+
+INTERNE BEMERKUNG
+
+Als interne Bemerkung können Sie einen beliebigen Text für interne Zwecke erfassen. Der Text wird in der Detailansicht eines Events nur UniVZ-Bearbeitern angezeigt nicht aber anonymen Nutzern von UniVZ. (https://wiki.student.uni-goettingen.de/_detail/univz/events/univz_event_bearbeiten4.jpg?id=univz%3Aevents%3Abearbeiten)
+
+- Falls Sie den Event über eine Suche gefunden haben, können Sie mit dem Button „Auswahl  zurück zu Ihrer Suchliste.
+- Der Button „Neue Suche“ führt Sie zurück in die Suchmaske, um nach anderen Events zu suchen.

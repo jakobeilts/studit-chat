@@ -1,0 +1,10 @@
+https://wiki.student.uni-goettingen.de/support/rechnerstandorte/standorte/agrarokonomie
+
+RECHNERSTANDORT AGRARÖKONOMIE
+
+Anzahl studIT-PCs: 1
+Softwareangebot: Software auf studIT-Rechnern (https://wiki.student.uni-goettingen.de/support/rechnerstandorte/software)
+Straße: Pl. d. Göttinger Sieben 5
+Raum: 10.111
+Link zum Lageplan: (https://www.geodata.uni-goettingen.de/lageplan/?ident=5237_1_10.OG_10.111)
+Fehler melden: Kontakt zu studIT (https://wiki.student.uni-goettingen.de/support/studit_support/kontakt)

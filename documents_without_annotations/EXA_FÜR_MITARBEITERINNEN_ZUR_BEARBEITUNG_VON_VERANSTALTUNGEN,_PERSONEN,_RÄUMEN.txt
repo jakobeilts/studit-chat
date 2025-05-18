@@ -1,0 +1,25 @@
+https://wiki.student.uni-goettingen.de/support/exa/bearbeiterinnen
+
+EXA FÜR MITARBEITER*INNEN ZUR BEARBEITUNG VON VERANSTALTUNGEN, PERSONEN, RÄUMEN
+
+zur Nutzung von HISinOne EXA ist lediglich die Anmeldung beim eCampus (https://ecampus.uni-goettingen.de) mit dem Mitarbeiter*innen-Account nötig.
+
+Für die Bearbeitung von Daten werden in HISinOne EXA verschiedene Rollen angeboten:
+
+- Fachbereichsadministrator/-inDiese Rolle erhalten die Fachbereichsadministrator/-in der jeweiligen Fakultät. Sie haben volle Zugriffsrechte auf alle Daten, die einer Fakultät zugeordnet sind.
+- Einrichtungsadministrator/-inDiese Rolle ermöglicht die Bearbeitung der Daten einer Einrichtung. Es handelt sich hierbei um die Standardrolle für HISinOne EXA-Bearbeiter/-innen. Die Rechtevergabe erfolgt durch die Fachbereichsadministratoren.
+- Raum-Manager/-inDiese Rolle ermöglicht die Verwaltung von Raumanfragen.
+- VVZ-Redakteur/-inDiese Rolle ermöglicht die Bearbeitung des Vorlesungsverzeichnis.
+
+ERKLÄRUNG, HILFE UND ANLEITUNGEN:
+
+Diese Schulungsunterlagen geben einen Überblick über die Verwaltung von Lehrveranstaltungen, Personen und Räumen:
+
+- Personen (https://wiki.student.uni-goettingen.de/support/exa/bearbeiterinnen/personen)
+- Veranstaltungen (https://wiki.student.uni-goettingen.de/support/exa/bearbeiterinnen/veranstaltungen)
+- Prüfungen (https://wiki.student.uni-goettingen.de/support/exa/bearbeiterinnen/pruefungen)
+- Räume (https://wiki.student.uni-goettingen.de/support/exa/bearbeiterinnen/raum)
+
+EXA-Beauftragte (https://wiki.student.uni-goettingen.de/_media/support/exa/exa-beauftragte_20231201.pdf)
+
+Texte in Stud.IP (https://wiki.student.uni-goettingen.de/_media/support/exa/mapping_der_texte_in_hisinone_exa_zu_texten_in_studip.pdf)

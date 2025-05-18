@@ -1,0 +1,25 @@
+https://wiki.student.uni-goettingen.de/support/rechnerstandorte/sondersoftware
+Die studIT der Universität Göttingen bietet an über 600 PCs an verschiedenen Standorten spezielle Sondersoftware wie Corel Campus Lizenz, SPSS Netzwerklizenzen, Videoschnittsoftware und Scanner an. Diese Software ist oft lizenzkostenintensiv und nicht flächendeckend verfügbar. Standorte wie LRC SUB, LRC MED, KWZ und Englische Philologie verfügen über unterschiedliche Ausstattungen, die meist mit Aufstellern gekennzeichnet sind. Detaillierte Informationen und Lagepläne sind auf den studIT-Webseiten verfügbar.
+SONDERSOFTWARE/-AUSSTATTUNG VON STUDIT STANDORTEN
+
+Auf einigen PCs der studIT ist Sondersoftware zu finden oder ein Standort verfügt über ein zusätzliches Austattungsmerkmal. Folgende Übersicht soll Dir bei der Orientierung helfen.
+
+Sondersoftware ist Spezialsoftware für konkrete Einsatzgebiete. Für Fotobearbeitung und Videoschnitt zum Beispiel gibt es zur Zeit eine Corel Campus Lizenz (https://wiki.student.uni-goettingen.de/support/software/corel) (über die Lizenzänderungen bei Adobe haben wir im April 2019 informiert). An manchen PCs kannst Du auch Scannen und findest entsprechende Software dazu auf dem Arbeitsplatz. Leider sind Lizenzen oft sehr kostspielig und werden aus SQM-Mitteln und teils in Kooperation mit der jeweiligen Einrichtung beschafft. Darum sind manche wenige Programme nicht flächendeckend auf allen Rechnern der studIT zu finden.
+
+Die studIT bietet auf den mehr als 600 PCs an diversen Standorten folgenden Sondersoftware/Sonderausstattung an:
+
+(Das kleine POI-Symbol(https://wiki.student.uni-goettingen.de/_detail/support/rechnerstandorte/maps-icon_small.png?id=support%3Arechnerstandorte%3Asondersoftware)hinter dem Standort verweist auf den Lageplan der Uni).
+
+SONDERSOFTWARE/-AUSSTATTUNG NACH STANDORTEN
+
+- LRC SUB (https://wiki.student.uni-goettingen.de/support/rechnerstandorte/lrcs/sub):SPSS Netzwerklizenz (max 50 gleichzeitige User), Blindenarbeitsplatz, Multifunktionsdrucker(http://lageplan.uni-goettingen.de/?ident=5383_1_2.OG_2.108)
+- LRC MED (https://wiki.student.uni-goettingen.de/support/rechnerstandorte/lrcs/med):Multifunktionsdrucker, Videoschnittsoftware, SPSS (max 50 gleichzeitige User)(http://lageplan.uni-goettingen.de/?piz=3420&etage=EG)
+- KWZ (https://wiki.student.uni-goettingen.de/support/rechnerstandorte/lrcs/kwz):Videoschnittsoftware, Scanner, Multifunktionsdrucker(http://lageplan.uni-goettingen.de/?ident=5312_5_EG_0.501)
+- Englische Philologie (https://wiki.student.uni-goettingen.de/support/rechnerstandorte/standorte/englische_philologie):Videoschnittsoftwarean PC UG-UYST-1241(http://lageplan.uni-goettingen.de/?ident=5331_3_EG_0.306)
+- LSG (https://wiki.student.uni-goettingen.de/support/lsg/start): Diverse Computer in unterschiedlichen Räumen. SieheRaumbuchungssystem (https://www.uni-goettingen.de/de/447835.html)des LSG(http://lageplan.uni-goettingen.de/?ident=5233_1_EG_0.178)
+
+Die PCs mit entsprechender Software sind am Standort zumeist mit einem Aufsteller gekennzeichnet. Auf den Unterseiten der LRCs (https://wiki.student.uni-goettingen.de/support/rechnerstandorte/lrcs/start) findest Du zudem detailiertere Informationen und Rechnerpläne.
+
+Standardsoftware von studIT (https://wiki.student.uni-goettingen.de/support/rechnerstandorte/software)
+
+"studIT Sondersoftware" Sondersoftware von studIT Standorten

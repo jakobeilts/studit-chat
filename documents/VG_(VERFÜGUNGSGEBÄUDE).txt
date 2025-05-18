@@ -1,0 +1,10 @@
+https://wiki.student.uni-goettingen.de/support/rechnerstandorte/standorte/vg
+Das Verfügunggebäude (VG) der Universität Göttingen bietet 4 studIT-PCs mit spezifischer Software an. Es befindet sich am Platz der Göttinger Sieben 7, Raum 0.103. Weitere Informationen zu Software und Lageplan sind online verfügbar. Bei Problemen kann der studIT-Support kontaktiert werden.
+VG (VERFÜGUNGSGEBÄUDE)
+
+Anzahl studIT-PCs: 4
+Softwareangebot: Software auf studIT-Rechnern (https://wiki.student.uni-goettingen.de/support/rechnerstandorte/software)
+Straße: Pl. d. Göttinger Sieben 7
+Raum: 0.103
+Link zum Lageplan: (https://www.geodata.uni-goettingen.de/lageplan/?ident=5361_1_EG_0.103)
+Fehler melden: Kontakt zu studIT (https://wiki.student.uni-goettingen.de/support/studit_support/kontakt)

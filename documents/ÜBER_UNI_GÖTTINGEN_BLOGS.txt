@@ -1,0 +1,31 @@
+https://wiki.student.uni-goettingen.de/support/blogs/00_ueber_uni_blogs
+Uni Göttingen Blogs ist ein Multiblogsystem für Studierende, Alumni, Lehrende und Organisationen der Universität Göttingen. Es bietet Weblogs mit erweiterbaren Funktionen durch Plugins und unterstützt Themen wie Registrierung, Themeauswahl, eigene Fotos, Widgets, Seiten- und Kategorienerstellung, Artikel verfassen sowie das Einfügen von Bildern und Videos. Zusätzlich gibt es Funktionen wie Facebook-Kommentare und umfassenden Support per E-Mail.
+ÜBER UNI GÖTTINGEN BLOGS
+
+(https://wiki.student.uni-goettingen.de/_detail/support/blogs/uniblogs.png?id=support%3Ablogs%3A00_ueber_uni_blogs) Uni Göttingen Blogs ist ein Multiblogsystem für Studierende, Alumni, Lehrende und Organisationen der Uni Göttingen:
+
+http://blog.stud.uni-goettingen.de/ (http://blog.stud.uni-goettingen.de/)
+
+In erster Linie für Weblogs gedacht, lässt sich der Funktionsumfang der Weblogs durch Plugins beliebig erweitern, so dass verschiedene Einsatzmöglichkeiten möglich sind.
+
+ALLES ZUM THEMA BLOGS FÜR STUDIERENDE
+
+- 00_ueber_uni_blogs (https://wiki.student.uni-goettingen.de/support/blogs/00_ueber_uni_blogs)
+- 01_registrierung (https://wiki.student.uni-goettingen.de/support/blogs/01_registrierung)
+- 02_themeauswahl (https://wiki.student.uni-goettingen.de/support/blogs/02_themeauswahl)
+- 03_eigenes_foto (https://wiki.student.uni-goettingen.de/support/blogs/03_eigenes_foto)
+- 04_widgets (https://wiki.student.uni-goettingen.de/support/blogs/04_widgets)
+- 05_seiten_erstellen (https://wiki.student.uni-goettingen.de/support/blogs/05_seiten_erstellen)
+- 06_kategorien_erstellen (https://wiki.student.uni-goettingen.de/support/blogs/06_kategorien_erstellen)
+- 07_artikel_verfassen (https://wiki.student.uni-goettingen.de/support/blogs/07_artikel_verfassen)
+- 08_bilder_einfuegen (https://wiki.student.uni-goettingen.de/support/blogs/08_bilder_einfuegen)
+- 09_videos_einfuegen (https://wiki.student.uni-goettingen.de/support/blogs/09_videos_einfuegen)
+- 10_facebook_kommentar_funktion (https://wiki.student.uni-goettingen.de/support/blogs/10_facebook_kommentar_funktion)
+- 11_plugins (https://wiki.student.uni-goettingen.de/support/blogs/11_plugins)
+- start (https://wiki.student.uni-goettingen.de/support/blogs/start)
+
+KONTAKT
+
+Bei Fragen stehen wir jederzeit zur Verfügung:
+
+Per E-Mail: info@studit.uni-goettingen.de (mailto:info@studit.uni-goettingen.de)

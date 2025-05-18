@@ -1,0 +1,30 @@
+https://wiki.student.uni-goettingen.de/univz/events/suchen
+Der Artikel beschreibt die Nutzung der Event-Suchfunktion im UniVZ der Universität Göttingen. Nutzer können über den Menüpunkt „Meine Funktionen“ Events suchen, Suchoptionen festlegen und Suchbegriffe eingeben. Gefundene Events werden in einer Liste angezeigt, wo Nutzer Eventdetails einsehen oder Events über den „Edit“-Button bearbeiten können. Hinweise zur Suche und zur Bearbeitung von Events sind ebenfalls enthalten, um die Verwaltung von Veranstaltungen zu erleichtern.
+EVENT SUCHEN
+
+EVENT SUCHEN ÜBER "MEINE FUNKTIONEN"
+
+Haben Sie auf das gewünschte Bearbeitungssemester umgeschaltet?
+
+Siehe: Bearbeitungssemester umstellen (https://wiki.student.uni-goettingen.de/univz/allgemeines/bearbeitungssemester_umstellen)
+
+Klicken Sie unter dem Menüpunkt „Meine Funktionen“ zunächst auf „Events bearbeiten“ (Lambertz: Sollte der Menüpunkt besser „Events suchen & bearbeiten“ heißen)?
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/events/univz_event_anlegen0.jpg?id=univz%3Aevents%3Asuchen)
+
+SUCHOPTIONEN FESTLEGEN
+
+Sie erhalten im nächsten Schritt die Suchmaske für Events. In der Suchmaske geben Sie die von Ihnen gewünschten Suchbegriffe ein und klicken dann auf den Button „Suche starten“. Beachten Sie auch die Hinweise zur Suche, die sich hinterm Link „Hilfe zur Suche“ rechts oben im Suchfenster befinden. Dort erhalten Sie z.B. Hinweise zur Verwendung von Platzhaltern. Im Beispiel wird nach einer Veranstaltung gesucht, deren Titel mit „test“ beginnt:
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/events/univz_event_suchen0.jpg?id=univz%3Aevents%3Asuchen)
+
+Danach erhalten Sie eine Liste der gefundenen Events. Sie haben nun folgende Möglichkeiten:
+
+- Sie klicken auf den „Edit“-Button des Events, den Sie bearbeiten wollen. Siehe dazu:Event bearbeiten (https://wiki.student.uni-goettingen.de/univz/events/bearbeiten)
+- Sie klicken auf den Titel des Events, weil Sie sich zunächst die Eventdetails anschauen möchten.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/events/univz_event_suchen1.jpg?id=univz%3Aevents%3Asuchen)
+
+Sollten Sie sich dafür entscheiden zunächst die Eventdetails aufzurufen, erhalten Sie eine Übersicht über alle Daten des Events. In der Funktionszeile der Übersicht finden Sie mehrere Button darunter wiederum den „Edit“-Button, der Sie direkt zur Bearbeitung des Events führt: Siehe dazu: Event bearbeiten (https://wiki.student.uni-goettingen.de/univz/events/bearbeiten)
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/events/univz_event_suchen2.jpg?id=univz%3Aevents%3Asuchen)

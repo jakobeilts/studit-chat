@@ -1,0 +1,47 @@
+https://wiki.student.uni-goettingen.de/univz/verfahren/raumanfrage_stellen_bearbeiten
+
+RAUMANFRAGEN STELLEN UND BEARBEITEN
+
+An der Universität Göttingen erfolgt die Vergabe von Räumen für einige Gebäude zentral. Für diese zentral verwalteten Räume ist es möglich, über UniVZ eine Raumanfrage an die zentrale Raumverwaltung zu stellen.
+
+EINFACHE RAUMANFRAGE STELLEN
+
+Haben Sie auf das gewünschte Bearbeitungssemester umgeschaltet? Siehe: bearbeitungssemester umstellen (https://wiki.student.uni-goettingen.de/univz/allgemeines/bearbeitungssemester_umstellen)
+
+- Eine Raumanfrage belegt den Raum nicht - man kann mehrere Anfragen für einen Raum haben - Die Suche nach einem Raum zeigt nur die in Frage kommenden Räume an, unter Berücksichtigung der Teilnehmeranzahl (für die Veranstaltung oder Termin (wenn ausgefüllt) - Raumanfragen blockieren erst den Veranstaltungstermin (der Termin kann nicht mehr bearbeitet werden) - Wenn ein Termin geändert werden soll, kann die Raumanfrage zurückgezogen werden um den Termin zu bearbeiten, dann kann eine neue Anfrage gestellt werden (mit den neuen Daten) - Bei jeder Aktion für eine Raumanfrage kann eine automatische E-Mail-Benachrichtigung eingeschaltet werden (man muss dafür seine E-Mail Adresse explizit freischalten) - Die Bearbeitung der Raumanfragen (Zentralvergabe der Räume) ist einfacher und kann elektronisch im System durchgeführt werden - die Bearbeitung der Veranstaltungen während der Raumvergabe muss nicht mehr gesperrt werden.
+
+Sie suchen die zu bearbeitende Veranstaltung und gehen dort auf das Register „Termine und Räume“ und markieren den Termin, für den Sie eine Raumanfrage stellen möchten, über das entsprechende Kontrollkästchen.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/verfahren/univz_verfahren_raumanfrage0.jpg?id=univz%3Averfahren%3Araumanfrage_stellen_bearbeiten)
+
+Im nächsten Schritt kann man erst das Gebäude auswählen, dann den Raum oder Räume. Raumanfragen werden nur für die zentralverwalteten Räume gestellt.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/verfahren/anfrage2.png?id=univz%3Averfahren%3Araumanfrage_stellen_bearbeiten)
+
+In der Gebäudeliste sind nur Gebäude mit zentralverwalteten Räumen angezeigt, man kann mit dieser Auswahl suchen, oder die Suche einschränken. Mit den Buttons Alle selektieren / Alle deselektieren lassen sich alle Checkboxen selektieren / deselektieren.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/verfahren/anfrage3.png?id=univz%3Averfahren%3Araumanfrage_stellen_bearbeiten)
+
+Wenn man eine Auswahl getroffen hat kann man, mit Klick auf Suchkriterien anwenden zur ersten Auswahlseite zurückkehren und den Suchen Button anklicken, um die tatsächliche Suche nach freien Räumen für die Anfrage auszuführen. Das Suchergebnis wird in einer Liste angezeigt, wo man einen oder mehrere Räume für die Raumanfrage auswählen kann.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/verfahren/anfrage4.png?id=univz%3Averfahren%3Araumanfrage_stellen_bearbeiten) (https://wiki.student.uni-goettingen.de/_detail/univz/verfahren/anfrage5.png?id=univz%3Averfahren%3Araumanfrage_stellen_bearbeiten)
+
+Hier kann man für die Anfrage einen oder mehrere Räume auswählen und mit dem Button Jetzt neue Raumanfrage stellen die Anfrage speichern. Es wird erst eine Übersicht der Raumanfragen für den Termin angezeigt, wo man Anfragen zurückziehen kann, dann mit dem (https://wiki.student.uni-goettingen.de/_detail/univz/verfahren/button_t.png?id=univz%3Averfahren%3Araumanfrage_stellen_bearbeiten) Button kommt man zurück zum Termin.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/verfahren/anfrage6.png?id=univz%3Averfahren%3Araumanfrage_stellen_bearbeiten)
+
+Der Termin mit der Raumanfrage sieht wie im oberen Bild aus, die Bearbeitung des Termins ist wegen der Anfrage gesperrt. Das Symbol vor dem Termin zeigt den Status der Anfrage an: (https://wiki.student.uni-goettingen.de/_detail/univz/verfahren/button_gelb.png?id=univz%3Averfahren%3Araumanfrage_stellen_bearbeiten) - Anfrage ist offen (https://wiki.student.uni-goettingen.de/_detail/univz/verfahren/ok.png?id=univz%3Averfahren%3Araumanfrage_stellen_bearbeiten) - Anfrage wurde genehmigt (https://wiki.student.uni-goettingen.de/_detail/univz/verfahren/button_delete.png?id=univz%3Averfahren%3Araumanfrage_stellen_bearbeiten) - Anfrage wurde abgelehnt
+
+Wenn der Termin erneut geändert werden soll, dann muss die Raumanfrage zurückgezogen werden – erst dann ist sie wieder freigegeben und kann bearbeitet werden. Um die Anfrage zurückzuziehen, klickt man das Status-Symbol an, dann wird die Anfragenübersicht angezeigt:
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/verfahren/anfrage7.png?id=univz%3Averfahren%3Araumanfrage_stellen_bearbeiten)
+
+Durch Markieren einer Checkbox kann man die Anfrage zurückziehen und den Termin für die Bearbeitung freigeben.
+
+Unter Meine Funktionen → Meine Auswertungen → Meine Raumanfragen kann jederzeit eine Übersicht mit den eigenen Raumanfragen bekommen:
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/verfahren/anfrage8.png?id=univz%3Averfahren%3Araumanfrage_stellen_bearbeiten)
+
+Durch die Freigabe der E-Mail-Benachrichtigungsfunktion, wird automatisch ein E-Mail generiert für die Raumanfrageaktionen: Stellen einer Anfrage, Genehmigen einer Anfrage, Ablehnen einer Anfrage oder einen Alternativraum zuweisen. Die Freischaltung der Funktion erfolgt unter: Meine Funktionen → Daten hinzufügen-ändern / →Einstellungen für E-Mail-Benachrichtigungen
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/verfahren/anfrage9.png?id=univz%3Averfahren%3Araumanfrage_stellen_bearbeiten)

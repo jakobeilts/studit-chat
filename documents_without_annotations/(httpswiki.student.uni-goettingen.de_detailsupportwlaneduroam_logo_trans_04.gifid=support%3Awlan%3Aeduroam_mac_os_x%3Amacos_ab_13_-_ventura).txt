@@ -1,0 +1,55 @@
+https://wiki.student.uni-goettingen.de/support/wlan/eduroam_mac_os_x/macos_ab_13_-_ventura
+
+(https://wiki.student.uni-goettingen.de/_detail/support/wlan/eduroam_logo_trans_04.gif?id=support%3Awlan%3Aeduroam_mac_os_x%3Amacos_ab_13_-_ventura)
+
+EDUROAM UNTER MACOS (AB 13 VENTURA)
+
+Im Folgenden wird erklärt, wie Du deinen Mac mit dem WPA2 verschlüsselten Netzwerk eduroam verbinden kannst.
+
+Bei der Einrichtung der Verbindung bitte beachten: Der „Benutzername“ ist eure studentische Email-Adresse ! Also bspw. test.test@stud.uni-goettingen.de
+
+INSTALLATION DES EDUROAM PROFILS MIT DEM CA-TOOL
+
+Diese Anleitung ist unter macOS 13.00 erstellt worden. Klickpfade und Menüs können in folgenden macOS-Versionen abweichen.
+
+Ein vollständiges Profil für eduroam inklusive der benötigten Zertifikate kannst du auf der Homepage von Eduroam (https://cat.eduroam.org) runterladen. Führe die Datei nach dem Herunterladen mit einem Doppelklick aus. Um die eduroam Profildatei zu schreiben, öffne die Systemeinstellungen und navigiere in der Seitenleiste zum Punkt Datenschutz & Sicherheit .
+
+(https://wiki.student.uni-goettingen.de/_detail/support/wlan/profil_aufrufen.png?id=support%3Awlan%3Aeduroam_mac_os_x%3Amacos_ab_13_-_ventura)
+
+Nun im Unterpunkt Andere auf Profile klicken und das vorliegende eduroam® Profil mit einem Doppelklick aufrufen. Im erscheinenden Fenster, den Button Installieren … anklicken.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/wlan/profil_installieren_bestaetigen.png?id=support%3Awlan%3Aeduroam_mac_os_x%3Amacos_ab_13_-_ventura)
+
+Die darauf folgende Abfrage mit Fortfahren bestätigen.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/wlan/profil_installieren_bestaetigen_2.png?id=support%3Awlan%3Aeduroam_mac_os_x%3Amacos_ab_13_-_ventura)
+
+Anschließend werden die Logindaten des Accounts abgefragt. Als Benutzername bitte die studentische E-Mail-Adresse (…@stud.uni-goettingen.de) und das zugehörige Passwort verwenden. Bei nicht-studentischen Accounts kann dieser Übersicht (https://info.gwdg.de/dokuwiki/doku.php?id=de%3Aservices%3Anetwork_services%3Aeduroam%3Astart#benutzername) die Form des zu verwendenden Benutzernamens entnommen werden.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/wlan/accountdaten_eingeben.png?id=support%3Awlan%3Aeduroam_mac_os_x%3Amacos_ab_13_-_ventura)
+
+Nach einem Klick auf Installieren , nur noch die Änderung erlauben. Dafür TouchID nutzen und den Finger auflegen. Oder auf Passwort verwenden … klicken und das Administratorkennwort eintragen. (https://wiki.student.uni-goettingen.de/_detail/support/wlan/aenderungen_erlauben.png?id=support%3Awlan%3Aeduroam_mac_os_x%3Amacos_ab_13_-_ventura)
+
+Jetzt ist die Konfiguration abgeschlossen und der Mac sollte sich automatisch mit dem nächsten Access Point verbinden.
+
+Falls sich der Mac nicht automatisch verbindet, wechsel in die Netzwerkeinstellungen und wähle bei WLAN das eduroam Netzwerk aus.
+
+LÖSCHEN EINER ALTEN PROFILDATEI
+
+Ist die eduroam-Verbindung zuvor auch über eine Profildatei des CA-Tools einer anderen Universität konfiguriert worden, sollte diese zuerst gelöscht werden. Hierzu die Systemeinstellungen entweder über das Launchpad oder über den Apfel in der Menüleiste aufrufen und unter Datenschutz & Sicherheit –> Andere –> Profile auswählen. Sollte diese Einstellung fehlen muss die Konfiguration in den WLAN-Einstellungen (https://wiki.student.uni-goettingen.de/support/wlan/eduroam_mac_os_x/macos_ab_13_-_ventura#loschen_einer_alten_konfiguration) gelöscht werden.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/wlan/profil_aufrufen.png?id=support%3Awlan%3Aeduroam_mac_os_x%3Amacos_ab_13_-_ventura)
+
+Anschließend auf eduroam® und unten auf das Minus klicken. Eine Löschung der unten beschriebenen Konfiguration in den WLAN-Einstellungen entfällt in diesem Fall.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/wlan/profil_loschen.png?id=support%3Awlan%3Aeduroam_mac_os_x%3Amacos_ab_13_-_ventura)
+
+LÖSCHEN EINER ALTEN KONFIGURATION
+
+Ist bereits eine Konfiguration vorhanden, welche nicht über das CA-Tool konfiguriert wurde, sollte diese um Komplikationen bei der Konfiguration auszuschließen, zuerst gelöscht werden. Hierzu die Systemeinstellungen entweder über das Launchpad oder über den Apfel in der Menüleiste aufrufen und WLAN auswählen. Nun im untern Teil auf Erweitert … klicken.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/wlan/wlan_aufrufen.png?id=support%3Awlan%3Aeduroam_mac_os_x%3Amacos_ab_13_-_ventura)
+
+Anschließend eduroam auswählen, auf die Backspace-Taste/ Rücktaste ← auf der Tastatur drücken sowie danach auf Entfernen klicken. Nun kann mit der Konfiguration begonnen werden.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/wlan/eduroam_loschen.png?id=support%3Awlan%3Aeduroam_mac_os_x%3Amacos_ab_13_-_ventura)

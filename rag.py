@@ -4,7 +4,7 @@ from langchain_core.messages import SystemMessage
 from langchain.retrievers import ParentDocumentRetriever
 
 from load_and_embed_html import load_and_embed_documents, splitter
-from bm25 import retrieveBM25                         # <- deine BM25-Funktion
+from bm25 import retrieveBM25
 
 # ----------------- Grunddaten --------------------
 llm = ChatOpenAI(

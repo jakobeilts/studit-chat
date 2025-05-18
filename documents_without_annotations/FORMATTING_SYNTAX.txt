@@ -1,0 +1,562 @@
+https://wiki.student.uni-goettingen.de/wiki/syntax
+
+FORMATTING SYNTAX
+
+DokuWiki (https://www.dokuwiki.org/DokuWiki) supports some simple markup language, which tries to make the datafiles to be as readable as possible. This page contains all possible syntax you may use when editing the pages. Simply have a look at the source of this page by pressing „Edit this page“. If you want to try something, just use the playground (https://wiki.student.uni-goettingen.de/playground/playground) page. The simpler markup is easily accessible via quickbuttons (https://www.dokuwiki.org/toolbar) , too.
+
+BASIC TEXT FORMATTING
+
+DokuWiki supports bold , italic , underlined and monospaced texts. Of course you can combine all these.
+
+```
+DokuWiki supports **bold**, //italic//, __underlined__ and ''monospaced'' texts.
+Of course you can **__//''combine''//__** all these.
+```
+
+You can use subscript and superscript , too.
+
+```
+You can use <sub>subscript</sub> and <sup>superscript</sup>, too.
+```
+
+You can mark something as deleted as well.
+
+```
+You can mark something as <del>deleted</del> as well.
+```
+
+Paragraphs are created from blank lines. If you want to force a newline without a paragraph, you can use two backslashes followed by a whitespace or the end of line.
+
+This is some text with some linebreaks Note that the two backslashes are only recognized at the end of a line or followed by a whitespace \\this happens without it.
+
+```
+This is some text with some linebreaks\\ Note that the
+two backslashes are only recognized at the end of a line\\
+or followed by\\ a whitespace \\this happens without it.
+```
+
+You should use forced newlines only if really needed.
+
+LINKS
+
+DokuWiki supports multiple ways of creating links.
+
+EXTERNAL
+
+External links are recognized automagically: http://www.google.com (http://www.google.com) or simply www.google.com (http://www.google.com) - You can set the link text as well: This Link points to google (http://www.google.com) . Email addresses like this one: andi@splitbrain.org (mailto:andi@splitbrain.org) are recognized, too.
+
+```
+DokuWiki supports multiple ways of creating links. External links are recognized
+automagically: http://www.google.com or simply www.google.com - You can set
+link text as well: [[http://www.google.com|This Link points to google]]. Email
+addresses like this one: <andi@splitbrain.org> are recognized, too.
+```
+
+INTERNAL
+
+Internal links are created by using square brackets. You can either just give a pagename (https://wiki.student.uni-goettingen.de/wiki/pagename) or use an additional link text (https://wiki.student.uni-goettingen.de/wiki/pagename) .
+
+```
+Internal links are created by using square brackets. You can either just give
+a [[pagename]] or use an additional [[pagename|link text]].
+```
+
+Wiki pagenames (https://www.dokuwiki.org/pagename) are converted to lowercase automatically, special characters are not allowed.
+
+You can use namespaces (https://wiki.student.uni-goettingen.de/some/namespaces) by using a colon in the pagename.
+
+```
+You can use [[some:namespaces]] by using a colon in the pagename.
+```
+
+For details about namespaces see namespaces (https://www.dokuwiki.org/namespaces) .
+
+Linking to a specific section is possible, too. Just add the section name behind a hash character as known from HTML . This links to this Section (https://wiki.student.uni-goettingen.de/wiki/syntax#internal) .
+
+```
+This links to [[syntax#internal|this Section]].
+```
+
+- Links toexisting pages (https://wiki.student.uni-goettingen.de/wiki/syntax)are shown in a different style fromnonexisting (https://wiki.student.uni-goettingen.de/wiki/nonexisting)ones.
+- DokuWiki does not useCamelCase (https://en.wikipedia.org/wiki/CamelCase)to automatically create links by default, but this behavior can be enabled in theconfig (https://www.dokuwiki.org/config)file. Hint: If DokuWiki is a link, then it's enabled.
+- When a section's heading is changed, its bookmark changes, too. So don't rely on section linking too much.
+
+INTERWIKI
+
+DokuWiki supports Interwiki (https://www.dokuwiki.org/Interwiki) links. These are quick links to other Wikis. For example this is a link to Wikipedia's page about Wikis: Wiki (https://en.wikipedia.org/wiki/Wiki) .
+
+```
+DokuWiki supports [[doku>Interwiki]] links. These are quick links to other Wikis.
+For example this is a link to Wikipedia's page about Wikis: [[wp>Wiki]].
+```
+
+WINDOWS SHARES
+
+Windows shares like this (file://///server/share) are recognized, too. Please note that these only make sense in a homogeneous user group like a corporate Intranet (https://en.wikipedia.org/wiki/Intranet) .
+
+```
+Windows Shares like [[\\server\share|this]] are recognized, too.
+```
+
+- For security reasons direct browsing of windows shares only works in Microsoft Internet Explorer per default (and only in the „local zone“).
+- For Mozilla and Firefox it can be enabled through different workaround mentioned in theMozilla Knowledge Base (http://kb.mozillazine.org/Links_to_local_pages_do_not_work). However, there will still be a JavaScript warning about trying to open a Windows Share. To remove this warning (for all users), put the following line inconf/lang/en/lang.php(more details atlocalization (https://www.dokuwiki.org/localization#changing_some_localized_texts_and_strings_in_your_installation)):conf/lang/en/lang.php (https://wiki.student.uni-goettingen.de/_export/code/wiki/syntax?codeblock=0)<?php
+/**
+ * Customization of the english language file
+ * Copy only the strings that needs to be modified
+ */
+$lang['js']['nosmblinks'] = '';
+
+```
+<?php
+/**
+ * Customization of the english language file
+ * Copy only the strings that needs to be modified
+ */
+$lang['js']['nosmblinks'] = '';
+```
+
+IMAGE LINKS
+
+You can also use an image to link to another internal or external page by combining the syntax for links and images (#images_and_other_files) (see below) like this:
+
+```
+[[http://php.net|{{wiki:dokuwiki-128.png}}]]
+```
+
+Please note: The image formatting is the only formatting syntax accepted in link names.
+
+The whole image (#images_and_other_files) and link (#links) syntax is supported (including image resizing, internal and external images and URLs and interwiki links).
+
+FOOTNOTES
+
+You can add footnotes 1) (#fn__1) by using double parentheses.
+
+```
+You can add footnotes ((This is a footnote)) by using double parentheses.
+```
+
+SECTIONING
+
+You can use up to five different levels of headlines to structure your content. If you have more than three headlines, a table of contents is generated automatically – this can be disabled by including the string ~~NOTOC~~ in the document.
+
+HEADLINE LEVEL 3
+
+```
+==== Headline Level 3 ====
+=== Headline Level 4 ===
+== Headline Level 5 ==
+```
+
+By using four or more dashes, you can make a horizontal line:
+
+MEDIA FILES
+
+You can include external and internal images, videos and audio files (https://www.dokuwiki.org/images) with curly brackets. Optionally you can specify the size of them.
+
+Real size: (https://wiki.student.uni-goettingen.de/_detail/wiki/dokuwiki-128.png?id=wiki%3Asyntax)
+
+Resize to given width: (https://wiki.student.uni-goettingen.de/_detail/wiki/dokuwiki-128.png?id=wiki%3Asyntax)
+
+Resize to given width and height 2) (#fn__2) : (https://wiki.student.uni-goettingen.de/_detail/wiki/dokuwiki-128.png?id=wiki%3Asyntax)
+
+Resized external image: (https://wiki.student.uni-goettingen.de/lib/exe/fetch.php?tok=e195d4&media=https%3A%2F%2Fwww.php.net%2Fimages%2Fphp.gif)
+
+```
+Real size:                        {{wiki:dokuwiki-128.png}}
+Resize to given width:            {{wiki:dokuwiki-128.png?50}}
+Resize to given width and height: {{wiki:dokuwiki-128.png?200x50}}
+Resized external image:           {{https://www.php.net/images/php.gif?200x50}}
+```
+
+By using left or right whitespaces you can choose the alignment.
+
+(https://wiki.student.uni-goettingen.de/_detail/wiki/dokuwiki-128.png?id=wiki%3Asyntax)
+
+(https://wiki.student.uni-goettingen.de/_detail/wiki/dokuwiki-128.png?id=wiki%3Asyntax)
+
+(https://wiki.student.uni-goettingen.de/_detail/wiki/dokuwiki-128.png?id=wiki%3Asyntax)
+
+```
+{{ wiki:dokuwiki-128.png}}
+{{wiki:dokuwiki-128.png }}
+{{ wiki:dokuwiki-128.png }}
+```
+
+Of course, you can add a title (displayed as a tooltip by most browsers), too.
+
+(https://wiki.student.uni-goettingen.de/_detail/wiki/dokuwiki-128.png?id=wiki%3Asyntax)
+
+```
+{{ wiki:dokuwiki-128.png |This is the caption}}
+```
+
+For linking an image to another page see Image Links (#image_links) above.
+
+SUPPORTED MEDIA FORMATS
+
+DokuWiki can embed the following media formats directly.
+
+Image | gif,jpg,png
+Video | webm,ogv,mp4
+Audio | ogg,mp3,wav
+Flash | swf
+
+If you specify a filename that is not a supported media format, then it will be displayed as a link instead.
+
+By adding ?linkonly you provide a link to the media without displaying it inline
+
+```
+{{wiki:dokuwiki-128.png?linkonly}}
+```
+
+dokuwiki-128.png (https://wiki.student.uni-goettingen.de/_media/wiki/dokuwiki-128.png) This is just a link to the image.
+
+FALLBACK FORMATS
+
+Unfortunately not all browsers understand all video and audio formats. To mitigate the problem, you can upload your file in different formats for maximum browser compatibility.
+
+For example consider this embedded mp4 video:
+
+```
+{{video.mp4|A funny video}}
+```
+
+When you upload a video.webm and video.ogv next to the referenced video.mp4 , DokuWiki will automatically add them as alternatives so that one of the three files is understood by your browser.
+
+Additionally DokuWiki supports a „poster“ image which will be shown before the video has started. That image needs to have the same filename as the video and be either a jpg or png file. In the example above a video.jpg file would work.
+
+LISTS
+
+Dokuwiki supports ordered and unordered lists. To create a list item, indent your text by two spaces and use a * for unordered lists or a - for ordered ones.
+
+- This is a list
+- The second itemYou may have different levels
+- You may have different levels
+- Another item
+
+- You may have different levels
+
+1. The same list but ordered
+2. Another itemJust use indention for deeper levels
+3. Just use indention for deeper levels
+4. That's it
+
+1. Just use indention for deeper levels
+
+```
+* This is a list
+  * The second item
+    * You may have different levels
+  * Another item
+
+  - The same list but ordered
+  - Another item
+    - Just use indention for deeper levels
+  - That's it
+```
+
+Also take a look at the FAQ on list items (https://www.dokuwiki.org/faq%3Alists) .
+
+TEXT CONVERSIONS
+
+DokuWiki can convert certain pre-defined characters or strings into images or other text or HTML .
+
+The text to image conversion is mainly done for smileys. And the text to HTML conversion is used for typography replacements, but can be configured to use other HTML as well.
+
+TEXT TO IMAGE CONVERSIONS
+
+DokuWiki converts commonly used emoticon (https://en.wikipedia.org/wiki/emoticon) s to their graphical equivalents. Those Smileys (https://www.dokuwiki.org/Smileys) and other images can be configured and extended. Here is an overview of Smileys included in DokuWiki:
+
+- 8-)
+- 8-O
+- :-(
+- :-)
+- =)
+- :-/
+- :-\
+- :-?
+- :-D
+- :-P
+- :-O
+- :-X
+- :-|
+- ;-)
+- ^_^
+- m(
+- :?:
+- :!:
+- LOL
+- FIXME
+- DELETEME
+
+TEXT TO HTML CONVERSIONS
+
+Typography: DokuWiki (https://wiki.student.uni-goettingen.de/wiki/dokuwiki) can convert simple text characters to their typographically correct entities. Here is an example of recognized characters.
+
+→ ← ↔ ⇒ ⇐ ⇔ » « – — 640×480 © ™ ® „He thought 'It's a man's world'…“
+
+```
+-> <- <-> => <= <=> >> << -- --- 640x480 (c) (tm) (r)
+"He thought 'It's a man's world'..."
+```
+
+The same can be done to produce any kind of HTML , it just needs to be added to the pattern file (https://www.dokuwiki.org/entities) .
+
+There are three exceptions which do not come from that pattern file: multiplication entity (640×480), 'single' and „double quotes“. They can be turned off through a config option (https://www.dokuwiki.org/config%3Atypography) .
+
+QUOTING
+
+Some times you want to mark some text to show it's a reply or comment. You can use the following syntax:
+
+```
+I think we should do it
+
+> No we shouldn't
+
+>> Well, I say we should
+
+> Really?
+
+>> Yes!
+
+>>> Then lets do it!
+```
+
+TABLES
+
+DokuWiki supports a simple syntax to create tables.
+
+Heading 1: Row 1 Col 1 | Heading 2: Row 1 Col 2 | Heading 3: Row 1 Col 3
+Heading 1: Row 2 Col 1 | Heading 2: some colspan (note the double pipe)
+Heading 1: Row 3 Col 1 | Heading 2: Row 3 Col 2 | Heading 3: Row 3 Col 3
+
+Table rows have to start and end with a | for normal rows or a ^ for headers.
+
+```
+^ Heading 1      ^ Heading 2       ^ Heading 3          ^
+| Row 1 Col 1    | Row 1 Col 2     | Row 1 Col 3        |
+| Row 2 Col 1    | some colspan (note the double pipe) ||
+| Row 3 Col 1    | Row 3 Col 2     | Row 3 Col 3        |
+```
+
+To connect cells horizontally, just make the next cell completely empty as shown above. Be sure to have always the same amount of cell separators!
+
+Vertical tableheaders are possible, too.
+
+Heading 1: Heading 3 | Heading 2: Row 1 Col 2 | Spalte 3: Row 1 Col 3
+Heading 1: Heading 4 | Heading 2: no colspan this time
+Heading 1: Heading 5 | Heading 2: Row 2 Col 2 | Spalte 3: Row 2 Col 3
+
+As you can see, it's the cell separator before a cell which decides about the formatting:
+
+```
+|              ^ Heading 1            ^ Heading 2          ^
+^ Heading 3    | Row 1 Col 2          | Row 1 Col 3        |
+^ Heading 4    | no colspan this time |                    |
+^ Heading 5    | Row 2 Col 2          | Row 2 Col 3        |
+```
+
+You can have rowspans (vertically connected cells) by adding ::: into the cells below the one to which they should connect.
+
+Heading 1: Row 1 Col 1 | Heading 2: this cell spans vertically | Heading 3: Row 1 Col 3
+Heading 1: Row 2 Col 1 | Heading 2: Row 2 Col 3
+Heading 1: Row 3 Col 1 | Heading 2: Row 2 Col 3
+
+Apart from the rowspan syntax those cells should not contain anything else.
+
+```
+^ Heading 1      ^ Heading 2                  ^ Heading 3          ^
+| Row 1 Col 1    | this cell spans vertically | Row 1 Col 3        |
+| Row 2 Col 1    | :::                        | Row 2 Col 3        |
+| Row 3 Col 1    | :::                        | Row 2 Col 3        |
+```
+
+You can align the table contents, too. Just add at least two whitespaces at the opposite end of your text: Add two spaces on the left to align right, two spaces on the right to align left and two spaces at least at both ends for centered text.
+
+Table with alignment: right | Spalte 2: center | Spalte 3: left
+Table with alignment: left | Spalte 2: right | Spalte 3: center
+Table with alignment: xxxxxxxxxxxx | Spalte 2: xxxxxxxxxxxx | Spalte 3: xxxxxxxxxxxx
+
+This is how it looks in the source:
+
+```
+^           Table with alignment           ^^^
+|         right|    center    |left          |
+|left          |         right|    center    |
+| xxxxxxxxxxxx | xxxxxxxxxxxx | xxxxxxxxxxxx |
+```
+
+Note: Vertical alignment is not supported.
+
+NO FORMATTING
+
+If you need to display text exactly like it is typed (without any formatting), enclose the area either with <nowiki> tags or even simpler, with double percent signs %% .
+
+This is some text which contains addresses like this: http://www.splitbrain.org and **formatting**, but nothing is done with it. The same is true for //__this__ text// with a smiley ;-).
+
+```
+<nowiki>
+This is some text which contains addresses like this: http://www.splitbrain.org and **formatting**, but nothing is done with it.
+</nowiki>
+The same is true for %%//__this__ text// with a smiley ;-)%%.
+```
+
+CODE BLOCKS
+
+You can include code blocks into your documents by either indenting them by at least two spaces (like used for the previous examples) or by using the tags <code> or <file> .
+
+```
+This is text is indented by two spaces.
+```
+
+```
+This is preformatted code all spaces are preserved: like              <-this
+```
+
+```
+This is pretty much the same, but you could use it to show that you quoted a file.
+```
+
+Those blocks were created by this source:
+
+```
+This is text is indented by two spaces.
+```
+
+```
+<code>
+This is preformatted code all spaces are preserved: like              <-this
+</code>
+```
+
+```
+<file>
+This is pretty much the same, but you could use it to show that you quoted a file.
+</file>
+```
+
+SYNTAX HIGHLIGHTING
+
+DokuWiki (https://wiki.student.uni-goettingen.de/wiki/dokuwiki) can highlight sourcecode, which makes it easier to read. It uses the GeSHi (http://qbnz.com/highlighter/) Generic Syntax Highlighter – so any language supported by GeSHi is supported. The syntax uses the same code and file blocks described in the previous section, but this time the name of the language syntax to be highlighted is included inside the tag, e.g. <code java> or <file java> .
+
+```
+/**
+ * The HelloWorldApp class implements an application that
+ * simply displays "Hello World!" to the standard output.
+ */
+class
+HelloWorldApp
+{
+public
+static
+void
+main
+(
+String (http://www.google.com/search?hl=en&q=allinurl%3Adocs.oracle.com+javase+docs+api+string)
+[
+]
+args
+)
+{
+System (http://www.google.com/search?hl=en&q=allinurl%3Adocs.oracle.com+javase+docs+api+system)
+.
+out
+.
+println
+(
+"Hello World!"
+)
+;
+//Display the string.
+}
+}
+```
+
+The following language strings are currently recognized: 4cs 6502acme 6502kickass 6502tasm 68000devpac abap actionscript3 actionscript ada aimms algol68 apache applescript apt_sources arm asm asp asymptote autoconf autohotkey autoit avisynth awk bascomavr bash basic4gl batch bf biblatex bibtex blitzbasic bnf boo caddcl cadlisp ceylon cfdg cfm chaiscript chapel cil c_loadrunner clojure c_mac cmake cobol coffeescript c cpp cpp-qt cpp-winapi csharp css cuesheet c_winapi dart dcl dcpu16 dcs delphi diff div dos dot d ecmascript eiffel email epc e erlang euphoria ezt f1 falcon fo fortran freebasic freeswitch fsharp gambas gdb genero genie gettext glsl gml gnuplot go groovy gwbasic haskell haxe hicest hq9plus html html4strict html5 icon idl ini inno intercal io ispfpanel java5 java javascript jcl j jquery julia kixtart klonec klonecpp kotlin latex lb ldif lisp llvm locobasic logtalk lolcode lotusformulas lotusscript lscript lsl2 lua m68k magiksf make mapbasic mathematica matlab mercury metapost mirc mk-61 mmix modula2 modula3 mpasm mxml mysql nagios netrexx newlisp nginx nimrod nsis oberon2 objc objeck ocaml-brief ocaml octave oobas oorexx oracle11 oracle8 oxygene oz parasail parigp pascal pcre perl6 perl per pf phix php-brief php pic16 pike pixelbender pli plsql postgresql postscript povray powerbuilder powershell proftpd progress prolog properties providex purebasic pycon pys60 python qbasic qml q racket rails rbs rebol reg rexx robots roff rpmspec rsplus ruby rust sas sass scala scheme scilab scl sdlbasic smalltalk smarty spark sparql sql sshconfig standardml stonescript swift systemverilog tclegg tcl teraterm texgraph text thinbasic tsql twig typoscript unicon upc urbi uscript vala vbnet vb vbscript vedit verilog vhdl vim visualfoxpro visualprolog whitespace whois winbatch wolfram xbasic xml xojo xorg_conf xpp yaml z80 zxbasic
+
+There are additional advanced options (https://www.dokuwiki.org/syntax_highlighting) available for syntax highlighting, such as highlighting lines or adding line numbers.
+
+DOWNLOADABLE CODE BLOCKS
+
+When you use the <code> or <file> syntax as above, you might want to make the shown code available for download as well. You can do this by specifying a file name after language code like this:
+
+```
+<file php myexample.php>
+<?php echo "hello world!"; ?>
+</file>
+```
+
+```
+<?php
+echo
+"hello world!"
+;
+?>
+```
+
+If you don't want any highlighting but want a downloadable file, specify a dash ( - ) as the language code: <code - myfile.foo> .
+
+RSS/ATOM FEED AGGREGATION
+
+DokuWiki (https://wiki.student.uni-goettingen.de/wiki/dokuwiki) can integrate data from external XML feeds. For parsing the XML feeds, SimplePie (http://simplepie.org/) is used. All formats understood by SimplePie can be used in DokuWiki as well. You can influence the rendering by multiple additional space separated parameters:
+
+Parameter: any number | Description: will be used as maximum number items to show, defaults to 8
+Parameter: reverse | Description: display the last items in the feed first
+Parameter: author | Description: show item authors names
+Parameter: date | Description: show item dates
+Parameter: description | Description: show the item description. AllHTMLtags will be stripped
+Parameter: nosort | Description: do not sort the items in the feed
+Parameter: n[dhm] | Description: refresh period, where d=days, h=hours, m=minutes. (e.g. 12h = 12 hours).
+
+The refresh period defaults to 4 hours. Any value below 10 minutes will be treated as 10 minutes. DokuWiki (https://wiki.student.uni-goettingen.de/wiki/dokuwiki) will generally try to supply a cached version of a page, obviously this is inappropriate when the page contains dynamic external content. The parameter tells DokuWiki (https://wiki.student.uni-goettingen.de/wiki/dokuwiki) to re-render the page if it is more than refresh period since the page was last rendered.
+
+By default the feed will be sorted by date, newest items first. You can sort it by oldest first using the reverse parameter, or display the feed as is with nosort .
+
+```
+{{rss>http://slashdot.org/index.rss 5 author date 1h }}
+```
+
+- YouTube Announces Gemini AI Feature to Target Ads When Viewers are Most Engaged (https://news.slashdot.org/story/25/05/17/1954232/youtube-announces-gemini-ai-feature-to-target-ads-when-viewers-are-most-engaged?utm_source=rss1.0mainlinkanon&utm_medium=feed)von EditorDavid (18.05.2025 13:34)
+- 9 Months Later, Microsoft Finally Fixes Linux Dual-Booting Bug (https://linux.slashdot.org/story/25/05/18/0452232/9-months-later-microsoft-finally-fixes-linux-dual-booting-bug?utm_source=rss1.0mainlinkanon&utm_medium=feed)von EditorDavid (18.05.2025 09:34)
+- Ask Slashdot: Would You Consider a Low-Latency JavaScript Runtime For Your Workflow? (https://developers.slashdot.org/story/25/05/18/019247/ask-slashdot-would-you-consider-a-low-latency-javascript-runtime-for-your-workflow?utm_source=rss1.0mainlinkanon&utm_medium=feed)von EditorDavid (18.05.2025 05:34)
+- Google Restores Nextcloud Users' File Access on Android (https://tech.slashdot.org/story/25/05/17/2312252/google-restores-nextcloud-users-file-access-on-android?utm_source=rss1.0mainlinkanon&utm_medium=feed)von EditorDavid (18.05.2025 03:34)
+- Stack Overflow Seeks Realignment 'To Support the Builders of the Future in an AI World' (https://developers.slashdot.org/story/25/05/16/2227231/stack-overflow-seeks-realignment-to-support-the-builders-of-the-future-in-an-ai-world?utm_source=rss1.0mainlinkanon&utm_medium=feed)von EditorDavid (18.05.2025 00:34)
+
+CONTROL MACROS
+
+Some syntax influences how DokuWiki renders a page without creating any output it self. The following control macros are availble:
+
+Macro: ~~NOTOC~~ | Description: If this macro is found on the page, no table of contents will be created
+Macro: ~~NOCACHE~~ | Description: DokuWiki caches all output by default. Sometimes this might not be wanted (eg. when the <php> syntax above is used), adding this macro will force DokuWiki to rerender a page on every call
+
+SYNTAX PLUGINS
+
+DokuWiki's syntax can be extended by Plugins (https://www.dokuwiki.org/plugins) . How the installed plugins are used is described on their appropriate description pages. The following syntax plugins are available in this particular DokuWiki installation:
+
+- Bureaucracy Plugin (https://www.dokuwiki.org/plugin:bureaucracy)2023-05-16vonAndreas Gohr (mailto:andi@splitbrain.org)Create forms and generate pages or emails from them
+- catlist plugin (https://www.dokuwiki.org/plugin:catlist)2023-12-16vonFélix Faisant (mailto:xcodexif@xif.fr)List pages and namespaces recursively
+- Changes Plugin (http://www.dokuwiki.org/plugin:changes)2023-12-14vonAndreas Gohr (mailto:dokuwiki@cosmocode.de)List the most recent changes of the wiki
+- Cloud Plugin (http://www.dokuwiki.org/plugin:cloud)2023-02-11vonMichael Hamann, Michael Klier, Gina Haeussge (mailto:michael@content-space.de)Displays the most used words in a word cloud.
+- color syntax plugin (https://www.dokuwiki.org/plugin:color)2022-10-19vonHarald Hanche-Olsen (mailto:harald.hanche-olsen@ntnu.no)Write colored text in DokuWiki.
+- config:htmlok Plugin (http://dokuwiki.org/plugin:confightmlok)2023-07-12vonLuis Machuca Bezzaza (mailto:lambalicious [at] tuta [dot] io)Enables raw HTML like the old 'config:htmlok' behaviour.
+- CSV Plugin (http://www.dokuwiki.org/plugin:csv)2022-01-03vonAndreas Gohr (mailto:dokuwiki@cosmocode.de)Displays a CSV file, or inline CSV data, as a table
+- Diagram plugin (http://nikita.melnichenko.name/projects/dokuwiki-diagram/index.php)2021-02-21vonNikita Melnichenko (mailto:support@melnichenko.name)Constructs diagrams
+- dig plugin (http://www.dokuwiki.org/plugin:dig)2024-02-26vonAndreas Gohr (mailto:dokuwiki@cosmocode.de)Query DNS for a list of domains
+- Dw2Pdf plugin (https://www.dokuwiki.org/plugin:dw2pdf)2023-11-25vonAndreas Gohr and Luigi Micco (mailto:l.micco@tiscali.it)DokuWiki to PDF converter
+- Feed Plugin (https://www.dokuwiki.org/plugin:feed)2020-10-26vonMichael Klier, Gina Haeussge (mailto:dokuwiki@chimeric.de)Generates feeds for other plugins
+- Graphviz Plugin (http://www.dokuwiki.org/plugin:graphviz)2016-02-03vonAndreas Gohr (mailto:andi@splitbrain.org)Create graph images from Graphviz dot language
+- iCalEvents (http://www.dokuwiki.org/plugin:icalevents)2017-06-16vonTim Ruffing, Robert Rackl, Elan Ruusamäe, Jannes Drost-Tenfelde (mailto:tim@timruffing.de)Displays a calendar in iCalendar format according to a template
+- iframe plugin (http://www.dokuwiki.org/plugin:iframe)2023-08-17vonChristopher Smith (mailto:chris@jalakai.co.uk)Allows external URLs to be loaded into an iframe in your DokuWiki page.
+- Plugin imagebox (https://www.dokuwiki.org/plugin:imagebox)2023-08-21vonLukas Rademacher, CvH, Dr-Yukon, FFTiger & myst6re (mailto:lukas@rademacher.ac)Syntax for display an image with a caption, like Wikipedia.org
+- include plugin (http://dokuwiki.org/plugin:include)2023-09-22vonMichael Hamann, Gina Häussge, Christopher Smith, Michael Klier, Esther Brunner (mailto:michael@content-space.de)Functions to include another page in a wiki page
+- Indexmenu Plugin (https://www.dokuwiki.org/plugin:indexmenu)2024-01-05vonSamuele Tognini, Gerrit Uitslag (mailto:samuele@samuele.netsons.org)Show a customizable and sortable index for a namespace
+- Info Plugin (http://dokuwiki.org/plugin:info)2020-06-04vonAndreas Gohr (mailto:andi@splitbrain.org)Displays information about various DokuWiki internals
+- Navigation Plugin (http://www.dokuwiki.org/plugin:navi)2023-02-15vonAndreas Gohr (mailto:dokuwiki@cosmocode.de)Build a navigation menu from a list
+- nspages plugin (http://www.dokuwiki.org/plugin:nspages)2024-01-04vonGuillaume Turri (mailto:guillaume.turri@gmail.com)Presents a toc of the selected namespace using <nspages>
+- Numbered Headings (https://www.dokuwiki.org/plugin:NumberedHeadings)2023-09-12vonSatoshi Sahara (mailto:sahara.satoshi@gmail.com)Prepend tiered numbers as indexes for hierarchical headings
+- Open Document Plugin (https://www.dokuwiki.org/plugin:odt)2023-03-03vonAndreas Gohr, Aurelien Bompard, Florian Lamml, LarsDW223 (mailto:andi@splitbrain.org, aurelien@bompard.org, infor@florian-lamml.de)Export the current Wiki page to a OpenOffice ODT file
+- Pagelist Plugin (https://www.dokuwiki.org/plugin:pagelist)2023-08-27vonMatthias Schulte, Michael Hamann, Michael Klier, Gina Haeussge (mailto:michael@content-space.de)Lists pages in a nice formatted way
+- PageQuery Plugin (https://www.dokuwiki.org/plugin:pagequery)2024-02-14vonMark C. Prins, previously Symon Bent (mailto:mprins@users.sf.net)Search for (fulltext) and list wiki pages, sorted and optionally grouped by name, date, creator, abc, etc. in columns. Insert the pagequery markup wherever you want your list to appear.  E.g.{{pagequery>[query;fulltext;sort=key:direction,key2:direction;group;limit=??;cols=?;inwords;proper]}} [..] = optional
+- S5 Slideshow Plugin (http://www.dokuwiki.org/plugin:s5)2022-11-30vonAndreas Gohr (mailto:andi@splitbrain.org)Display a Wiki page as S5 slideshow presentation
+- Translation Plugin (https://www.dokuwiki.org/plugin:translation)2024-04-30vonAndreas Gohr (mailto:andi@splitbrain.org)Supports the easy setup of a multi-language wiki.
+- Wrap Plugin (https://www.dokuwiki.org/plugin:wrap)2023-08-13vonAnika Henke (mailto:anika@selfthinker.org)Universal plugin which combines functionalities of many other plugins. Wrap wiki text inside containers (divs or spans) and give them a class (choose from a variety of preset classes), a width and/or a language with its associated text direction.

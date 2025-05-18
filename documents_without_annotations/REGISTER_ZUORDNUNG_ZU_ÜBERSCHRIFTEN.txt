@@ -1,0 +1,7 @@
+https://wiki.student.uni-goettingen.de/univz/veranstaltungen/bearbeiten/zuordnung_zu_ueberschriften
+
+REGISTER ZUORDNUNG ZU ÜBERSCHRIFTEN
+
+Über diese Zuordnung bestimmen Sie, unter welcher Überschrift bzw. unter welchen Überschriften die Veranstaltung im Vorlesungsverzeichnis des UniVZ angezeigt wird.
+
+NEUE VERANSTALTUNG

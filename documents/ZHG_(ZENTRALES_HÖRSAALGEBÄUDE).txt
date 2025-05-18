@@ -1,0 +1,10 @@
+https://wiki.student.uni-goettingen.de/support/rechnerstandorte/standorte/zhg
+Das Zentrale Hörsaalgebäude (ZHG) der Universität Göttingen bietet 30 studIT-PCs mit spezieller Software an. Es befindet sich in der Pl. d. Göttinger Sieben 5, Raum 1.137. Weitere Informationen und ein Lageplan sind online verfügbar. Bei Problemen kann der studIT-Support kontaktiert werden.
+ZHG (ZENTRALES HÖRSAALGEBÄUDE)
+
+Anzahl studIT-PCs: 30
+Softwareangebot: Software auf studIT-Rechnern (https://wiki.student.uni-goettingen.de/support/rechnerstandorte/software)
+Straße: Pl. d. Göttinger Sieben 5
+Raum: 1.137
+Link zum Lageplan: (https://www.geodata.uni-goettingen.de/lageplan/?ident=5257_1_1.OG_1.137)
+Fehler melden: Kontakt zu studIT (https://wiki.student.uni-goettingen.de/support/studit_support/kontakt)

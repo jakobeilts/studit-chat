@@ -1,0 +1,11 @@
+https://wiki.student.uni-goettingen.de/support/account/zugang
+Der Artikel beschreibt den Zugang zu studIT-Accounts der Universität Göttingen, die zusammen mit dem Studienausweis an der Chipkartenstelle ausgegeben werden. Nutzer erhalten Benutzernamen und Passwort, mit denen sie sich an studIT-Rechnern einloggen können. Wichtig ist die Auswahl der Domäne „UG-Student“ bei Windows-Rechnern. Nach dem ersten Login sollte das Passwort aus Sicherheitsgründen geändert werden, idealerweise mit Sonderzeichen und Zahlen.
+ZUGANG ZU DEINEM ACCOUNT
+
+SO KANNST DU DICH AN STUDIT-RECHNERN EINLOGGEN
+
+Zusammen mit deinem Studienausweis erhältst du in der Chipkartenstelle (https://wiki.student.uni-goettingen.de/support/studit_support/chipkartenstelle) im Zentralen Hörsaalgebäude deinen Account. Mit diesem Account kannst du dich an jedem studIT-Rechner an unseren Standorten einloggen. Dein Zugang besteht aus einem Benutzernamen und einem Passwort (https://wiki.student.uni-goettingen.de/support/account/passwort) . Dein Benutzername ist in der Regel vorname.nachname. An den Windows-Rechnern musst du darauf achten, dass in der Auswahl im Anmeldefenster die korrekte Domäne, nämlich „UG-Student“ angewählt ist.
+
+Dein Passwort hast du zusammen mit deinem Studienausweis (https://wiki.student.uni-goettingen.de/support/ausweis/chipkarte) („Chipkarte“) auf einem Beiblatt erhalten. Nach dem ersten Einloggen in deinen Account solltest du dein Passwort ändern (https://wiki.student.uni-goettingen.de/support/account/passwort) , damit du es dir besser merken kannst. Achte bei deinem Passwort auf Sicherheit (https://wiki.student.uni-goettingen.de/support/account/passwort) , das heißt, benutze wenn möglich auch Sonderzeichen und Zahlen.
+
+login einloggen log zugang account

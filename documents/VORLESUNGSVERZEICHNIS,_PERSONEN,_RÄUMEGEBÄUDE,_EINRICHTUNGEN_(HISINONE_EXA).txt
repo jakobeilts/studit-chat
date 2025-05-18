@@ -1,0 +1,15 @@
+https://wiki.student.uni-goettingen.de/support/exa
+HISinOne EXA ist das zentrale Auskunftssystem der Universität Göttingen, das Daten zu Personen, Veranstaltungen, Räumen, Gebäuden und Einrichtungen bündelt und das ehemalige UniVZ ersetzt. Die Datenpflege erfolgt dezentral in Fakultäten, zentral durch das Gebäudemanagement und über andere Systeme wie IDM. Das System ermöglicht eine sinnvolle Verknüpfung der Daten und erfordert qualitativ hochwertige Pflege. Unterstützungsangebote und Anleitungen stehen für Bearbeiter*innen und Studierende zur Verfügung.
+VORLESUNGSVERZEICHNIS, PERSONEN, RÄUME/GEBÄUDE, EINRICHTUNGEN (HISINONE EXA)
+
+Hier finden Sie Unterstützung zum HISinOne EXA.
+
+HISinOne EXA dient als zentrales Auskunftssystem der Universität Göttingen und ersetzt das ehemalige UniVZ. Es bündelt dazu die Daten von Personen, Veranstaltungen, Einrichtungen, Räumen, Terminen, Modulen, … und sorgt für eine sinnvolle Verknüpfung dieser Daten. Dies ist allerdings kein automatischer Vorgang, sondert erfordert an verschiedenen Stellen der Universität eine qualitativ hochwertige Pflege von Daten. Die Daten im HISinOne EXA werden dabei an verschiedenen Stellen bearbeitet:
+
+- Dezentral in den Fakultäten
+- Zentral durch das Gebäudemanagement
+- Datenpflege in anderen System, von denen HISinOne EXA Daten übernimmt (z.B. IDM)
+
+ANLEITUNGEN UND HILFE
+
+Bearbeiter*innen (https://wiki.student.uni-goettingen.de/support/exa/bearbeiterinnen) Studierende (https://wiki.student.uni-goettingen.de/support/exa/studierende) Zusammenspiel mit anderen Systemen (https://wiki.student.uni-goettingen.de/support/exa/zusammenspiel_mit_anderen_systemen)

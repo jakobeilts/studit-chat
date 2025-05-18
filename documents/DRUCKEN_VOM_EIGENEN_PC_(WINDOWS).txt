@@ -1,0 +1,63 @@
+https://wiki.student.uni-goettingen.de/support/drucken/drucken_windows
+Die Anleitung beschreibt das Drucken vom eigenen Windows-PC an der Universität Göttingen über Follow-Me Drucker und den PaperCut Client. Voraussetzungen sind die Verbindung zum Uninetz via eduroam oder VPN sowie die Installation spezieller Software. Druckaufträge können auch per E-Mail gesendet werden. Die Anleitung umfasst Einrichtung, Nutzung, Fehlerbehebung und Aufladung des Druckguthabens. Support und Hilfestellungen werden über die universitären Helpdesks angeboten.
+DRUCKEN VOM EIGENEN PC (WINDOWS)
+
+Wegen eines Umzugs der Druckserver kann es zu Problemen kommen. Bitte deinstalliert den PaperCut Client und entfernt alle FollowMe-Drucker. Führt die Installation dann erneut durch.
+
+I. GRUNDLAGEN
+
+Der studentische Account bietet die Möglichkeit, von PCs an verschiedenen Standorten auf dem Campus Druckaufträge abzusenden und an Multifunktionsgeräten ausgeben zu lassen. Auch das Absenden eines Druckauftrags vom eigenen Windows PC, Mac oder Linux PC und auch vom Tablet oder Smartphone ist möglich. Druckguthaben (https://wiki.student.uni-goettingen.de/support/drucken/druckguthaben) kannst Du mit Deinem Ausweis in der Chipkartenstelle im Zentralen Hörsaalgebäude (ZHG) (https://wiki.student.uni-goettingen.de/support/studit_support/chipkartenstelle) oder auch in den Bibliotheken der SUB aufladen.
+
+Voraussetzung für das Drucken vom eigenen Gerät ist grundsätzlich die Verbindung zum Uninetz : Auf dem Campus über das WLAN eduroam , an anderen Standorten (zum Beispiel zu Hause) über VPN . Um Aufträge von einem privaten Gerät an die Follow-Me Drucker zu senden, hast Du verschiedene Möglichkeiten:
+
+1. Drucker unter Windows hinzufügen: Du installierst den VPN Client und PaperCut auf Deinem Windows PC und verbindest Dich mit der Druckerwarteschlange. So kannst Du über den Druckdialog eines beliebigen Programms Aufträge an die Follow-Me Wartschlange senden. Diese Anleitung erklärt, wie die Einrichtung funktioniert und wie Aufträge abgeschickt werden können.
+2. E-Mail To Print (https://wiki.student.uni-goettingen.de/support/drucken/drucken_email): Du schickst eine E-Mail aus Deinem studentischen E-Mail-Postfach mit einem PDF Dokument im Anhang an die Adresse followme@uni-goettingen.de und bestätigst anschließend den Auftrag.
+
+Anschließend kann der Auftrag an einem Multifunktionsgerät freigegeben werden.
+
+II. DRUCKER UNTER WINDOWS HINZUFÜGEN
+
+Um den Follow-Me Drucker auf dem eigenen Windows PC wie einen „normalen“ Drucker ansprechen zu können, kannst Du die Follow-Me Drucker als Netzwerkdrucker einrichten. Anschließend kannst Du aus dem Druckdialog eines Programms auf Deinem PC den Follow-Me Drucker auswählen und hast so auch die Möglichkeit, Dein Dokument zum Beispiel doppelseitig (Duplex) oder mit der Einstellung zwei Seiten auf ein Blatt auszugeben.
+
+Voraussetzung ist eine Verbindung zum Uninetz, auf dem Campus über das WLAN Netzwerk eduroam, von anderen Standorten über VPN. Bei Fragen und Problem mit der Einrichtung und Nutzung hilft unsere Beratung gerne weiter. Unsere Standorte und Öffungszeiten findest duhier (https://wiki.student.uni-goettingen.de/support/studit_support/kontakt)
+
+FOLLOW-ME DRUCKER UND PAPERCUT CLIENT INSTALLIEREN
+
+Zuerst machen wir jetzt deinen Windows PC mit den Uni Druckern bekannt. Dafür befolgst du bitte folgende Anleitung:
+
+1. Klicke auf folgenden Link:http://print-win.student.uni-goettingen.de:9163/client-setup/windows.html (http://print-win.student.uni-goettingen.de:9163/client-setup/windows.html)
+2. Lade dir dort die„Mobility Print“Anwendung herunter starte sie. (ACHTUNG: Benenne die Datei unter keinen Umständen um!)
+3. Wähle deine Installatiossprache aus
+4. Im Installationsdialog bitte nur die Drucker „Follow-Me, „Follow-Me Farbe“ und „Follow-Me A3“ anhaken. Auf die anderen Drucker kannst du nicht zugreifen
+5. Gebe deinenBenutzernamen(ACHTUNG!Dein Benutzername ist nicht deine E-Mail sondern nur der erste Teil bspw. ist beim.musterfrau@stud.uni-goettingen.de der markierte Teil der Benutzername) undPasswortein.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/drucken/mobility.jpg?id=support%3Adrucken%3Adrucken_windows)
+
+Jetzt müssen wir noch ein Programm installieren, damit auch dein Computer mit den Druckern kommunizieren und die Kosten für deine Drucke berechnen kann. Ohne die Anwendung kannst du nicht an deinem Computer drucken. Dafür musst du folgendes machen:
+
+1. Klicke auf folgenden Link:https://owncloud.gwdg.de/index.php/s/HFiiLihXd39v4LB (https://owncloud.gwdg.de/index.php/s/HFiiLihXd39v4LB)
+2. Lade die Datei herrunter
+3. Entpacke die .zip Datei (Meistens funktioniert das bei Windows mit „Alle Extrahieren“)
+4. Starte die client-local-install.exe (Dafür musst du auf den Ornder „win“ doppelklicken und etwas runterscrollen
+5. Befolge die Installation und schließe sie ab.
+
+AUFTRÄGE ABSENDEN
+
+Bist Du auf dem Campus, kannst Du Dich mit dem W- LAN eduroam verbinden, die VPN Verbindung ist dann nicht notwendig. Außerhalb des Uninetzwerks musst Du zunächst eine Verbindung über VPN (https://wiki.student.uni-goettingen.de/support/wlan) herstellen.
+
+Als zweiten Schritt startest Du - falls noch nicht automatisch geöffnet - den PaperCut Client
+
+Nun kannst Du ein Dokument öffnen und drucken. Einstellungen wie den doppelseitigen Druck (Duplex), den Druck von 2 oder mehr Seiten auf ein Blatt und so weiter kannst Du ganz einfach über die „Eigenschaften“ des Druckers einstellen. Bitte wähle immer den Weg über die „Eigenschaften“, denn Einstellungen, die über den Druckdialog einer Anwendung / eines Programms vorgenommen werden, können zu Fehldrucken führen. Die Kosten für einen Druckjob MÜSSEN bestätigt werden, sonst wird der Druckjob nicht angenommen. Wenn sich kein Fenster mit den Druckkosten öffnet, funktioniert etwas nicht!
+
+Innerhalb von 72 Stunden kannst Du Deinen Auftrag nun mit Deinem Ausweis an einem Multifunktionsgerät freigeben.
+
+MÖGLICHE PROBLEME – LÖSUNG – ANSPRECHPARTNER
+
+Falls das Drucken am eigenen PC nicht funktioniert, könnten die folgenden Fragen vielleicht helfen:
+
+- Möglicherweise verhindert die Firewall die Druckerinstallation.
+- Besteht eine aktive VPN-Verbindung?
+- Sind die Follow-Me Drucker-Queues verbunden?
+- Habe ich genug Geld auf meinem Druckkonto?
+
+Sollten dennoch Probleme auftreten, wendet euch bitte an unsere Beratung an den Helpdesks (https://wiki.student.uni-goettingen.de/support/studit_support/standorte) .

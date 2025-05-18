@@ -1,0 +1,10 @@
+https://wiki.student.uni-goettingen.de/support/rechnerstandorte/standorte/bb_forst
+Der Rechnerstandort BB Forstwissenschaften an der Universität Göttingen bietet über 8 studIT-PCs mit spezieller Software. Er befindet sich im Büsgenweg 5, Raum 0.103. Weitere Informationen und ein Lageplan sind online verfügbar. Bei Problemen kann der studIT-Support kontaktiert werden.
+RECHNERSTANDORT BB FORSTWISSENSCHAFTEN
+
+Anzahl studIT-PCs: >8
+Softwareangebot: Software auf studIT-Rechnern (https://wiki.student.uni-goettingen.de/support/rechnerstandorte/software)
+Straße: Büsgenweg 5
+Räume: 0.103
+Link zum Lageplan: (http://lageplan.uni-goettingen.de/?ident=1556_1_EG_0.103)
+Fehler melden: Kontakt zu studIT (https://wiki.student.uni-goettingen.de/support/studit_support/kontakt)

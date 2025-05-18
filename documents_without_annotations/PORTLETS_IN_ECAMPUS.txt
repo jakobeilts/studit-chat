@@ -1,0 +1,221 @@
+https://wiki.student.uni-goettingen.de/support/ecampus/portlets
+
+PORTLETS IN ECAMPUS
+
+Portlets sind die Komponenten der Persönlichen Startseite des eCampus. Ihre Erscheinung ist mit den Fenstern des Betriebssystems vergleichbar und sie verhalten sich teilweise ähnlich, sie können beispielsweise minimiert oder geschlossen werden. Welche Portlets Sie sehen und nutzen wollen, könne Sie selbst entscheiden und dazu Portlets aus einer Vorauswahl zu ihrer Persönlichen Startseite hinzufügen. Jedes Portlet des eCampus ist mit seinen Inhalten und seiner Funktionsweise unabhängig von den anderen Portlets.
+
+Die Inhalte der Portlets stammen entweder aus den verschiedenen universitären Bereichen (z.B. Feeds mit Jobbörse, Veranstaltungen und Presseinformationen) oder aus öffentlichen Quellen (z.B. das Wetter von Wetter.com). Die Portlets aus öffentlichen Quellen stammen aus dem Verzeichnis von iGoogle. Hier wird eine Vielzahl an Portlets angeboten, die zur Einbindung in die iGoogle Startseite gedacht sind. Eine sehr kleine Auswahl davon steht Ihnen auch im eCampus zur Verfügung. Wenn Sie sich ein zusätzliches Portlet wünschen, das im Google Verzeichnis vorhanden ist, dann melden Sie uns dieses an: info@studit.uni-goettingen.de Wir werden es inhaltlich und sicherheitstechnisch prüfen und gegebenenfalls zum eCampus hinzufügen.
+
+Die Portlets des eCampus können auf mehrere Registerkarten verteilt werden.
+
+Hier einige Portletbeispiele des eCampus:
+
+(http://wiki.student.uni-goettingen.de/_detail/ecampus/portlets1.jpg?id=ecampus)
+
+(http://wiki.student.uni-goettingen.de/_detail/ecampus/portlets2.jpg?id=ecampus)
+
+(http://wiki.student.uni-goettingen.de/_detail/ecampus/portlets3.jpg?id=ecampus)
+
+Weitere allgemeine Informationen zu Portlets finden Sie auch bei Wikipedia.
+
+PORTLETS HINZUFÜGEN
+
+1. Um ein Portlet zu ihrer Persönlichen Startseite hinzuzufügen klicken sie auf den Link [Portlet hinzufügen]
+
+(http://wiki.student.uni-goettingen.de/_detail/ecampus/portlet_hinzu1.jpg?id=ecampus)
+
+2. Nun wird der „Portlet hinzufügen“ Dialog angezeigt. Wählen Sie ein Portlet aus, das Sie hinzufügen möchten. Die Portlets sind in die folgenden Kategorien aufgeteilt:
+
+- Universität Göttingen → Portlets der Georg-August-Universität Göttingen.Für den Inhalt der Portlets ist die Universität Göttingen verantwortlich.
+
+- Lokales → Informationen aus der Region GöttingenFür den Inhalt der Portlets bzw. Feeds  ist der jeweilige Anbieter verantwortlich.
+
+- Allgemeine Portlets → allgemeine Portlets, z.B. Wetter oder Kino Neuigkeiten.Für den Inhalt der Portlets bzw. Feeds  ist der jeweilige Anbieter verantwortlich.
+
+3. Klicken Sie auf den Link [Portlet hinzufügen] des gewählten Portlets.
+
+(http://wiki.student.uni-goettingen.de/_detail/ecampus/portlet_hinzu2.jpg?id=ecampus)
+
+Oberhalb des geklickten Links erscheint nun die Meldung „Erfolgreich hinzugefügt“. Sie können ein Portlet auch mehrfach hinzufügen, dies kann z.B. sinnvoll sein, wenn sie gleichzeitig das Wetter in Göttingen und in ihrem Heimatort sehen wollen und das Portlet nach dem Hinzufügen entsprechend konfigurieren.
+
+4. Klicken sie auf den Link [zurück zum Portal] um zu Ihrer Persönlichen Startseite zurück zu gelangen.
+
+(http://wiki.student.uni-goettingen.de/_detail/ecampus/portlet_hinzu3.jpg?id=ecampus)
+
+Dort ist nun das Portlet in der linken, oberen Ecke platziert worden.
+
+(http://wiki.student.uni-goettingen.de/_detail/ecampus/portlet_hinzu4.jpg?id=ecampus)
+
+PORTLETS LÖSCHEN
+
+Um ein Portlet von ihrer Persönlichen Startseite zu löschen, klicken Sie auf das Kreuz in der rechten Ecke der Portlettitelleiste. Das Portlet wird daraufhin sofort und ohne Rückfrage entfernt, allerdings können Sie es jederzeit wieder hinzufügen. Beachten Sie allerdings, dass mit Entfernen des Portlets eventuell vorgenommene Portletkonfigurationen verloren gehen.
+
+(http://wiki.student.uni-goettingen.de/_detail/ecampus/portlet_del.jpg?id=ecampus)
+
+PORTLETS VERSCHIEBEN
+
+Sie können ein Portlet an eine beliebige Position der Registerkarte verschieben, indem Sie die Titelleiste anklicken und das Portlet per Drag & Drop an die gewünschte Zielposition verschieben. Die Zielposition wird durch einen gestrichelten Rahmen gekennzeichnet. Möchten Sie ein Portlet auf eine anderen Registerkarte verschieben, müssen Sie es löschen und auf der gewünschten Registerkarte erneut hinzufügen.
+
+PORTLETS MINIMIEREN
+
+Bei einigen Portlets haben Sie die Möglichkeit das Portlet bis auf die Titelleiste zu minimieren, indem Sie das Zuklappen-Symbol in der linken Ecke der Titelleiste anklicken.
+
+(http://wiki.student.uni-goettingen.de/_detail/ecampus/portlet_min1.jpg?id=ecampus)
+
+Um wieder die normale Größe des Portlets herzustellen, klicken sie auf einem minimierten Portlet auf das Aufklappen-Symbol
+
+(http://wiki.student.uni-goettingen.de/_detail/ecampus/portlet_min3.jpg?id=ecampus)
+
+PORTLETS MAXIMIEREN
+
+Bei einigen Portlets haben Sie die Möglichkeit das Portlet bis auf die Größe der Registerkarte zu vergrößern, um eine bessere Übersicht über den Inhalte zu erhalten. Klicken Sie zum Maximieren auf das Maximieren-Symbol in der Titelleiste eines Portlets.
+
+(http://wiki.student.uni-goettingen.de/_detail/ecampus/max1.jpg?id=ecampus)
+
+Um wieder die normale Größe des Portlets herzustellen, klicken sie auf den Link [Normalansicht] oder auf das entsprechende Symbol in der Titelleiste des Portlets.
+
+(http://wiki.student.uni-goettingen.de/_detail/ecampus/portlet_max2.jpg?id=ecampus)
+
+PORTLETS KONFIGURIEREN
+
+Einige Portlets, die Sie auf Ihrer Persönlichen Startseite platziert haben, können Sie individuell konfigurieren um so bspw. die Darstellung des Portelts zu beeinflussen. Die Konfigurationsmöglichkeiten sind dabei abhängig vom Typ des Portlets und beziehen sich nur auf das Portlet, in dem Sie die Einstellungen vornehmen. Wenn Sie bspw. die maximale Anzahl der Nachrichten, die Ihnen angezeigt werden sollen, verändern, dann hat dies keine Auswirkungen auf die angezeigte Nachrichtenanzahl in anderen Portlets. Nachfolgend sehen Sie am Beispiel des Newsfeed Portlets “Stellenbörse für stud. Hilfkräft“ wie Sie vorgehen müssen, wenn Sie die Konfiguration eines Portlets ändern möchten:
+
+1. Klicken Sie auf das Schraubenschlüssel Symbol in der Titelleiste des Portlets.
+
+(http://wiki.student.uni-goettingen.de/_detail/ecampus/portlet_konf1.jpg?id=ecampus)
+
+2. Nun wird oberhalb des eigentlichen Portletinhalts ein Konfigurationsdialog angezeigt. Nehmen Sie hier die gewünschten Veränderungen vor:
+
+(http://wiki.student.uni-goettingen.de/_detail/ecampus/portlet_konf2b.jpg?id=ecampus)
+
+- Feed-Logo anzeigen:Bei einigen Feeds wird ein Logo des Anbieters in der rechten oberen Ecke des Portlets angezeigt. Mit dieser Option können Sie dieses Logo ein- bzw. ausblenden.
+- Anzahl der Nachrichten:Hier können Sie die maximale Anzahl der Nachrichten, die im aktuellen Newsfeed Portlet angezeigt werden sollen, angeben.
+- Details anzeigen:Einige Newsfeeds liefern, abgesehen von den Titeln der Feedeinträge, auch Einführungstexte. Diese können eingeblendet werden, indem Sie diese Option anwählen.
+
+(http://wiki.student.uni-goettingen.de/_detail/ecampus/portlet_konf3.jpg?id=ecampus)
+
+3. Schließen Sie den Vorgang ab. Klicken Sie dazu auf den Link …
+
+… [Speichern] um Ihre Änderungen auf das aktuelle Portlet anzuwenden.
+
+… [Standarteinstellungen] um die Vorgabewerte des aktuellen Portlets wiederherzustellen. Es erscheint anschließend wieder in der Form, wie es auch beim Hinzufügen zur Persönlichen Startseite angezeigt wird.
+
+… [Abbrechen] um den Vorgang abzubrechen und die bisherige Konfiguration des Portlets beizubehalten.
+
+(http://wiki.student.uni-goettingen.de/_detail/ecampus/portlet_konf4.jpg?id=ecampus)
+
+Weiter Hinweise zur Konfiguration von Portlets:
+
+- Wenn Sie ein Portlet mehrfach zu Ihrer Persönlichen Startseite hinzufügen, dann können Sie jedes Auftreten dieses Portlets unterschiedlich und unabhängig konfigurieren. Dies ist z.B. beim  persönlichen Newsfeed Portlet(nachfolgender Abschnitt) sinnvoll, das Sie dazu verwenden können, News aus unterschiedlichen Quellen auf Ihrer Persönlichen Startseite anzuzeigen.
+- Wenn Sie ein Portlet von Ihrer Persönlichen Seite löschen, dann geht Ihre Konfiguration für dieses Portlet verloren.
+- Das Schraubenschlüssel Symbol wird nur bei Portlets angezeigt, bei denen es auch Konfigurationsmöglichkeiten gibt.
+
+DAS PERSÖNLICHE NEWSFEED PORTLET
+
+Sie haben die Möglichkeit Feeds aus unterschiedlichen Quellen zu ihrer Persönlichen Startseite hinzufügen. Sie können dabei individuell entscheiden, welche News für Sie relevant sind. Alles was Sie brauchen ist die URL eines beliebigen RSS- oder Atomfeeds. URLs zu Feeds finden Sie beispielsweise in verschiedenen Verzeichnissen ( http://www.rss-verzeichnis.de (http://www.rss-verzeichnis.de) , http://www.rss-scout.de (http://www.rss-scout.de) , etc.) oder den Internetseiten der meisten Nachrichtenportale. Häufig sind Feeds an dem Icon (http://wiki.student.uni-goettingen.de/_detail/ecampus/rss.jpg?id=ecampus) erkennbar. Wenn Sie die URL zu einem interessanten Feed gefunden haben, dann gehen Sie folgendermaßen vor, um den Feed zu Ihrer Persönlichen Startseite hinzuzufügen:
+
+1. Wählen Sie das Portlet Feed aus der Kategorie “Allgemeine Portlets“ des “Portlet hinzufügen“-Dialogs und fügen Sie es zu Ihrer Persönlichen Startseite hinzu.
+
+(http://wiki.student.uni-goettingen.de/_detail/ecampus/portlet_persfeed1.jpg?id=ecampus)
+
+2. Das Portlet erscheint zunächst ohne Inhalt. Klicken Sie auf das Schraubenschlüssel Symbol um den Konfigurationsdialog des Feed Portlets anzuzeigen.
+
+(http://wiki.student.uni-goettingen.de/_detail/ecampus/portlet_persfeed2.jpg?id=ecampus)
+
+3. Fügen Sie im Feld Quelle die URL ihres Feeds ein und nehmen Sie bei Bedarf Veränderungen an den übrigen Einstellungen vor. (Siehe vorheriger Abschnitt)
+
+(http://wiki.student.uni-goettingen.de/_detail/ecampus/portlet_persfeed3.jpg?id=ecampus)
+
+4. Nach Klicken des Links [Speichern] wird der gewählte Feed auf ihrer Persönlichen Startseite angezeigt.
+
+(http://wiki.student.uni-goettingen.de/_detail/ecampus/portlet_persfeed4.jpg?id=ecampus)
+
+DAS FEED AGGREGATOR PORTLET
+
+Das “Feed Aggregator“ Portlet zeigt, wie das einfache “Feed“ Portlet, Feeds aus beliebigen Quellen an. Allerdings können mehrere Feeds eingefügt werden, deren Inhalte dann zu einem gemeinsamen Feed aggregiert werden.
+
+Sie finden das Portlet in der Kategorie “Allgemeine Portlets“ unter dem Namen “Feed Aggregator“. (https://wiki.student.uni-goettingen.de/_detail/ecampus/portlet_feedaggregator1.jpg?id=support%3Aecampus%3Aportlets)
+
+Beachten Sie bitte die folgenden Punkte beim Konfigurieren und Verwenden des Portlets:
+
+- Das Portlet erscheint zunächst ohne Inhalt. Klicken Sie auf [Einstellungen bearbeiten] oder das Schraubenschlüssel Symbol um den Konfigurationsdialog des Feed Portlets anzuzeigen.
+
+- Eine bestehende Konfiguration können Sie jederzeit über das Schraubenschlüssel Symbol wieder verändern.
+
+- Fügen Sie im FeldNeuer Feeddes Konfigurationsdialogs dieURLeines Feeds ein, der zu dem Portlet hinzugefügt werden soll, und klicken Sie anschließend auf das grüne Plus Symbol(A). In der Auflistung der bereits hinzugefügten Feeds wird dieser nun ergänzt(B). Außerdem wird eine neue Kategorie mit dem Titel des Feeds angezeigt(C).(https://wiki.student.uni-goettingen.de/_detail/ecampus/portlet_feedaggregator2.jpg?id=support%3Aecampus%3Aportlets)
+
+- In einigen Feeds werden die einzelnen Einträge vom Anbieter in Kategorien einsortiert. Diese werden dann, statt des Feedtitels, im Konfigurationsdialog und in der Oberfläche des Portlets als Karteikarten aufgeführt. Beispiele für Feeds die Kategorien mitliefern sind:http://rss.focus.de/fol/XML/rss_folnews.xml (http://rss.focus.de/fol/XML/rss_folnews.xml),http://www.spiegel.de/schlagzeilen/index.rss (http://www.spiegel.de/schlagzeilen/index.rss)
+
+- Wenn Kategorien aktiviert sind (Haken beiKategorien anzeigenist gesetzt), werden diese in Form von Karteikarten im Portlet angezeigt. Mit Hilfe der Katogorien können Sie ihren Newsfeed inhaltlich filtern.
+
+(https://wiki.student.uni-goettingen.de/_detail/ecampus/portlet_feedaggregator3.jpg?id=support%3Aecampus%3Aportlets)
+
+- Wenn die Bezeichnungen der Kategorien in mehreren Feeds übereinstimmen, bspw. wenn sowohl im Focus als auch im Spiegel Feed eine Kategorie “Sport“ vorhanden ist, dann werden alle zugehörigen Feedeinträge, unabhängig zu welchem der Feeds sie gehören, unter der Karteikarte “Sport“  angezeigt.
+
+- Wenn die Inhalte bestimmter Kategorien für Sie uninteressant sind, dann können Sie diese im Konfigurationsdialog deaktivieren.(https://wiki.student.uni-goettingen.de/_detail/ecampus/portlet_feedaggregator4.jpg?id=support%3Aecampus%3Aportlets)
+
+- Die KarteikarteAlleenthält sämtliche Feedeinträge aus allen konfigurierten Feeds und unabhängig davon welcher Kategorie sie zugeordnet sind. Auch die Inhalte deaktivierter Kategorien werden angezeigt.
+
+DAS WETTER.COM PORTLET
+
+Dieses Portlet dient dazu, die Wettervorhersage für die nächsten Tage und für einen bestimmten Ort auf Ihrer Persönlichen Startseite anzuzeigen. Der Wetterinformationsdienstes wetter.com bietet dieses Portlet an und ist auch für sämtliche Inhalte verantwortlich. (Beschweren Sie sich über schlechtes Weter also nicht bei uns!)
+
+Da es sich um ein Portlet aus einer öffentlichen Quelle handelt, lässt es sich nicht, wie in den vorherigen Beispielen beschrieben, über das Schraubenschlüssel Symbol konfigurieren. Zur Auswahl eines Ortes können sie in das Suchfeld(A) eine Stadt oder ein Postleitzahl eingeben und anschließen den gewünschten Eintrag aus der Suchergebnisliste(B) anklicken. Falls Sie nachträglich einen anderen Ort auswählen möchten, können Sie dies über den Link [Einstellungen](C) tun.
+
+(http://wiki.student.uni-goettingen.de/_detail/ecampus/portlet_wetter1.jpg?id=ecampus)
+
+Sie können dieses Portlet gerne auch mehrfach zu Ihrer Persönlichen Startseite hinzufügen, um die Wettervorhersage von zwei Orten gleichzeitig zu verfolgen. (Beispielsweise von Göttingen und Ihrem Heimatort)
+
+(http://wiki.student.uni-goettingen.de/_detail/ecampus/portlet_wetter2.jpg?id=ecampus)
+
+DAS MENSAPLAN PORTLET
+
+Dieses Portlet wird von der Universität Göttingen angeboten. Die Inhalte des Portlets werden vom Studentenwerk der Universität bestimmt. Somit ist auch das Studentenwerk für die Korrektheit der aufgeführten Speisen und Preise verantwortlich. Informationen zu Zusatzstoffen und der verwendeten Symbolik finden Sie über den Link “Info“(A).
+
+Sämtliche Einstellungen, die Sie an diesem Portlet vornehmen, werden gespeichert und sind somit auch nach einem erneuten Login weiterhin vorhanden. Das Portlet bietet Ihnen folgende Einstellmöglichkeiten:
+
+Wählen Sie in der Dropdownbox(B) eine Mensa aus, deren Gerichte angezeigt werden sollen.
+
+Über die Links(C) können Sie sich auch die Speisen der beiden folgenden Tage anzeigen lassen und bei Bedarf über den Link „Weitere“ eine Übersicht der Speisen der gesamten Woche auf den Internetseiten des Studentenwerks erhalten. Beachten Sie, dass Speisen, bei denen es sich um reine Mittagsangebote handelt, nach 14:15 Uhr des gewählten Tages nicht mehr angezeigt werden.
+
+Über den Link Einstellungen(D) gelangen Sie zu weiteren Einstellmöglichkeiten. Hier haben Sie die Möglichkeit, sich anstatt der Studentenpreise, auch die Preise für Mitarbeiter oder Gäste anzeigen zu lassen.(E)
+
+Außerdem können Sie über die Einstellungen(D) die angezeigten Speisen filtern(F). So können Sie z.B. Schweinefleisch und/oder Fischgerichte auf Ihrem Mensaplan ausblenden oder sich ausschließlich vegetarische bzw. vegane Speisen anzeigen lassen. Über den “Speichern“ Link(G) speichern Sie Ihre Einstellungen und gelangen zurück zu Ihrem Mensaplan.
+
+(https://wiki.student.uni-goettingen.de/_detail/ecampus/portlet_mensaplan3.jpg?id=support%3Aecampus%3Aportlets)
+
+Auch bei diesem Portlet kann es sinnvoll sein, es mehrfach zur Persönlichen Startseite hinzufügen. So bekommen Sie die Speisen mehrerer Mensen gleichzeitig angezeigt.
+
+REGISTERKARTEN
+
+Die Portlets der persönlichen Startseite (Home) können auf mehrere Registerkarten verteilt werden. Sollten Sie also Platzprobleme bekommen, weil Sie sehr viele Portlets eingebunden haben, können Sie einen Teil der Portlets auf eine zusätzliche Registerkarte verschieben. Außerdem ist es Ihnen dadurch möglich, die Portlets Ihrer persönliche Startseite beliebig zu kategorisieren. Wie das geht erfahren Sie in den nachfolgenden Abschnitten.
+
+(http://wiki.student.uni-goettingen.de/_detail/ecampus/registerkarten.jpg?id=ecampus)
+
+LAYOUT
+
+Die Portlets werden standartmäßig in drei Spalten auf der persönlichen Startseite (Home) angeordnet. Sie können das Layout jedoch alternativ auf eine Spalte oder zwei Spalten umstellen und es somit an Ihre Bedürfnisse anpassen. Layouteinstellungen werde pro Registerkarte gespeichert, wenn Sie also das Layout der Registerkarte “Startseite“ anpassen, dann hat dies keine Auswirkung auf die übrigen Registerkarten. Nutzen Sie zum Umstellen des Layouts bitte das Drop Down Menu unterhalb der Registerkartenbezeichnungen.
+
+(http://wiki.student.uni-goettingen.de/_detail/ecampus/registerkarten_layout.jpg?id=ecampus)
+
+REGISTERKARTEN VERSCHIEBEN
+
+Sie können die Registerkartenbezeichnungen per Drag & Drop an eine andere Position verschieben und somit die Reihenfolge der Registerkarten beeinflussen. Beachten Sie, dass nach dem Login zunächst immer der Inhalt er ersten (linken) Registerkarte angezeigt wird.
+
+REGISTERKARTENVERWALTUNG
+
+Mit Hilfe der Registerkartenverwaltung können Sie Registerkarten hinzufügen, umbenennen oder löschen. Sie gelangen über den Link “Registerkartenverwaltung“ oder das Plus Zeichen neben den Registerkartenbezeichnungen zur Registerkartenverwaltung.
+
+(http://wiki.student.uni-goettingen.de/_detail/ecampus/registerkarten_verwaltung.jpg?id=ecampus)
+
+Innerhalb der Registerkartenverwaltung (s.o.) können Sie im Abschnitt “Neue Registerkarte anlegen“ eine weitere Registerkarte erstellen. Geben Sie dazu eine Bezeichnung in das Formularfeld ein und schließen Sie den Vorgang mit einem Klick auf den Button [Anlegen] ab. Sie gelangen anschließend direkt auf die neue Registerkarte und können diese mit Portlets füllen.
+
+(http://wiki.student.uni-goettingen.de/_detail/ecampus/registerkarten_hinzu.jpg?id=ecampus)
+
+Innerhalb der Registerkartenverwaltung (s.o.) können Sie im Abschnitt “Registerkarten verwalten“ alle bestehenden Registerkarten umbenennen. Verändern Sie dazu den Bezeichnungstext einer oder mehrerer Registerkarten und schließen Sie den Vorgang anschließend mit einem Klick auf den Button [Speichern] ab. Beachten Sie, dass die Länge der Bezeichnung begrenzt ist.
+
+(http://wiki.student.uni-goettingen.de/_detail/ecampus/registerkarten_umbenennen.jpg?id=ecampus)
+
+Innerhalb der Registerkartenverwaltung (s.o.) können Sie im Abschnitt “Registerkarten verwalten“ Registerkarten löschen. Klicken Sie dazu auf das rote X-Symbol hinter der Registerkartenbezeichnung und bestätigen Sie anschließend den Vorgang. Beachten Sie, dass alle Portlets und Portleteinstellungen dieser Registerkarte verloren gehen.
+
+(http://wiki.student.uni-goettingen.de/_detail/ecampus/registerkarten_loeschen.jpg?id=ecampus)

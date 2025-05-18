@@ -1,0 +1,12 @@
+https://wiki.student.uni-goettingen.de/univz/personen
+
+PERSONEN
+
+Personendaten werden an der Universität Göttingen in der Personalabteilung erfasst und bearbeitet mit dem System SAP HR. Diese Daten werden nach UniVZ (halb-)automatisch übernommen, damit in UniVZ weitere Aufgaben erledigt werden können:
+
+- Es werden weitere Daten ergänzt, die nicht in SAP HR vorliegen, z.B. Kontaktdaten und Räume.
+- Es werden Zuordnungen vorgenommen, z.B. zu Veranstaltungen und Einrichtungen.
+
+Auf diese Weise werden in UniVZ verschiedene Daten zusammengefügt und der Öffentlichkeit als Informationsquelle zur Verfügung gestellt.
+
+Suchen (https://wiki.student.uni-goettingen.de/univz/personen/suchen) Anlegen (https://wiki.student.uni-goettingen.de/univz/personen/anlegen) bearbeiten (https://wiki.student.uni-goettingen.de/univz/personen/bearbeiten)

@@ -1,0 +1,15 @@
+https://wiki.student.uni-goettingen.de/univz/allgemeines/bearbeitungssemester_umstellen
+
+BEARBEITUNGSSEMESTER UMSTELLEN
+
+UniVZ ermittelt automatisch das zum Tagesdatum passende Semester und stellt dieses in der Titelleiste als Bearbeitungssemester dar.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/allgemeines/univz_allgemeines_semester0.jpg?id=univz%3Aallgemeines%3Abearbeitungssemester_umstellen)
+
+Klicken Sie auf dieses Bearbeitungssemester, um eine Liste der verfügbaren Bearbeitungssemester zu erhalten. Wählen durch Klick das Semester, in welchem Sie z.B. Veranstaltungen suchen und bearbeiten möchten. Dadurch können Sie sich das Einstellen des korrekten Semesters in Such- und Bearbeitungsmasken sparen.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/allgemeines/univz_allgemeines_semester1.jpg?id=univz%3Aallgemeines%3Abearbeitungssemester_umstellen)
+
+Nach dem Klicken sehen Sie das jetzt ausgewählte Bearbeitungssemester in der Titelleiste.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/allgemeines/univz_allgemeines_semester2.jpg?id=univz%3Aallgemeines%3Abearbeitungssemester_umstellen)

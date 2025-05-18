@@ -1,0 +1,46 @@
+https://wiki.student.uni-goettingen.de/univz/events/anlegen
+Der Artikel beschreibt zwei Methoden zum Anlegen von Events an der Universität Göttingen: über den Menüpunkt „Meine Funktionen“ und über den Raumplan. Dabei wird erklärt, wie das Bearbeitungssemester eingestellt wird, wie Grunddaten eingegeben und gespeichert werden, sowie wie weitere Details wie Termine, Räume und Personen hinzugefügt werden. Wichtige Begriffe sind Event anlegen, Bearbeitungssemester, Raumplan, Termine, Räume und öffentliche Bemerkungen.
+EVENT ANLEGEN
+
+Sie haben zwei Möglichkeiten einen neuen Event anzulegen.
+
+EVENT ANLEGEN ÜBER "MEINE FUNKTIONEN"
+
+Haben Sie auf das gewünschte Bearbeitungssemester umgeschaltet?
+
+Siehe: Bearbeitungssemester umstellen (https://wiki.student.uni-goettingen.de/univz/allgemeines/bearbeitungssemester_umstellen)
+
+Klicken Sie unter dem Menüpunkt „Meine Funktionen“ zunächst auf „Events bearbeiten“ (Lambertz: Sollte der Menüpunkt besser „Events suchen & bearbeiten“ heißen)?
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/events/univz_event_anlegen0.jpg?id=univz%3Aevents%3Aanlegen)
+
+Sie erhalten im nächsten Schritt die Suchmaske für Events. Hier klicken Sie auf den Button „Neuer Event“
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/events/univz_event_anlegen1.jpg?id=univz%3Aevents%3Aanlegen)
+
+Es erscheint nun die Eingabemaske für die Grunddaten des Events. Das Bearbeitungssemester ist schon vorausgefüllt, die restlichen Angaben kommen von Ihrer Seite. Zum Abschluss der Bearbeitung klicken Sie auf den Button „Speichern“. Damit haben Sie die Grunddaten des Events erfasst und Sie werden automatisch weitergeleitet, damit Sie weitere Daten für den Event erfassen können wie z.B. Termine, Räume, zugeordnete Personen. Siehe dazu: Event bearbeiten (https://wiki.student.uni-goettingen.de/univz/events/bearbeiten)
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/events/univz_event_anlegen2.jpg?id=univz%3Aevents%3Aanlegen)
+
+- Der unter dem Feld „Bemerkung“ erfasste Text ist für die Öffentlichkeit lesbar.
+
+EVENT ANLEGEN ÜBER RAUMPLAN
+
+Haben Sie auf das gewünschte Bearbeitungssemester umgeschaltet? Siehe: Bearbeitungssemester umstellen (https://wiki.student.uni-goettingen.de/univz/allgemeines/bearbeitungssemester_umstellen)
+
+Sie können einen neuen Event auch über den Raumplan anlegen. Dies kann in folgenden Fällen nützlich sein:
+
+- Sie wissen schon Raum und Termin für den Event.
+- Sie wollen über den Raumplan nach einem freien Termin suchen.
+
+Dazu suchen Sie zunächst den gewünschten Raum und gehen über die Suche auf den gewünschten Raumplan: Siehe Raumsuche, Siehe Raumplan anzeigen
+
+Im Raumplan finden Sie für jeden freien Zeitslot zwei New-Button. Klicken Sie auf den rechten New-Button , um für diesen Termin einen Event anzulegen. Die Daten werden in die Eventbearbeitung übernommen und könne dort wieder überarbeitet werden.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/events/univz_event_anlegen3.jpg?id=univz%3Aevents%3Aanlegen)
+
+Nach dem Klicken auf den New-Button erscheint die Eingabemaske für die Grunddaten des Events. Das Bearbeitungssemester ist schon vorausgefüllt, die restlichen Angaben kommen von Ihrer Seite. Zum Abschluss der Bearbeitung klicken Sie auf den Button „Speichern“. Damit haben Sie die Grunddaten des Events erfasst und Sie werden automatisch weitergeleitet, damit Sie weitere Daten für den Event erfassen können wie z.B. Termine, Räume, zugeordnete Personen. Siehe dazu: Event bearbeiten (https://wiki.student.uni-goettingen.de/univz/events/bearbeiten)
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/events/univz_event_anlegen2.jpg?id=univz%3Aevents%3Aanlegen) Hinweise:
+
+- Der unter dem Feld „Bemerkung“ erfasste Text ist für die Öffentlichkeit lesbar.

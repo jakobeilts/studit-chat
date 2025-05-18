@@ -1,0 +1,19 @@
+https://wiki.student.uni-goettingen.de/support/email/email-adresse
+
+STUDENTISCHE E-MAIL-ADRESSE
+
+Studenten der Georg-August-Universität erhalten mit unserem Account eine eigene E-Mail-Adresse der Form accountname@stud.uni-goettingen.de , z.B. maxi.musterfrau@stud.uni-goettingen.de. Diese E-Mail-Adresse dient der Studierendenverwaltung, dem Prüfungsamt und der SUB als Kontaktadresse und ist im FlexNow sowie im Stud.IP hinterlegt!
+
+WICHTIGE EIGENSCHAFTEN
+
+- 2GBPostfach
+- Spam-Filter
+- Adressbuch
+- POP3/IMAP/Exchange
+- Übersetzungsmodul
+- Virusüberprüfung
+- Anhänge bis zu 100MB
+
+ZUGRIFF
+
+Zugriff auf E-Mails und Funktionen ist unter der Eingabe von Benutzername (in der Form ug-student\accountname) und Passwort des studIT-Accounts über Microsoft Outlook Web App (http://email.stud.uni-goettingen.de/) oder das Uniportal eCampus (http://ecampus.uni-goettingen.de/) möglich.

@@ -1,0 +1,13 @@
+https://wiki.student.uni-goettingen.de/support/drucken/freidruckguthaben
+Das Freidruckguthaben an der Universität Göttingen wird aus Studienqualitätsmitteln der Fakultäten semesterweise bereitgestellt und ermöglicht Studierenden kostenfreies Drucken. Die Druckquoten variieren je nach Fakultät und müssen bei den Studiendekanaten erfragt werden. Nicht genutztes Guthaben verfällt am Semesterende. Die technische Umsetzung erfolgt durch studIT, das keine Einflussnahme auf Guthabenvergabe hat. Druckguthaben kann online über print.student.uni-goettingen.de abgefragt werden, VPN ist außerhalb des Uninetzes erforderlich.
+FREIDRUCKGUTHABEN AUS FAKULTÄTSMITTELN
+
+Einige Fakultäten stellen ihren Studierenden zu Beginn der Vorlesungszeit ein aus Studienqualitätsmitteln finanziertes Druckguthaben zur Verfügung. Informationen über die Druckquoten müssen direkt bei den Studiendekanaten der Fakultäten erfragt werden. Diese Druckquoten gelten immer nur für ein Semester und nicht verbrauchtes Guthaben wird den Studierenden zu Beginn des nächsten Semester wieder vom Druckkonto gelöscht. Dies gilt natürlich nur für die Druckquoten der Fakultäten, nicht für selber eingezahltes Druckguthaben.
+
+Die Freidruckguthaben sind semesterbezogene Leistungen aus den Studienqualitätsmitteln der Fakultäten und werden in deren Gremien mit den Studierendenvertretern verhandelt. studIT hat keinen Einfluss ob, wie viel und wann die Freidruckguthaben aufgebucht werden! Wir sind lediglich für die technische Umsetzung zuständig.
+
+Da wir zu bestimmten Stichtagen Listen mit Berechtigten für die Freidruckguthaben bekommen, kann es sein, dass später immatrikulierte Studierende nicht auf diesen Listen erscheinen und deshalb kein Guthaben aufgebucht bekommen. Diese Studierenden wenden sich dann bitte an ihre Fakultät, nicht an die studIT. studIT kann nicht aus Eigeninitiative Druckguthaben der Fakultäten aufbuchen! Wir brauchen eine Nachricht der Fakultät, dass nachgebucht werden soll.
+
+DRUCKGUTHABEN ABFRAGEN
+
+Auf folgender Website kannst du dein Druckguthaben abfragen: http://print.student.uni-goettingen.de/ (http://print.student.uni-goettingen.de/) Wichtig: Wenn du die Seite außerhalb des Uninetzes öffnen möchtest, musst du vorher den VPN aktiviert (https://wiki.student.uni-goettingen.de/support/wlan/vpn_eduvpn) haben.
