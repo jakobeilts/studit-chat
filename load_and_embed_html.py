@@ -4,6 +4,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import FAISS
 from langchain.storage import InMemoryStore
 from custom_embeddings import AcademicCloudEmbeddings
+from chunk_documents import chunk_documents
 
 # --------------------------------------------------
 CHUNK_SIZE, CHUNK_OVERLAP = 800, 100
@@ -27,23 +28,10 @@ def load_and_embed_documents():
         return vs, parent_store
 
     # ---------- 2) Index neu erstellen ------------
-    parent_store = InMemoryStore()
-    child_chunks, parent_docs = [], []
-
-    for fn in os.listdir("seiten_export"):
-        if not fn.endswith(".txt"):
-            continue
-        url, *rest = open(os.path.join("seiten_export", fn), encoding="utf-8").readlines()
-        full_text = "".join(rest).strip()
-        meta = {"source": fn, "url": url.strip()}
-
-        parent_doc = Document(page_content=full_text, metadata=meta)
-        parent_docs.append(parent_doc)
-
-        # kleine Chunks -> Vektor­index
-        child_chunks.extend(splitter.create_documents([full_text], metadatas=[meta]))
+    child_chunks, parent_docs = chunk_documents("seiten_export")
 
     # Parent-Docs ins Store schreiben  (key = Dateiname)
+    parent_store = InMemoryStore()
     parent_store.mset([(d.metadata["source"], d) for d in parent_docs])
 
     vs = FAISS.from_documents(child_chunks, embedder)
@@ -53,7 +41,7 @@ def load_and_embed_documents():
 
 # --------------------------------------------------
 def _build_parent_store_from_txts():
-    """Wird aufgerufen, wenn der Vektor­index schon existiert."""
+    """Wird aufgerufen, wenn der Vektorindex schon existiert."""
     store = InMemoryStore()
     for fn in os.listdir("seiten_export"):
         if not fn.endswith(".txt"):

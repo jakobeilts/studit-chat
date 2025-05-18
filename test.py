@@ -1,17 +1,8 @@
-import requests
+from custom_embeddings import AcademicCloudEmbeddings
 import streamlit as st
 
+embedder = AcademicCloudEmbeddings(api_key=st.secrets["GWDG_API_KEY"])
 
-url = "https://chat-ai.academiccloud.de/v1/embeddings"
-headers = {
-    "Authorization": f"Bearer {st.secrets['GWDG_API_KEY']}",
-    "Content-Type": "application/json"
-}
-data = {
-    "input": "The food was delicious and the waiter...",
-    "model": "e5-mistral-7b-instruct",
-    "encoding_format": "float"
-}
+print(embedder.embed_documents("Test, ich bin Jakob"))
 
-response = requests.post(url, headers=headers, json=data)
-print(response.json())
+print(embedder.embed_query("Wie heisst du?"))
