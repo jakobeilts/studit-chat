@@ -26,15 +26,14 @@ if "parent_retriever" not in st.session_state:
         docstore           = st.session_state.parent_store,
         child_splitter     = splitter,
         id_key             = "source",
-        child_to_parent_key= "source",
     )
 
 # ------------- zusätzlicher Speicher -------------
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
-if "last_user_question" not in st.session_state:
-    st.session_state.last_user_question = ""
+if "user_queries" not in st.session_state:
+    st.session_state.user_queries = []
 
 # ----------------- Streamlit-UI ------------------
 st.title("StudIT RAG Chat")
@@ -43,54 +42,71 @@ prompt = st.chat_input("Frag mich etwas...")
 for m in st.session_state.messages:
     st.chat_message(m["role"]).markdown(m["content"])
 
-# ============  Auf neue User-Eingabe =============
+# ============  neue User-Eingabe =============
 if prompt:
     st.chat_message("user").markdown(prompt)
     st.session_state.messages.append({"role": "user", "content": prompt})
+    st.session_state.user_queries.append(prompt)
+
+    print(f"\Alle Nachrichten:\n{st.session_state.messages}\n\n")
 
     # ---------- Stand-Alone-Query bauen ----------
-    previous_q       = st.session_state.last_user_question
-    standalone_query = f"{previous_q.strip()} {prompt.strip()}".strip()
+    previous_qs_str = (
+            "Bisherige Nutzeranfragen: "
+            + ", ".join(st.session_state.user_queries[:-1])
+    )
+    standalone_query = f"{previous_qs_str}\nAktuelle Nutzeranfrage: {prompt.strip()}".strip()
+    print(f"\nStandalone query: {standalone_query}\n")
 
-    # =========================================================
-    # 1) Vektor-Retrieval  +  BM25-Retrieval
-    # =========================================================
-    docs_vec = st.session_state.parent_retriever.invoke(
-        standalone_query, search_kwargs={"k": 6}
+    # -----------------------------------------------------------
+    # 1) Retrieval – getrennte Kontingente
+    # -----------------------------------------------------------
+    VEC_TARGET   = 4          # gewünschte Zahl einmaliger Vector-Parents
+    BM25_TARGET  = 2          # gewünschte Zahl einmaliger BM-25-Parents
+    OVERFETCH    = 4          # Sicherheitsaufschlag gegen Duplikate
+
+    # ---------- Vector-Retrieval --------------------------------
+    vec_candidates = st.session_state.parent_retriever.invoke(
+        standalone_query,
+        search_kwargs={"k": VEC_TARGET + OVERFETCH},   # etwas mehr holen
     )
 
-    docs_bm25_child = retrieveBM25(standalone_query, k=12)
-    ### NEU >>>  Child-→Parent-Mapping  ------------------------
-    parent_store = st.session_state.parent_store
-    docs_bm25 = []
-    for child in docs_bm25_child:
-        parent_id   = child.metadata["source"]
-        parent_doc  = parent_store.mget([parent_id])[0]
-        if parent_doc:
-            docs_bm25.append(parent_doc)
-    ### NEU <<<  ----------------------------------------------
-
-    # =========================================================
-    # 2) Union  +  Deduplikation  +  Limit
-    # =========================================================
-    n_final = 6
-    docs_union, seen = [], set()
-
-    # Reihenfolge bestimmt Priorität: erst Vektor-Treffer, dann BM25-Treffer
-    for d in docs_vec + docs_bm25:
-        key = d.metadata["source"]          # Parent-ID als Duplikat-Schlüssel
-        if key not in seen:
-            docs_union.append(d)
-            seen.add(key)
-        if len(docs_union) >= n_final:
+    # doppelte Chunks entfernen
+    seen_parents = set()       # globaler Duplikat-Tracker
+    docs_vec     = []
+    for d in vec_candidates:
+        pid = d.metadata["source"]
+        if pid not in seen_parents:
+            docs_vec.append(d)
+            seen_parents.add(pid)
+        if len(docs_vec) == VEC_TARGET:
             break
 
-    docs = docs_union                     # ab hier heißt es wieder ›docs‹
+    # ---------- BM-25-Retrieval ---------------------------------
+    bm25_childs   = retrieveBM25(standalone_query, k=BM25_TARGET + OVERFETCH*2)
+    parent_store  = st.session_state.parent_store
+    docs_bm25     = []
+
+    for child in bm25_childs:
+        pid = child.metadata["source"]
+        if pid in seen_parents:          # schon via Vector drin → überspringen
+            continue
+        parent_doc = parent_store.mget([pid])[0]
+        if parent_doc:
+            docs_bm25.append(parent_doc)
+            seen_parents.add(pid)
+        if len(docs_bm25) == BM25_TARGET:
+            break
+
+    # ------------- Finale Doc-Liste ------------------------------
+    docs = docs_vec + docs_bm25            # max. 8 eindeutige Parent-Docs
+    print(f"---Vector Docs:---\n {docs_vec}\n---BM25 Docs:---\n {docs_bm25}\n")
+    print(f"Retrieved docs through both (union):\n{docs}\n")
 
     # =========================================================
     # 3) Kontext für das LLM zusammenbauen
     # =========================================================
-    MAX_CHARS = 4_000
+    MAX_CHARS = 20000
     context_parts, sources = [], set()
     for d in docs:
         snippet = d.page_content[:MAX_CHARS] + ("…" if len(d.page_content) > MAX_CHARS else "")
@@ -98,6 +114,7 @@ if prompt:
         sources.add(d.metadata["url"])
 
     context = "\n\n".join(context_parts)
+    print(f"final context:\n{context}\n")
 
     system_prompt = f"""
     Du bist ein hilfreicher KI-Assistent für Studierende und Mitarbeitende an der Georg-August-Universität Göttingen.
