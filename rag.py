@@ -106,7 +106,7 @@ if prompt:
     # =========================================================
     # 3) Kontext für das LLM zusammenbauen
     # =========================================================
-    MAX_CHARS = 20000
+    MAX_CHARS = 4000
     context_parts, sources = [], set()
     for d in docs:
         snippet = d.page_content[:MAX_CHARS] + ("…" if len(d.page_content) > MAX_CHARS else "")
