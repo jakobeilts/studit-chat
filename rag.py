@@ -128,15 +128,17 @@ if prompt:
     ENDE BISHERIGER VERLAUF
 
     Frage: {prompt}
+    Die Kontexte, die du verwendest beziehen sich auf die folgenden URLS: {sources}. Gib IMMER die URLs von den Quellen aus, die du wirklich für die Beantwortung der Frage verwendet hast.
     """.strip()
 
     # =========================================================
     # 4) Antwort erzeugen
     # =========================================================
     resp   = llm([SystemMessage(content=system_prompt)])
-    answer = resp.content + (
-        "\n\n🔗 **Source(s):**\n" + "\n".join(sorted(sources)) if sources else ""
-    )
+    answer = resp.content
+    #answer = resp.content + (
+    #    "\n\n🔗 **Source(s):**\n" + "\n".join(sorted(sources)) if sources else ""
+    #)
 
     # Tippen simulieren
     placeholder, buf = st.chat_message("assistant").empty(), ""
