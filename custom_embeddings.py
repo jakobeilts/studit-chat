@@ -31,9 +31,9 @@ class AcademicCloudEmbeddings(Embeddings):
     def __init__(
             self,
             api_key: str,
+            url:   str,
             model: str = "e5-mistral-7b-instruct",
-            url:   str = st.secrets["BASE_URL_EMBEDDINGS"],
-            prompt_name: str = "web_search_query",          # Dieses Embedding Model braucht scheinbar instructions???
+            prompt_name: str = "web_search_query",          # e5-mistral-7b-instruct takes instructions before embeddings. Website says it is neccessary and will perform worse without...
     ):
         self.api_key      = api_key
         self.model        = model

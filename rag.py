@@ -71,7 +71,7 @@ if prompt:
         search_kwargs={"k": VEC_TARGET + OVERFETCH},   # etwas mehr holen
     )
 
-    # doppelte Chunks entfernen
+    # doppelte Chunks deduplizieren
     seen_parents = set()       # globaler Duplikat-Tracker
     docs_vec     = []
     for d in vec_candidates:

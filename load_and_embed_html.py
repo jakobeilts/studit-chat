@@ -18,9 +18,10 @@ DOCUMENT_PATH = "documents"
 
 
 def load_and_embed_documents():
-    embedder = AcademicCloudEmbeddings(api_key=st.secrets["GWDG_API_KEY"])
+    # custom_embeddings.py sets default values for model, prompt instructions etc.
+    embedder = AcademicCloudEmbeddings(api_key=st.secrets["GWDG_API_KEY"], url=st.secrets["BASE_URL_EMBEDDINGS"])
 
-    # ---------- 1) Index existiert schon ----------
+    # ---------- 1) Index already existing ----------
     if os.path.exists(os.path.join(PERSIST_PATH, "index.faiss")):
         vs = FAISS.load_local(
             PERSIST_PATH, embeddings=embedder, allow_dangerous_deserialization=True
@@ -28,7 +29,7 @@ def load_and_embed_documents():
         parent_store = _build_parent_store_from_txts()
         return vs, parent_store
 
-    # ---------- 2) Index neu erstellen ------------
+    # ---------- 2) create new Index if non-existant ------------
     child_chunks, parent_docs = chunk_documents(DOCUMENT_PATH)
 
     # Parent-Docs ins Store schreiben  (key = Dateiname)

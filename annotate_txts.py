@@ -18,6 +18,7 @@ process the default `./documents` folder.
 """
 
 # ── LLM setup ──────────────────────────────────────────────────────────────────
+# DAS HIER MACHT OFT PROBLEME, WEIL API LIMIT ÜBERSCHRITTEN WIRD. ANNOTATIONS LIEBER ERSTMAL MIT EIGENEN OPENAI KONTINGENTEN!
 try:
     llm = ChatOpenAI(
         model="meta-llama-3.1-8b-instruct",
@@ -41,7 +42,7 @@ You will receive a plain‑text wiki article (without markup).
 4. If you don't understand the context or the context is too small, return an empty string.
 
 Return **JSON** exactly in the form:
-{{"description":"…"}}
+{{"Beschreibung":"…"}}
 
 ---
 ARTICLE:
@@ -68,7 +69,7 @@ def _to_text(msg: Union[str, "langchain_core.messages.BaseMessage"]) -> str:
 def annotate_txts(folder_path: str = "./documents") -> None:
     """Insert a JSON summary as the 2nd visible line of every *.txt in *folder_path*.
 
-    • If the file already has content on line 2, we *insert* a blank line first so
+    • If the file already has content on line 2, we *insert* a blank line first so
       the description never overwrites existing content.
     • Existing (non‑blank) descriptions therefore remain untouched; fresh ones
       appear right above them.
