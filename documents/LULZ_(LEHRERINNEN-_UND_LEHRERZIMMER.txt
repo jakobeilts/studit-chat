@@ -1,0 +1,10 @@
+https://wiki.student.uni-goettingen.de/support/rechnerstandorte/standorte/lulz
+Der Artikel beschreibt den Standort LULZ (Lehrerinnen- und Lehrerzimmer) an der Universität Göttingen mit 8 studIT-PCs, dem Softwareangebot auf studIT-Rechnern, der Adresse Waldweg 26, Raum 0.103, sowie einem Link zum Lageplan und Kontaktmöglichkeiten für Supportanfragen.
+LULZ (LEHRERINNEN- UND LEHRERZIMMER
+
+Anzahl studIT-PCs: 8
+Softwareangebot: Software auf studIT-Rechnern (https://wiki.student.uni-goettingen.de/support/rechnerstandorte/software)
+Straße: Waldweg 26
+Raum: 0.103
+Link zum Lageplan: (https://lageplan.uni-goettingen.de/?ident=4485_1_EG_0.103)
+Fehler melden: Kontakt zu studIT (https://wiki.student.uni-goettingen.de/support/studit_support/kontakt)

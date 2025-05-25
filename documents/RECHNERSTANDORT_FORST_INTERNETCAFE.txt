@@ -1,0 +1,10 @@
+https://wiki.student.uni-goettingen.de/support/rechnerstandorte/standorte/forst_internetcafe
+Das Forst Internetcafe an der Universität Göttingen bietet 6 studIT-PCs mit studIT-Software im Raum 0.136, Büsgenweg 5. Ein Lageplan ist online verfügbar, und bei Problemen kann der studIT-Support kontaktiert werden.
+RECHNERSTANDORT FORST INTERNETCAFE
+
+Anzahl studIT-PCs: 6
+Softwareangebot: Software auf studIT-Rechnern (https://wiki.student.uni-goettingen.de/support/rechnerstandorte/software)
+Straße: Büsgenweg 5
+Räume: 0.136
+Link zum Lageplan: (http://lageplan.uni-goettingen.de/?ident=1556_1_EG_0.136)
+Fehler melden: Kontakt zu studIT (https://wiki.student.uni-goettingen.de/support/studit_support/kontakt)

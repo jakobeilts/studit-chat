@@ -1,0 +1,19 @@
+https://wiki.student.uni-goettingen.de/support/blogs/03_eigenes_foto
+Die Anleitung beschreibt, wie man auf der Blog-Verwaltungsseite der Universität Göttingen ein eigenes Profilfoto hochlädt. Wichtige Schritte sind der Login, das Hochladen des Fotos über den Menüpunkt „Headers“ und die Auswahl des Bildes in den Einstellungen. Empfohlen werden die Abmessungen 260 x 120 Pixel, eine Vorlage steht zum Download bereit. Bei Problemen kann das Bild per E-Mail zur Bearbeitung eingereicht werden. Schlüsselwörter: Profilfoto, Blog, Upload, Universität Göttingen.
+EIGENES PROFILFOTO HOCHLADEN
+
+Hast du dich entschieden, das Standardtheme zu verwenden, so hast du die Möglichkeit ein eigenes Profilfoto hochzuladen.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/blogs/headers2.png?id=support%3Ablogs%3A03_eigenes_foto)
+
+Login auf der Blog-Verwaltungsseite: http://blog.stud.uni-goettingen.de/deinblogname/wp-admin (http://blog.stud.uni-goettingen.de/deinblogname/wp-admin)
+
+Auf Menüpunkt „Headers“ ⇒ „Add New File“ klicken
+
+Auf „Datei auswählen“ klicken, Foto auswählen und mit „Upload“ bestätigen.
+
+Auf Menüpunkt „Settings“ wechseln und das hochgeladene Foto auswählen.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/blogs/header.png?id=support%3Ablogs%3A03_eigenes_foto)
+
+Für eine korrekte Darstellung sollte das Foto die Abmessungen 260 x 120 haben. Eine Vorlage kann unter http://blog.stud.uni-goettingen.de/studit/wp-content/header-images/leer2.png (http://blog.stud.uni-goettingen.de/studit/wp-content/header-images/leer2.png) heruntergeladen werden. Das hintergrundtransparente Profilbild - in der Mitte der Vorlage positioniert - ergibt einen schönen Effekt. Solltest du Probleme bei der Bearbeitung des Profilbildes haben, so kannst du dein Bild zur Verarbeitung auch an info@studit.uni-goettingen.de (mailto:info@studit.uni-goettingen.de) schicken (um eine zeitnahe Bearbeitung wird sich bemüht).

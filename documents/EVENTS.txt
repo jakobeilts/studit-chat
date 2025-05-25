@@ -1,0 +1,7 @@
+https://wiki.student.uni-goettingen.de/univz/events
+Das Wiki-Artikel beschreibt die Funktion 'Event' an der Universität Göttingen, mit der Veranstaltungen, Tagungen oder Sitzungen erfasst werden können, die nicht im Vorlesungsverzeichnis erscheinen. Events können Termine und Räume belegen und werden auf Raumplänen angezeigt. Es gibt Möglichkeiten, Events zu suchen, anzulegen und zu bearbeiten.
+EVENTS
+
+Mit dem Event erhält man die Möglichkeit eine Veranstaltung, Tagung, Sitzung, etc. zu erfassen, die nicht im Vorlesungsverzeichnis erscheinen soll. Events erscheinen auf Raumplänen, da für jeden Event Termine und Räume belegt werden können.
+
+Event suchen (https://wiki.student.uni-goettingen.de/univz/events/suchen) | Event anlegen (https://wiki.student.uni-goettingen.de/univz/events/anlegen) | Event bearbeiten (https://wiki.student.uni-goettingen.de/univz/events/bearbeiten)

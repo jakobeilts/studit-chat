@@ -1,0 +1,17 @@
+https://wiki.student.uni-goettingen.de/univz/veranstaltungen
+Das UniVZ erfasst und verwaltet Veranstaltungsdaten der Universität Göttingen, die im Vorlesungsverzeichnis, Veranstaltungsmonitor und in Systemen wie Stud.IP und FlexNow erscheinen. Die Daten dienen der Raumverwaltung, Evaluation und werden täglich von Tausenden Nutzern zur Informationssuche genutzt. Zentrale Funktionen sind das Suchen und Bearbeiten von Veranstaltungen im UniVZ.
+VERANSTALTUNGEN
+
+Die Erfassung von Veranstaltungen ist der Kernbereich des UniVZ. Veranstaltungsdaten
+
+- erscheinen im Vorlesungsverzeichnis
+- belegen zentral und dezentral verwaltete Räume
+- erscheinen im Veranstaltungsmonitor des ZHGhttp://univz.uni-goettingen.de/veranstaltungsmonitor/public/ (http://univz.uni-goettingen.de/veranstaltungsmonitor/public/)
+- werden täglich an Stud.IP übergeben
+- werden an FlexNow übergeben
+- werden für die Evaluation benötigt
+- …
+
+Täglich wird UniVZ von mehreren Tausend Nutzern für die Suche nach Informationen insbesondere nach Veranstaltungsinformationen genutzt.
+
+Suchen und Bearbeiten (https://wiki.student.uni-goettingen.de/univz/veranstaltungen/suchen) | Bearbeiten (https://wiki.student.uni-goettingen.de/univz/veranstaltungen/bearbeiten)

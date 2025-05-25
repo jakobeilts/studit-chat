@@ -1,0 +1,15 @@
+https://wiki.student.uni-goettingen.de/univz/zusammenspiel_mit_anderen_systemen/univz_und_fact
+Das System FACTScience erfasst LOM-relevante Daten, insbesondere Publikationsdaten, die ins UniVZ der Universität Göttingen übernommen werden. Im UniVZ sind diese Daten nur für Bearbeiter zugänglich, da sie qualitativ unterschiedlich und LOM-spezifisch sind. Ziel ist die Suche nach Publikationen und Projekten sowie die Präsentation im GCMS ohne doppelte Erfassung. Die zukünftige Nutzung der FACT-Daten hängt von Entscheidungen zum Forschungsbericht der Universität Göttingen ab.
+UNIVZ UND FACT
+
+FACTScience ist das System mit dem LOM-relevante Daten (Leistungsorientierte Mittelvergabe) erfasst werden. Dazu zählen auch Publikationsdaten, die komplett in das UniVZ übernommen werden. Im UniVZ stehen die Publikationsdaten nicht der Öffentlichkeit zur Verfügung, sondern nur UniVZ-Bearbeitern gelesen werden. Dafür gibt es folgende Gründe:
+
+- Die in FACT erfassten Publikationsdaten sind von sehr unterschiedlicher Qualität.
+- Die Erfassung in FACT orientiert sich an den LOM-Anforderungen. Daher fehlen in der Regel Publikationen, die für LOM keine Relevanz haben.
+
+Ziele der Übernahem der Publikationsdaten nach UniVZ sind folgende:
+
+- Die Möglichkeit über UniVZ nach Publikationen und Projekten an der Universität Göttingen zu suchen.
+- Präsentation der Publikationsliste im GCMS, so dass keine erneute Erfassung der Publikationsdaten im GCMS erforderlich ist.siehe auch:UniVZ und GCMS (https://wiki.student.uni-goettingen.de/univz/zusammenspiel_mit_anderen_systemen/univz_und_gcms)
+
+Wie in Zukunft mit der Übernahme von Daten aus FACT verfahren wird, hängt davon ab, welche Entscheidung die Universität Göttingen bezüglich des Projektes „Forschungsbericht der Universität Göttingen“ treffen wird.

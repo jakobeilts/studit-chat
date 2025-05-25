@@ -1,0 +1,49 @@
+https://wiki.student.uni-goettingen.de/support/rechnerstandorte/standorte/kwz
+Das Kulturwissenschaftliche Zentrum (KWZ) der Universität Göttingen bietet im Erdgeschoss der Bereichsbibliothek Kulturwissenschaften (BBK) 24 moderne All-in-One-PCs mit Hochgeschwindigkeitsinternet, umfangreicher Software wie Microsoft Office und Adobe Creative Cloud, Scanner, Drucker und Kopierer. Die Arbeitsplätze stehen Studierenden, Mitarbeitenden und Gästen offen. Anmeldung erfolgt über Universitäts- oder SUB-Accounts. Druckguthaben kann vor Ort aufgeladen werden. Das KWZ unterstützt Recherche, Bearbeitung und Ausgabe von Medien und Dokumenten im kulturwissenschaftlichen Bereich.
+KWZ (EHEMALS LRC KWZ)
+
+Im EG der Bereichsbibliothek Kulturwissenschaften (BBK) im Kulturwissenschaftlichen Zentrum (KWZ) befindet sich ein Raum mit PC-Arbeitsplätzen und ergänzender Technik, damit Du Medien und Dokumente recherchieren, bearbeiten und ausgeben kannst. Dafür stehen zur Verfügung:
+
+- 24 moderne All-in-One PCs
+- Hochgeschwindigkeits-Internetzugang
+- Zugriff auf den GUK-Onlinekatalog und die Datenbankangebote der SUB
+- umfangreiche Softwarepakete (u.a. Microsoft Office, Adobe Creative Cloud an gekennzeichneten PCs)
+
+(https://wiki.student.uni-goettingen.de/_detail/support/rechnerstandorte/kwz.jpg?id=support%3Arechnerstandorte%3Astandorte%3Akwz)
+
+- ein A4-Flachbettscanner
+- vier Video- und Grafikbearbeitungsplätze (UG-UYST-1131, 1132, 1143 und 1144)
+- A3/A4-Drucker (Follow Me)
+- Kopierer
+- Notebookarbeitsplätze
+
+FAQ
+
+Hier ein paar häufig gestellte Fragen:
+
+WER KANN DIE PC IM KWZ NUTZEN?
+
+Die computerbasierten Arbeitsplätze stehen allen Studierenden, Dozierenden, Wissenschaftlerinnen und Wissenschaftlern, weiteren Mitarbeitergruppen der Universität Göttingen und einiger angeschlossener Einrichtungen sowie Privatnutzern und Gästen der SUB offen. Die Nutzung des (außer Drucken) ist kostenlos. Bitte beachten Sie die Benutzungsordnung (https://wiki.student.uni-goettingen.de/support/studit_support/lrc_sub) !
+
+WIE KANN ICH MICH AN DEN RECHNERN ANMELDEN?
+
+Zur Benutzung benötigen Sie einen Account (https://wiki.student.uni-goettingen.de/support/account/start) . Studierende der Georg-August Universität bekommen diesen zusammen mit dem Studienausweis (https://wiki.student.uni-goettingen.de/support/ausweis) bei der Immatrikulation. Inhaber eines GWDG-Accounts können sich ebenfalls an den Rechnern anmelden. Privatnutzer der SUB können sich mit ihrem Kopier-& Druckkonto (http://www.sub.uni-goettingen.de/neu-hier/internetzugang/) anmelden (Domäne UG-Student). Mit all diesen Accounts kann man auch das WLAN (GoeMobile/eduroam) (https://wiki.student.uni-goettingen.de/support/wlan) im KWZ nutzen.
+
+WIE KANN ICH DRUCKEN?
+
+Die Drucker (https://wiki.student.uni-goettingen.de/support/drucken) des LRC sind automatisch mit den Rechnern verbunden (https://wiki.student.uni-goettingen.de/support/drucken/drucker_verbinden) . Sie müssen nur die entsprechende Druckwarteschlange (https://wiki.student.uni-goettingen.de/support/drucken/drucker) auswählen (Follow-Me oder Follow-Me Farbe für Studierende. GWDG-Account-Nutzer lesen bitte HIER (https://wiki.student.uni-goettingen.de/support/drucken/gwdg_account) nach.) Sobald sich Studierende an den Rechnern anmelden, sehen sie ihr aktuelles Druckguthaben (https://wiki.student.uni-goettingen.de/support/drucken/druckguthaben) auf dem Bildschirm. Dieses Druckguthaben kann am studIT Helpdesk im ZHG (https://wiki.student.uni-goettingen.de/support/studit_support/chipkartenstelle) oder auch an der Theke der Bereichsbibliothek Kulturwissenschaften im Erdgeschoss mit Zahlung per Studierendenausweis (https://wiki.student.uni-goettingen.de/support/ausweis) aufgeladen werden. Druckguthaben der GWDG-Accounts werden über die Institute abgerechnet.
+
+VERFÜGBARE SOFTWARE
+
+Die studIT-PC im KWZ sind Windows-PCs. Auf allen Rechnern ist standardmäßig Microsoft Office installiert.
+
+- Liste derStandardsoftware von studIT (https://wiki.student.uni-goettingen.de/support/rechnerstandorte/software).
+
+Weitere Programme (nicht auf allen Rechnern):
+
+- Adobe Creative Cloud, enthält u.a. Premiere, Photoshop, InDesign, Illustrator (bei Arbeitsplätzen mit Scanner)
+- Scan Software (ScanWizard)
+
+(https://wiki.student.uni-goettingen.de/_detail/support/rechnerstandorte/lrcs/kwz_2.jpg?id=support%3Arechnerstandorte%3Astandorte%3Akwz)
+
+"kulturwissenschaftliches zentrum" "bereichsbibliothek kulturwissenschaften" bbk

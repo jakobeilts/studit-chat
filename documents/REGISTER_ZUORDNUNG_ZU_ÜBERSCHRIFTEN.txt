@@ -1,0 +1,7 @@
+https://wiki.student.uni-goettingen.de/univz/veranstaltungen/bearbeiten/zuordnung_zu_ueberschriften
+Der Artikel beschreibt die Funktion der Zuordnung von Veranstaltungen zu Überschriften im Vorlesungsverzeichnis (UniVZ) der Universität Göttingen. Nutzer können festlegen, unter welchen Überschriften ihre Veranstaltungen angezeigt werden, um die Struktur und Auffindbarkeit im UniVZ zu verbessern. Dies betrifft insbesondere die Registrierung neuer Veranstaltungen und deren korrekte Einordnung im Vorlesungsverzeichnis.
+REGISTER ZUORDNUNG ZU ÜBERSCHRIFTEN
+
+Über diese Zuordnung bestimmen Sie, unter welcher Überschrift bzw. unter welchen Überschriften die Veranstaltung im Vorlesungsverzeichnis des UniVZ angezeigt wird.
+
+NEUE VERANSTALTUNG

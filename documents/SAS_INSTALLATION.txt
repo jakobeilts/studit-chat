@@ -1,0 +1,57 @@
+https://wiki.student.uni-goettingen.de/support/software/sas
+Die Anleitung beschreibt die Installation der Statistiksoftware SAS auf Windows- und Linux-Rechnern an der Universität Göttingen. Sie umfasst Vorbereitung, Nutzung von DVD-Images und USB-Sticks, Lizenzierung über die GWDG, Auswahl der passenden SID-Dateien sowie die Schritt-für-Schritt-Installation inklusive Spracheinstellungen und Systemprüfung. Die Lizenz ist auf ein Jahr begrenzt und erfordert bei Bedarf eine Verlängerung per Kontaktformular. Wichtige Begriffe sind SAS Installation, Lizenz, GWDG, Windows, Linux, SID-Dateien und Software Depot.
+SAS INSTALLATION
+
+Diese Anleitung dient dazu SAS auf dem eigenen Rechner zu installieren. Die entsprechende Lizenz ist auf ein Jahr begrenzt und muss dann durch eine neue Lizenz ersetzt werden. Schreib uns dazu eine Mail über das Kontaktformular (https://wiki.student.uni-goettingen.de/support/studit_support/kontakt) mit Angaben zu deinem Betriebssystem.
+
+VORBEREITUNG
+
+DVD IMAGES IM LRC SUB UND LRC MED
+
+Die Installationsdateien und die Lizenzfiles werden von der GWDG bereitgestellt. Wir stellen die Installationsdateien für Windows auf USB Stick im LRC Sub (https://wiki.student.uni-goettingen.de/support/studit_support/lrc_sub) und im LRC Med (https://wiki.student.uni-goettingen.de/support/studit_support/lrc_med) bereit. Um die DVD Images zu kopieren, brauchst du etwa 20 GB Speicherplatz.
+
+Falls du die Installationsdateien für Linux benötigst oder du nicht nach Göttingen kommen kannst, kannst du uns per Mail kontaktieren (https://wiki.student.uni-goettingen.de/support/studit_support/kontakt) . In diesem Fall brauchen wir Angaben zu deinem Betriebssystem.
+
+Auf den Seiten der GWDG (https://info.gwdg.de/dokuwiki/doku.php?id=de:services:application_services:statistics_programs:sas) findest du weitere Hinweise zu SAS und zur Campuslizenz. Die Lizenz gilt für MS Windows (32 bit und 64 bit) und Linux (64 bit).
+
+INSTALLATION
+
+Diese Anleitung beschreibt die Installation ohne das Anlegen eines Software Depots. Die Anleitung der GWDG beschreibt, wie dasSoftware Depot (https://info.gwdg.de/dokuwiki/lib/exe/fetch.php?media=en:services:application_services:statistics_programs:installationsanleitung.pdf)angelegt werden kann und wie die eigentliche Installation dann weiter abläuft. Wenn du eventuell einzelen Module nachinstallieren möchten, ist das Anlegen des Software Depots sinnvoll.
+
+Auf der ersten DVD die Datei Setup.exe starten (https://wiki.student.uni-goettingen.de/_detail/support/software/sas_1.png?id=support%3Asoftware%3Asas)
+
+Die Installationssprache auswählen (https://wiki.student.uni-goettingen.de/_detail/support/software/sas_2.png?id=support%3Asoftware%3Asas)
+
+„SAS Installieren“ wählen und auf „Weiter“ klicken (https://wiki.student.uni-goettingen.de/_detail/support/software/sas_3.png?id=support%3Asoftware%3Asas)
+
+Installationsverzeichnis auswählen und „Weiter“ klicken (https://wiki.student.uni-goettingen.de/_detail/support/software/sas_4.png?id=support%3Asoftware%3Asas)
+
+„SAS Foundation und zugehörige Software installieren“ wählen und „Weiter“ klicken (https://wiki.student.uni-goettingen.de/_detail/support/software/sas_5.png?id=support%3Asoftware%3Asas)
+
+Die Auswahl unter „Zu installierende Produkte“ „SAS Foundation und Software“ stehen lassen und „Weiter“ klicken (https://wiki.student.uni-goettingen.de/_detail/support/software/sas_6.png?id=support%3Asoftware%3Asas)
+
+In diesem Fenster die Auswahl auch stehen lassen und „Weiter“ klicken (https://wiki.student.uni-goettingen.de/_detail/support/software/sas_7.png?id=support%3Asoftware%3Asas)
+
+Hier auf durchsuchen klicken und den Pfad zu den entpackten SID Dateien wählen (https://wiki.student.uni-goettingen.de/_detail/support/software/sas_8_1.png?id=support%3Asoftware%3Asas)
+
+Hier das korrekte SID File auswählen. SAS93…Win_Wrkstn.txt = Windows 32 Bit SAS93…Win_X64_Wrkstn = Windows 64 Bit SAS93…LINUX_X86-64 = Linux 64 Bit (https://wiki.student.uni-goettingen.de/_detail/support/software/sas_9.png?id=support%3Asoftware%3Asas)
+
+Dann auf „Weiter klicken“ (https://wiki.student.uni-goettingen.de/_detail/support/software/sas_10.png?id=support%3Asoftware%3Asas)
+
+Auf „Durchsuchen“ klicken (https://wiki.student.uni-goettingen.de/_detail/support/software/sas_11_1.png?id=support%3Asoftware%3Asas)
+
+Hier das korrekte SID File auswählen. JMP…Win_Wrkstn.txt = Windows 32 Bit JMP…Win_X64_Wrkstn = Windows 64 Bit JMP…LINUX_X86-64 = Linux 64 Bit (https://wiki.student.uni-goettingen.de/_detail/support/software/sas_9_2.png?id=support%3Asoftware%3Asas)
+
+Dannach auf „Weiter“ klicken (https://wiki.student.uni-goettingen.de/_detail/support/software/sas_12.png?id=support%3Asoftware%3Asas)
+
+Dann die zu installierenden Srachpakete auswählen und „Weiter“ klicken (https://wiki.student.uni-goettingen.de/_detail/support/software/sas_13.png?id=support%3Asoftware%3Asas)
+
+Das gewünschte Gebietsschema auswählen und „Weiter“ klicken (https://wiki.student.uni-goettingen.de/_detail/support/software/sas_14.png?id=support%3Asoftware%3Asas)
+
+Empfohlene Version von Java Runtime Environment verwenden auswählen und auf „Weiter“ klicken (https://wiki.student.uni-goettingen.de/_detail/support/software/sas_15.png?id=support%3Asoftware%3Asas)
+
+Dann startet eine Systemprüfung ob alle benötigten Daten und genug Plattenplatz vorhanden ist (https://wiki.student.uni-goettingen.de/_detail/support/software/sas_16.png?id=support%3Asoftware%3Asas)
+
+Nach erfolgreicher Prüfung aus „Weiter“ klicken (https://wiki.student.uni-goettingen.de/_detail/support/software/sas_17.png?id=support%3Asoftware%3Asas)
+
+Die Installation mit „Start“ beginnen (https://wiki.student.uni-goettingen.de/_detail/support/software/sas_18.png?id=support%3Asoftware%3Asas)

@@ -1,0 +1,10 @@
+https://wiki.student.uni-goettingen.de/support/rechnerstandorte/standorte/staatslehre
+Der Artikel beschreibt den Standort Staatslehre an der Universität Göttingen mit einem studIT-PC, dem Softwareangebot auf studIT-Rechnern, der Adresse Nikolausberger Weg 17, Raum 0.106, sowie einem Link zum Lageplan und Kontaktmöglichkeiten zum studIT-Support.
+STAATSLEHRE
+
+Anzahl studIT-PCs: 1
+Softwareangebot: Software auf studIT-Rechnern (https://wiki.student.uni-goettingen.de/support/rechnerstandorte/software)
+Straße: Nikolausberger Weg 17
+Raum: 0.106
+Link zum Lageplan: (https://www.geodata.uni-goettingen.de/lageplan/?ident=5387_1_EG_0.106)
+Fehler melden: Kontakt zu studIT (https://wiki.student.uni-goettingen.de/support/studit_support/kontakt)

@@ -8,7 +8,8 @@ from langchain_openai import ChatOpenAI  # pip install langchain-openai
 
 # ---------------------------------------------------------------------------
 # Configuration
-CONTEXT_MODEL = "meta-llama-3.1-8b-instruct"
+#TODO HIER VERWENDE ICH OPENAI, WEIL GWDG LIMIT NICHT REICHT
+CONTEXT_MODEL = "gpt-4.1-nano"
 CHUNK_SIZE = 700
 CHUNK_OVERLAP = 100
 MAX_CONTEXT_TOKENS = 120  # how long the generated context can be
@@ -42,11 +43,10 @@ def _default_llm() -> ChatOpenAI:
     Setting ``max_tokens`` **here** prevents us from passing extra parameters
     at call‑time that some back‑ends reject (e.g. ``max_completion_tokens``).
     """
+    #TODO HIER VERWENDE ICH OPENAI, WEIL GWDG LIMIT NICHT REICHT
     return ChatOpenAI(
         model=CONTEXT_MODEL,
         temperature=0,
-        base_url=st.secrets["BASE_URL"],
-        api_key=st.secrets["GWDG_API_KEY"],
     )
 
 
@@ -102,6 +102,7 @@ def chunk_documents(
             if contextualize:
                 assert llm is not None  # for static type checkers
                 context = _generate_context(full_text, raw_chunk, llm)
+                print(f"Context generated for chunk {chunk_doc.metadata['source']}")
                 chunk_doc.page_content = f"{context}\n\n{raw_chunk}"
                 chunk_doc.metadata["context"] = context
             chunk_doc.metadata["raw_chunk"] = raw_chunk

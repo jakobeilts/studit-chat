@@ -1,0 +1,27 @@
+https://wiki.student.uni-goettingen.de/support/exa/studierende
+Die Anleitung zur Nutzung von HISinOne EXA für Studierende der Universität Göttingen erklärt die Anmeldung über den eCampus, die Suche im Vorlesungsverzeichnis und die Nutzung von Veranstaltungen, Personen und Räumen. Ergänzt wird das Angebot durch Videos und PDF-Dokumente, die Hochschulstruktur, Veranstaltungssuche und weitere nützliche Funktionen detailliert erläutern. Die Informationen sind in deutscher und englischer Sprache verfügbar und unterstützen Studierende bei der Organisation ihres Studiums.
+EXA FÜR STUDIERENDE
+
+zur Nutzung von HISinOne EXA ist lediglich die Anmeldung beim eCampus (https://ecampus.uni-goettingen.de) mit dem Studierenden-Account nötig.
+
+EXA für Studierende (Version vom 01.08.2023) (https://wiki.student.uni-goettingen.de/_media/support/exa/anleitung_exa_fuer_studierende_20230801.pdf)
+
+EXA for Students (version from 2023/08/01) (https://wiki.student.uni-goettingen.de/_media/support/exa/anleitung_exa_fuer_studierende_english_20230801.pdf)
+
+ZUM EINSTIEG:
+
+Hier ist ein Video hinterlegt welches die Funktionen vom ECampus (inklusive HISinOne EXA) erläutert:
+
+wie_finde_ich_im_ecampus_-_fuer_studierende.mp4 (https://wiki.student.uni-goettingen.de/_media/support/exa/studierende/wie_finde_ich_im_ecampus_-_fuer_studierende.mp4?cache=)
+
+Diese Anleitung gibt einen Überblick darüber wie das Vorlesungsverzeichnis aufgebaut ist und wie nach Veranstaltungen gesucht werden kann:
+
+PDF: Überblick über das Vorlesungsverzeichnis und die Veranstaltungssuche (https://wiki.student.uni-goettingen.de/_media/support/exa/studierende/anleitung_vorlesungsverzeichnis_veranstaltungssuche.pdf)
+
+ERKLÄRUNG, HILFE UND ANLEITUNGEN:
+
+- Hochschulstruktur und Vorlesungsverzeichnis (https://wiki.student.uni-goettingen.de/support/exa/studierende/allgemeines)
+- Veranstaltungen (https://wiki.student.uni-goettingen.de/support/exa/studierende/veranstaltungen)
+- Personen (https://wiki.student.uni-goettingen.de/support/exa/studierende/personen)
+- Räume (https://wiki.student.uni-goettingen.de/support/exa/studierende/raume)
+- Nützliches (https://wiki.student.uni-goettingen.de/support/exa/studierende/nuetzliches)

@@ -1,0 +1,10 @@
+https://wiki.student.uni-goettingen.de/support/rechnerstandorte/standorte/bb_waldweg
+Der Rechnerstandort BB Waldweg an der Universität Göttingen bietet mehr als fünf studIT-PCs mit spezifischer Softwareausstattung. Er befindet sich in der Straße Waldweg 26, Raum -1.501. Ein Lageplan ist online verfügbar, und bei Problemen kann der studIT-Support kontaktiert werden. Der Standort ist Teil des universitären IT-Supportsystems und dient Studierenden zur Nutzung von studIT-Rechnern.
+RECHNERSTANDORT BB WALDWEG
+
+Anzahl studIT-PCs: >5
+Softwareangebot: Software auf studIT-Rechnern (https://wiki.student.uni-goettingen.de/support/rechnerstandorte/software)
+Straße: Waldweg 26
+Raum: -1.501
+Link zum Lageplan: (http://lageplan.uni-goettingen.de/?ident=4484_5_1.UG_-1.501)
+Fehler melden: Kontakt zu studIT (https://wiki.student.uni-goettingen.de/support/studit_support/kontakt)

@@ -1,0 +1,19 @@
+https://wiki.student.uni-goettingen.de/support/account/winscp
+Die Anleitung beschreibt die Nutzung von WinSCP zur Sicherung und zum Kopieren von Daten aus dem Homeverzeichnis der Universität Göttingen. Aufgrund eines nicht verfügbaren Login-Servers wird alternativ die Einbindung als Netzlaufwerk empfohlen. WinSCP ermöglicht den Zugriff auf das Homeverzeichnis, das Kopieren von Dateien per Drag & Drop oder Tastenkombinationen und ist auch als portable Version verfügbar. Für Mac-Nutzer wird das FTP-Programm Cyberduck als Alternative genannt.
+KOPIEREN/SICHERN VON DATEN IM HOMEVERZEICHNIS MIT WINSCP
+
+Der hier beschriebene Login-Server steht aktuell nicht zur Verfügung, weshalb die Anleitung auf dieser Seite zur Zeit nicht funktioniert. Für eine Datensicherung kann stattdessen das Homeverzeichnis als Netzlaufwerk eingebunden werden (https://wiki.student.uni-goettingen.de/support/account/netzlaufwerk) .
+
+Es gibt mehrere Varianten, Zugriff auf deine Daten des Homeverzeichnisses zu bekommen. Die Vorgehensweise mit WinSCP funktioniert folgendermaßen:
+
+ZUGRIFF MITTELS WINSCP
+
+Das Programm WinSCP downloaden, z.B. von http://winscp.net/eng/docs/lang:de (http://winscp.net/eng/docs/lang:de) Hier gibt es verschiedenen Versionen, ein „Installation package“, was wie der Name schon sagt auf dem PC installiert werden muss. Für die Datensicherung des Homeverzeichnisses reicht aber auch die „Standalone application“ aus, die ohne vorherige Installation gestartet werden kann, indem du auf die heruntergeladene Datei doppelklickst.
+
+Achtung MAC-User! Für Apple-Rechner gibt es auch ein sehr gutes und kostenloses FTP -Programm namens Cyberduck (http://cyberduck.ch) . Die Oberfläche ist zunächst ähnlich wie WinSCP. Alle Daten dieser Anleitung kannst du analog bei Cyberduck eintragen.
+
+Nach dem Starten von WinSCP öffnet sich folgendes Fenster: (https://wiki.student.uni-goettingen.de/_detail/support/account/winscp.png?id=support%3Aaccount%3Awinscp) Trage die Daten wie im Screenshot ein: Server ist login.stud.uni-goettingen.de Bei Nutzername und Passwort trägst du deine Zugangsdaten ein. Anschließend unten in der Mitte auf Login klicken, falls sich hier ein weiteres Fenster mit einer Nachfrage öffnet, dieses bestätigen.
+
+Nach erfolgreichem Login öffnet sich dieses Fenster: (https://wiki.student.uni-goettingen.de/_detail/support/account/winscp2.png?id=support%3Aaccount%3Awinscp) Links wird der PC angezeigt, an dem du sitzt. Hier kannst du den Ordner auswählen, in den du deine Daten aus dem Homeverzeichnis deines Accounts kopieren möchtest. In dem Auswahlfeld darüber kannst du auch einen USB-Stick etc. auswählen. Rechts siehst du das Homeverzeichnis deines Accounts. Alle Dateien und Ordner, die du kopiert haben möchtest, kannst du jetzt ganz einfach durch Ziehen mit der Maus (oder unten links auf Copy klicken bzw. F5 drücken) in den vorgesehenen Ordner auf der linken Seite schieben. Wenn du alle Daten kopieren willst, die sich in deinem Verzeichnis befinden, klicke auf irgendeine Datei im rechten Fenster und drücke Strg + A, jetzt ist alles markiert und du kannst es ebenso wie einen Einzelordner kopieren. Du wirst dann gefragt, ob du es wirklich an den angegebenen Ort kopieren möchtest. Dies kannst du dann bestätigen.
+
+Der Kopiervorgang kann je nach Geschwindigkeit deiner Internetverbindung und der Größe der kopierten Daten etwas dauern! Sobald du deine Daten auf deinem PC hast, einfach schließen und fertig.

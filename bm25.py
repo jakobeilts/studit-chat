@@ -1,13 +1,12 @@
 # With langchain:
 from langchain_community.retrievers import BM25Retriever
-from pathlib import Path
-from langchain.schema import Document
+from load_and_embed_html import load_and_embed_documents
 import nltk
 from nltk.tokenize import word_tokenize
-from chunk_documents import chunk_documents
 
 nltk.download("punkt_tab")
-child_chunks, parent_docs = chunk_documents("seiten_export")
+vs, _ = load_and_embed_documents()           # builds or loads the index
+child_chunks = list(vs.docstore._dict.values())
 
 # Retrieve documents with BM25 search
 def retrieveBM25(query,k=12):

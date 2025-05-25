@@ -1,0 +1,45 @@
+https://wiki.student.uni-goettingen.de/univz/veranstaltungen/bearbeiten/lehrperson
+Das Register Lehrpersonen ermöglicht das Hinzufügen, Bearbeiten und Löschen von Lehrenden in Veranstaltungen an der Universität Göttingen. Mindestens eine verantwortliche Lehrperson muss pro Veranstaltung zugeordnet sein. Lehrpersonen können nach Fachbereich oder „Alle“ ausgewählt werden. Zuständigkeiten wie „verantwortlich“ oder „begleitend“ sind wählbar. Fehlerhafte Zuordnungen lassen sich korrigieren, das Löschen der letzten Lehrperson ist nicht erlaubt. Das System unterstützt durch Auswahllisten und Suchfunktionen.
+REGISTER LEHRPERSONEN
+
+In diesem Register können Sie Lehrende der Veranstaltung hinzufügen, bearbeiten und löschen. In der Regel sollte einer Veranstaltung mindestens eine verantwortliche Lehrperson zugeordnet werden.
+
+LEHRPERSON HINZUFÜGEN
+
+Wenn Sie durch Klicken auf den Button „Neu“ eine neue Lehrperson zuordnen wollen, erhalten Sie eine Auswahlliste für die Lehrperson und eine für die Zuständigkeit.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/veranstaltungen/bearbeiten/univz_veranstaltungen_bearbeiten5.jpg?id=univz%3Averanstaltungen%3Abearbeiten%3Alehrperson)
+
+Klicken Sie auf „Bitte auswählen“ für die Lehrperson, und Sie erhalten eine nach Nachnamen sortierte Liste der Lehrenden. Sollte die Liste sehr lang sein, können Sie folgendermaßen schneller die gewünschte Lehrperson finden:
+
+- Auswahllisten durchsuchen (https://wiki.student.uni-goettingen.de/univz/allgemeines/auswahllisten_durchsuchen)
+
+Für Zuständigkeit haben Sie die Wahl zwischen keiner Eingabe, „verantwortlich“ und „begleitend“ Dabei sollten Sie diese Regel beachten:
+
+- Mindestens ein Lehrender muss als verantwortlich gekennzeichnet werden.
+
+Danach klicken Sie auf Speichern. Neben dem Namen der neuen Lehrperson erscheint ein Haken, der das erfolgreiche Speichern signalisiert.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/veranstaltungen/bearbeiten/univz_veranstaltungen_bearbeiten6.jpg?id=univz%3Averanstaltungen%3Abearbeiten%3Alehrperson)
+
+In der Detailansicht einer Veranstaltung sieht das Ganze dann so aus:
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/veranstaltungen/bearbeiten/univz_veranstaltungen_bearbeiten7.jpg?id=univz%3Averanstaltungen%3Abearbeiten%3Alehrperson)
+
+Hinweis: Beim Hinzufügen einer neuen Lehrperson erscheinen in der Auswahlliste zunächst nur Lehrende Ihres Fachbereichs. Um Lehrende anderer Fachbereiche auswählen zu können, müssen Sie zunächst die Auswahlliste auf „Alle“ umschalten:
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/veranstaltungen/bearbeiten/univz_veranstaltungen_bearbeiten4.jpg?id=univz%3Averanstaltungen%3Abearbeiten%3Alehrperson)
+
+LEHRPERSON BEARBEITEN UND LÖSCHEN
+
+Sollten Sie irrtümlich nicht die gewünschte Lehrperson ausgewählt und gespeichert haben, können Sie die Auswahlliste erneut nutzen, um die richtige Lehrperson auszuwählen.
+
+Auswahllisten nach Eingabe erneut durchsuchen (https://wiki.student.uni-goettingen.de/univz/allgemeines/auswahllisten_nach_eingabe_erneut_durchsuchen)
+
+Es kann vorkommen, dass eine Lehrperson gelöscht werden muss.
+
+Listeneintrage löschen (https://wiki.student.uni-goettingen.de/univz/allgemeines/listeneintrage_loschen)
+
+Sollten Sie aber die letzte verbliebene Lehrperson löschen wollen, erscheint eine Fehlermeldung, da mindestens eine Lehrperson der Veranstaltung zugeordnet bleiben muss.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/veranstaltungen/bearbeiten/univz_veranstaltungen_bearbeiten12.jpg?id=univz%3Averanstaltungen%3Abearbeiten%3Alehrperson)

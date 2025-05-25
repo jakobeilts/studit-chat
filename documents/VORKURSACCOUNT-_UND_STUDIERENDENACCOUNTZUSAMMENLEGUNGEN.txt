@@ -1,0 +1,24 @@
+https://wiki.student.uni-goettingen.de/support/account/vorkurs
+Der Artikel beschreibt die Zusammenlegung von Vorkurs- und Studierendenaccount auf stud.IP der Universität Göttingen. Nutzer müssen sich zuerst mit dem Vorkursaccount anmelden und anschließend ihr reguläres Studierendenaccount verknüpfen, um alle Daten zu übertragen und eCampus nutzen zu können. Zudem wird ein Troubleshooting bei Zugriffsproblemen auf Stud.IP im eCampus erläutert, inklusive manueller Zusammenlegung per E-Mail-Anfrage an den Support.
+VORKURSACCOUNT- UND STUDIERENDENACCOUNTZUSAMMENLEGUNGEN
+
+Die Zusammenlegung von Vorkurs- und Studierendenaccount auf stud.IP muss erfolgen, bevor Du Dich mit Deiner studentischen Nutzerkennung (vorname.nachname oder x.nachname) auf dem stud.IP (auch im eCampus) eingeloggt oder hast.
+
+Um Dein Vorkursaccount mit Deinem regulären Studierendenaccount zusammenzulegen, gehe bitte wie folgt vor:
+
+1. Gehe aufhttps://www.studip.uni-goettingen.de (https://www.studip.uni-goettingen.de)
+2. Melde dich mit Deinem Vorkursaccount an. Normalerweise hat es die Form p_Vorname_Nachname. Das Passwort sollte bei der Anmeldung zum Vorkurs an Deine private E-Mail-Adresse geschickt worden sein.
+3. Nach dem Einloggen findest Du rechts unter „Schnellzugriff“ den Link „Studentische Nutzerkennung verwenden“.
+4. Nachdem Du darauf geklickt hast, gibst Du Dein reguläres Studierendenaccount ein, das Du mit Deinem Studienausweis erhalten hast.
+5. Dann abmelden
+6. Nun verwendest Du nur noch ein Account. Alle Daten des Vorkurs-Accounts wurden auf das reguläre Studierendenaccount übertragen und Du kannst nun das eCampus-Portal unterhttps://ecampus.uni-goettingen.de (https://ecampus.uni-goettingen.de)für alle Systeme nutzen.
+
+TROUBLESHOOTING
+
+Stud.IP Accounts zusammenführen und die studentische Nutzerkennung verwenden
+
+- Das Problem: Im eCampus ist der Zugriff auf Stud.IP nicht möglich
+
+Beim Klick auf den Reiter Stud.IP im eCampus erscheint die Meldung: Es existiert bereits ein Stud.IP Profil mit ihrer Matrikelnummer (p_vorname_nachname, Vorname Nachname). Wenn Sie der Besitzer des Profils: p_vorname_nachname sind, dann melden Sie sich mit diesem Profil an,…
+
+- Dieser Fehler tritt auf, wenn du dich schon vor der versuchten Zusammenlegung mit deinem regulärem Studierendenaccount bei stud.IP angemeldet hast. In diesem Fall muss die Zusammenlegung manuell durchgeführt werden. Schicke dazu bitte eine Mail an studip(at)uni-goettingen.de

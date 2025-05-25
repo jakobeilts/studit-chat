@@ -1,0 +1,71 @@
+https://wiki.student.uni-goettingen.de/support/account/netzlaufwerk
+Die Anleitung beschreibt, wie Studierende der Universität Göttingen ihr Homeverzeichnis als Netzlaufwerk unter Windows, macOS und Linux verbinden können. Voraussetzung ist eine VPN-Verbindung zum Universitätsnetz. Es werden detaillierte Schritte zur Eingabe der Serveradresse, Authentifizierung mit dem Studierendenaccount (ug-student) und Nutzung des Netzlaufwerks über SMB/SAMBA erläutert, um Zugriff auf persönliche Daten im Homeverzeichnis zu ermöglichen.
+VERBINDEN DES HOMEVERZEICHNISSES ALS NETZLAUFWERK
+
+Der Zugriff auf das Homeverzeichnis des Studierendenaccounts ist nur von einem PC möglich, der sich im Universitätsnetz befindet. Um also von „außen“ mit dem privaten PC an das Homeverzeichnis heranzukommen, muss zuerst eine VPN-Verbindung mit dem Uni-Netz hergestellt werden. Mehr Infos dazu findest du im Bereich WLAN. (https://wiki.student.uni-goettingen.de/support/wlan)
+
+NETZLAUFWERK UNTER WINDOWS
+
+1. Zuerst öffnest du ein neues Explorer-Fenster (z.B. mit Windows-Taste + E) und wählst in der Seitenleiste mit Rechtsklick auf „Netzwerk“ den Eintrag „Netzlaufwerk verbinden…“ aus.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/account/netzlaufwerk_verbinden.png?id=support%3Aaccount%3Anetzlaufwerk)
+
+Es öffnet sich ein neues Fenster. Hier wählst du einen noch nicht belegten Laufwerksbuchstaben (z.B. „Z“) und trägst im Feld „Ordner“ folgende Adresse ein:
+
+```
+\\ug-uyst-fs.student.uni-goettingen.de\home\users\nutzer.name
+```
+
+Dabei musst du nutzer.name noch durch die studentische Nutzerkennung ersetzen. Außerdem muss der Haken bei „Verbindung mit anderen Anmeldeinformationen herstellen“ gesetzt werden.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/account/netzlaufwerk_verbinden_2.png?id=support%3Aaccount%3Anetzlaufwerk)
+
+Nach einem Klick auf „Fertig stellen“ erscheint ein weiteres Fenster, in dem Benutzername und Passwort abgefragt werden. Hier ein ug-student\ voranstellen. OK klicken.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/account/netzlaufwerk_verbinden_3.png?id=support%3Aaccount%3Anetzlaufwerk)
+
+Jetzt öffnet sich ein bekanntes Windows-Explorer-Fenster, in dem das Homeverzeichnis angezeigt wird. Hiermit kann so gearbeitet werden, wie mit den eigenen Ordnern auf dem PC, d.h. Öffnen, neu Anlegen, Kopieren, Bearbeiten etc. ist nun alles auch innerhalb des Homeverzeichnisses möglich.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/account/netzlaufwerk_verbinden_4.png?id=support%3Aaccount%3Anetzlaufwerk)
+
+NETZLAUFWERK UNTER MACOS
+
+Klicke im Finder unter „Gehe zu“ auf „Mit Server verbinden: (https://wiki.student.uni-goettingen.de/_detail/support/account/finder_2.png?id=support%3Aaccount%3Anetzlaufwerk)
+
+Nun trägst du in die Eingabezeile folgendes ein:
+
+```
+smb://ug-uyst-fs.student.uni-goettingen.de/home/[erster Buchstabe Accountname]/Accountname
+```
+
+```
+smb://ug-uyst-fs.student.uni-goettingen.de/home/users/Accountname
+```
+
+```
+smb://ug-uyst-fs.student.uni-goettingen.de/home/m/m.musterfrau
+```
+
+(https://wiki.student.uni-goettingen.de/_detail/support/account/finder_1.png?id=support%3Aaccount%3Anetzlaufwerk) Nun wird nach kurzer Ladezeit nochmal ein Anmeldefenster erscheinen. Hier musst du dich mit deinem Account authentifizieren. Vor deinen Accountnamen schreibst du bitte noch ug-student\ . Darunter trägst du das Passwort ein, was du gg. auch im Schlüsselbund speichern kannst. (https://wiki.student.uni-goettingen.de/_detail/support/account/finder_3.png?id=support%3Aaccount%3Anetzlaufwerk) Nun wird das Homeverzeichnis gemounted und die Daten sind im Finder verfügbar. (https://wiki.student.uni-goettingen.de/_detail/support/account/finder_4.png?id=support%3Aaccount%3Anetzlaufwerk)
+
+NETZLAUFWERK UNTER LINUX
+
+Unter Linux kannst du über SAMBA auf die Daten in deinem Homeverzeichnis zugreifen. Die meisten Distributionen bringen bereits entsprechende Pakete mit. Wir zeigen hier anhand eines GNOME 3.36 Desktops (wie z.B. unter Ubuntu vorhanden) den Zugriff über eine grafische Oberfläche.
+
+1. Öffne zunächst deinen Dateimanger (hier GNOME Files) und trage unter „Andere Orte“ unter „Mit Server verbinden“ die folgende Adresse ein:
+
+```
+smb://ug-uyst-fs.student.uni-goettingen.de/home/users/nutzername
+```
+
+Dabei musst du nutzername noch durch deine studentische Nutzerkennung ersetzen.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/account/samba-linux-1.png?id=support%3Aaccount%3Anetzlaufwerk)
+
+2. Wähle im folgenden Fenster „Registrierter Nutzer“ aus und trage die Daten deines Studierendenaccounts ein. Die Domäne ist ug-student .
+
+(https://wiki.student.uni-goettingen.de/_detail/support/account/samba-linux-2.png?id=support%3Aaccount%3Anetzlaufwerk)
+
+3. Nach einem Klick auf „Verbinden“ wird dein Homeverzeichnis als Laufwerk gemountet.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/account/samba-linux-3.png?id=support%3Aaccount%3Anetzlaufwerk)

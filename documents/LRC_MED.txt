@@ -1,0 +1,53 @@
+https://wiki.student.uni-goettingen.de/support/rechnerstandorte/lrcs/med
+Das Learning Resources Center (LRC MED) in der Bereichsbibliothek Medizin der Universität Göttingen bietet über 100 Windows-PC-Arbeitsplätze mit Hochgeschwindigkeits-Internetzugang, umfangreicher Software wie Microsoft Office, CorelDRAW, SPSS und Statistikprogrammen sowie Druck- und Scanmöglichkeiten. Studierende können sich mit Uni-Accounts anmelden, erhalten IT-Support durch studIT und nutzen Gruppen- und Einzelarbeitsplätze. Das LRC MED unterstützt Recherche, Medienbearbeitung und Druckdienste kostenfrei, mit speziellen Angeboten für die Universitätsmedizin.
+LRC MED
+
+Das Learning Resources Center (LRC) in der Bereichsbibliothek Medizin (BBM) ist ein Raum mit PC-Arbeitsplätzen und ergänzender Technik, damit Du Medien und Dokumente recherchieren, bearbeiten und ausgeben kannst. Dafür stehen zur Verfügung:
+
+- Über 100 moderne Windows Workstations
+- Hochgeschwindigkeits-Internetzugang
+- Zugriff auf den GUK-Onlinekatalog und die Datenbankangebote der SUB
+- umfangreicheSoftwarepakete (https://wiki.student.uni-goettingen.de/support/rechnerstandorte/software)(u.a. Microsoft Office, Adobe Creative Cloud, SPSS)
+- studIT-Helpdesk mit täglich bis zu 6 StundenBeratung (http://wiki.student.uni-goettingen.de/support/studit_support/standorte#lrc_med_in_der_bereichsbibliothek_der_umg)
+- A4-Flachbettscanner
+- Multifunktionsgeräte zum Drucken und Kopiereren
+- ein Posterplotter für A0-Großformatdruck
+- Notebookarbeitsplätze (WirelessLANverfügbar)
+- Gruppenlernplätze
+- Einzellernplätze
+
+(https://wiki.student.uni-goettingen.de/_detail/support/rechnerstandorte/lrcm-small.png?id=support%3Arechnerstandorte%3Alrcs%3Amed)
+
+FAQ
+
+Hier ein paar häufig gestellte Fragen:
+
+WER KANN DAS LRC MED NUTZEN?
+
+Die computerbasierten Arbeitsplätze des LRC stehen allen Studierenden offen. Die Nutzung des LRC MED (außer Drucken) ist natürlich kostenlos.
+
+WIE KANN ICH MICH AN DEN RECHNERN ANMELDEN?
+
+Zur Benutzung benötigst Du einen Account (https://wiki.student.uni-goettingen.de/support/account/start) . Studierende der Georg-August-Universität bekommen diesen zusammen mit dem Studienausweis (https://wiki.student.uni-goettingen.de/support/ausweis) bei der Immatrikulation. Inhaber eines GWDG-Accounts können sich ebenfalls an den Rechnern anmelden. Privatnutzer der SUB können sich mit ihrem Kopier-& Druckkonto (http://www.sub.uni-goettingen.de/neu-hier/internetzugang/) anmelden (Domäne UG-Student). Mit all diesen Accounts kann man auch das WLAN (eduroam) (https://wiki.student.uni-goettingen.de/support/wlan) in der UMG nutzen.
+
+WO BEKOMME ICH HILFE?
+
+studIT ist der IT-Dienstleister für Studierende der Universität Göttingen. Die Beratung von studIT (https://wiki.student.uni-goettingen.de/support/studit_support/lrc_med) ist am Beratungstresen für Dich da.
+
+WIE KANN ICH DRUCKEN?
+
+Die Drucker (https://wiki.student.uni-goettingen.de/support/drucken) des LRC sind automatisch mit den Rechnern verbunden (https://wiki.student.uni-goettingen.de/support/drucken/drucker_verbinden) . Sie müssen nur die entsprechende Druckwarteschlange (https://wiki.student.uni-goettingen.de/support/drucken/drucker) auswählen. Sobald sich Studierende an den Rechnern anmelden, sehen sie ihr aktuelles Druckguthaben (https://wiki.student.uni-goettingen.de/support/drucken/druckguthaben) auf dem Bildschirm. Dieses Druckguthaben kann bei den Mitarbeitern der SUB aufgeladen werden. Druckguthaben der GWDG-Accounts werden über die Institute abgerechnet.
+
+VERFÜGBARE SOFTWARE
+
+Die Rechner des LRC MED sind Windows-PCs. Es ist folgende Standardsoftware (https://wiki.student.uni-goettingen.de/support/rechnerstandorte/software) installiert.
+
+STANDORTSPEZIFISCHE SOFTWARE
+
+Auf einigen PCs (siehe Standortplan) ist eine professionelle (lizenzpflichtige) Software für Grafik- und Videobearbeitung installiert. Auf den studIT-PCs des LRC MED kann die software SPSS verwendet werden.
+
+Update Stand 2021: Die Adobe Creative Suite wurde durch die CorelDRAW Graphics Suite ersetzt und ist an allen Arbeitsplätzen verfügbar. Die Statistikprogramme SAS, SPSS, Statistica und R sind an allen Arbeitsplätzen verfügbar.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/rechnerstandorte/lrcs/rechnerplan_lrc_med.png?id=support%3Arechnerstandorte%3Alrcs%3Amed)
+
+"lrc med" lrc med universitätsmedizin

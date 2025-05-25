@@ -1,0 +1,69 @@
+https://wiki.student.uni-goettingen.de/support/wlan/zertifikate_android
+Die Anleitung beschreibt die Installation von Zertifikaten auf Android-Geräten zur sicheren Nutzung von WLAN (eduroam) und Diensten der Uni Göttingen, insbesondere das Deutsche Telekom Root CA2 und das Uni Göttingen Zertifikat. Es werden verschiedene Installationsmethoden erläutert, inklusive direktem Download und Installation von der SD-Karte. Zudem wird auf die Warnmeldung Netzwerküberwachung und das Deaktivieren von Zertifikaten unter Android eingegangen. Wichtige Begriffe sind Zertifikate, Android, eduroam, GWDG, Uni Göttingen, SD-Karte und Sicherheit.
+INSTALLATION VOM ZERTIFIKATEN UNTER ANDROID
+
+Auf dieser Seite findest du Hinweise zur Installation von Zertifikaten für Android Smartphones und Tablets. Je nach Hersteller, Android-Version und verwendetem Browser kann die Bezeichnung der Menüführung im Detail etwas abweichen.
+
+Die ersten beiden Anleitungen zeigen die Installation der Zertifikate auf einem Samsung Smartphone mit Android 4.4 und dem Browser Chrome. Alternativ können Zertifikate auch auf einem PC heruntergeladen, auf die SD Karte des Smartphones kopiert und dann installiert werden - siehe dazu die dritte Anleitung (https://wiki.student.uni-goettingen.de/support/wlan/zertifikate_android#installation_von_zertifikaten_von_der_sd-karte)
+
+INSTALLATION DES DEUTSCHE TELEKOM ROOT CA2 ZERTIFIKATS - EDUROAM
+
+Um eine Verbindung mit dem W- LAN Netzwerk eduroam herzustellen, ist das CA-Zertifikat zwar keine grundsätzliche Voraussetzung, allerdings ist zu bedenken, dass durch die Zertifikatsprüfung sichergestellt ist, dass sich Dein Gerät am RADIUS-Server der GWDG anmeldet. Ohne die Prüfung des Zertifikats ist eine sogenannte „Man in the middle Attacke“ möglich, bei der sich ein Dritter Zugang zu Deinen Zugangsdatenverschaffen kann. Hier findest Du die Anleitung zur Konfiguration von eduroam unter Android (https://wiki.student.uni-goettingen.de/support/wlan/eduroam_android) .
+
+Diese Anleitung zeigt die Installation des Zertifikats auf einem Samsung Smartphone mit Android 4.4 und dem Browser Chrome. Nicht immer startet der Zertifikatinstaller beim Antippen des Links zum Zertifikat - in diesem Fall probier bitte einen anderen Browser oder installier das Zertifikat von der SD Karte nach dieser Anleitung (https://wiki.student.uni-goettingen.de/support/wlan/zertifikate_android#installation_von_zertifikaten_von_der_sd-karte) .
+
+1. Auf den Internetseiten der GWDG findest du Informationen zur Installation des Wurzel-Zertifikats der Deutschen Telekom und Links zum Zertifikat in verschiedenen Dateiformaten. Rufe die URL http://www.gwdg.de/index.php?id=1744 (http://www.gwdg.de/index.php?id=1744) im Browser auf und tippe unter der Überschrift Wurzelzertifikat auf den Link zum Zertifikat im CER-Format .
+
+(https://wiki.student.uni-goettingen.de/_detail/support/wlan/installation_android_zertifikat_dtkom_root_ca_1.png?id=support%3Awlan%3Azertifikate_android)
+
+2. Der Zertifikatsinstaller öffnet sich. Nun trägst du einen beliebigen Namen für das Zertifikat ein, z. B. Wurzelzertifikat Deutsche Telekom und wählst bei der Auswahl unter Verwendung der Anmeldedaten die Option WLAN . Bestätige mit OK .
+
+Wenn keine Displaysperre eingerichtet ist, wirst Du dazu aufgefordert, eine PIN oder ein Passwort festzulegen.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/wlan/installation_android_zertifikat_dtkom_root_ca_2.png?id=support%3Awlan%3Azertifikate_android)
+
+3. Das Zertifikat ist nun installiert.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/wlan/installation_android_zertifikat_dtkom_root_ca_3.png?id=support%3Awlan%3Azertifikate_android)
+
+INSTALLATION DES UNI GÖTTINGEN ZERTIFIKATS - EMAIL TO PRINT
+
+Um Email to Print (https://wiki.student.uni-goettingen.de/support/drucken/drucken_per_email) sicher und komfortabel unter Android nutzen zu können, empfehlen wir die Installation des Zertifikates.
+
+Diese Anleitung zeigt die Installation des Zertifikats auf einem Samsung Smartphone mit Android 4.4 und dem Browser Chrome. Nicht immer startet der Zertifikatinstaller beim Antippen des Links zum Zertifikat - in diesem Fall probier bitte einen anderen Browser oder installier das Zertifikat von der SD Karte nach dieser Anleitung (https://wiki.student.uni-goettingen.de/support/wlan/zertifikate_android#installation_von_zertifikaten_von_der_sd-karte) .
+
+1. Auf den Internetseiten der GWDG findest du Informationen zur Installation verschiedener Zertifikate in verschiedenen Dateiformaten. Rufe die URL http://www.gwdg.de/index.php?id=1744 (http://www.gwdg.de/index.php?id=1744) im Browser auf, scrolle runter zu Kettenzertifikate in verschiedenen Dateiformaten und tippe unter der Überschrift Uni Göttingen auf den Link zum Zertifikat im CER-Format .
+
+(https://wiki.student.uni-goettingen.de/_detail/support/wlan/installation_android_zertifikat_uni_goettingen_1.png?id=support%3Awlan%3Azertifikate_android)
+
+2. Der Zertifikatsinstaller öffnet sich. Nun trägst du einen beliebigen Namen für das Zertifikat ein, z. B. Uni Göttingen und wählst bei der Auswahl unter Verwendung der Anmeldedaten die Option VPN und Apps . Bestätige mit OK .
+
+(https://wiki.student.uni-goettingen.de/_detail/support/wlan/installation_android_zertifikat_uni_goettingen_2.png?id=support%3Awlan%3Azertifikate_android)
+
+3. Das Zertifikat ist nun installiert.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/wlan/installation_android_zertifikat_uni_goettingen_3.png?id=support%3Awlan%3Azertifikate_android)
+
+3. Die Warnmeldung Netzwerküberwachung taucht nach der Installation des Zertifikates und nach jedem Neustart des Gerätes in der Benachrichtigungsleiste auf. Mit einem Klick auf Vertrauenswürdige Anmeldedaten überprüfen werden Dir alle Zertifikate angezeigt, die vom System nicht überprüft werden können - dazu gehört eben auch das Zertifikat der Uni Göttingen.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/wlan/installation_android_zertifikat_uni_goettingen_4.png?id=support%3Awlan%3Azertifikate_android)
+
+(https://wiki.student.uni-goettingen.de/_detail/support/wlan/installation_android_zertifikat_uni_goettingen_5.png?id=support%3Awlan%3Azertifikate_android)
+
+INSTALLATION VON ZERTIFIKATEN VON DER SD-KARTE
+
+1. An Deinem PC lädst Du das gewünschte Zertifikat von der Homepage der GWDG (http://www.gwdg.de/index.php?id=1744) , verbindest dein Smartphone (oder Tablet) über USB mit Deinem PC und verschiebst du heruntergeladene .CER Datei auf die SD-Karte des Smartphones.
+
+- Für das Deutsche Telekom Root CA2 wählst Du unter der ÜberschriftWurzelzertifikate in verschiedenen DateiformatendasWurzelzertifikat im CER-Format.Der direkte Link zum Zertifikat:DTKOM_ROOT_CA.cer (http://www.gwdg.de/fileadmin/inhaltsbilder/PKI/DTKOM_ROOT_CA.cer)(Rechtsklick undSpeichern unter).
+
+- Für das Zertifikat der Uni Göttingen wählst du unter der ÜberschriftKettenzertifikate in verschiedenen DateiformatenunterUni Göttingendas Zertifikat imCER-Format. Der direkte Link zum Zertifikat:Uni_Goettingen_CA.cer. (http://www.gwdg.de/fileadmin/inhaltsbilder/PKI/Uni_Goettingen_CA.cer)(Rechtsklick undSpeichern unter).
+
+2. Auf dem Smartphone wählst du unter Einstellungen → Sicherheit → Von SD-Karte installieren . Dein Dateibrowser öffet sich und Du kannst das gewünschte Zertifikat durch Antippen auswählen. Der Zertifikatsinstaller öffnet sich - wie oben beschrieben - und fragt nach einem Namen für den Zertifikat.
+
+- Für das Deutsche Telekom Root CA2 trägst du einen beliebigen Namen ein, z. B.Wurzelzertifikat Deutsche Telekomund wählst bei der Auswahl unterVerwendung der Anmeldedatendie OptionWLAN. Bestätige mitOK. Das Zertifikat ist nun installiert.
+
+- Für das Zertifikat der Uni Göttingen trägst du einen beliebigen Namen ein, z. B.Uni Göttingenund wählst bei der Auswahl unterVerwendung der Anmeldedatendie OptionVPN und Apps. Bestätige mitOK. Das Zertifikat ist nun installiert. Die WarnmeldungNetzwerküberwachungtaucht nach der Installation des Zertifikates und nach jedem Neustart des Gerätes in der Benachrichtigungsleiste auf. Mit einem Klick aufVertrauenswürdige Anmeldedaten überprüfenwerden Dir alle Zertifikate angezeigt, die vom System nicht überprüft werden können - dazu gehört eben auch das Zertifikat der Uni Göttingen.
+
+ZERTIFIKATE DEAKTIVIEREN BZW. ENTFERNEN
+
+Unter Einstellungen → Sicherheit → Vertrauenswürdige Anmeldedaten kannst du alle Zertifikate ansehen und diese einzeln deaktivieren bzw. entfernen.

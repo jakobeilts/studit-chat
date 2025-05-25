@@ -1,0 +1,215 @@
+https://wiki.student.uni-goettingen.de/support/glossar
+Das Glossar der Universität Göttingen erklärt zentrale Begriffe rund um den Studierendenaccount, Chipkarte, IT-Dienste wie Drucken, WLAN (GoeMobile, eduroam), E-Mail, VPN, FlexNow, Stud.IP und Beratungsangebote. Es beschreibt Nutzungsordnung, Passwortverwaltung, Rechnerstandorte, Homeverzeichnis, SB-Funktionen, LRCs, Literaturverwaltung (Citavi) und weitere Services für Studierende, um den Zugang zu IT-Infrastruktur und Verwaltungsprozessen zu erleichtern.
+GLOSSAR
+
+A
+
+ACCOUNT
+
+Ein Account(engl.) ist ein Benutzerkonto, mit dem der Nutzer Zugriff auf ein zugangsbeschränktes IT-System erhält. Hierfür benötigt der Anwender einen Benutzernamen und ein Passwort um sich in das System einzuloggen. Mehr zum Account findest du HIER (https://wiki.student.uni-goettingen.de/support/account/start) .
+
+B
+
+BENUTZUNGSORDNUNG
+
+Mit der Nutzung des Studierendenaccounts ergeben sich bestimmte Rechte und Pflichten des Nutzers. Die Benutzungsordnung des Accounts ist hier nachlesbar (https://wiki.student.uni-goettingen.de/support/account/benutzerordnung) . Mit Ausgabe des Studierendenausweises und des Accounts wurden die Nutzungsbedingungen per UNterschrift anerkannt. Die Benutzungsordnung enthält z.B. auch die Pflicht, die studentische E-Mail-Adresse regelmäßig zu prüfen.
+
+BERATUNG
+
+Eine Beratung kann ein Gespräch, eine Beratung per Email oder eine praktische Anleitung umfassen, in dem eine Aufgabe oder ein Problem gelöst werden soll. In der StudIT Beratung helfen unsere Berater mit allen Problem rund um das Thema Studierendenaccount. Mehr dazu findest du HIER (https://wiki.student.uni-goettingen.de/support/studit_support/start) .
+
+C
+
+CHIPKARTENSTELLE
+
+In der Chipkartenstelle (CKS) stellen wir Erstausweise her. Mehr Infos zu der CKS findest du hier (https://wiki.student.uni-goettingen.de/support/studit_support/chipkartenstelle) .
+
+CHIPKARTE
+
+Die Chipkarte ist dein Studierendenausweis und du bekommst ihn in der Chipkartenstelle (https://wiki.student.uni-goettingen.de/support/studit_support/chipkartenstelle) im Zentralen Hörsaalgebäude. Mit der Chipkarte kannst du in der Mensa bezahlen und sie gilt auch als Kultursemesterticket (https://wiki.student.uni-goettingen.de/support/ausweis/kulturticket) . Genaueres zur Chipkarte findest du hier (https://wiki.student.uni-goettingen.de/support/ausweis/chipkarte) .
+
+CITAVI
+
+Citavi ist ein Literaturverwaltungsprogramm mit dem du z.B. deine Dokumente und Bücher direkt in Word-Dateien umwandeln kannst. Mehr Infos dazu gibt es hier (https://wiki.student.uni-goettingen.de/support/software/citavi) .
+
+D
+
+DRUCKEN
+
+Das Drucken ist mit deinem Studierendenaccount (https://wiki.student.uni-goettingen.de/support/account) möglich. Dazu benötigst du Guthaben auf deinem Druckkonto (https://wiki.student.uni-goettingen.de/support/drucken/druckguthaben) und deine Zugangsdaten für deinen Account. Hier (https://wiki.student.uni-goettingen.de/support/drucken) findest du weiter Infos.
+
+DRUCKERSTANDORTE
+
+Du findest unsere Drucke fast überall an der Uni. Entweder in unseren LRCs (https://wiki.student.uni-goettingen.de/support/studit_support/lrc) oder oder du guckst einfach mal hier (http://wiki.student.uni-goettingen.de/support/drucken/drucker) .
+
+E
+
+ECAMPUS
+
+Unter der URL ecampus.uni-goettingen.de findest du das gleichnamige Studierendenportal, in dem viele Funktionen wie E-Mail, Stud.IP, Flexnow, Kalender und mehr nutzbar ist. Anleitungen zum eCampus findest du HIER (https://wiki.student.uni-goettingen.de/ecampus) .
+
+E-MAIL-ADRESSE, STUDENTISCHE
+
+Zu deinem Account (http://wiki.student.uni-goettingen.de/support/account/start) bekommst du auch eine Studentische E-Mail-Adresse. Deine studentische E-Mail-Adresse lautet im Regelfall vorname.nachname@stud.uni-goettingen.de. Mehr dazu hier (http://wiki.student.uni-goettingen.de/support/email/start)
+
+EDUROAM
+
+eduroam ist ein weltweiter Internet-Zugangsdienst für Bildungs- und Forschungseinrichtungen und deren Mitarbeiter und Studenten. Du kannst dich mit deiner studentischen E-Mail-Adresse in das Netz einloggen und es nutzen. Hier (https://wiki.student.uni-goettingen.de/support/wlan/eduroam) gibt es mehr zu eduroam.
+
+F
+
+FLEXNOW
+
+Mit FlexNow (http://www.uni-goettingen.de/de/sh/45574.html) werden die Prüfungsleistungen aller Bachelor-/Masterstudiengänge sowie einiger weiterer Studiengänge verwaltet.
+
+G
+
+GOEMOBILE
+
+Goemobile ist ein WLAN, das von der GWDG angeboten wird.Die GWDG (https://wiki.student.uni-goettingen.de/support/studit_support/gwdg) stellt für die Universität Göttingen, für die Max-Planck-Institute in und um Göttingen und zum Teil auch darüber hinaus sowie für weitere göttinger Wissenschaftseinrichtungen Netzwerkinfrastrukturen und Netzwerkdienste zur Verfügung. Mehr zu goemobile hier (https://wiki.student.uni-goettingen.de/support/wlan/goemobile) .
+
+GWDG
+
+Die GWDG ist eine gemeinsame Einrichtung der Georg-August-Universität Göttingen und der Max-Planck-Gesellschaft. Sie betreiben unteranderem goemobile. Mehr zur GWDG findest du hier (https://wiki.student.uni-goettingen.de/support/studit_support/gwdg) .
+
+H
+
+HEIMVORTEIL
+
+Aktion Heimvorteil bietet dir über 130 Vorteile die du als Student nutzen kannst. Du musst dafür nur deinen Erstwohnsitz in Göttingen haben. Mehr über die Aktion erfährst du entweder hier (https://wiki.student.uni-goettingen.de/support/ausweis/heimvorteil) oder unter http://www.aktion-heimspiel.de/ (http://www.aktion-heimspiel.de/) .
+
+HOMEVERZEICHNIS
+
+Soblad du deinen Account hast, steht dir an jedem unserer Rechner ein so gennantes Homeverzeichnis zur verfügung. Das Homeverzeichnis besteht aus 5 Gigabyte Speicherplatz. Mehr zum Homeverzeichnis findest du hier (https://wiki.student.uni-goettingen.de/support/account/homeverzeichnis) .
+
+I
+
+IMMATRIKULATION
+
+So wird das Einschreiben an der Universität bezeichnet. Die Immatrikulation muss jedes Semester erneuert werden. Weiter Infos zur Immatrikulation gibt es hier (https://wiki.student.uni-goettingen.de/support/ausweis/immatrikulation) .
+
+J
+
+JUNK-FILTER
+
+Mit Hilfe des Junk-Filters kann Thunderbird (https://wiki.student.uni-goettingen.de/support/email/thunderbird) unerwünschte Nachrichten automatisch erkennen und auf diese, entsprechend Ihrer vorgenommenen Einstellungen, reagieren. Mehr zu dem Junk-Filter gibt es unter http://www.thunderbird-mail.de/wiki/Junk-Filter_verwenden,_um_Spam_zu_filtern (http://www.thunderbird-mail.de/wiki/Junk-Filter_verwenden,_um_Spam_zu_filtern) .
+
+K
+
+KURS
+
+Wir bieten auch EDV-Kurse an. Dazu zählen Word, Excel und PowerPoint. Wenn du mehr über die Kurse wissen willst, schau hier (http://wiki.student.uni-goettingen.de/support/kurse/start) .
+
+KOPIEREN
+
+Zur Zeit stellt die Uni Göttingen an mehreren Standorten (z.B. Blauer Turm) Kopierer zur Verfügung, an denen mit der entsprechenden Kopierkarte (Pappkarte, NICHT dein Studienausweis!) kopiert werden kann. Mehr zum kopieren hier (https://wiki.student.uni-goettingen.de/support/drucken/kopieren) .
+
+L
+
+LRCS
+
+Wir haben drei so genannte LRCs (Learning Resources Center) in denen wir den Studenten Rechner zur verfügen stellen. Einmal das LRC Sub (https://wiki.student.uni-goettingen.de/support/rechnerstandorte/lrcs/sub) in der SUB, das LRC Kwz (https://wiki.student.uni-goettingen.de/support/rechnerstandorte/lrcs/kwz) im Kulturwissenschaftlichen Zentrum und dann noch das LRC Med (https://wiki.student.uni-goettingen.de/support/rechnerstandorte/lrcs/med) im Klinikum.
+
+M
+
+MAC
+
+Die Rechner der Firma Apple werden häufig als Macs bezeichnet (von Apple Macintosh). Die Dienste Drucken, WLAN sind natürlich auch für Apple Notebooks verfügbar.
+
+MAC VPN
+
+Den VPN-Client gibt es auch für deinen Mac. HIER (https://wiki.student.uni-goettingen.de/support/wlan/vpn_mac_os_x) findest du eine Anleitung dazu, wie du ihn installierst und benutzt.
+
+N
+
+NEWSLETTER
+
+studIT verschickt in regelmäßigen Abständen Newsletter an Studierende der Uni Göttingen (=Accountinhaber) mit wichtigen Informationen zu Neuerungen, aktuellen IT-Projekten etc.
+
+O
+
+OUTLOOK
+
+Du kannst Outlook als Mail-Client für deine studentische E-Mail-Adresse nutzen. Weitere Infos und wie das funktioniert findest du hier (https://wiki.student.uni-goettingen.de/support/email/outlook) .
+
+P
+
+PASSWORT
+
+Wenn du deinen Account erhälst bekommst du von uns auch ein Passwort. Dieses Passwort kannst du in den SB-Funktionen (https://ecampus.uni-goettingen.de/ecampus/pages/cs/sys/portal/hisinoneStartPage.faces;jsessionid=E3454F92B0795A5FDA20212180B0535D.s25) ändern. Für weiter Information gucke hier (https://wiki.student.uni-goettingen.de/support/account/passwort) .
+
+Q
+
+QUOTA
+
+Der Begriff Quota (engl. für Anteil) bezeichnet eine Beschränkung des auf einem Mehrbenutzercomputersystem zugewiesenen Festplattenspeicherplatzes. Mehr zu Qutoa findest du unter http://de.wikipedia.org/wiki/Disk_Quota (http://de.wikipedia.org/wiki/Disk_Quota) .
+
+R
+
+RECHNERSTANDORTE
+
+Wir haben an der Uni viele PCs stehen. Diese PCs sind mit modernen Windows Betriebsystemen ausgestattet. Wo sie überall stehen siehst du hier (https://wiki.student.uni-goettingen.de/support/rechnerstandorte/standorte) .
+
+RÜCKMELDUNG
+
+Vor Beginn eines neuen Semesters musst du dich zurückmelden, sonst wirst du exmatrikuliert. Mehr Informationen zum Rückmeldungsprozess findest du entweder unter http://www.uni-goettingen.de/de/45619.html (http://www.uni-goettingen.de/de/45619.html) oder hier (https://wiki.student.uni-goettingen.de/support/ausweis/rueckmeldung) .
+
+S
+
+SB-FUNKTIONEN
+
+Bei den SB-Funktionen kannst du dich zum Beispiel Rückmelden oder deine Kontaktinformationen ändern. Das kannst du von deinem eigenen Rechner zuhause aus oder von einem unserer Rechner. Mehr Infos zu den SB-Funktionen gibt es hier (https://wiki.student.uni-goettingen.de/support/account/sb_funktionen) .
+
+SCANNEN
+
+Im LRC SUB sind an einigen Computern Scanner angeschlossen. Meist sind das A4-Scanner. Es stehen aber auch ein A3-Scanner und am Beratertresen ein Diascanner zu Verfügung. Mehr über das sccannen findest hier (https://wiki.student.uni-goettingen.de/support/scannen/start) .
+
+STUD.IP
+
+Stud.IP ist eine Plattform für die Organisation und Betreuung von Lehrveranstaltungen. Viele Vorlesungen und Seminare haben in diesem Lernmanagementsystem eine eigene Webseite. Mehr zu Stud.IP gibts hier (https://wiki.student.uni-goettingen.de/support/account/studip) .
+
+SUB-PASSWORT
+
+Das Passwort für deinen SUB-Account (also dein Benutzerkonto der Bibliothek) ist unabhängig von dem Account, den dir studIT gegeben hat. Zum Ändern des Passworts musst du dich an die SUB wenden, nicht an den studIT Helpdesk.
+
+T
+
+THUNDERBIRD
+
+E-Mails, die du auf dem Webserver http://webmail.uni-goettingen.de (http://webmail.uni-goettingen.de) abrufst, können mit einem Mail-Programm abgerufen und verwaltet werden. Dazu gibt es auch ein Tutorial (https://wiki.student.uni-goettingen.de/support/email/thunderbird) .
+
+U
+
+ÜBERFÜLLTES POSTFACH
+
+Du hast bis zu 500MB Speicherplatz für E-Mails und irgendwann sind die auch mal voll wenn du keine E-Mails löschst. Mehr Infos zu dem Problem hier (https://wiki.student.uni-goettingen.de/support/email/ueberfuelltes_postfach) .
+
+UMG
+
+Steht für Universitätsmedizin Göttingen. Dort befindet sich das LRC Med (https://wiki.student.uni-goettingen.de/support/rechnerstandorte/lrcs/med) .
+
+V
+
+VPN-CLIENT
+
+VPN steht für Virtual Private Network. Wenn du dich mit einem VPN-Client von außerhalb der Uni, also zum Beispiel von Zuhause, in ein bestimmtes abgesichertes Netz einwählst, täuscht der VPN-Client im Prinzip diesem Netz vor, dein Rechner würde dazugehören, obwohl er von außerhalb kommt. Da das GoeMobile-Netz unverschlüsselt ist, solltest Du zur Absicherung Deiner Daten VPN als Verschlüsselung benutzen. Hier (https://wiki.student.uni-goettingen.de/support/wlan/vpn_client) findest du mehr dazu.
+
+W
+
+WINSCP
+
+Mit winscp kannst du von zuhause aus auf deine Daten zugreifen, auf die du normalerweise nur von einem der Rechner an der Uni zugreifen kannst. Mehr zu wincscp und wie du es benutzt steht hier (https://wiki.student.uni-goettingen.de/support/account/winscp) .
+
+WEBMAIL
+
+Auf Webmail hast du zugriff auf deine E-Mails, die an deine studentische E-Mail-Adresse gesendet werden. Hier (https://wiki.student.uni-goettingen.de/support/email/webmail) siehst du wie du Webmail benutzt.
+
+WLAN
+
+Die GWDG stellt für die Universität Göttingen, für die Max-Planck-Institute in und um Göttingen und zum Teil auch darüber hinaus sowie für weitere Göttinger Wissenschaftseinrichtungen Netzwerkinfrastrukturen und Netzwerkdienste zur Verfügung. Hierzu gehört auch das von der GWDG betriebene Funk- LAN GoeMobile sowie eduroam. Hier (https://wiki.student.uni-goettingen.de/support/wlan) findest du alles zu unserem Wlan.
+
+X
+
+Y
+
+Z

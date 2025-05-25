@@ -1,0 +1,18 @@
+https://wiki.student.uni-goettingen.de/support/email/webmail
+Der Artikel beschreibt den Zugriff auf studentische E-Mails der Universität Göttingen über das eCampus-Portal und alternativ über Outlook Web Access (OWA) unter http://email.gwdg.de. Er erklärt die Anmeldung mit Benutzername und Passwort sowie die Nutzung des Webmailers zur Verwaltung von E-Mails, insbesondere bei Ausfällen des eCampus-Portals. Wichtige Schlagwörter sind Webmail, eCampus, Outlook Web Access, studentische E-Mail und Universität Göttingen.
+WEBMAIL - ZUGRIFF AUF DEINE MAILS VON ÜBERALL
+
+ZUGANG ZU DEINER STUDENTISCHEN E-MAIL
+
+Deine E-Mail kannst du überall und jederzeit über eCampus (https://ecampus.uni-goettingen.de) checken. Sollte das eCampus-Portal einmal ausfallen (Wartungsarbeiten oder technische Störungen) gibt es alternativ noch die Möglichkeit, direkt über Outlook Web Access auf deine Mails zuzugreifen.
+
+1. Browser öffnen 2. Zu folgender URL browsen: http://email.gwdg.de (http://email.gwdg.de)
+
+(https://wiki.student.uni-goettingen.de/_detail/support/email/owa3.png?id=support%3Aemail%3Awebmail)
+
+- ug-student\accountname (z.B. ug-student\m.musterfrau)
+- Passwort
+
+4. Emails im Webmailer bearbeiten
+
+(https://wiki.student.uni-goettingen.de/_detail/support/email/owa2.png?id=support%3Aemail%3Awebmail)

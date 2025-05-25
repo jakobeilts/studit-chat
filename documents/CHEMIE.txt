@@ -1,0 +1,10 @@
+https://wiki.student.uni-goettingen.de/support/rechnerstandorte/standorte/chemie
+Der Artikel beschreibt den Computerarbeitsplatzstandort Chemie an der Universität Göttingen mit 15 studIT-PCs, dem Softwareangebot auf diesen Rechnern, der Adresse Tammannstr. 4, Raum 4.134, sowie einem Link zum Lageplan und Kontaktmöglichkeiten zum studIT-Support für Fehlerberichte.
+CHEMIE
+
+Anzahl studIT-PCs: 15
+Softwareangebot: Software auf studIT-Rechnern (https://wiki.student.uni-goettingen.de/support/rechnerstandorte/software)
+Straße: Tammannstr. 4
+Raum: 4.134
+Link zum Lageplan: (http://lageplan.uni-goettingen.de/?ident=1472_1_4.OG_4.134)
+Fehler melden: Kontakt zu studIT (https://wiki.student.uni-goettingen.de/support/studit_support/kontakt)

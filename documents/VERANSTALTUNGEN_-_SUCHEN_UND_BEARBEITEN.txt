@@ -1,0 +1,75 @@
+https://wiki.student.uni-goettingen.de/univz/veranstaltungen/suchen
+Der Artikel beschreibt die Such- und Bearbeitungsmöglichkeiten von Veranstaltungen an der Universität Göttingen. Nutzer können über verschiedene Menüpunkte Veranstaltungen nach Semester, Einrichtung und weiteren Kriterien suchen, Suchergebnisse anzeigen lassen und bearbeiten. Es werden Funktionen wie Sortierung, Anzeigeoptionen, Detailansichten und Bearbeitungsoptionen erläutert. Wichtige Schlagwörter sind Veranstaltungssuche, Bearbeitung, Semesterwahl, Suchmaske, Suchergebnis und Detailansicht.
+VERANSTALTUNGEN - SUCHEN UND BEARBEITEN
+
+Die Ausgangssituation ist folgende:
+
+Sie suchen eine bestimmte Veranstaltung, um deren Daten zu kontrollieren oder zu bearbeiten. Für eine solche Suche stehen Ihnen unterschiedliche Möglichkeiten zur Verfügung, welche im Folgenden näher erläutert werden.
+
+SUCHOPTIONEN ÜBER DEN MENÜPUNKT „VERANSTALTUNGEN“
+
+Die Standardsuchoptionen finden Sie unter Menüpunkt „Veranstaltungen“. Im Einzelnen sind dies folgende:
+
+- Suche nach Veranstaltungen
+- Veranstaltungen bearbeiten
+- Veranstaltungen – tagesaktuell
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/veranstaltungen/univz_veranstaltungen_suchen0.jpg?id=univz%3Averanstaltungen%3Asuchen)
+
+SUCHEN ÜBER MENÜPUNKT „SUCHE NACH VERANSTALTUNGEN“
+
+Nach dem Klicken auf diesen Menüpunkt erhalten Sie die Suchmaske für Veranstaltungen. In der Maske sind das Semester und die Ihnen zugeordnete Einrichtung vorausgewählt. Beides können Sie vor Aufruf der Maske anpassen:
+
+- Bearbeitungssemester umstellen (https://wiki.student.uni-goettingen.de/univz/allgemeines/bearbeitungssemester_umstellen)
+- Link auf Einrichtung wechseln
+
+oder auch in der Maske selbst verändern:
+
+- Um das Semester anzupassen, klicken Sie einfach auf das Dropdown-Feld und wählen das von Ihnen gewünschte Suchsemester.
+- Link auf Einrichtung in Suchmasken anpassen.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/veranstaltungen/univz_veranstaltungen_suchen1.jpg?id=univz%3Averanstaltungen%3Asuchen)
+
+Sie haben nun die Möglichkeit, die verschiedenen Eingabefelder für Ihre Suchkriterien einzeln oder in Kombination zu nutzen. Beachten Sie auch die Hinweise unter dem Link „Hinweise zur Suche“ . Falls Sie eine große Zahl von Suchergebnissen erwarten und mehr als 20 Veranstaltungen auf einer Seite sehen wollen, können Sie die in den Anzeigeoptionen ändern. Dort lässt sich ebenfalls die Sortierung des Suchergebnisses vorab einstellen.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/veranstaltungen/univz_veranstaltungen_suchen2.jpg?id=univz%3Averanstaltungen%3Asuchen)
+
+Haben Sie alle Option gesetzt und Suchkriterien eingegeben, dann klicken Sie auf den Button „Suche starten“. Damit erhalten Sie Ihr Suchergebnis.
+
+Hier finden Sie einige Beispiele für Suchmöglichkeiten:
+
+- Suchbeispiele (https://wiki.student.uni-goettingen.de/univz/veranstaltungen/suchen/suchbeispiele)
+
+SUCHERGEBNIS VERWENDEN
+
+Sie erhalten Ihr Suchergebnis mit den Angaben Veranstaltungsnummer, Titel, Lehrende und Art der Veranstaltungen.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/veranstaltungen/univz_veranstaltungen_suchen6.jpg?id=univz%3Averanstaltungen%3Asuchen)
+
+Das Suchergebnis bietet Ihnen verschiedene Möglichkeiten.
+
+- Das Suchergebnis ist für Sie unbrauchbarKlicken Sie auf den„Zurück“-Button Ihres Browsers, um eine neue Suche vorzunehmen
+
+- Sie wollen eine der Veranstaltungen bearbeitenSie klicken auf den Button„Edit“neben dem Veranstaltungstitel
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/veranstaltungen/univz_veranstaltungen_suchen13.jpg?id=univz%3Averanstaltungen%3Asuchen)
+
+Hier geht es weiter mit der Bearbeitung von Veranstaltungen:
+
+- Link auf Veranstaltung bearbeiten
+
+- Sie wollen die Veranstaltungsdetailansicht ausrufenSie klicken dazu auf den Veranstaltungstitel
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/veranstaltungen/univz_veranstaltungen_suchen14.jpg?id=univz%3Averanstaltungen%3Asuchen)
+
+Hier geht es weiter mit Informationen zur Detailansicht von Veranstaltungen:
+
+- Link auf Detailansicht von Veranstaltungen
+
+- Sie wollen zunächst mehr Informationen über die Veranstaltungen erhaltenDazu können Sie die Seitenansicht auf mittel oder lang ändern. Bei einem großen Suchergebnis kann das Wechseln in die Langansicht eine kleine Verzögerung verursachen.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/veranstaltungen/univz_veranstaltungen_suchen15.jpg?id=univz%3Averanstaltungen%3Asuchen)
+
+Hier ein Beispiel für die mittellange Ansicht. Sie erhalten zusätzlich Angaben z.B. zu Terminen und Räumen.
+
+(https://wiki.student.uni-goettingen.de/_detail/univz/veranstaltungen/univz_veranstaltungen_suchen16.jpg?id=univz%3Averanstaltungen%3Asuchen)

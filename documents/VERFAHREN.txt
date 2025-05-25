@@ -1,0 +1,5 @@
+https://wiki.student.uni-goettingen.de/univz/verfahren
+Die Seite beschreibt verschiedene Verfahren an der Universität Göttingen, darunter das Erfassen und Löschen von Ausfallterminen, die Modulzuordnung, das Stellen und Bearbeiten von Raumanfragen sowie die Organisation von Veranstaltungen mit Parallelgruppen. Diese Prozesse sind Teil der universitären Verwaltung und Planung von Lehrveranstaltungen.
+VERFAHREN
+
+Ausfalltermine erfassen und löschen (https://wiki.student.uni-goettingen.de/univz/verfahren/ausfalltermine_erfassen) Modulzuordnung (https://wiki.student.uni-goettingen.de/univz/verfahren/modulzuordnung) Raumanfragen stellen und bearbeiten (https://wiki.student.uni-goettingen.de/univz/verfahren/raumanfrage_stellen_bearbeiten) Veranstaltungen mit Parallelgruppen (https://wiki.student.uni-goettingen.de/univz/verfahren/veranstaltungen_mit_parallelgruppen)

@@ -1,0 +1,21 @@
+https://wiki.student.uni-goettingen.de/support/software/office_anderung_nutzername_mac
+Die Anleitung beschreibt, wie man in Office 365 ProPlus für Mac den Nutzernamen in Word ändert. Dazu öffnet man Word, geht zu den Einstellungen, wählt das Benutzerinformationselement aus, trägt den gewünschten Namen ein und setzt den Haken. Danach wird der neue Nutzername als Klarname in Word angezeigt. Wichtige Begriffe sind Office 365 ProPlus, Mac, Word, Nutzername ändern und Einstellungen.
+OFFICE 365 PROPLUS ÄNDERUNG DES NUTZERNAMENS FÜR MAC
+
+Um in Word for Mac einen beliebigen Namen zu hinterlegen, sollte wie folgt vorgegangen werden:
+
+Zuerst sollte Word geöffnet und anschließend auf Einstellungen geklickt werden.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/software/word_mac_1.png?id=support%3Asoftware%3Aoffice_anderung_nutzername_mac)
+
+In den Einstellungen das Benutzerinformationselement suchen und auswählen.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/software/word_mac_2.png?id=support%3Asoftware%3Aoffice_anderung_nutzername_mac)
+
+Den gewünschten Namen eintragen und den im Bild angezeigten Haken setzen.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/software/word_mac_3.png?id=support%3Asoftware%3Aoffice_anderung_nutzername_mac)
+
+Anschließend wird der gewählte Nutzername als Klarname in Word angezeigt.
+
+(https://wiki.student.uni-goettingen.de/_detail/support/software/word_mac_4.png?id=support%3Asoftware%3Aoffice_anderung_nutzername_mac)
