@@ -49,7 +49,7 @@ In dieser Klasse wird `AcademicCloudEmbeddings` erstellt, welches das Aufrufen d
 ## `chunk_documents.py`:
 - es werden child_chunks und parent_chunks erstellt
 1. parent_chunks sind die vollständigen txt Dateien
-2. child_chunks sind die kleinen Chunks, die durch `RecursiveCharacterTextSplitter` erstellt werden
+2. child_chunks beinhalten kurze Chunks der parent_chunks. *WICHITG: ES WURDE ZUSÄTZLICH CONTEXTUAL RETRIEVAL<sup>3</sup> VERWENDET*
 3. child_chunks und parent_chunks haben die gleichen Metadaten, also die gleiche URL beispielsweise
 
 
@@ -60,3 +60,5 @@ In dieser Klasse wird `AcademicCloudEmbeddings` erstellt, welches das Aufrufen d
 <sup>1</sup>`ParentDocumentRetriever` gibt zuerst die kleinen Chunks zurück, die im Vectorstore sind und gibt auf dieser Grundlage die Parent Chunks zurück. Die kleinen Chunks und Parent Chunks sind über ihre "source" zueinander zuzuordnen. Dadurch kann die Suche dank kleiner Chunks genauer durchgeführt werden und in der Fragenbeantwortung hat das Chat LLM einen größeren Kontext dank der Parent Chunks
 
 <sup>2</sup>Ob Vektorsuche tatsächlich besser ist als BM25 muss erst noch überprüft werden, das ist aktuell nur eine Annahme
+
+<sup>3</sup>Durch Contextual Retrieval wird jedem einzelnen child_chunk eine LLM-generierte Beschreibung hinzugefügt, die erklärt, wo im Dokument wir uns befinden. https://www.anthropic.com/news/contextual-retrieval
