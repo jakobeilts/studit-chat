@@ -42,7 +42,7 @@ You will receive a plain‑text wiki article (without markup).
 4. If you don't understand the context or the context is too small, return an empty string.
 
 Return **JSON** exactly in the form:
-{{"Beschreibung":"…"}}
+{{"description":"…"}}
 
 ---
 ARTICLE:
