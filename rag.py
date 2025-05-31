@@ -8,7 +8,7 @@ from bm25 import retrieveBM25
 
 # ----------------- Grunddaten --------------------
 llm = ChatOpenAI(
-    model="meta-llama-3.1-8b-instruct",
+    model="meta-llama-3.1-8b-rag",
     temperature=0,
     base_url=st.secrets["BASE_URL"],
     api_key=st.secrets["GWDG_API_KEY"],
@@ -71,7 +71,7 @@ if prompt:
     # =========================================================
     # 2) Union  +  Deduplikation  +  Limit
     # =========================================================
-    n_final = 6
+    n_final = 12
     docs_union, seen = [], set()
 
     # Reihenfolge bestimmt Priorität: erst Vektor-Treffer, dann BM25-Treffer

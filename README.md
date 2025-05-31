@@ -53,7 +53,7 @@ In dieser Klasse wird `AcademicCloudEmbeddings` erstellt, welches das Aufrufen d
 3. child_chunks und parent_chunks haben die gleichen Metadaten, also die gleiche URL beispielsweise
 
 
-#### Modellauswahl GWDG: https://chat-ai.academiccloud.de/chat/feecae75-27a6-48c5-80ec-3eced75d593c
+#### Modellauswahl GWDG: https://docs.hpc.gwdg.de/services/saia/index.html
 
 ---
 
